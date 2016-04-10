@@ -79,7 +79,7 @@
 
 ## Contributing
 
-Please contribute to this list by sending a [pull request](https://github.com/briatte/awesome-networkanalysis/pulls). 
+Please contribute to this list by sending a [pull request](https://github.com/briatte/awesome-network-analysis/pulls). 
 
 ## License
 
