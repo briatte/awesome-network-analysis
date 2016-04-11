@@ -93,7 +93,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 -   [ECPR Political Networks SG](https://politicalnetsecpr.wordpress.com/) - Standing Group of the European Consortium for Political Research ([Twitter account](https://twitter.com/politicalnets)).
 -   [GDR Analyse de réseaux en sciences humaines et sociales](http://arshs.hypotheses.org/), in French.
 -   [Groupe FMR - Flux, Matrices, Réseaux](http://groupefmr.hypotheses.org/), in French.
--   [INSNA: International Network for Social Network Analysis](http://www.insna.org/) ([mailing-list](http://www.insna.org/pubs/socnet.html)).
+-   [INSNA: International Network for Social Network Analysis](http://www.insna.org/) ([SOCNET mailing-list](http://www.insna.org/pubs/socnet.html)).
 -   [NetSci: Network Science Society](http://www.netscisociety.net/).
 -   [APSA Political Networks](http://www.polinetworks.org/) - Organized Section of the American Political Science Association.
 
