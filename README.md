@@ -5,31 +5,18 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 ## Table of Contents
 
 * **[Books](#books)**  
-
   * **[Overviews](#overviews)**
-
   * **[Specifics](#specifics)**
-
 * **[Courses](#courses)**  
-
 * **[Datasets](#datasets)**  
-
 * **[Journals](#journals)**  
-
 * **[Professional groups](#professional-groups)**  
-
 * **[Software](#software)**  
-
 	* **[JavaScript Libraries](#javascript-libraries)**
-
 	* **[Python Libraries](#python-libraries)**
-
 	* **[R Packages](#r-packages)**
-
 * **[Tutorials](#tutorials)**  
-
 * **[Varia](#varia)**
-
 * **[Contributing](#contributing)**  
 
 ## Books
