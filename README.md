@@ -154,6 +154,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 -   [ggraph](https://github.com/thomasp85/ggraph) - A grammar of graph graphics built in the spirit of ggplot2.
 -   [hergm](https://cran.r-project.org/web/packages/hergm/) - Estimate and simulate hierarchical exponential-family random graph models (HERGM) with local dependence.
 -   [igraph](http://igraph.org/r/) - A collection of network analysis tools.
+-   [influenceR](https://cran.r-project.org/web/packages/influenceR/index.html) - Software Tools to Quantify Structural Importance of Nodes in a Network
 -   [latentnet](https://cran.r-project.org/web/packages/latentnet/) - Latent position and cluster models for network objects.
 -   [networkD3](http://christophergandrud.github.io/networkD3/) - D3 JavaScript network graphs from R.
 -   [ndtv](https://cran.r-project.org/web/packages/ndtv/) - Tools to construct animated visualizations of dynamic network data in various formats.
