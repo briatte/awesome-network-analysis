@@ -17,7 +17,9 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 - __[Professional groups](#professional-groups)__
 - __[Review Articles](#review-articles)__
 - __[Software](#software)__
+	- __[C/C++](#c)
   - __[JavaScript](#javascript)__
+  - __[MATLAB](#matlab)__
   - __[Python](#python)__
   - __[R](#r)__
 - __[Tutorials](#tutorials)__
@@ -40,6 +42,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 ### Graph Theory
 
 1.   _[Graph Theory](http://www.cs.unibo.it/babaoglu/courses/cas00-01/tutorials/GraphTheory.pdf)_, by Reinhard Diestel - Full electronic version online (2000).
+-    [Graph Theory and Applications](http://www.hamilton.ie/ollie/Downloads/Graph.pdf), by Paul Van Dooren - Full lecture slides (Hamilton Institute, Dublin, 2009).
 
 ### Method-specific
 
@@ -70,12 +73,16 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 ## Courses
 
 1.  [Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/), by Peter Sheridan Dodds (University of Vermont, 2016).
--   [Graph Theory: Penn State Math 485 Lecture Notes](http://www.personal.psu.edu/cxg286/Math485.pdf), by Christopher Griffin - Full lecture notes online (2012).
+-   [Graph Theory: Penn State Math 485 Lecture Notes](http://www.personal.psu.edu/cxg286/Math485.pdf), by Christopher Griffin - Full lecture notes online (Penn State University, 2012).
+-   [Networks, Complexity and Its Applications](http://ocw.mit.edu/courses/media-arts-and-sciences/mas-961-networks-complexity-and-its-applications-spring-2011/), by Cesar Hidalgo (MIT, 2011).
 -   [Networks (Economics)](http://ocw.mit.edu/courses/economics/14-15j-networks-fall-2009/), by Daron Acemoglu and Asu Ozdaglar (MIT, 2009).
+-   [Political Networks: Methods and Applications](http://vanity.dss.ucdavis.edu/~maoz/networks/Spring%202011/pol279-11.htm), by Zeev Maoz (University of California in Davis, 2012).
 -   [Social and Economic Networks: Models and Analysis](https://www.coursera.org/course/networksonline), by Matthew O. Jackson (Stanford University via Coursera, 2015).
 -   [Social Network Analysis](https://www.coursera.org/course/sna), by Lada Adamic (University of Michigan via Coursera, not yet run).
 
 ## Datasets
+
+> See also [Mangal](http://mangal.io/), an online platform and collection of tools to analyze, archive and share ecological network data ([preprint](http://biorxiv.org/content/early/2015/02/24/002634), [Python package](https://github.com/mangal-wg/pymangal), [R package](https://github.com/mangal-wg/rmangal)).
 
 1.  [Bill Cosponsorship Networks in European Parliaments](https://github.com/briatte/parlnet).
 -   [Gephi Datasets](https://github.com/gephi/gephi/wiki/Datasets).
@@ -118,28 +125,42 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 
 ## Review Articles
 
-1.  "[Network Analysis and Political Science](http://www.annualreviews.org/doi/abs/10.1146/annurev.polisci.12.040907.115949)" (_Annual Review of Political Science_, 2011).
+1.  "[Graph Theory and Networks in Biology](http://dx.doi.org/10.1049/iet-syb:20060038)" ([preprint](http://arxiv.org/abs/q-bio/0604006); _IET Systems Biology_, 2007).
+-   "[Network Analysis and Political Science](http://www.annualreviews.org/doi/abs/10.1146/annurev.polisci.12.040907.115949)" (_Annual Review of Political Science_, 2011).
 -   "[Statistical Models for Social Networks](http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.012809.102709)" (_Annual Review of Sociology_, 2011).
 
 ## Software
 
-1.  [Cytoscape](http://www.cytoscape.org/) - Cross-platform Java program to build, analyze and visualize networks.
+> Several links in this section come from the [NetWiki Shared Code](http://netwiki.amath.unc.edu/SharedCode/SharedCode) page.  
+> See also the [Social Network Analysis Project Survey](https://docs.google.com/spreadsheets/d/1Xo-ehJatzmxMek6gPG0h-d7yRSuiO6_flViTQNMAku0/edit#gid=0), an earlier attempt to chart social network analysis tools, which links to many commercial platforms not included in this list, such as [Detective.io](http://www.detective.io/) ([related blog post](http://pudo.org/blog/2013/12/21/sna-survey.html)).
+
+1.  [CONGA and CONGO](http://www.cs.bris.ac.uk/~steve/networks/index.html) - Algorithms to detect overlapping communities in networks, written in Java.
+-   [Cytoscape](http://www.cytoscape.org/) - Cross-platform Java program to build, analyze and visualize networks.
 -   [Discourse Network Analyzer (DNA)](http://www.philipleifeld.com/discourse-network-analyzer/discourse-network-analyzer-dna.html) - Qualitative content analysis tool with network export facilities, written in Java with R integration.
--   [igraph](http://igraph.org/) - C library of network analysis tools; also exists as packages for Python and R.
 -   [Gephi](https://gephi.github.io/) - Cross-platform, free and open source tool for network visualization.
 -   [Graphviz](http://www.graphviz.org/) - Cross-platform software to draw graphs in the [DOT](http://www.graphviz.org/doc/info/lang.html) language.
 -   [MuxViz](http://muxviz.net/) - Cross-platform, free and open source multilayer network analysis And visualization platform, based on R and GNU Octave.
 -   [Neo4j](http://neo4j.com/) - Open source, scalable graph database, used by companies like [Linkurious](http://linkurio.us/).
--   [networks.tb](http://networks-tb.sourceforge.net/) - C program designed for analyzing socio-semantic networks; runs on Linux and Mac OS X.
 -   [NodeXL](http://nodexl.codeplex.com/) - Free, open-source template to explore network graphs with Microsoft Excel.
 -   [ORA-LITE](http://www.casos.cs.cmu.edu/projects/ora/) - Windows program for dynamic meta-network assessment and analysis.
 -   [Pajek](http://vlado.fmf.uni-lj.si/pub/networks/pajek/) - Windows program for large network analysis, free for noncommercial use.
 -   [PNet](http://www.swinburne.edu.au/fbl/research/transformative-innovation/our-research/MelNet-social-network-group/PNet-software/index.html) - Simulation and estimation of exponential random graph models (ERGMs), written in Java for Windows.
--   [Siena](http://www.stats.ox.ac.uk/~snijders/siena/) - Simulation Investigation for Empirical Network Analysis, formerly a Windows program, now an R package.
--   [Stanford Network Analysis Project](http://snap.stanford.edu/) - C++ general purpose network analysis and graph mining library;  available as a Python library and through NodeXL.
+-   [Siena](http://www.stats.ox.ac.uk/~snijders/siena/) - Simulation Investigation for Empirical Network Analysis. Formerly a Windows program, now developed as the RSiena R package.
+-   [SoNIA](http://web.stanford.edu/group/sonia/) (Social Network Image Animator) - Tool to visualize dynamic or longitudinal network data. Formerly a [Java program](https://sourceforge.net/projects/sonia/), now developed as the ndtv R package.
 -   [UCINET](https://sites.google.com/site/ucinetsoftware/) - Windows commercial software package for the analysis of social network data.
+-   [vbmod: Variational Bayesian Inference for Network Modularity](http://vbmod.sourceforge.net/) - MATLAB and Python implementations of the [Bayesian community detection algorithm](http://arxiv.org/abs/0709.3512).
 -   [Visone](http://visone.info/) - Cross-platform Java network analysis and visualization program, free for noncommercial use.
 -   [VOSviewer](http://www.vosviewer.com/) - Cross-platform Java tool for constructing and visualizing bibliometric networks.
+-   [weighted-modularity-LPAwbPLUS](https://github.com/sjbeckett/weighted-modularity-LPAwbPLUS) - Julia, MATLAB and R implementations of two algorithms to find weighted modularity in bipartite networks.
+
+### C / C++
+
+1.  [Boost Graph Library (BGL)](http://www.boost.org/doc/libs/1_60_0/libs/graph/doc/) - C++ library that provides a generic interface to access graph structures.
+-   [igraph](http://igraph.org/) - C library of network analysis tools; also exists as packages for Python and R.
+-   [Louvain Method](https://sites.google.com/site/findcommunities/) - C++ code for the [Louvain multi-level community detection algorithm](http://arxiv.org/abs/0803.0476).
+-   [networks.tb](http://networks-tb.sourceforge.net/) - C program designed for analyzing socio-semantic networks. Runs on Linux and Mac OS X.
+-   [Stanford Network Analysis Project](http://snap.stanford.edu/) - C++ general purpose network analysis and graph mining library;  available as a Python library and through NodeXL.
+-   [Walktrap](https://www-complexnetworks.lip6.fr/~latapy/PP/walktrap.html) - C++ program that implements the [WalkTrap community detection algorithm](Computing communities in large networks using random walks (long version).
 
 ### JavaScript
 
@@ -149,6 +170,12 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 -   [jLouvain](https://github.com/upphiminn/jLouvain) - Louvain community detection for Javascript ([example](http://bl.ocks.org/emeeks/125db75c9b55ddcbdeb5)).
 -   [Sigma](http://sigmajs.org/) - JavaScript library dedicated to graph drawing.
 -   [vis.js](http://visjs.org/) - JavaScript library with network visualization capabilities.
+
+### MATLAB
+
+1. [CONTEST](http://www.maths.strath.ac.uk/research/groups/numerical_analysis/contest) - Random network toolbox that implements nine network models.
+-  [Generalized Louvain](http://netwiki.amath.unc.edu/GenLouvain/GenLouvain) - A variant of the Louvain community detection algorithm.
+-  [MatlabBGL](http://dgleich.github.io/matlab-bgl/) - A graph library for Matlab, based on the Boost graph library.
 
 ### Python
 
@@ -169,6 +196,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 1.  [Bergm](https://cran.r-project.org/web/packages/Bergm/) - Tools to analyse Bayesian exponential random graph models (BERGM).
 -   [CCAS](https://github.com/matthewjdenny/CCAS) - A statistical model for communication networks.
 -   [concoR](https://github.com/aslez/concoR) - A translation of the CONCOR network blockmodeling algorithm ([blog post](http://badhessian.org/2015/05/concor-in-r/)).
+-   [ContentStructure](https://github.com/matthewjdenny/ContentStructure) -  implements an extension to the [Topic-Partitioned Multinetwork Embeddings (TPME) model](http://dirichlet.net/pdf/krafft12topic-partitioned.pdf).
 -   [ergm](https://cran.r-project.org/web/packages/ergm/) - Estimation of Exponential Random Graph Models (ERGM).
 -   [GERGM](https://cran.r-project.org/web/packages/GERGM/) - Estimation and diagnosis of the convergence of Generalized Exponential Random Graph Models (GERGM).
 -   [geomnet](https://cran.r-project.org/web/packages/geomnet/) - A single-geometry approach to network visualization with ggplot2.
@@ -184,10 +212,11 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 -   [networkDynamic](https://cran.r-project.org/web/packages/networkDynamic/) - Support for dynamic, (inter)temporal networks.
 -   [rgexf](https://bitbucket.org/gvegayon/rgexf/wiki/Home) - Export network objects from R to [GEXF](http://gexf.net/format/), for manipulation with network software like Gephi or Sigma.
 -   [Rgraphviz](https://bioconductor.org/packages/release/bioc/html/Rgraphviz.html) - Support for using the Graphviz library and its [DOT](http://www.graphviz.org/doc/info/lang.html) language from within R.
--   [RSiena](https://cran.r-project.org/web/packages/RSiena/) - Simulation Investigation for Empirical Network Analysis; fits models to longitudinal network data.
+-   [RSiena](http://r-forge.r-project.org/R/?group_id=461) - Simulation Investigation for Empirical Network Analysis; fits models to longitudinal network data.
 -   [sna](https://cran.r-project.org/web/packages/sna/) - Basic network measures and visualization tools.
+-   [spectralGOF](http://people.bu.edu/jccs/spectralGOF.html) - Compute the "spectral goodness of fit" (SGOF), a measure of how well a network model explains the structure of an observed network.
 -   [spnet](http://cran.r-project.org/web/packages/spnet/) - Methods for dealing with spatial social networks.
--   [statnet](http://statnet.org/) - The project behind many R network analysis packages.
+-   [statnet](http://statnet.org/) - The project behind many R network analysis packages ([mailing-list](https://mailman.u.washington.edu/mailman/listinfo/statnet_help)).
 -   [tergm](https://cran.r-project.org/web/packages/tergm/) - Fit, simulate and diagnose models for temporal exponential-family random graph models (TERGM).
 -   [tnet](https://cran.r-project.org/web/packages/tnet/) - Network measures for weighted, two-mode and longitudinal networks.
 -   [tsna](https://cran.r-project.org/web/packages/tsna/) - Tools for temporal social network analysis.
@@ -211,12 +240,27 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 
 ## Varia
 
-1. [Blog Posts About Networks by Baptiste Coulmont](http://coulmont.com/index.php?s=r%C3%A9seaux), in French.
+1. [A Sociology Citation Network](http://nealcaren.web.unc.edu/a-sociology-citation-network/) and [A Co-citation Network for Philosophy](https://kieranhealy.org/blog/archives/2013/06/18/a-co-citation-network-for-philosophy/) - Examples of scientific co-citation networks.
+-  [Basic Notions for the Analysis of Large Two-mode Networks](https://www-complexnetworks.lip6.fr/~latapy/Publis/socnet07.pdf) - Efficient introduction to bipartites network analysis ([related code](https://www-complexnetworks.lip6.fr/~latapy/Bip/)).
+-  [Blog Posts About Networks on the Bad Hessian Blog](http://badhessian.org/category/networks/), by various contributors.
+-  [Blog Posts About Networks by Baptiste Coulmont](http://coulmont.com/index.php?s=r%C3%A9seaux), in French.
 -  [Blog Posts About Networks by Pierre Mercklé](http://pierremerckle.fr/category/reseaux/), in French.
 -  [Center for Network Science](http://cns.ceu.edu/) - A research center with a PhD in Network Science program at the Central European University in Budapest.
+-  [David Knoke on Network Analysis](https://thesocietypages.org/methods/2015/01/30/david-knoke-on-network-analysis/) - A 20-minute interview that discusses the uses and benefits of network analysis, drawing upon Knoke's research on terrorist networks.
+-  [How Small is the World, Really?](https://medium.com/@duncanjwatts/how-small-is-the-world-really-736fa21808ba#.kyr90lhyo) - A discussion of the "x degrees of separation" experiments (both [Milgram's original one](https://en.wikipedia.org/wiki/Small-world_experiment) and the [recent one](https://research.facebook.com/blog/three-and-a-half-degrees-of-separation/) by Facebook).
+-  [How to Draw Graphs in LaTeX?](https://tex.stackexchange.com/questions/57152/how-to-draw-graphs-in-latex) - A simple illustration of how to use [PGF/TikZ](https://en.wikipedia.org/wiki/PGF/TikZ) to draw graphs in the [LaTeX](https://latex-project.org/) typesetting environment.
 -  [Interdependence in Governance and Policy](https://sites.psu.edu/desmaraisgroup/) - Network-oriented research group led by Bruce Desmarais at Penn State University.
+-  [Large Graphs and Networks](http://sites.uclouvain.be/networks/) - Research group at the Catholic University of Louvain.
+-  [Lessons on Exponential Random Graph Modeling from _Grey’s Anatomy_ hook-ups](http://badhessian.org/2012/09/lessons-on-exponential-random-graph-modeling-from-greys-anatomy-hook-ups/) - A step-by-step explanation of how exponential-family random graph models work.
+-  [NetWiki](http://netwiki.amath.unc.edu/Main/HomePage) - Wiki of various network analysis resources.
+-  [Networks Demystified](http://scottbot.net/tag/networks-demystified/), a series of blog posts by Scott B. Weingart.
 -  [Network Fact](https://twitter.com/networkfact) - 	Twitter account about networks, graph theory, and related topics.
+-  [Patterns in the Ivy: The Small World of Metal](http://badhessian.org/2013/09/patterns-in-the-ivy-the-small-world-of-metal/) - An example of a two-mode network analysis based on metal artists and bands.
+-  [The Performativity of Networks](http://kieranhealy.org/files/papers/performativity.pdf) - A paper that connects network theory to the sociology of science.
+-  [Peter J. Mucha's Research Group at the University of North Carolina at Chapel Hill](http://mucha.web.unc.edu/networks/) - As it says on the box.
+-  [Social Network Analysis Group @ Stanford](http://sna.stanford.edu/) - As it says on the box.
 -  [Social Network Analysis Software](https://en.wikipedia.org/wiki/Social_network_analysis_software) - Wikipedia English entry with links to many commercial and often outdated software.
+-  [Star Wars Social Networks: The Force Awakens](http://evelinag.com/blog/2016/01-25-social-network-force-awakens/index.html) - An example of a social network analysis written in F#.
 -  [Videos from the Political Networks 2009 Conference](https://vimeo.com/user2690333).
 
 * * *
