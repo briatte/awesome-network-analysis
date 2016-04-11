@@ -116,6 +116,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 -   [Discourse Network Analyzer (DNA)](http://www.philipleifeld.com/discourse-network-analyzer/discourse-network-analyzer-dna.html) - Qualitative content analysis tool with network export facilities, written in Java with R integration.
 -   [Gephi](https://gephi.github.io/) - Cross-platform, free and open source tool for network visualization.
 -   [GraphViz](http://www.graphviz.org/) - Software to draw graphs in the [DOT](http://www.graphviz.org/doc/info/lang.html) language.
+-   [MuxViz](http://muxviz.net/) - Multilayer Analysis And Visualization Platform; cross-platform, free and open source, based on R and GNU Octave.
 -   [Neo4j](http://neo4j.com/) - Open source, scalable graph database, used by companies like [Linkurious](http://linkurio.us/).
 -   [networks.tb](http://networks-tb.sourceforge.net/) - A suite designed for analyzing socio-semantic networks, written in C.
 -   [NodeXL](http://nodexl.codeplex.com/) - Free, open-source template for Microsoft Excel to explore network graphs.
