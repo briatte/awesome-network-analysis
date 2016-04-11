@@ -34,7 +34,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 
 ### Method-specific
 
-1.  _[Multilevel Network Analysis for the Social Sciences](https://www.springer.com/fr/book/9783319245188)_, by Emmanuel Lazega and Tom A.B. Snijders (2016).
+1. _[Exponential Random Graph Models for Social Networks](http://www.cambridge.org/9780521193566)_, by Dean Lusher, Johan Koskinen and Garry Robins (2013).
+-  _[Multilevel Network Analysis for the Social Sciences](https://www.springer.com/fr/book/9783319245188)_, by Emmanuel Lazega and Tom A.B. Snijders (2016).
 -   _[Political Networks. The Structural Perspective](http://www.cambridge.org/ar/academic/subjects/sociology/political-sociology/political-networks-structural-perspective)_, by David Knoke (1994).
 
 ### Software-specific
@@ -55,7 +56,11 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 
 ## Datasets
 
-1.  [KONECT - The Koblenz Network Collection](http://konect.uni-koblenz.de/).
+1.  [Gephi Datasets](https://github.com/gephi/gephi/wiki/Datasets).
+-   [KONECT - The Koblenz Network Collection](http://konect.uni-koblenz.de/).
+-   [Mark E.J. Newman's Network Data](http://www-personal.umich.edu/~mejn/netdata/).
+-   [Pajek Datasets](http://vlado.fmf.uni-lj.si/pub/networks/data/)
+-   [Siena Datasets](http://www.stats.ox.ac.uk/~snijders/siena/siena_datasets.htm).
 -   [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html).
 -   [tnet Datasets](https://toreopsahl.com/datasets/).
 -   [UCI Network Data Repository](http://networkdata.ics.uci.edu/).
@@ -63,9 +68,11 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 ## Journals
 
 1.  _[Applied Network Science](http://appliednetsci.springeropen.com/)_ (Springer Open).
+-   _[Computational and Mathematical Organization Theory](http://link.springer.com/journal/10588)_ (Springer).
 -   _[Computational Social Networks](http://computationalsocialnetworks.springeropen.com/)_ (Springer Open).
 -   _[Connections](http://www.insna.org/connections.html)_ (INSNA).
 -   _[Journal of Complex Networks](http://comnet.oxfordjournals.org/)_ (Oxford).
+-   _[The Journal of Mathematical Sociology](http://www.tandfonline.com/loi/gmas20)_ (Taylor & Francis).
 -   _[Journal of Social Structure](http://www.cmu.edu/joss)_ (INSNA).
 -   _[Network Science](http://journals.cambridge.org/action/displayJournal?jid=nws)_ (Cambridge).
 -   _[REDES](http://revista-redes.rediris.es/)_, in Spanish (INSNA).
@@ -96,11 +103,13 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 -   [Neo4j](http://neo4j.com/) - Open source, scalable graph database, used by companies like [Linkurious](http://linkurio.us/).
 -   [networks.tb](http://networks-tb.sourceforge.net/) - A suite designed for analyzing socio-semantic networks, written in C.
 -   [NodeXL](http://nodexl.codeplex.com/) - Free, open-source template for Microsoft Excel to explore network graphs.
+-   [ORA-LITE](http://www.casos.cs.cmu.edu/projects/ora/) - Windows program for dynamic meta-network assessment and analysis.
 -   [Pajek](http://vlado.fmf.uni-lj.si/pub/networks/pajek/) - Windows program for large network analysis, free for noncommercial use.
 -   [PNet](http://www.swinburne.edu.au/fbl/research/transformative-innovation/our-research/MelNet-social-network-group/PNet-software/index.html) - Simulation and estimation of exponential random graph models (ERGMs), written in Java for Windows.
 -   [Siena](http://www.stats.ox.ac.uk/~snijders/siena/) - Simulation Investigation for Empirical Network Analysis, formerly a Windows program, now an R package.
 -   [Stanford Network Analysis Project](http://snap.stanford.edu/) - C++ general purpose network analysis and graph mining library;  available as a Python library and through NodeXL.
 -   [UCINET](https://sites.google.com/site/ucinetsoftware/) - Windows commercial software package for the analysis of social network data.
+-   [Visone](http://visone.info/) - Cross-platform Java network analysis and visualization program, free for noncommercial use.
 -   [VOSviewer](http://www.vosviewer.com/) - Cross-platform software tool for constructing and visualizing bibliometric networks, written in Java.
 
 ### JavaScript
@@ -202,4 +211,4 @@ Please also add your name to the copyright waiver below.
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, the authors of this list ([François Briatte](http://f.briatte.org/)) have waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, the authors of this list ([François Briatte](http://f.briatte.org/), [Ian McCulloh](https://www.linkedin.com/in/mcculloh)) have waived all copyright and related or neighboring rights to this work.
