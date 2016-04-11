@@ -32,11 +32,13 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 -   _[Réseaux sociaux et structures relationnelles](https://www.puf.com/content/R%C3%A9seaux_sociaux_et_structures_relationnelles)_, by Emmanuel Lazega, in French (2014).
 -   _[Sociologie des réseaux sociaux](http://pierremerckle.fr/2011/02/sociologie-des-reseaux-sociaux/)_, by Pierre Mercklé, in French (2011).
 -   _[Social Network Analysis. Methods and Applications](http://www.cambridge.org/ar/academic/subjects/sociology/sociology-general-interest/social-network-analysis-methods-and-applications)_, by Stanley Wasserman and Katherine Faust (1994).
+-   _[Studying Social Networks. A Guide to Empirical Research](http://press.uchicago.edu/ucp/books/book/distributed/S/bo15475096.html)_, by Marina Hennig _et al._ (2013).
 
 ### Method-specific
 
-1. _[Exponential Random Graph Models for Social Networks](http://www.cambridge.org/9780521193566)_, by Dean Lusher, Johan Koskinen and Garry Robins (2013).
--  _[Multilevel Network Analysis for the Social Sciences](https://www.springer.com/fr/book/9783319245188)_, by Emmanuel Lazega and Tom A.B. Snijders (2016).
+1. _[Exponential Random Graph Models for Social Networks](http://www.cambridge.org/9780521193566)_, edited by Dean Lusher, Johan Koskinen and Garry Robins (2013).
+-  _[Multilevel Network Analysis for the Social Sciences](https://www.springer.com/fr/book/9783319245188)_, edited by Emmanuel Lazega and Tom A.B. Snijders (2016).
+-  _[Network Analysis: Methodological Foundations](https://www.springer.com/fr/book/9783540249795)_, edited by Ulrik Brandes and Thomas Erlebach - covers network centrality, clustering, blockmodels, spatial networks and more (2005).
 -   _[Political Networks. The Structural Perspective](http://www.cambridge.org/ar/academic/subjects/sociology/political-sociology/political-networks-structural-perspective)_, by David Knoke (1994).
 
 ### Software-specific
@@ -140,7 +142,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 > Most items below are from [a Google spreadsheet](https://docs.google.com/spreadsheets/d/1vJILk2EW1JnR3YAwTSSqAV5mPkeXaezy45wOoafBpfU/edit#gid=0) by Michał Bojanowski and others.  
 > For more awesome Python packages, see the [Awesome Python](https://github.com/vinta/awesome-python) list.
 
-1.  [graphviz](https://pypi.python.org/pypi/graphviz) - Python renderer for the DOT graph drawing language.
+1.  [graph-tool](https://graph-tool.skewed.de/) - Python module for network manipulation and analysis, written mostly in C++ for speed.
+-   [graphviz](https://pypi.python.org/pypi/graphviz) - Python renderer for the DOT graph drawing language.
 -   [linkpred](https://github.com/rafguns/linkpred) - Assess the likelihood of potential links in a future snapshot of a network.
 -   [networkx](http://networkx.github.io/) - Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
 -   [python-igraph](http://igraph.org/python/) - Python version of the igraph network analysis package.
@@ -234,4 +237,4 @@ Please also add your name to the copyright waiver below, with an optional link t
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, the authors of this list (by chronological order: [François Briatte](http://f.briatte.org/), [Ian McCulloh](https://www.linkedin.com/in/mcculloh), [Aditya Khanna](http://home.uchicago.edu/~khanna7), [Manlio De Domenico](http://deim.urv.cat/~manlio.dedomenico/index.php), ) have waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, the authors of this list (by chronological order: [François Briatte](http://f.briatte.org/), [Ian McCulloh](https://www.linkedin.com/in/mcculloh), [Aditya Khanna](http://home.uchicago.edu/~khanna7), [Manlio De Domenico](http://deim.urv.cat/~manlio.dedomenico/index.php), [Patrick Kaminski]()) have waived all copyright and related or neighboring rights to this work.
