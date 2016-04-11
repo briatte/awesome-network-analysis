@@ -233,4 +233,4 @@ Please also add your name to the copyright waiver below, with an optional link t
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, the authors of this list ([François Briatte](http://f.briatte.org/), [Ian McCulloh](https://www.linkedin.com/in/mcculloh), [Aditya Khanna](http://home.uchicago.edu/~khanna7)) have waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, the authors of this list (by chronological order: [François Briatte](http://f.briatte.org/), [Ian McCulloh](https://www.linkedin.com/in/mcculloh), [Aditya Khanna](http://home.uchicago.edu/~khanna7)) have waived all copyright and related or neighboring rights to this work.
