@@ -4,21 +4,23 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 
 ## Table of Contents
 
-* **[Books](#books)**  
-  * **[Overviews](#overviews)**
-  * **[Specifics](#specifics)**
-* **[Courses](#courses)**  
-* **[Datasets](#datasets)**  
-* **[Journals](#journals)**  
-* **[Professional groups](#professional-groups)**  
-* **[Review Articles](#review-articles)**
-* **[Software](#software)**  
-	* **[JavaScript Libraries](#javascript-libraries)**
-	* **[Python Libraries](#python-libraries)**
-	* **[R Packages](#r-packages)**
-* **[Tutorials](#tutorials)**  
-* **[Varia](#varia)**
-* **[Contribution Guidelines](#contribution-guidelines)**  
+- __[Books](#books)__  
+  - __[Overviews](#overviews)__
+  - __[Language-specific](#language-specific)__
+  - __[Method-specific](#method-specific)__
+  - __[Topic-specific](#topic-specific)__
+- __[Courses](#courses)__  
+- __[Datasets](#datasets)__  
+- __[Journals](#journals)__  
+- __[Professional groups](#professional-groups)__  
+- __[Review Articles](#review-articles)__
+- __[Software](#software)__  
+	- __[JavaScript Libraries](#javascript-libraries)__
+	- __[Python Libraries](#python-libraries)__
+	- __[R Packages](#r-packages)__
+- __[Tutorials](#tutorials)__  
+- __[Varia](#varia)__
+- __[Contribution Guidelines](#contribution-guidelines)__  
 
 ## Books
 
@@ -29,14 +31,22 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 -   _[Réseaux sociaux et structures relationnelles](https://www.puf.com/content/R%C3%A9seaux_sociaux_et_structures_relationnelles)_, by Emmanuel Lazega, in French (2014).
 -   _[Sociologie des réseaux sociaux](http://pierremerckle.fr/2011/02/sociologie-des-reseaux-sociaux/)_, by Pierre Mercklé, in French (2011).
 
-### Specifics
+### Method-specific
 
-1. _[Multilevel Network Analysis for the Social Sciences](https://www.springer.com/fr/book/9783319245188)_, by Emmanuel Lazega and Tom A.B. Snijders (2016).
+1.  _[Multilevel Network Analysis for the Social Sciences](https://www.springer.com/fr/book/9783319245188)_, by Emmanuel Lazega and Tom A.B. Snijders (2016).
+
+### Software-specific
+
+1.  _[Analyzing Social Networks](https://sites.google.com/site/analyzingsocialnetworks/)_ (using UCINET), by Stephen P. Borgatti, Martin G. Everett and Jeffrey C. Johnson (2013).
+2.  _[Statistical Analysis of Network Data with R](http://www.springer.com/us/book/9781493909827)_, by Eric D. Kolaczyk and Gabor Csárdi (2014).
+
+### Topic-specific
+
+1.  _[Neighbor Networks. Competitive Advantage Local and Personal](https://global.oup.com/academic/product/neighbor-networks-9780199570690)_, by Ronald S. Burt (2010).
 
 ## Courses
 
 1.  [Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/), by Peter Sheridan Dodds (2016).
--   [Foo Bar](http://example.com), by A B  (yyyy-yyyy).
 
 ## Datasets
 
@@ -47,9 +57,10 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 
 ## Journals
 
-1.  _[Journal of Social Structure](http://www.cmu.edu/joss)_ (2000–).
--   _[Network Science](http://journals.cambridge.org/action/displayJournal?jid=nws)_ (2013–).
--   _[REDES](http://revista-redes.rediris.es/)_, in Spanish (2004–).
+1.  _[Connections](http://www.insna.org/connections.html)_.
+-   _[Journal of Social Structure](http://www.cmu.edu/joss)_.
+-   _[Network Science](http://journals.cambridge.org/action/displayJournal?jid=nws)_.
+-   _[REDES](http://revista-redes.rediris.es/)_, in Spanish.
 -   _[Social Network Analysis and Mining](http://link.springer.com/journal/13278)_.
 -   _[Social Networks](http://ees.elsevier.com/son/default.asp)_.
 
@@ -66,13 +77,15 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 
 ## Software
 
-1.  [Discourse Network Analyzer (DNA)](http://www.philipleifeld.com/discourse-network-analyzer/discourse-network-analyzer-dna.html) - qualitative content analysis tool with network export facilities, written in Java with R integration.
--   [Gephi](https://gephi.github.io/) - cross-platform, free and open source tool for network visualization.
--   [networks.tb](http://networks-tb.sourceforge.net/) - a suite designed for analyzing socio-semantic networks, written in C.
--   [NodeXL](http://nodexl.codeplex.com/) - free, open-source template for Microsoft Excel to explore network graphs.
+1.  [Discourse Network Analyzer (DNA)](http://www.philipleifeld.com/discourse-network-analyzer/discourse-network-analyzer-dna.html) - Qualitative content analysis tool with network export facilities, written in Java with R integration.
+-   [Gephi](https://gephi.github.io/) - Cross-platform, free and open source tool for network visualization.
+-   [GraphViz](http://www.graphviz.org/) - Software to draw graphs in the [DOT](http://www.graphviz.org/doc/info/lang.html) language.
+-   [networks.tb](http://networks-tb.sourceforge.net/) - A suite designed for analyzing socio-semantic networks, written in C.
+-   [NodeXL](http://nodexl.codeplex.com/) - Free, open-source template for Microsoft Excel to explore network graphs.
 -   [Pajek](http://vlado.fmf.uni-lj.si/pub/networks/pajek/) - Windows program for large network analysis, free for noncommercial use.
 -   [PNet](http://www.swinburne.edu.au/fbl/research/transformative-innovation/our-research/MelNet-social-network-group/PNet-software/index.html) - Simulation and estimation of exponential random graph models (ERGMs), written in Java for Windows.
 -   [Stanford Network Analysis Project](http://snap.stanford.edu/) - C++ general purpose network analysis and graph mining library;  available as a Python library and through NodeXL.
+-   [UCINET](https://sites.google.com/site/ucinetsoftware/) - Windows commercial software package for the analysis of social network data.
 -   [VOSviewer](http://www.vosviewer.com/) - Cross-platform software tool for constructing and visualizing bibliometric networks, written in Java.
 
 ### JavaScript Libraries
@@ -85,8 +98,10 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 
 > Most items below are from [a Google spreadsheet](https://docs.google.com/spreadsheets/d/1vJILk2EW1JnR3YAwTSSqAV5mPkeXaezy45wOoafBpfU/edit#gid=0) by Michał Bojanowski and others.
 
-1.  [linkpred](https://github.com/rafguns/linkpred) - Assess the likelihood of potential links in a future snapshot of a network.
+1.  [graphviz](https://pypi.python.org/pypi/graphviz) - Python renderer for the DOT graph drawing language.
+-   [linkpred](https://github.com/rafguns/linkpred) - Assess the likelihood of potential links in a future snapshot of a network.
 -   [networkx](http://networkx.github.io/) - Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
+-   [python-igraph](http://igraph.org/python/) - Python version of the igraph network analysis package.
 
 ### R Packages
 
@@ -127,6 +142,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 
 ## Varia
 
+-  [Blog posts about networks](http://pierremerckle.fr/category/reseaux/) by Pierre Mercklé, in French.
 -  [Network Fact](https://twitter.com/networkfact) - A Twitter account about networks, graph theory, and related topics.
 -  [Videos from the Political Networks 2009 conference](https://vimeo.com/user2690333).
 
@@ -134,7 +150,10 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 
 Please contribute to this list by sending a [pull request](https://github.com/briatte/awesome-network-analysis/pulls) after reading the [Contribution Guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) for stylistic indications.
 
-By default, all sources are organized alphabetically, with date and language mentions when relevant. __To cite R packages__, please cite the stable CRAN version when it exists.
+- __All sources are organized alphabetically__ with date and language mentions when relevant.
+- __Authors__ are mentioned for books and courses only.
+- __To cite R packages__, please cite the stable CRAN version when it exists. 
+- __To cite Python packages__, please cite the PyPi version when it exists.
 
 Remember that an awesome list has to be, well, awesome. The "[Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)" states:
 
