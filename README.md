@@ -92,17 +92,19 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 
 ## Journals
 
+> Journals that are not fully open-access are marked as "gated".
+
 1.  _[Applied Network Science](http://appliednetsci.springeropen.com/)_ (Springer Open).
--   _[Computational and Mathematical Organization Theory](http://link.springer.com/journal/10588)_ (Springer).
+-   _[Computational and Mathematical Organization Theory](http://link.springer.com/journal/10588)_ (Springer, gated).
 -   _[Computational Social Networks](http://computationalsocialnetworks.springeropen.com/)_ (Springer Open).
 -   _[Connections](http://www.insna.org/connections.html)_ (INSNA).
--   _[Journal of Complex Networks](http://comnet.oxfordjournals.org/)_ (Oxford).
--   _[The Journal of Mathematical Sociology](http://www.tandfonline.com/loi/gmas20)_ (Taylor & Francis).
+-   _[Journal of Complex Networks](http://comnet.oxfordjournals.org/)_ (Oxford, gated).
+-   _[The Journal of Mathematical Sociology](http://www.tandfonline.com/loi/gmas20)_ (Taylor & Francis, gated).
 -   _[Journal of Social Structure](http://www.cmu.edu/joss)_ (INSNA).
--   _[Network Science](http://journals.cambridge.org/action/displayJournal?jid=nws)_ (Cambridge).
+-   _[Network Science](http://journals.cambridge.org/action/displayJournal?jid=nws)_ (Cambridge, gated).
 -   _[REDES](http://revista-redes.rediris.es/)_, in Spanish (INSNA).
--   _[Social Network Analysis and Mining](http://link.springer.com/journal/13278)_ (Springer).
--   _[Social Networks](http://ees.elsevier.com/son/default.asp)_ (Elsevier).
+-   _[Social Network Analysis and Mining](http://link.springer.com/journal/13278)_ (Springer, gated).
+-   _[Social Networks](http://ees.elsevier.com/son/default.asp)_ (Elsevier, gated).
 
 ## Professional groups
 
@@ -249,4 +251,4 @@ Please also add your name to the copyright waiver below, with an optional link t
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, the authors of this list (by chronological order: [François Briatte](http://f.briatte.org/), [Ian McCulloh](https://www.linkedin.com/in/mcculloh), [Aditya Khanna](http://home.uchicago.edu/~khanna7), [Manlio De Domenico](http://deim.urv.cat/~manlio.dedomenico/index.php), Patrick Kaminski, [Ericka Menchen-Trevino](http://www.ericka.cc/)) have waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, the authors of this list – by chronological order: [François Briatte](http://f.briatte.org/), [Ian McCulloh](https://www.linkedin.com/in/mcculloh), [Aditya Khanna](http://home.uchicago.edu/~khanna7), [Manlio De Domenico](http://deim.urv.cat/~manlio.dedomenico/index.php), Patrick Kaminski, [Ericka Menchen-Trevino](http://www.ericka.cc/) – have waived all copyright and related or neighboring rights to this work.
