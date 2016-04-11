@@ -57,12 +57,15 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 
 ## Journals
 
-1.  _[Connections](http://www.insna.org/connections.html)_.
--   _[Journal of Social Structure](http://www.cmu.edu/joss)_.
--   _[Network Science](http://journals.cambridge.org/action/displayJournal?jid=nws)_.
--   _[REDES](http://revista-redes.rediris.es/)_, in Spanish.
--   _[Social Network Analysis and Mining](http://link.springer.com/journal/13278)_.
--   _[Social Networks](http://ees.elsevier.com/son/default.asp)_.
+1.  _[Applied Network Science](http://appliednetsci.springeropen.com/)_ (Springer Open).
+-   _[Computational Social Networks](http://computationalsocialnetworks.springeropen.com/)_ (Springer Open).
+-   _[Connections](http://www.insna.org/connections.html)_ (INSNA).
+-   _[Journal of Complex Networks](http://comnet.oxfordjournals.org/)_ (Oxford).
+-   _[Journal of Social Structure](http://www.cmu.edu/joss)_ (INSNA).
+-   _[Network Science](http://journals.cambridge.org/action/displayJournal?jid=nws)_ (Cambridge).
+-   _[REDES](http://revista-redes.rediris.es/)_, in Spanish (INSNA).
+-   _[Social Network Analysis and Mining](http://link.springer.com/journal/13278)_ (Springer).
+-   _[Social Networks](http://ees.elsevier.com/son/default.asp)_ (Elsevier).
 
 ## Professional groups
 
@@ -72,6 +75,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 -   [Groupe FMR - Flux, Matrices, Réseaux](http://groupefmr.hypotheses.org/), in French.
 -   [INSNA: International Network for Social Network Analysis](http://www.insna.org/) ([mailing-list](http://www.insna.org/pubs/socnet.html)).
 -   [NetSci: Network Science Society](http://www.netscisociety.net/).
+-   [APSA Political Networks](http://www.polinetworks.org/) - Organized Section of the American Political Science Association.
 
 ## Review Articles
 
@@ -80,13 +84,15 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 
 ## Software
 
-1.  [Discourse Network Analyzer (DNA)](http://www.philipleifeld.com/discourse-network-analyzer/discourse-network-analyzer-dna.html) - Qualitative content analysis tool with network export facilities, written in Java with R integration.
+1.  [Cytoscape](http://www.cytoscape.org/) - Cross-platform Java program to build, analyze and visualize networks.
+-   [Discourse Network Analyzer (DNA)](http://www.philipleifeld.com/discourse-network-analyzer/discourse-network-analyzer-dna.html) - Qualitative content analysis tool with network export facilities, written in Java with R integration.
 -   [Gephi](https://gephi.github.io/) - Cross-platform, free and open source tool for network visualization.
 -   [GraphViz](http://www.graphviz.org/) - Software to draw graphs in the [DOT](http://www.graphviz.org/doc/info/lang.html) language.
 -   [networks.tb](http://networks-tb.sourceforge.net/) - A suite designed for analyzing socio-semantic networks, written in C.
 -   [NodeXL](http://nodexl.codeplex.com/) - Free, open-source template for Microsoft Excel to explore network graphs.
 -   [Pajek](http://vlado.fmf.uni-lj.si/pub/networks/pajek/) - Windows program for large network analysis, free for noncommercial use.
 -   [PNet](http://www.swinburne.edu.au/fbl/research/transformative-innovation/our-research/MelNet-social-network-group/PNet-software/index.html) - Simulation and estimation of exponential random graph models (ERGMs), written in Java for Windows.
+-   [Siena](http://www.stats.ox.ac.uk/~snijders/siena/) - Simulation Investigation for Empirical Network Analysis, formerly a Windows program, now an R package.
 -   [Stanford Network Analysis Project](http://snap.stanford.edu/) - C++ general purpose network analysis and graph mining library;  available as a Python library and through NodeXL.
 -   [UCINET](https://sites.google.com/site/ucinetsoftware/) - Windows commercial software package for the analysis of social network data.
 -   [VOSviewer](http://www.vosviewer.com/) - Cross-platform software tool for constructing and visualizing bibliometric networks, written in Java.
@@ -98,6 +104,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 -   [d3.js](https://d3js.org/) - JavaScript visualization library that can plot [force-directed graphs](http://bl.ocks.org/mbostock/4062045).
 -   [jLouvain](https://github.com/upphiminn/jLouvain) - Louvain community detection for Javascript ([example](http://bl.ocks.org/emeeks/125db75c9b55ddcbdeb5)).
 -   [Sigma](http://sigmajs.org/) - JavaScript library dedicated to graph drawing.
+-   [vis.js](http://visjs.org/) - JavaScript library with network visualization capabilities.
 
 ### Python
 
@@ -117,6 +124,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 -   [Bergm](https://cran.r-project.org/web/packages/Bergm/) - Tools to analyse Bayesian exponential random graph models.
 -   [ergm](https://cran.r-project.org/web/packages/ergm/) - Estimation of Exponential Random Graph Models.
 -   [GERGM](https://cran.r-project.org/web/packages/GERGM/) - Estimation and diagnosis of the convergence of Generalized Exponential Random Graph Models (GERGM).
+-   [hergm](https://cran.r-project.org/web/packages/hergm/) - Estimate and simulate hierarchical exponential-family random graph models with local dependence.
 -   [igraph](http://igraph.org/r/) - A collection of network analysis tools.
 -   [latentnet](https://cran.r-project.org/web/packages/latentnet/) - Latent position and cluster models for network objects.
 -   [networkD3](http://christophergandrud.github.io/networkD3/) - D3 JavaScript network graphs from R.
@@ -124,12 +132,14 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 -   [network](https://cran.r-project.org/web/packages/network/) - Basic tools to manipulate relational data in R.
 -   [networkDynamic](https://cran.r-project.org/web/packages/networkDynamic/) - Support for dynamic, (inter)temporal networks.
 -   [rgexf](https://bitbucket.org/gvegayon/rgexf/wiki/Home) - Export network objects from R to [GEXF](http://gexf.net/format/), for manipulation with network software like Gephi or Sigma.
+-   [RSiena](https://cran.r-project.org/web/packages/RSiena/) - Simulation Investigation for Empirical Network Analysis; fits models to longitudinal network data.
 -   [sna](https://cran.r-project.org/web/packages/sna/) - Basic network measures and visualization tools.
 -   [spnet](http://cran.r-project.org/web/packages/spnet/) - Methods for dealing with spatial social networks.
 -   [statnet](http://statnet.org/) - The project behind many R network analysis packages.
 -   [tnet](https://cran.r-project.org/web/packages/tnet/) - Network measures for weighted, two-mode and longitudinal networks.
 -   [tsna](https://cran.r-project.org/web/packages/tsna/) - Tools for temporal social network analysis.
 -   [visNetwork](https://github.com/DataKnowledge/visNetwork) - Using vis.js library for network visualization.
+-   [xergm](https://cran.r-project.org/web/packages/xergm/) - Extensions of Exponential Random Graph Models.
 
 ## Tutorials
 
