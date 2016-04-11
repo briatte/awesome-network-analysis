@@ -6,8 +6,9 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 
 - __[Books](#books)__
   - __[General Overviews](#general-overviews)__
-  - __[Language-specific](#language-specific)__
+  - __[Graph Theory](#graph-theory)__
   - __[Method-specific](#method-specific)__
+  - __[Software-specific](#software-specific)__
   - __[Topic-specific](#topic-specific)__
 - __[Conferences](#conferences)__
 - __[Courses](#courses)__
@@ -23,22 +24,28 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 - __[Varia](#varia)__
 - __[Contribution Guidelines](#contribution-guidelines)__
 
+> Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) and [Awesome Math](https://github.com/rossant/awesome-math).
+
 ## Books
 
 ### General Overviews
 
 1.  _[Networks. An Introduction](http://www-personal.umich.edu/~mejn/networks-an-introduction/)_, by Mark E.J. Newman (2010).
--   _[Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)_, by David Easley and Jon Kleinberg; complete pre-publication draft online (2010).
+-   _[Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)_, by David Easley and Jon Kleinberg - Complete pre-publication draft online (2010).
 -   _[Réseaux sociaux et structures relationnelles](https://www.puf.com/content/R%C3%A9seaux_sociaux_et_structures_relationnelles)_, by Emmanuel Lazega, in French (2014).
 -   _[Sociologie des réseaux sociaux](http://pierremerckle.fr/2011/02/sociologie-des-reseaux-sociaux/)_, by Pierre Mercklé, in French (2011).
 -   _[Social Network Analysis. Methods and Applications](http://www.cambridge.org/ar/academic/subjects/sociology/sociology-general-interest/social-network-analysis-methods-and-applications)_, by Stanley Wasserman and Katherine Faust (1994).
 -   _[Studying Social Networks. A Guide to Empirical Research](http://press.uchicago.edu/ucp/books/book/distributed/S/bo15475096.html)_, by Marina Hennig _et al._ (2013).
 
+### Graph Theory
+
+1.   _[Graph Theory](http://www.cs.unibo.it/babaoglu/courses/cas00-01/tutorials/GraphTheory.pdf)_, by Reinhard Diestel - Full electronic version online (2000).
+
 ### Method-specific
 
 1. _[Exponential Random Graph Models for Social Networks](http://www.cambridge.org/9780521193566)_, edited by Dean Lusher, Johan Koskinen and Garry Robins (2013).
 -  _[Multilevel Network Analysis for the Social Sciences](https://www.springer.com/fr/book/9783319245188)_, edited by Emmanuel Lazega and Tom A.B. Snijders (2016).
--  _[Network Analysis: Methodological Foundations](https://www.springer.com/fr/book/9783540249795)_, edited by Ulrik Brandes and Thomas Erlebach - covers network centrality, clustering, blockmodels, spatial networks and more (2005).
+-  _[Network Analysis: Methodological Foundations](https://www.springer.com/fr/book/9783540249795)_, edited by Ulrik Brandes and Thomas Erlebach - Covers network centrality, clustering, blockmodels, spatial networks and more (2005).
 -   _[Political Networks. The Structural Perspective](http://www.cambridge.org/ar/academic/subjects/sociology/political-sociology/political-networks-structural-perspective)_, by David Knoke (1994).
 
 ### Software-specific
@@ -63,6 +70,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 ## Courses
 
 1.  [Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/), by Peter Sheridan Dodds (University of Vermont, 2016).
+-   [Graph Theory: Penn State Math 485 Lecture Notes](http://www.personal.psu.edu/cxg286/Math485.pdf), by Christopher Griffin - Full lecture notes online (2012).
 -   [Networks (Economics)](http://ocw.mit.edu/courses/economics/14-15j-networks-fall-2009/), by Daron Acemoglu and Asu Ozdaglar (MIT, 2009).
 -   [Social and Economic Networks: Models and Analysis](https://www.coursera.org/course/networksonline), by Matthew O. Jackson (Stanford University via Coursera, 2015).
 -   [Social Network Analysis](https://www.coursera.org/course/sna), by Lara Adamic (University of Michigan via Coursera, not yet run).
@@ -71,6 +79,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 
 1.  [Bill Cosponsorship Networks in European Parliaments](https://github.com/briatte/parlnet).
 -   [Gephi Datasets](https://github.com/gephi/gephi/wiki/Datasets).
+-   [igraphdata](https://cran.r-project.org/web/packages/igraphdata/index.html) - Data sets intended for use with the igraph R package.
 -   [KONECT - The Koblenz Network Collection](http://konect.uni-koblenz.de/).
 -   [James H. Fowler's Cosponsorship Network Data Page](http://jhfowler.ucsd.edu/cosponsorship.htm).
 -   [Manlio De Domenico's Multilayer Networks](http://deim.urv.cat/~manlio.dedomenico/data.php).
@@ -114,12 +123,13 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 
 1.  [Cytoscape](http://www.cytoscape.org/) - Cross-platform Java program to build, analyze and visualize networks.
 -   [Discourse Network Analyzer (DNA)](http://www.philipleifeld.com/discourse-network-analyzer/discourse-network-analyzer-dna.html) - Qualitative content analysis tool with network export facilities, written in Java with R integration.
+-   [igraph](http://igraph.org/) - C library of network analysis tools; also exists as packages for Python and R.
 -   [Gephi](https://gephi.github.io/) - Cross-platform, free and open source tool for network visualization.
--   [GraphViz](http://www.graphviz.org/) - Software to draw graphs in the [DOT](http://www.graphviz.org/doc/info/lang.html) language.
--   [MuxViz](http://muxviz.net/) - Multilayer Analysis And Visualization Platform; cross-platform, free and open source, based on R and GNU Octave.
+-   [Graphviz](http://www.graphviz.org/) - Cross-platform software to draw graphs in the [DOT](http://www.graphviz.org/doc/info/lang.html) language.
+-   [MuxViz](http://muxviz.net/) - Cross-platform, free and open source multilayer network analysis And visualization platform, based on R and GNU Octave.
 -   [Neo4j](http://neo4j.com/) - Open source, scalable graph database, used by companies like [Linkurious](http://linkurio.us/).
--   [networks.tb](http://networks-tb.sourceforge.net/) - A suite designed for analyzing socio-semantic networks, written in C.
--   [NodeXL](http://nodexl.codeplex.com/) - Free, open-source template for Microsoft Excel to explore network graphs.
+-   [networks.tb](http://networks-tb.sourceforge.net/) - C program designed for analyzing socio-semantic networks; runs on Linux and Mac OS X.
+-   [NodeXL](http://nodexl.codeplex.com/) - Free, open-source template to explore network graphs with Microsoft Excel.
 -   [ORA-LITE](http://www.casos.cs.cmu.edu/projects/ora/) - Windows program for dynamic meta-network assessment and analysis.
 -   [Pajek](http://vlado.fmf.uni-lj.si/pub/networks/pajek/) - Windows program for large network analysis, free for noncommercial use.
 -   [PNet](http://www.swinburne.edu.au/fbl/research/transformative-innovation/our-research/MelNet-social-network-group/PNet-software/index.html) - Simulation and estimation of exponential random graph models (ERGMs), written in Java for Windows.
@@ -127,11 +137,11 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 -   [Stanford Network Analysis Project](http://snap.stanford.edu/) - C++ general purpose network analysis and graph mining library;  available as a Python library and through NodeXL.
 -   [UCINET](https://sites.google.com/site/ucinetsoftware/) - Windows commercial software package for the analysis of social network data.
 -   [Visone](http://visone.info/) - Cross-platform Java network analysis and visualization program, free for noncommercial use.
--   [VOSviewer](http://www.vosviewer.com/) - Cross-platform software tool for constructing and visualizing bibliometric networks, written in Java.
+-   [VOSviewer](http://www.vosviewer.com/) - Cross-platform Java tool for constructing and visualizing bibliometric networks.
 
 ### JavaScript
 
-> For more awesome Python packages, see the [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) list.
+> For more awesome JavaScript libraries, see the [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) list.
 
 1.  [d3.js](https://d3js.org/) - JavaScript visualization library that can plot [force-directed graphs](http://bl.ocks.org/mbostock/4062045).
 -   [jLouvain](https://github.com/upphiminn/jLouvain) - Louvain community detection for Javascript ([example](http://bl.ocks.org/emeeks/125db75c9b55ddcbdeb5)).
@@ -152,7 +162,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 ### R
 
 > See also [this Google spreadsheet](https://docs.google.com/spreadsheets/d/1CoFGtrW85D9FsVcAE5-bcXVl6QOTncwXjFBYp4u2WgE/edit?usp=sharing) by Ian McCulloh and others.  
-> For more awesome R packages, see the [Awesome R](https://github.com/qinwf/awesome-R) list.
+> For more awesome R resources, see the [Awesome R](https://github.com/qinwf/awesome-R) and [Awesome R Books](https://github.com/RomanTsegelskyi/rbooks) lists.
 
 1.  [Bergm](https://cran.r-project.org/web/packages/Bergm/) - Tools to analyse Bayesian exponential random graph models (BERGM).
 -   [CCAS](https://github.com/matthewjdenny/CCAS) - A statistical model for communication networks.
@@ -171,6 +181,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 -   [network](https://cran.r-project.org/web/packages/network/) - Basic tools to manipulate relational data in R.
 -   [networkDynamic](https://cran.r-project.org/web/packages/networkDynamic/) - Support for dynamic, (inter)temporal networks.
 -   [rgexf](https://bitbucket.org/gvegayon/rgexf/wiki/Home) - Export network objects from R to [GEXF](http://gexf.net/format/), for manipulation with network software like Gephi or Sigma.
+-   [Rgraphviz](https://bioconductor.org/packages/release/bioc/html/Rgraphviz.html) - Support for using the Graphviz library and its [DOT](http://www.graphviz.org/doc/info/lang.html) language from within R.
 -   [RSiena](https://cran.r-project.org/web/packages/RSiena/) - Simulation Investigation for Empirical Network Analysis; fits models to longitudinal network data.
 -   [sna](https://cran.r-project.org/web/packages/sna/) - Basic network measures and visualization tools.
 -   [spnet](http://cran.r-project.org/web/packages/spnet/) - Methods for dealing with spatial social networks.
@@ -212,7 +223,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 
 Please contribute to this list by sending a [pull request](https://github.com/briatte/awesome-network-analysis/pulls) after reading the [Contribution Guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) for stylistic indications.
 
-- __All sources are organized alphabetically__ with date and language mentions when relevant.
+- __All resources__ are listed alphabetically, with date and language mentions when relevant.
 - __Authors__ are mentioned for books and courses only.
 - __Journals__ require the name of the publisher.
 - __Review Articles__ require a journal and a date.
@@ -238,4 +249,4 @@ Please also add your name to the copyright waiver below, with an optional link t
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, the authors of this list (by chronological order: [François Briatte](http://f.briatte.org/), [Ian McCulloh](https://www.linkedin.com/in/mcculloh), [Aditya Khanna](http://home.uchicago.edu/~khanna7), [Manlio De Domenico](http://deim.urv.cat/~manlio.dedomenico/index.php), [Patrick Kaminski]()) have waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, the authors of this list (by chronological order: [François Briatte](http://f.briatte.org/), [Ian McCulloh](https://www.linkedin.com/in/mcculloh), [Aditya Khanna](http://home.uchicago.edu/~khanna7), [Manlio De Domenico](http://deim.urv.cat/~manlio.dedomenico/index.php), Patrick Kaminski) have waived all copyright and related or neighboring rights to this work.
