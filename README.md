@@ -4,29 +4,29 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 
 ## Table of Contents
 
-- __[Books](#books)__  
+- __[Books](#books)__
   - __[Overviews](#overviews)__
   - __[Language-specific](#language-specific)__
   - __[Method-specific](#method-specific)__
   - __[Topic-specific](#topic-specific)__
-- __[Courses](#courses)__  
-- __[Datasets](#datasets)__  
-- __[Journals](#journals)__  
-- __[Professional groups](#professional-groups)__  
+- __[Courses](#courses)__
+- __[Datasets](#datasets)__
+- __[Journals](#journals)__
+- __[Professional groups](#professional-groups)__
 - __[Review Articles](#review-articles)__
-- __[Software](#software)__  
-	- __[JavaScript Libraries](#javascript-libraries)__
-	- __[Python Libraries](#python-libraries)__
-	- __[R Packages](#r-packages)__
-- __[Tutorials](#tutorials)__  
+- __[Software](#software)__
+  - __[JavaScript](#javascript)__
+  - __[Python](#python)__
+  - __[R](#r)__
+- __[Tutorials](#tutorials)__
 - __[Varia](#varia)__
-- __[Contribution Guidelines](#contribution-guidelines)__  
+- __[Contribution Guidelines](#contribution-guidelines)__
 
 ## Books
 
 ### Overviews
 
--   _[Networks. An Introduction](http://www-personal.umich.edu/~mejn/networks-an-introduction/)_, by Mark E.J. Newman (2010).
+1.  _[Networks. An Introduction](http://www-personal.umich.edu/~mejn/networks-an-introduction/)_, by Mark E.J. Newman (2010).
 -   _[Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)_, by David Easley and Jon Kleinberg; complete pre-publication draft online (2010).
 -   _[Réseaux sociaux et structures relationnelles](https://www.puf.com/content/R%C3%A9seaux_sociaux_et_structures_relationnelles)_, by Emmanuel Lazega, in French (2014).
 -   _[Sociologie des réseaux sociaux](http://pierremerckle.fr/2011/02/sociologie-des-reseaux-sociaux/)_, by Pierre Mercklé, in French (2011).
@@ -75,6 +75,9 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 
 ## Review Articles
 
+1.  "[Network Analysis and Political Science](http://www.annualreviews.org/doi/abs/10.1146/annurev.polisci.12.040907.115949)" (_Annual Review of Political Science_, 2011).
+-   "[Statistical Models for Social Networks](http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.012809.102709)" (_Annual Review of Sociology_, 2011).
+
 ## Software
 
 1.  [Discourse Network Analyzer (DNA)](http://www.philipleifeld.com/discourse-network-analyzer/discourse-network-analyzer-dna.html) - Qualitative content analysis tool with network export facilities, written in Java with R integration.
@@ -88,22 +91,25 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 -   [UCINET](https://sites.google.com/site/ucinetsoftware/) - Windows commercial software package for the analysis of social network data.
 -   [VOSviewer](http://www.vosviewer.com/) - Cross-platform software tool for constructing and visualizing bibliometric networks, written in Java.
 
-### JavaScript Libraries
+### JavaScript
+
+> For more awesome Python packages, see the [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) list.
 
 -   [d3.js](https://d3js.org/) - JavaScript visualization library that can plot [force-directed graphs](http://bl.ocks.org/mbostock/4062045).
 -   [jLouvain](https://github.com/upphiminn/jLouvain) - Louvain community detection for Javascript ([example](http://bl.ocks.org/emeeks/125db75c9b55ddcbdeb5)).
 -   [Sigma](http://sigmajs.org/) - JavaScript library dedicated to graph drawing.
 
-### Python Libraries
+### Python
 
-> Most items below are from [a Google spreadsheet](https://docs.google.com/spreadsheets/d/1vJILk2EW1JnR3YAwTSSqAV5mPkeXaezy45wOoafBpfU/edit#gid=0) by Michał Bojanowski and others.
+> Most items below are from [a Google spreadsheet](https://docs.google.com/spreadsheets/d/1vJILk2EW1JnR3YAwTSSqAV5mPkeXaezy45wOoafBpfU/edit#gid=0) by Michał Bojanowski and others.  
+> For more awesome Python packages, see the [Awesome Python](https://github.com/vinta/awesome-python) list.
 
 1.  [graphviz](https://pypi.python.org/pypi/graphviz) - Python renderer for the DOT graph drawing language.
 -   [linkpred](https://github.com/rafguns/linkpred) - Assess the likelihood of potential links in a future snapshot of a network.
 -   [networkx](http://networkx.github.io/) - Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
 -   [python-igraph](http://igraph.org/python/) - Python version of the igraph network analysis package.
 
-### R Packages
+### R
 
 > See also [this Google spreadsheet](https://docs.google.com/spreadsheets/d/1CoFGtrW85D9FsVcAE5-bcXVl6QOTncwXjFBYp4u2WgE/edit?usp=sharing) by Ian McCulloh and others.  
 > For more awesome R packages, see the [Awesome R](https://github.com/qinwf/awesome-R) list.
