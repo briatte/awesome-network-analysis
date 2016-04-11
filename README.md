@@ -125,6 +125,9 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 -   [Bergm](https://cran.r-project.org/web/packages/Bergm/) - Tools to analyse Bayesian exponential random graph models.
 -   [ergm](https://cran.r-project.org/web/packages/ergm/) - Estimation of Exponential Random Graph Models.
 -   [GERGM](https://cran.r-project.org/web/packages/GERGM/) - Estimation and diagnosis of the convergence of Generalized Exponential Random Graph Models (GERGM).
+-   [geomnet](https://cran.r-project.org/web/packages/geomnet/) - A single-geometry approach to network visualization with ggplot2.
+-   [ggnetwork](https://cran.r-project.org/web/packages/ggnetwork/) - A multiple-geometries approach to plot network objects with ggplot2.
+-   [ggraph](https://github.com/thomasp85/ggraph) - A grammar of graph graphics built in the spirit of ggplot2.
 -   [hergm](https://cran.r-project.org/web/packages/hergm/) - Estimate and simulate hierarchical exponential-family random graph models with local dependence.
 -   [igraph](http://igraph.org/r/) - A collection of network analysis tools.
 -   [latentnet](https://cran.r-project.org/web/packages/latentnet/) - Latent position and cluster models for network objects.
