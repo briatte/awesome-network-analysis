@@ -73,7 +73,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 -   [Graph Theory: Penn State Math 485 Lecture Notes](http://www.personal.psu.edu/cxg286/Math485.pdf), by Christopher Griffin - Full lecture notes online (2012).
 -   [Networks (Economics)](http://ocw.mit.edu/courses/economics/14-15j-networks-fall-2009/), by Daron Acemoglu and Asu Ozdaglar (MIT, 2009).
 -   [Social and Economic Networks: Models and Analysis](https://www.coursera.org/course/networksonline), by Matthew O. Jackson (Stanford University via Coursera, 2015).
--   [Social Network Analysis](https://www.coursera.org/course/sna), by Lara Adamic (University of Michigan via Coursera, not yet run).
+-   [Social Network Analysis](https://www.coursera.org/course/sna), by Lada Adamic (University of Michigan via Coursera, not yet run).
 
 ## Datasets
 
