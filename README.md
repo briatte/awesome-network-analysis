@@ -11,19 +11,22 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 * **[Datasets](#datasets)**  
 * **[Journals](#journals)**  
 * **[Professional groups](#professional-groups)**  
+* **[Review Articles](#review-articles)**
 * **[Software](#software)**  
 	* **[JavaScript Libraries](#javascript-libraries)**
 	* **[Python Libraries](#python-libraries)**
 	* **[R Packages](#r-packages)**
 * **[Tutorials](#tutorials)**  
 * **[Varia](#varia)**
-* **[Contributing](#contributing)**  
+* **[Contribution Guidelines](#contribution-guidelines)**  
 
 ## Books
 
 ### Overviews
 
-1.  _[Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)_, by David Easley and Jon Kleinberg; complete pre-publication draft online (2010).
+-   _[Networks. An Introduction](http://www-personal.umich.edu/~mejn/networks-an-introduction/)_, by Mark E.J. Newman (2010).
+-   _[Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)_, by David Easley and Jon Kleinberg; complete pre-publication draft online (2010).
+-   _[Réseaux sociaux et structures relationnelles](https://www.puf.com/content/R%C3%A9seaux_sociaux_et_structures_relationnelles)_, by Emmanuel Lazega, in French (2014).
 -   _[Sociologie des réseaux sociaux](http://pierremerckle.fr/2011/02/sociologie-des-reseaux-sociaux/)_, by Pierre Mercklé, in French (2011).
 
 ### Specifics
@@ -58,6 +61,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 -   [Groupe FMR - Flux, Matrices, Réseaux](http://groupefmr.hypotheses.org/), in French.
 -   [INSNA: International Network for Social Network Analysis](http://www.insna.org/) ([mailing-list](http://www.insna.org/pubs/socnet.html)).
 -   [NetSci: Network Science Society](http://www.netscisociety.net/).
+
+## Review Articles
 
 ## Software
 
@@ -125,7 +130,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 -  [Network Fact](https://twitter.com/networkfact) - A Twitter account about networks, graph theory, and related topics.
 -  [Videos from the Political Networks 2009 conference](https://vimeo.com/user2690333).
 
-## Contributing
+## Contribution Guidelines
 
 Please contribute to this list by sending a [pull request](https://github.com/briatte/awesome-network-analysis/pulls) after reading the [Contribution Guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) for stylistic indications.
 
