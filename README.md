@@ -5,7 +5,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 ## Table of Contents
 
 - __[Books](#books)__
-  - __[Overviews](#overviews)__
+  - __[General Overviews](#general-overviews)__
   - __[Language-specific](#language-specific)__
   - __[Method-specific](#method-specific)__
   - __[Topic-specific](#topic-specific)__
@@ -25,7 +25,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 
 ## Books
 
-### Overviews
+### General Overviews
 
 1.  _[Networks. An Introduction](http://www-personal.umich.edu/~mejn/networks-an-introduction/)_, by Mark E.J. Newman (2010).
 -   _[Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)_, by David Easley and Jon Kleinberg; complete pre-publication draft online (2010).
@@ -60,12 +60,17 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 
 ## Courses
 
-1.  [Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/), by Peter Sheridan Dodds (2016).
+1.  [Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/), by Peter Sheridan Dodds (University of Vermont, 2016).
+-   [Networks (Economics)](http://ocw.mit.edu/courses/economics/14-15j-networks-fall-2009/), by Daron Acemoglu and Asu Ozdaglar (MIT, 2009).
+-   [Social and Economic Networks: Models and Analysis](https://www.coursera.org/course/networksonline), by Matthew O. Jackson (Stanford University via Coursera, 2015).
+-   [Social Network Analysis](https://www.coursera.org/course/sna), by Lara Adamic (University of Michigan via Coursera, not yet run).
 
 ## Datasets
 
-1.  [Gephi Datasets](https://github.com/gephi/gephi/wiki/Datasets).
+1.  [Bill Cosponsorship Networks in European Parliaments](https://github.com/briatte/parlnet).
+-   [Gephi Datasets](https://github.com/gephi/gephi/wiki/Datasets).
 -   [KONECT - The Koblenz Network Collection](http://konect.uni-koblenz.de/).
+-   [James H. Fowler's Cosponsorship Network Data Page](http://jhfowler.ucsd.edu/cosponsorship.htm).
 -   [Mark E.J. Newman's Network Data](http://www-personal.umich.edu/~mejn/netdata/).
 -   [Pajek Datasets](http://vlado.fmf.uni-lj.si/pub/networks/data/)
 -   [Siena Datasets](http://www.stats.ox.ac.uk/~snijders/siena/siena_datasets.htm).
@@ -154,6 +159,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 -   [ggraph](https://github.com/thomasp85/ggraph) - A grammar of graph graphics built in the spirit of ggplot2.
 -   [hergm](https://cran.r-project.org/web/packages/hergm/) - Estimate and simulate hierarchical exponential-family random graph models (HERGM) with local dependence.
 -   [igraph](http://igraph.org/r/) - A collection of network analysis tools.
+-   [influenceR](https://cran.r-project.org/web/packages/influenceR/) - Compute various node centrality network measures by Burt, Borgatti and others.
 -   [latentnet](https://cran.r-project.org/web/packages/latentnet/) - Latent position and cluster models for network objects.
 -   [networkD3](http://christophergandrud.github.io/networkD3/) - D3 JavaScript network graphs from R.
 -   [ndtv](https://cran.r-project.org/web/packages/ndtv/) - Tools to construct animated visualizations of dynamic network data in various formats.
@@ -187,11 +193,13 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 
 ## Varia
 
-1. [Blog posts about networks by Baptiste Coulmont](http://coulmont.com/index.php?s=r%C3%A9seaux), in French.
--  [Blog posts about networks by Pierre Mercklé](http://pierremerckle.fr/category/reseaux/), in French.
+1. [Blog Posts About Networks by Baptiste Coulmont](http://coulmont.com/index.php?s=r%C3%A9seaux), in French.
+-  [Blog Posts About Networks by Pierre Mercklé](http://pierremerckle.fr/category/reseaux/), in French.
+-  [Center for Network Science](http://cns.ceu.edu/) - A research center with a PhD in Network Science program at the Central European University in Budapest.
+-  [Interdependence in Governance and Policy](https://sites.psu.edu/desmaraisgroup/) - Network-oriented research group led by Bruce Desmarais at Penn State University.
 -  [Network Fact](https://twitter.com/networkfact) - 	Twitter account about networks, graph theory, and related topics.
--  [Social network analysis software](https://en.wikipedia.org/wiki/Social_network_analysis_software) - Wikipedia English entry with links to many commercial and often outdated software.
--  [Videos from the Political Networks 2009 conference](https://vimeo.com/user2690333).
+-  [Social Network Analysis Software](https://en.wikipedia.org/wiki/Social_network_analysis_software) - Wikipedia English entry with links to many commercial and often outdated software.
+-  [Videos from the Political Networks 2009 Conference](https://vimeo.com/user2690333).
 
 * * *
 
@@ -201,8 +209,11 @@ Please contribute to this list by sending a [pull request](https://github.com/br
 
 - __All sources are organized alphabetically__ with date and language mentions when relevant.
 - __Authors__ are mentioned for books and courses only.
-- __To cite R packages__, please cite the stable CRAN version when it exists. 
-- __To cite Python packages__, please cite the PyPi version when it exists.
+- __Journals__ require the name of the publisher.
+- __Review Articles__ require a journal and a date.
+- __R packages__: please cite the stable __CRAN__ version when it exists. 
+- __Python packages__: please cite the __PyPi__ version when it exists.
+- __Software__ should be at least free for noncommercial use (only few exceptions will be granted).
 
 Remember that an awesome list has to be, well, awesome. The "[Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)" states:
 
@@ -216,10 +227,10 @@ Remember that an awesome list has to be, well, awesome. The "[Awesome Manifesto]
 >  
 > Apart from suggesting a particular item on your list, you should also inform your readers why it's on the list and how they will benefit from it.
 
-Please also add your name to the copyright waiver below.
+Please also add your name to the copyright waiver below, with an optional link to your personal homepage, GitHub profile or social media profile.
 
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, the authors of this list ([François Briatte](http://f.briatte.org/), [Ian McCulloh](https://www.linkedin.com/in/mcculloh)) have waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, the authors of this list ([François Briatte](http://f.briatte.org/), [Ian McCulloh](https://www.linkedin.com/in/mcculloh), [Aditya Khanna](http://home.uchicago.edu/~khanna7)) have waived all copyright and related or neighboring rights to this work.
