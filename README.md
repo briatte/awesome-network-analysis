@@ -9,6 +9,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
   - __[Language-specific](#language-specific)__
   - __[Method-specific](#method-specific)__
   - __[Topic-specific](#topic-specific)__
+- __[Conferences](#conferences)__
 - __[Courses](#courses)__
 - __[Datasets](#datasets)__
 - __[Journals](#journals)__
@@ -49,6 +50,13 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 
 1.  _[Neighbor Networks. Competitive Advantage Local and Personal](https://global.oup.com/academic/product/neighbor-networks-9780199570690)_, by Ronald S. Burt (2010).
 -   _[Comparing Policy Networks. Labor Politics in the U.S., Germany, and Japan](http://www.cambridge.org/ar/academic/subjects/politics-international-relations/comparative-politics/comparing-policy-networks-labor-politics-us-germany-and-japan)_, by David Knoke _et al._ (1996).
+
+## Conferences
+
+1.  [European Conference on Social Networks](http://eusn.org/) (EUSN).
+-   [PolNet - Annual Political Networks Workshops and Conference](http://conference.polinetworks.org/) (APSA).
+-   [NetSci](http://www.netscisociety.net/) (Network Science Society).
+-   [Sunbelt](http://www.insna.org/archives.html) (INSNA).
 
 ## Courses
 
@@ -116,7 +124,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 
 > For more awesome Python packages, see the [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) list.
 
--   [d3.js](https://d3js.org/) - JavaScript visualization library that can plot [force-directed graphs](http://bl.ocks.org/mbostock/4062045).
+1.  [d3.js](https://d3js.org/) - JavaScript visualization library that can plot [force-directed graphs](http://bl.ocks.org/mbostock/4062045).
 -   [jLouvain](https://github.com/upphiminn/jLouvain) - Louvain community detection for Javascript ([example](http://bl.ocks.org/emeeks/125db75c9b55ddcbdeb5)).
 -   [Sigma](http://sigmajs.org/) - JavaScript library dedicated to graph drawing.
 -   [vis.js](http://visjs.org/) - JavaScript library with network visualization capabilities.
@@ -136,15 +144,15 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 > See also [this Google spreadsheet](https://docs.google.com/spreadsheets/d/1CoFGtrW85D9FsVcAE5-bcXVl6QOTncwXjFBYp4u2WgE/edit?usp=sharing) by Ian McCulloh and others.  
 > For more awesome R packages, see the [Awesome R](https://github.com/qinwf/awesome-R) list.
 
--   [Bergm](https://cran.r-project.org/web/packages/Bergm/) - Tools to analyse Bayesian exponential random graph models.
+1.  [Bergm](https://cran.r-project.org/web/packages/Bergm/) - Tools to analyse Bayesian exponential random graph models (BERGM).
 -   [CCAS](https://github.com/matthewjdenny/CCAS) - A statistical model for communication networks.
 -   [concoR](https://github.com/aslez/concoR) - A translation of the CONCOR network blockmodeling algorithm ([blog post](http://badhessian.org/2015/05/concor-in-r/)).
--   [ergm](https://cran.r-project.org/web/packages/ergm/) - Estimation of Exponential Random Graph Models.
+-   [ergm](https://cran.r-project.org/web/packages/ergm/) - Estimation of Exponential Random Graph Models (ERGM).
 -   [GERGM](https://cran.r-project.org/web/packages/GERGM/) - Estimation and diagnosis of the convergence of Generalized Exponential Random Graph Models (GERGM).
 -   [geomnet](https://cran.r-project.org/web/packages/geomnet/) - A single-geometry approach to network visualization with ggplot2.
 -   [ggnetwork](https://cran.r-project.org/web/packages/ggnetwork/) - A multiple-geometries approach to plot network objects with ggplot2.
 -   [ggraph](https://github.com/thomasp85/ggraph) - A grammar of graph graphics built in the spirit of ggplot2.
--   [hergm](https://cran.r-project.org/web/packages/hergm/) - Estimate and simulate hierarchical exponential-family random graph models with local dependence.
+-   [hergm](https://cran.r-project.org/web/packages/hergm/) - Estimate and simulate hierarchical exponential-family random graph models (HERGM) with local dependence.
 -   [igraph](http://igraph.org/r/) - A collection of network analysis tools.
 -   [latentnet](https://cran.r-project.org/web/packages/latentnet/) - Latent position and cluster models for network objects.
 -   [networkD3](http://christophergandrud.github.io/networkD3/) - D3 JavaScript network graphs from R.
@@ -156,30 +164,33 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 -   [sna](https://cran.r-project.org/web/packages/sna/) - Basic network measures and visualization tools.
 -   [spnet](http://cran.r-project.org/web/packages/spnet/) - Methods for dealing with spatial social networks.
 -   [statnet](http://statnet.org/) - The project behind many R network analysis packages.
+-   [tergm](https://cran.r-project.org/web/packages/tergm/) - Fit, simulate and diagnose models for temporal exponential-family random graph models (TERGM).
 -   [tnet](https://cran.r-project.org/web/packages/tnet/) - Network measures for weighted, two-mode and longitudinal networks.
 -   [tsna](https://cran.r-project.org/web/packages/tsna/) - Tools for temporal social network analysis.
 -   [visNetwork](https://github.com/DataKnowledge/visNetwork) - Using vis.js library for network visualization.
--   [xergm](https://cran.r-project.org/web/packages/xergm/) - Extensions of Exponential Random Graph Models.
+-   [xergm](https://cran.r-project.org/web/packages/xergm/) - Extensions of Exponential Random Graph Models (ERGM, GERGM, TERGM, TNAM and REM).
 
 ## Tutorials
 
 1.  [Analyse des réseaux : une introduction à Pajek](http://quanti.hypotheses.org/512/), in French (2011).
--   [Basic and Advanced Network Visualization with Gephi and R](http://kateto.net/sunbelt2016) (Sunbelt 2016).
--   [Exponential Random Graph Models (ERGMs) Using statnet](https://statnet.org/trac/raw-attachment/wiki/Sunbelt2015/ergm_tutorial.html) (Sunbelt 2015).
+-   [Basic and Advanced Network Visualization with Gephi and R](http://kateto.net/sunbelt2016) (2016).
+-   [Exponential Random Graph Models (ERGMs) Using statnet](https://statnet.org/trac/raw-attachment/wiki/Sunbelt2015/ergm_tutorial.html) (2015).
 -   [Guides for Using the statnet Package](http://www.melissaclarkson.com/resources/R_guides/) (2010).
 -   [Implementing an ERGM From Scratch in Python](http://davidmasad.com/blog/ergms-from-scratch/) (2014).
 -   [L'analyse des graphes bipartis](https://halshs.archives-ouvertes.fr/FMR/halshs-00794976), in French (2013).
 -   [La détection de communautés avec Pajek 3.6](http://groupefmr.hypotheses.org/544), in French (2012).
--   [Modeling Valued Networks with statnet](https://statnet.org/trac/raw-attachment/wiki/Sunbelt2013/Valued.pdf) (Sunbelt 2013).
--   [Network Analysis and Visualization with R and igraph](http://kateto.net/networks-r-igraph) (NetSciX 2016).
+-   [Modeling Valued Networks with statnet](https://statnet.org/trac/raw-attachment/wiki/Sunbelt2013/Valued.pdf) (2013).
+-   [Network Analysis and Visualization with R and igraph](http://kateto.net/networks-r-igraph) (2016).
 -   [Practical Social Network Analysis With Gephi](http://derekgreene.com/gephitutorial/) (2014).
--   [Static and Dynamic Network Visualization with R](http://kateto.net/network-visualization) (PolNet 2015).  
+-   [Static and Dynamic Network Visualization with R](http://kateto.net/network-visualization) (2015).  
 -   [Working with Bipartite/Affiliation Network Data in R](https://solomonmessing.wordpress.com/2012/09/30/working-with-bipartiteaffiliation-network-data-in-r/) (2012).
 
 ## Varia
 
--  [Blog posts about networks](http://pierremerckle.fr/category/reseaux/) by Pierre Mercklé, in French.
--  [Network Fact](https://twitter.com/networkfact) - A Twitter account about networks, graph theory, and related topics.
+1. [Blog posts about networks by Baptiste Coulmont](http://coulmont.com/index.php?s=r%C3%A9seaux), in French.
+-  [Blog posts about networks by Pierre Mercklé](http://pierremerckle.fr/category/reseaux/), in French.
+-  [Network Fact](https://twitter.com/networkfact) - 	Twitter account about networks, graph theory, and related topics.
+-  [Social network analysis software](https://en.wikipedia.org/wiki/Social_network_analysis_software) - Wikipedia English entry with links to many commercial and often outdated software.
 -  [Videos from the Political Networks 2009 conference](https://vimeo.com/user2690333).
 
 * * *
