@@ -158,6 +158,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [GDR Analyse de réseaux en sciences humaines et sociales](http://arshs.hypotheses.org/), in French.
 -   [Groupe FMR - Flux, Matrices, Réseaux](http://groupefmr.hypotheses.org/), in French.
 -   [INSNA: International Network for Social Network Analysis](http://www.insna.org/) ([SOCNET mailing-list](http://www.insna.org/pubs/socnet.html)).
+-   [Mathematical Sociology Section of the American Sociological Association (ASA)](http://www.asanet.org/sections/mathematical.cfm).
 -   [NetSci: Network Science Society](http://www.netscisociety.net/).
 -   [APSA Political Networks](http://www.polinetworks.org/) - Organized Section of the American Political Science Association.
 
