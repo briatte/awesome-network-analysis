@@ -16,16 +16,16 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 - __[Journals](#journals)__  
 - __[Professional groups](#professional-groups)__  
   - __[Research Centers](#research-centers)__  
-	- __[Research Groups](#research-groups)__  
+  - __[Research Groups](#research-groups)__  
 - __[Review Articles](#review-articles)__  
 - __[Software](#software)__  
-	- __[Algorithms](#algorithms)__  
-	- __[C / C++](#c--c)__  
+  - __[Algorithms](#algorithms)__  
+  - __[C / C++](#c--c)__  
   - __[JavaScript](#javascript)__  
   - __[MATLAB](#matlab)__  
   - __[Python](#python)__  
   - __[R](#r)__  
-	- __[Syntaxes](#syntaxes)__  
+  - __[Syntaxes](#syntaxes)__  
 - __[Tutorials](#tutorials)__  
 - __[Varia](#varia)__  
   - __[Blog Series](#blog-series)__  
