@@ -17,7 +17,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 - __[Professional groups](#professional-groups)__
 - __[Review Articles](#review-articles)__
 - __[Software](#software)__
-	- __[C/C++](#c)
+	- __[C/C++](#c--c)__
   - __[JavaScript](#javascript)__
   - __[MATLAB](#matlab)__
   - __[Python](#python)__
@@ -134,14 +134,14 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 ## Software
 
 > Several links in this section come from the [NetWiki Shared Code](http://netwiki.amath.unc.edu/SharedCode/SharedCode) page.  
-> See also the [Social Network Analysis Project Survey](https://docs.google.com/spreadsheets/d/1Xo-ehJatzmxMek6gPG0h-d7yRSuiO6_flViTQNMAku0/edit#gid=0), an earlier attempt to chart social network analysis tools, which links to many commercial platforms not included in this list, such as [Detective.io](http://www.detective.io/) ([related blog post](http://pudo.org/blog/2013/12/21/sna-survey.html)).
+> See also the [Social Network Analysis Project Survey](https://docs.google.com/spreadsheets/d/1Xo-ehJatzmxMek6gPG0h-d7yRSuiO6_flViTQNMAku0/edit#gid=0) ([blog post](http://pudo.org/blog/2013/12/21/sna-survey.html)), an earlier attempt to chart social network analysis tools, which links to many commercial platforms not included in this list, such as [Detective.io](http://www.detective.io/).
 
 1.  [CONGA and CONGO](http://www.cs.bris.ac.uk/~steve/networks/index.html) - Algorithms to detect overlapping communities in networks, written in Java.
 -   [Cytoscape](http://www.cytoscape.org/) - Cross-platform Java program to build, analyze and visualize networks.
 -   [Discourse Network Analyzer (DNA)](http://www.philipleifeld.com/discourse-network-analyzer/discourse-network-analyzer-dna.html) - Qualitative content analysis tool with network export facilities, written in Java with R integration.
 -   [Gephi](https://gephi.github.io/) - Cross-platform, free and open source tool for network visualization.
 -   [Graphviz](http://www.graphviz.org/) - Cross-platform software to draw graphs in the [DOT](http://www.graphviz.org/doc/info/lang.html) language.
--   [MuxViz](http://muxviz.net/) - Cross-platform, free and open source multilayer network analysis And visualization platform, based on R and GNU Octave.
+-   [MuxViz](http://muxviz.net/) - Cross-platform, free and open source tool to study multilayer networks, based on R and GNU Octave.
 -   [Neo4j](http://neo4j.com/) - Open source, scalable graph database, used by companies like [Linkurious](http://linkurio.us/).
 -   [NodeXL](http://nodexl.codeplex.com/) - Free, open-source template to explore network graphs with Microsoft Excel.
 -   [ORA-LITE](http://www.casos.cs.cmu.edu/projects/ora/) - Windows program for dynamic meta-network assessment and analysis.
@@ -161,8 +161,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 -   [igraph](http://igraph.org/) - C library of network analysis tools; also exists as packages for Python and R.
 -   [Louvain Method](https://sites.google.com/site/findcommunities/) - C++ code for the [Louvain multi-level community detection algorithm](http://arxiv.org/abs/0803.0476).
 -   [networks.tb](http://networks-tb.sourceforge.net/) - C program designed for analyzing socio-semantic networks. Runs on Linux and Mac OS X.
--   [Stanford Network Analysis Project](http://snap.stanford.edu/) - C++ general purpose network analysis and graph mining library;  available as a Python library and through NodeXL.
--   [Walktrap](https://www-complexnetworks.lip6.fr/~latapy/PP/walktrap.html) - C++ program that implements the [WalkTrap community detection algorithm](Computing communities in large networks using random walks (long version).
+-   [Stanford Network Analysis Project](http://snap.stanford.edu/) - C++ general purpose network analysis and graph mining library. Available as a Python library and in Microsoft Excel via NodeXL.
+-   [Walktrap](https://www-complexnetworks.lip6.fr/~latapy/PP/walktrap.html) - C++ program that implements the [WalkTrap community detection algorithm](http://arxiv.org/abs/physics/0512106).
 
 ### JavaScript
 
