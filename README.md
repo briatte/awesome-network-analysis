@@ -4,34 +4,34 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 
 ## Table of Contents
 
-- __[Books](#books)__
-  - __[General Overviews](#general-overviews)__
-  - __[Graph Theory](#graph-theory)__
-  - __[Method-specific](#method-specific)__
-  - __[Software-specific](#software-specific)__
-  - __[Topic-specific](#topic-specific)__
-- __[Conferences](#conferences)__
-- __[Courses](#courses)__
-- __[Datasets](#datasets)__
-- __[Journals](#journals)__
-- __[Professional groups](#professional-groups)__
-  - __[Research Centers](#research-centers)__
-	- __[Research Groups](#research-groups)__
-- __[Review Articles](#review-articles)__
-- __[Software](#software)__
-	- __[Algorithms](#algorithms)__
-	- __[C / C++](#c--c)__
-  - __[JavaScript](#javascript)__
-  - __[MATLAB](#matlab)__
-  - __[Python](#python)__
-  - __[R](#r)__
-	- __[Syntaxes](#syntaxes)__
-- __[Tutorials](#tutorials)__
-- __[Varia](#varia)__
-  - __[Blog Series](#blog-series)__
-  - __[Fictional Networks](#fictional-networks)__
-  - __[Network Science](#network-science)__
-  - __[Small Worlds](#small-worlds)__
+- __[Books](#books)__  
+  - __[General Overviews](#general-overviews)__  
+  - __[Graph Theory](#graph-theory)__  
+  - __[Method-specific](#method-specific)__  
+  - __[Software-specific](#software-specific)__  
+  - __[Topic-specific](#topic-specific)__  
+- __[Conferences](#conferences)__  
+- __[Courses](#courses)__  
+- __[Datasets](#datasets)__  
+- __[Journals](#journals)__  
+- __[Professional groups](#professional-groups)__  
+  - __[Research Centers](#research-centers)__  
+	- __[Research Groups](#research-groups)__  
+- __[Review Articles](#review-articles)__  
+- __[Software](#software)__  
+	- __[Algorithms](#algorithms)__  
+	- __[C / C++](#c--c)__  
+  - __[JavaScript](#javascript)__  
+  - __[MATLAB](#matlab)__  
+  - __[Python](#python)__  
+  - __[R](#r)__  
+	- __[Syntaxes](#syntaxes)__  
+- __[Tutorials](#tutorials)__  
+- __[Varia](#varia)__  
+  - __[Blog Series](#blog-series)__  
+  - __[Fictional Networks](#fictional-networks)__  
+  - __[Network Science](#network-science)__  
+  - __[Small Worlds](#small-worlds)__  
 - __[Contribution Guidelines](#contribution-guidelines)__
 
 > Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) and [Awesome Math](https://github.com/rossant/awesome-math).
