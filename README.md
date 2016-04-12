@@ -7,6 +7,8 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 ## Table of Contents
 
 - __[Books](#books)__  
+  - __[Classics](#classics)__  
+  - __[Dissemination](#dissemination)__  
   - __[General Overviews](#general-overviews)__  
   - __[Graph Theory](#graph-theory)__  
   - __[Method-specific](#method-specific)__  
@@ -39,19 +41,28 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ## Books
 
-### General Overviews
+### Classics
+
+1.  _[Social Network Analysis. Methods and Applications](http://www.cambridge.org/ar/academic/subjects/sociology/sociology-general-interest/social-network-analysis-methods-and-applications)_, by Stanley Wasserman and Katherine Faust (1994).
+-   _[The Structure and Dynamics of Networks](http://press.princeton.edu/titles/8114.html)_, edited by Mark E.J. Newman, Albert-László Barabási and Duncan J. Watts - 600 pages of classic network analysis articles (2006).
+
+### Dissemination
+
+> Accessible introductions aimed at non-technical audiences.
 
 1.  _[Linked: The New Science of Networks](https://www3.nd.edu/~networks/Linked/index.html)_, by Albert-László Barabási - [Selected chapters online](http://barabasi.com/book/linked#linked) (2002).
--   _[Network Science](http://barabasilab.neu.edu/networksciencebook/downlPDF.html)_, by Albert-László Barabási - Full book online (2016).
+-   _[Six Degrees: The Science of a Connected Age](http://books.wwnorton.com/books/detail.aspx?ID=7599)_, by Duncan J. Watts (2003). 
+
+### General Overviews
+
+1.  _[Network Science](http://barabasilab.neu.edu/networksciencebook/downlPDF.html)_, by Albert-László Barabási - Full book online (2016).
 -   _[Network Science](http://www.nap.edu/catalog/11516/network-science)_, by the U.S. National Research Council - Full book online (2005).
 -   _[Networks. An Introduction](http://www-personal.umich.edu/~mejn/networks-an-introduction/)_, by Mark E.J. Newman (2010).
 -   _[Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)_, by David Easley and Jon Kleinberg - Full pre-publication draft (2010).
 -   _[Réseaux sociaux et structures relationnelles](https://www.puf.com/content/R%C3%A9seaux_sociaux_et_structures_relationnelles)_, by Emmanuel Lazega, in French (2014).
--   _[Six Degrees: The Science of a Connected Age](http://books.wwnorton.com/books/detail.aspx?ID=7599)_, by Duncan J. Watts (2003). 
 -   _[Sociologie des réseaux sociaux](http://pierremerckle.fr/2011/02/sociologie-des-reseaux-sociaux/)_, by Pierre Mercklé, in French (2011).
 -   _[Social and Economic Networks](http://press.princeton.edu/titles/8767.html)_, by Matthew O. Jackson (2008).
--   _[Social Network Analysis. Methods and Applications](http://www.cambridge.org/ar/academic/subjects/sociology/sociology-general-interest/social-network-analysis-methods-and-applications)_, by Stanley Wasserman and Katherine Faust (1994).
--   _[The Structure and Dynamics of Networks](http://press.princeton.edu/titles/8114.html)_, edited by Mark E.J. Newman, Albert-László Barabási and Duncan J. Watts - 600 pages of classic network analysis articles (2006).
+-   _[Social Network Analysis with Applications](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118169476.html)_, by Ian McCulloh, Helen Armstrong and Anthony Johnson (2013).
 -   _[Studying Social Networks. A Guide to Empirical Research](http://press.uchicago.edu/ucp/books/book/distributed/S/bo15475096.html)_, by Marina Hennig _et al._ (2013).
 
 ### Graph Theory
