@@ -2,6 +2,8 @@
 
 An [awesome list](https://github.com/sindresorhus/awesome) of resources to construct, analyze and visualize network data.
 
+Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning), [Awesome Math](https://github.com/rossant/awesome-math) and others.
+
 ## Table of Contents
 
 - __[Books](#books)__  
@@ -34,13 +36,11 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
   - __[Small Worlds](#small-worlds)__  
 - __[Contribution Guidelines](#contribution-guidelines)__
 
-> Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) and [Awesome Math](https://github.com/rossant/awesome-math).
-
 ## Books
 
 ### General Overviews
 
--   _[Linked: The New Science of Networks](https://www3.nd.edu/~networks/Linked/index.html)_, by Albert-László Barabási - [Selected chapters online](http://barabasi.com/book/linked#linked) (2002).
+1.  _[Linked: The New Science of Networks](https://www3.nd.edu/~networks/Linked/index.html)_, by Albert-László Barabási - [Selected chapters online](http://barabasi.com/book/linked#linked) (2002).
 -   _[Network Science](http://barabasilab.neu.edu/networksciencebook/downlPDF.html)_, by Albert-László Barabási - Full book online (2016).
 -   _[Network Science](http://www.nap.edu/catalog/11516/network-science)_, by the U.S. National Research Council - Full book online (2005).
 -   _[Networks. An Introduction](http://www-personal.umich.edu/~mejn/networks-an-introduction/)_, by Mark E.J. Newman (2010).
@@ -81,7 +81,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 
 1.  [European Conference on Social Networks](http://eusn.org/) (EUSN).
 -   [PolNet - Annual Political Networks Workshops and Conference](http://conference.polinetworks.org/) (APSA).
-	-   [Videos from the Political Networks 2009 Conference](https://vimeo.com/user2690333).
+  -   [Videos from the Political Networks 2009 Conference](https://vimeo.com/user2690333).
 -   [NetSci](http://www.netscisociety.net/) (Network Science Society).
 -   [Sunbelt](http://www.insna.org/archives.html) (INSNA).
 
@@ -208,7 +208,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 
 ### Algorithms
 
-> Network placement and community detection algorithms that do not fit in any of the following language-specific subsections.
+> Network placement and community detection algorithms that do not fit in any of the next subsections.  
+> See also the [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) and [Awesome Algorithm](https://github.com/enjalot/algovis) Visualization lists for even more mad algorithmic awesomess.
 
 1.  [CONGA and CONGO](http://www.cs.bris.ac.uk/~steve/networks/index.html) - Algorithms to detect overlapping communities in networks, written in Java.
 -   [ForceAtlas2](https://gephi.wordpress.com/2011/06/06/forceatlas2-the-new-version-of-our-home-brew-layout/) - Force-directed layout included in Gephi ([paper](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0098679)).
@@ -216,6 +217,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 -   [weighted-modularity-LPAwbPLUS](https://github.com/sjbeckett/weighted-modularity-LPAwbPLUS) - Julia, MATLAB and R implementations of two algorithms to find weighted modularity in bipartite networks.
 
 ### C / C++
+
+> For more awesome C / C++ content, see the [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) and [Awesome C / C++](https://github.com/fffaraz/awesome-cpp) lists.
 
 1.  [Benchmark Graphs to Test Community Detection Algorithms](https://sites.google.com/site/santofortunato/inthepress2) - C++ code to generate weighted and unweighted graphs.
 -   [Boost Graph Library (BGL)](http://www.boost.org/doc/libs/1_60_0/libs/graph/doc/) - C++ library that provides a generic interface to access graph structures.
@@ -300,10 +303,11 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 -   [JUNG — Java Universal Network/Graph Framework](http://jung.sourceforge.net/) - Extensible library to represent network objects.
 -   [GraphML](http://graphml.graphdrawing.org/) - Comprehensive and easy-to-use file format for graphs ([handbook chapter](https://www.uni-konstanz.de/mmsp/pubsys/publishedFiles/BrEiLe10.pdf)).
 -   [PGF/TikZ](http://www.ctan.org/tex-archive/graphics/pgf/) - [Tandem](https://en.wikipedia.org/wiki/PGF/TikZ) of vector graphics languages that can be used to draw graphs in the [LaTeX](https://latex-project.org/) typesetting environment.
-	-   [How to Draw Graphs in LaTeX?](https://tex.stackexchange.com/questions/57152/how-to-draw-graphs-in-latex)
-	-   [TikZ Graph Examples](http://www.texample.net/tikz/examples/tag/graphs/).
-	-   [TikZ & PGF Manual](http://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/graphics/pgf/base/doc/pgfmanual.pdf).
-	-   [TKZ](http://altermundus.com/pages/tkz/index.html) - Packages based on TikZ.
+  -   [Awesome LaTeX: TiKZ](https://github.com/egeerardyn/awesome-LaTeX#tikz).
+  -   [How to Draw Graphs in LaTeX?](https://tex.stackexchange.com/questions/57152/how-to-draw-graphs-in-latex)
+  -   [TikZ Graph Examples](http://www.texample.net/tikz/examples/tag/graphs/).
+  -   [TikZ & PGF Manual](http://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/graphics/pgf/base/doc/pgfmanual.pdf).
+  -   [TKZ](http://altermundus.com/pages/tkz/index.html) - Packages based on TikZ.
 
 ## Tutorials
 
@@ -328,7 +332,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 -   [Basic Notions for the Analysis of Large Two-mode Networks](https://www-complexnetworks.lip6.fr/~latapy/Publis/socnet07.pdf) - Introduction to bipartite network analysis ([related code](https://www-complexnetworks.lip6.fr/~latapy/Bip/)).
 -   [David Knoke on Network Analysis](https://thesocietypages.org/methods/2015/01/30/david-knoke-on-network-analysis/) - A 20-minute interview that discusses the uses and benefits of network analysis, drawing upon Knoke's research on terrorist networks.
 -   [NetWiki](http://netwiki.amath.unc.edu/Main/HomePage) - Wiki of various network analysis resources.
--   [Network Fact](https://twitter.com/networkfact) - 	Twitter account about networks, graph theory, and related topics.
+-   [Network Fact](https://twitter.com/networkfact) -   Twitter account about networks, graph theory, and related topics.
 -   [Tarot cards for Principles of Complex Systems and Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/tarotcards/) - Part of a course by Peter Sheridan Dodds.
 -   [The Performativity of Networks](http://kieranhealy.org/files/papers/performativity.pdf) - A paper that connects network theory to the sociology of science.
 
