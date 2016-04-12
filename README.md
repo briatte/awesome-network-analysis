@@ -33,20 +33,21 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 ### General Overviews
 
 1.  _[Networks. An Introduction](http://www-personal.umich.edu/~mejn/networks-an-introduction/)_, by Mark E.J. Newman (2010).
--   _[Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)_, by David Easley and Jon Kleinberg - Complete pre-publication draft online (2010).
+-   _[Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)_, by David Easley and Jon Kleinberg - Complete pre-publication draft (2010).
 -   _[Réseaux sociaux et structures relationnelles](https://www.puf.com/content/R%C3%A9seaux_sociaux_et_structures_relationnelles)_, by Emmanuel Lazega, in French (2014).
 -   _[Sociologie des réseaux sociaux](http://pierremerckle.fr/2011/02/sociologie-des-reseaux-sociaux/)_, by Pierre Mercklé, in French (2011).
+-   _[Social and Economic Networks](http://press.princeton.edu/titles/8767.html)_, by Matthew O. Jackson (2008).
 -   _[Social Network Analysis. Methods and Applications](http://www.cambridge.org/ar/academic/subjects/sociology/sociology-general-interest/social-network-analysis-methods-and-applications)_, by Stanley Wasserman and Katherine Faust (1994).
 -   _[Studying Social Networks. A Guide to Empirical Research](http://press.uchicago.edu/ucp/books/book/distributed/S/bo15475096.html)_, by Marina Hennig _et al._ (2013).
 
 ### Graph Theory
 
 1.   _[Graph Theory](http://www.cs.unibo.it/babaoglu/courses/cas00-01/tutorials/GraphTheory.pdf)_, by Reinhard Diestel - Full electronic version online (2000).
--    [Graph Theory and Applications](http://www.hamilton.ie/ollie/Downloads/Graph.pdf), by Paul Van Dooren - Full lecture slides (Hamilton Institute, Dublin, 2009).
 
 ### Method-specific
 
 1. _[Exponential Random Graph Models for Social Networks](http://www.cambridge.org/9780521193566)_, edited by Dean Lusher, Johan Koskinen and Garry Robins (2013).
+-  _Inferential Network Analysis_, by Skyler J. Cranmer, Bruce A. Desmarais and Jason Morgan (forthcoming).
 -  _[Multilevel Network Analysis for the Social Sciences](https://www.springer.com/fr/book/9783319245188)_, edited by Emmanuel Lazega and Tom A.B. Snijders (2016).
 -  _[Network Analysis: Methodological Foundations](https://www.springer.com/fr/book/9783540249795)_, edited by Ulrik Brandes and Thomas Erlebach - Covers network centrality, clustering, blockmodels, spatial networks and more (2005).
 -   _[Political Networks. The Structural Perspective](http://www.cambridge.org/ar/academic/subjects/sociology/political-sociology/political-networks-structural-perspective)_, by David Knoke (1994).
@@ -73,7 +74,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 ## Courses
 
 1.  [Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/), by Peter Sheridan Dodds (University of Vermont, 2016).
--   [Graph Theory: Penn State Math 485 Lecture Notes](http://www.personal.psu.edu/cxg286/Math485.pdf), by Christopher Griffin - Full lecture notes online (Penn State University, 2012).
+-    [Graph Theory and Applications](http://www.hamilton.ie/ollie/Downloads/Graph.pdf), by Paul Van Dooren - Full lecture slides (Hamilton Institute, Dublin, 2009).
+-   [Graph Theory: Penn State Math 485 Lecture Notes](http://www.personal.psu.edu/cxg286/Math485.pdf), by Christopher Griffin - Full lecture notes (Penn State University, 2012).
 -   [Networks, Complexity and Its Applications](http://ocw.mit.edu/courses/media-arts-and-sciences/mas-961-networks-complexity-and-its-applications-spring-2011/), by Cesar Hidalgo (MIT, 2011).
 -   [Networks (Economics)](http://ocw.mit.edu/courses/economics/14-15j-networks-fall-2009/), by Daron Acemoglu and Asu Ozdaglar (MIT, 2009).
 -   [Political Networks: Methods and Applications](http://vanity.dss.ucdavis.edu/~maoz/networks/Spring%202011/pol279-11.htm), by Zeev Maoz (University of California in Davis, 2012).
@@ -232,6 +234,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 -   [Implementing an ERGM From Scratch in Python](http://davidmasad.com/blog/ergms-from-scratch/) (2014).
 -   [L'analyse des graphes bipartis](https://halshs.archives-ouvertes.fr/FMR/halshs-00794976), in French (2013).
 -   [La détection de communautés avec Pajek 3.6](http://groupefmr.hypotheses.org/544), in French (2012).
+-  [Lessons on Exponential Random Graph Modeling from _Grey’s Anatomy_ hook-ups](http://badhessian.org/2012/09/lessons-on-exponential-random-graph-modeling-from-greys-anatomy-hook-ups/) (2012).
 -   [Modeling Valued Networks with statnet](https://statnet.org/trac/raw-attachment/wiki/Sunbelt2013/Valued.pdf) (2013).
 -   [Network Analysis and Visualization with R and igraph](http://kateto.net/networks-r-igraph) (2016).
 -   [Practical Social Network Analysis With Gephi](http://derekgreene.com/gephitutorial/) (2014).
@@ -241,17 +244,16 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 ## Varia
 
 1. [A Sociology Citation Network](http://nealcaren.web.unc.edu/a-sociology-citation-network/) and [A Co-citation Network for Philosophy](https://kieranhealy.org/blog/archives/2013/06/18/a-co-citation-network-for-philosophy/) - Examples of scientific co-citation networks.
--  [Basic Notions for the Analysis of Large Two-mode Networks](https://www-complexnetworks.lip6.fr/~latapy/Publis/socnet07.pdf) - Efficient introduction to bipartites network analysis ([related code](https://www-complexnetworks.lip6.fr/~latapy/Bip/)).
+-  [Basic Notions for the Analysis of Large Two-mode Networks](https://www-complexnetworks.lip6.fr/~latapy/Publis/socnet07.pdf) - Introduction to bipartite network analysis ([related code](https://www-complexnetworks.lip6.fr/~latapy/Bip/)).
 -  [Blog Posts About Networks on the Bad Hessian Blog](http://badhessian.org/category/networks/), by various contributors.
 -  [Blog Posts About Networks by Baptiste Coulmont](http://coulmont.com/index.php?s=r%C3%A9seaux), in French.
 -  [Blog Posts About Networks by Pierre Mercklé](http://pierremerckle.fr/category/reseaux/), in French.
 -  [Center for Network Science](http://cns.ceu.edu/) - A research center with a PhD in Network Science program at the Central European University in Budapest.
 -  [David Knoke on Network Analysis](https://thesocietypages.org/methods/2015/01/30/david-knoke-on-network-analysis/) - A 20-minute interview that discusses the uses and benefits of network analysis, drawing upon Knoke's research on terrorist networks.
--  [How Small is the World, Really?](https://medium.com/@duncanjwatts/how-small-is-the-world-really-736fa21808ba#.kyr90lhyo) - A discussion of the "x degrees of separation" experiments (both [Milgram's original one](https://en.wikipedia.org/wiki/Small-world_experiment) and the [recent one](https://research.facebook.com/blog/three-and-a-half-degrees-of-separation/) by Facebook).
--  [How to Draw Graphs in LaTeX?](https://tex.stackexchange.com/questions/57152/how-to-draw-graphs-in-latex) - A simple illustration of how to use [PGF/TikZ](https://en.wikipedia.org/wiki/PGF/TikZ) to draw graphs in the [LaTeX](https://latex-project.org/) typesetting environment.
--  [Interdependence in Governance and Policy](https://sites.psu.edu/desmaraisgroup/) - Network-oriented research group led by Bruce Desmarais at Penn State University.
+-  [How Small is the World, Really?](https://medium.com/@duncanjwatts/how-small-is-the-world-really-736fa21808ba#.kyr90lhyo) - A discussion of "x degrees of separation" small-world experiments.
+-  [How to Draw Graphs in LaTeX?](https://tex.stackexchange.com/questions/57152/how-to-draw-graphs-in-latex) - An illustration of how to use [PGF/TikZ](https://en.wikipedia.org/wiki/PGF/TikZ) to draw graphs in the [LaTeX](https://latex-project.org/) typesetting environment.
+-  [Interdependence in Governance and Policy](https://sites.psu.edu/desmaraisgroup/) - Network-oriented research group led by Bruce A. Desmarais at Penn State University.
 -  [Large Graphs and Networks](http://sites.uclouvain.be/networks/) - Research group at the Catholic University of Louvain.
--  [Lessons on Exponential Random Graph Modeling from _Grey’s Anatomy_ hook-ups](http://badhessian.org/2012/09/lessons-on-exponential-random-graph-modeling-from-greys-anatomy-hook-ups/) - A step-by-step explanation of how exponential-family random graph models work.
 -  [NetWiki](http://netwiki.amath.unc.edu/Main/HomePage) - Wiki of various network analysis resources.
 -  [Networks Demystified](http://scottbot.net/tag/networks-demystified/), a series of blog posts by Scott B. Weingart.
 -  [Network Fact](https://twitter.com/networkfact) - 	Twitter account about networks, graph theory, and related topics.
