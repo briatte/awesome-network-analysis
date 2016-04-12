@@ -15,8 +15,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 - __[Datasets](#datasets)__  
 - __[Journals](#journals)__  
 - __[Professional groups](#professional-groups)__  
-  - __[Research Centers](#research-centers)__  
-	- __[Research Groups](#research-groups)__  
+  - __[Research Centers](#research-centers)__  
+	- __[Research Groups](#research-groups)__  
 - __[Review Articles](#review-articles)__  
 - __[Software](#software)__  
 	- __[Algorithms](#algorithms)__  
