@@ -27,6 +27,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
   - __[MATLAB](#matlab)__  
   - __[Python](#python)__  
   - __[R](#r)__  
+  - __[Stata](#stata)__  
   - __[Syntaxes](#syntaxes)__  
 - __[Tutorials](#tutorials)__  
 - __[Varia](#varia)__  
@@ -301,7 +302,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ### Stata
 
-1.  [nwcommands: Network Analysis Using Stata](https://nwcommands.wordpress.com/) ([discussion](http://www.statalist.org/forums/forum/general-stata-discussion/general/1290963-network-analysis-which-command-to-use)).
+1.  [nwcommands: Network Analysis Using Stata](https://nwcommands.wordpress.com/) ([discussion](http://www.statalist.org/forums/forum/general-stata-discussion/general/1290963-network-analysis-which-command-to-use), [tutorials and slides](https://nwcommands.wordpress.com/tutorials-and-slides/)).
 2.  [SNA with Stata](http://www.rensecorten.org/index.php/category/sna-with-stata/) - Blog documenting the use of the netplot Stata package.
 
 ### Syntaxes
