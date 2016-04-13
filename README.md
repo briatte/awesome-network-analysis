@@ -132,7 +132,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [KONECT - The Koblenz Network Collection](http://konect.uni-koblenz.de/).
 -   [James H. Fowler's Cosponsorship Network Data Page](http://jhfowler.ucsd.edu/cosponsorship.htm).
 -   [Manlio De Domenico's Multilayer Networks](http://deim.urv.cat/~manlio.dedomenico/data.php).
--   [Mark E.J. Newman's Network Data](http://www-personal.umich.edu/~mejn/netdata/).
+-   [Mark E.J. Newman's Network Data](http://www-personal.umich.edu/~mejn/netdata/) ([example visualizations](http://www-personal.umich.edu/~mejn/networks/)).
 -   [Pajek Datasets](http://vlado.fmf.uni-lj.si/pub/networks/data/).
 -   [Siena Datasets](http://www.stats.ox.ac.uk/~snijders/siena/siena_datasets.htm).
 -   [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html).
