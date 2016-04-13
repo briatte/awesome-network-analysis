@@ -37,7 +37,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
   - __[Fictional Networks](#fictional-networks)__  
   - __[Network Science](#network-science)__  
   - __[Small Worlds](#small-worlds)__  
-- __[Contribution Guidelines](#contribution-guidelines)__
+- __[Contribution Guidelines](CONTRIBUTING.md)__
 - __[License](#license)__
 
 ## Books
@@ -440,35 +440,6 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -  [Six Degrees of Separation](https://en.wikipedia.org/wiki/Six_degrees_of_separation) - Wikipedia English entry.
 
 * * *
-
-## Contribution Guidelines
-
-Please contribute to this list by sending a [pull request](https://github.com/briatte/awesome-network-analysis/pulls).
-
-- __All resources__ are listed alphabetically, with date and language mentions when relevant.
-- __Authors__ are required for books and courses only, but are also mentioned for blog series.
-- __Italics__ are used for books and journal names.
-- __Journals__ require the name of the publisher.
-- __Quotes__ are not used.
-- __Monospace__ is not used.
-- __Review Articles__ require a journal and a date.
-- __R packages__: please consider citing the stable __CRAN__ version when it exists. 
-- __Python packages__: please consider citing the __PyPi__ version when it exists.
-- __Software__ should be at least free for noncommercial use (only few exceptions will be granted).
-
-Please use U.S. English and remember that an awesome list has to be, well, awesome. The "[Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)" states:
-
-> __Only awesome is awesome__
-> 
-> Research if the stuff you're including is actually awesome. Put only stuff on the list you or another contributor can personally recommend and rather leave stuff out than include too much.  
->
-> ...
-> 
-> __Comment on why something is awesome__  
->  
-> Apart from suggesting a particular item on your list, you should also inform your readers why it's on the list and how they will benefit from it.
-
-Please also add your name to the copyright waiver below, with an optional link to your personal homepage, GitHub profile or social media profile.
 
 ## License
 
