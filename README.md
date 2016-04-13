@@ -424,13 +424,14 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ## Contribution Guidelines
 
-Please contribute to this list by sending a [pull request](https://github.com/briatte/awesome-network-analysis/pulls) after reading the [Contribution Guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) for stylistic indications.
+Please contribute to this list by sending a [pull request](https://github.com/briatte/awesome-network-analysis/pulls).
 
 - __All resources__ are listed alphabetically, with date and language mentions when relevant.
 - __Authors__ are required for books and courses only, but are also mentioned for blog series.
 - __Italics__ are used for books and journal names.
 - __Journals__ require the name of the publisher.
 - __Quotes__ are not used.
+- __Monospace__ is not used.
 - __Review Articles__ require a journal and a date.
 - __R packages__: please consider citing the stable __CRAN__ version when it exists. 
 - __Python packages__: please consider citing the __PyPi__ version when it exists.
