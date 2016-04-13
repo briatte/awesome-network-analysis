@@ -191,15 +191,15 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ## Review Articles
 
-1.  "[Basic Notions for the Analysis of Large Two-mode Networks](http://www.sciencedirect.com/science/article/pii/S0378873307000494)"  ([preprint](https://www-complexnetworks.lip6.fr/~latapy/Publis/socnet07.pdf), [related code](https://www-complexnetworks.lip6.fr/~latapy/Bip/); _Social Networks_, 2008).
--   "[Biological Networks](http://algo.uni-konstanz.de/publications/bbs-bn-13.pdf)" (_Handbook of Graph Drawing and Visualization_, 2013).
--   "[Graph Theory and Networks in Biology](http://dx.doi.org/10.1049/iet-syb:20060038)" ([preprint](http://arxiv.org/abs/q-bio/0604006); _IET Systems Biology_, 2007).
--   "[Network Analysis and Political Science](http://www.annualreviews.org/doi/abs/10.1146/annurev.polisci.12.040907.115949)" (_Annual Review of Political Science_, 2011).
--   "[Networks and History](http://onlinelibrary.wiley.com/doi/10.1002/cplx.10054/abstract)" (_Complexity_, 2002).
--   "[Social Network Algorithms and Software](http://www.sciencedirect.com/science/article/pii/B9780080970868431211)" (_International Encyclopedia of Social and Behavioral Sciences_, 2015).
--   "[Social Network Analysis in the Study of Terrorism and Political Violence](http://journals.cambridge.org/article_S1049096510001848)" ([preprint](http://opensiuc.lib.siu.edu/cgi/viewcontent.cgi?article=1048&context=pn_wp); _PS: Political Science and Politics_, 2011).
--   "[Statistical Models for Social Networks](http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.012809.102709)" (_Annual Review of Sociology_, 2011).
--   "[The Structure and Function of Complex Networks](http://epubs.siam.org/doi/abs/10.1137/S003614450342480)" (_SIAM Review_, 2003).
+1.  [Basic Notions for the Analysis of Large Two-mode Networks](http://www.sciencedirect.com/science/article/pii/S0378873307000494)  ([preprint](https://www-complexnetworks.lip6.fr/~latapy/Publis/socnet07.pdf), [related code](https://www-complexnetworks.lip6.fr/~latapy/Bip/); _Social Networks_, 2008).
+-   [Biological Networks](http://algo.uni-konstanz.de/publications/bbs-bn-13.pdf) (_Handbook of Graph Drawing and Visualization_, 2013).
+-   [Graph Theory and Networks in Biology](http://dx.doi.org/10.1049/iet-syb:20060038) ([preprint](http://arxiv.org/abs/q-bio/0604006); _IET Systems Biology_, 2007).
+-   [Network Analysis and Political Science](http://www.annualreviews.org/doi/abs/10.1146/annurev.polisci.12.040907.115949) (_Annual Review of Political Science_, 2011).
+-   [Networks and History](http://onlinelibrary.wiley.com/doi/10.1002/cplx.10054/abstract) (_Complexity_, 2002).
+-   [Social Network Algorithms and Software](http://www.sciencedirect.com/science/article/pii/B9780080970868431211) (_International Encyclopedia of Social and Behavioral Sciences_, 2015).
+-   [Social Network Analysis in the Study of Terrorism and Political Violence](http://journals.cambridge.org/article_S1049096510001848) ([preprint](http://opensiuc.lib.siu.edu/cgi/viewcontent.cgi?article=1048&context=pn_wp); _PS: Political Science and Politics_, 2011).
+-   [Statistical Models for Social Networks](http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.012809.102709) (_Annual Review of Sociology_, 2011).
+-   [The Structure and Function of Complex Networks](http://epubs.siam.org/doi/abs/10.1137/S003614450342480) (_SIAM Review_, 2003).
 
 ## Software
 
@@ -427,7 +427,9 @@ Please contribute to this list by sending a [pull request](https://github.com/br
 
 - __All resources__ are listed alphabetically, with date and language mentions when relevant.
 - __Authors__ are required for books and courses only, but are also mentioned for blog series.
+- __Italics__ are used for books and journal names.
 - __Journals__ require the name of the publisher.
+- __Quotes__ are not used.
 - __Review Articles__ require a journal and a date.
 - __R packages__: please consider citing the stable __CRAN__ version when it exists. 
 - __Python packages__: please consider citing the __PyPi__ version when it exists.
