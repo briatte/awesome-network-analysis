@@ -372,6 +372,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Glossary of terms for statistical network models](https://statnet.org/trac/raw-attachment/wiki/Resources/glossary.pdf).
 -   [Network Fact](https://twitter.com/networkfact) -   Twitter account about networks, graph theory, and related topics.
 -   [The Performativity of Networks](http://kieranhealy.org/files/papers/performativity.pdf) - Paper that connects network theory to the sociology of science.
+-   [Plan interactif du métro](http://www.jeromecukier.net/projects/metro/map.html) - An interactive visualization of the Paris metro network, drawn with d3.js, in French.
 -   [Social Networks](http://eszter.com/contract.html#socnet) - Reading list of sociological classics about social networks: Bonacich, Borgatti and Everett, Burt, Emirbayer, Freeman, Granovetter, Padgett and Ansell, Simmel, Wellman, etc.
 -   [Tarot Cards for Principles of Complex Systems and Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/tarotcards/) - Part of a course by Peter Sheridan Dodds.
 -   Research on the structural position of Paul Revere during the American Revolution:
@@ -416,7 +417,12 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 > Explorations of fictional character networks.
 
-1.  [Lessons on Exponential Random Graph Modeling from _Grey’s Anatomy_ hook-ups](http://badhessian.org/2012/09/lessons-on-exponential-random-graph-modeling-from-greys-anatomy-hook-ups/).
+1.  Networks based on the _Game of Thrones_ book and TV series:
+  - [A Social Network of Fire and Ice](http://www.zengxiaohan.com/data/a-social-network-song-ice-fire) - Ties between characters who know each other in the TV show.
+  - [Events in the Game of Thrones](http://www.jeromecukier.net/projects/agot/events.html) - Networked chronology of all alliances and kills in the books.
+  - [Places in the Game of Thrones](http://www.jeromecukier.net/projects/agot/places.html) - Geographic network of all character travels in the books.
+  - [Network of Thrones](http://www.maa.org/sites/default/files/pdf/Mathhorizons/NetworkofThrones%20%281%29.pdf) - Network-driven search for influential characters in the third book of the series.
+-   [Lessons on Exponential Random Graph Modeling from _Grey’s Anatomy_ hook-ups](http://badhessian.org/2012/09/lessons-on-exponential-random-graph-modeling-from-greys-anatomy-hook-ups/).
 -   [Star Wars Social Networks: The Force Awakens](http://evelinag.com/blog/2016/01-25-social-network-force-awakens/index.html) - Example of a social network analysis written in F#.
 
 ### Network Science
