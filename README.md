@@ -203,6 +203,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 ## Review Articles
 
 1.  [Basic Notions for the Analysis of Large Two-mode Networks](http://www.sciencedirect.com/science/article/pii/S0378873307000494)  ([preprint](https://www-complexnetworks.lip6.fr/~latapy/Publis/socnet07.pdf), [related code](https://www-complexnetworks.lip6.fr/~latapy/Bip/); _Social Networks_, 2008).
+2.  [Brokerage](http://www.annualreviews.org/doi/abs/10.1146/annurev-soc-081309-150054) (_Annual Review of Sociology_, 2012).
 -   [Biological Networks](http://algo.uni-konstanz.de/publications/bbs-bn-13.pdf) (_Handbook of Graph Drawing and Visualization_, 2013).
 -   [Birds of a Feather: Homophily in Social Networks](http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.27.1.415) (_Annual Review of Sociology_, 2001).
 -   [Graph Theory and Networks in Biology](http://dx.doi.org/10.1049/iet-syb:20060038) ([preprint](http://arxiv.org/abs/q-bio/0604006); _IET Systems Biology_, 2007).
@@ -368,6 +369,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 > Resources that does not fit in other categories.
 
 1.  [A Sociology Citation Network](http://nealcaren.web.unc.edu/a-sociology-citation-network/) and [A Co-citation Network for Philosophy](https://kieranhealy.org/blog/archives/2013/06/18/a-co-citation-network-for-philosophy/) - Examples of scientific co-citation networks.
+-   [Chains of Affection: The Structure of Adolescent Romantic and Sexual Networks](http://www.soc.duke.edu/~jmoody77/chains.pdf) - CLassic example of a real-world sexual network.
 -   [David Knoke on Network Analysis](https://thesocietypages.org/methods/2015/01/30/david-knoke-on-network-analysis/) - A 20-minute interview that discusses the uses and benefits of network analysis, drawing upon Knoke's research on terrorist networks.
 -   [Glossary of terms for statistical network models](https://statnet.org/trac/raw-attachment/wiki/Resources/glossary.pdf).
 -   [Network Fact](https://twitter.com/networkfact) -   Twitter account about networks, graph theory, and related topics.
