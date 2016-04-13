@@ -126,10 +126,12 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 1.  [Barabási and Albert Network Datasets](https://www3.nd.edu/~networks/resources.htm).
 -   [Bill Cosponsorship Networks in European Parliaments](https://github.com/briatte/parlnet).
+-   [Connectome](http://openconnecto.me/graph-services/download/) - Comprehensive maps of neural connections.
 -   [Enron Email Dataset](https://www.cs.cmu.edu/~enron/).
 -   [Eric D. Kolaczyk's Network Datasets](http://math.bu.edu/people/kolaczyk/datasets.html).
 -   [Gephi Datasets](https://github.com/gephi/gephi/wiki/Datasets).
 -   [igraphdata](https://cran.r-project.org/web/packages/igraphdata/index.html) (R data-centric package).
+-   [Interaction Web Database](https://www.nceas.ucsb.edu/interactionweb/resources.html) - Ecological species interactions.
 -   [KONECT - The Koblenz Network Collection](http://konect.uni-koblenz.de/).
 -   [James H. Fowler's Cosponsorship Network Data Page](http://jhfowler.ucsd.edu/cosponsorship.htm).
 -   [Manlio De Domenico's Multilayer Networks](http://deim.urv.cat/~manlio.dedomenico/data.php).
