@@ -385,7 +385,8 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 > Series of blog posts on network topics.  
 > For more blog posts on manipulating networks with R, try searching for [‘networks’](http://www.r-bloggers.com/?s=networks) or [‘social network analysis’](http://www.r-bloggers.com/?s=social+network+analysis) on the [R-Bloggers](http://www.r-bloggers.com/) R blogs aggregator.
 
-1.  [Blog Posts About Networks by Baptiste Coulmont](http://coulmont.com/index.php?s=r%C3%A9seaux), in French.
+1.  [Blog Posts About Networks by Aaron Clauset](https://www.cs.unm.edu/~aaron/blog/archives/networks/index.htm).
+-   [Blog Posts About Networks by Baptiste Coulmont](http://coulmont.com/index.php?s=r%C3%A9seaux), in French.
 -   [Blog Posts About Networks by Cosma Shalizi](http://bactra.org/weblog/cat_networks.html).
 -   [Blog Posts About Networks by François Briatte](http://politbistro.hypotheses.org/tag/reseaux), in French.
 -   [Blog Posts About Networks by Katya Ognyanova](http://kateto.net/networks).
