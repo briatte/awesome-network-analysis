@@ -138,7 +138,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ## Journals
 
-> Journals that are not fully open-access are marked as "gated".
+> Journals that are not fully open-access are marked as "gated". Please also note that some of the publishers listed below are [deeply hurting](https://twitter.com/costofknowledge) scientific publishing.
 
 1.  _[Applied Network Science](http://appliednetsci.springeropen.com/)_ (Springer Open).
 -   _[Computational and Mathematical Organization Theory](http://link.springer.com/journal/10588)_ (Springer, gated).
