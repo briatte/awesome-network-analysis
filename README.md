@@ -19,8 +19,8 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 - __[Datasets](#datasets)__  
 - __[Journals](#journals)__  
 - __[Professional groups](#professional-groups)__  
-  - __[Research Centers](#research-centers)__  
-  - __[Research Groups](#research-groups)__  
+  - __[Research Centers](#research-centers)__  
+  - __[Research Groups](#research-groups)__  
 - __[Review Articles](#review-articles)__  
 - __[Software](#software)__  
   - __[Algorithms](#algorithms)__  
@@ -38,6 +38,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
   - __[Network Science](#network-science)__  
   - __[Small Worlds](#small-worlds)__  
 - __[Contribution Guidelines](#contribution-guidelines)__
+- __[License](#license)__
 
 ## Books
 
