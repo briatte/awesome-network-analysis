@@ -368,21 +368,15 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 > Resources that does not fit in other categories.
 
 1.  [A Sociology Citation Network](http://nealcaren.web.unc.edu/a-sociology-citation-network/) and [A Co-citation Network for Philosophy](https://kieranhealy.org/blog/archives/2013/06/18/a-co-citation-network-for-philosophy/) - Examples of scientific co-citation networks.
--   Attempts to represent Middle Eastern politics as (signed) networks:
-  -   [The Complete Idiot's Chart to Understanding the Middle East - Updated](https://twitter.com/thebigpharaoh/status/372030907806269441) - Relationships as of 2013.
-  -   [The Middle Eastern Mesh](http://www.economist.com/blogs/graphicdetail/2015/04/daily-chart-0) - Alliances only, as of 2015.
-  -   [Picking Sides](https://codeandculture.wordpress.com/2015/04/03/picking-sides/) - Community detection in the alliances network.
-  -   [MENA Alliances Network](https://gist.github.com/briatte/c6df2f855afb4eb142e6) - Slightly updated version of the same network.
 -   [David Knoke on Network Analysis](https://thesocietypages.org/methods/2015/01/30/david-knoke-on-network-analysis/) - A 20-minute interview that discusses the uses and benefits of network analysis, drawing upon Knoke's research on terrorist networks.
 -   [Glossary of terms for statistical network models](https://statnet.org/trac/raw-attachment/wiki/Resources/glossary.pdf).
 -   [Network Fact](https://twitter.com/networkfact) -   Twitter account about networks, graph theory, and related topics.
 -   [The Performativity of Networks](http://kieranhealy.org/files/papers/performativity.pdf) - Paper that connects network theory to the sociology of science.
+-   [Picking Sides](https://codeandculture.wordpress.com/2015/04/03/picking-sides/) - Community detection in the political network of Middle Eastern alliances between various state and nonstate powers ([updated version](https://gist.github.com/briatte/c6df2f855afb4eb142e6)).
 -   [Plan interactif du métro](http://www.jeromecukier.net/projects/metro/map.html) - An interactive visualization of the Paris metro network, drawn with d3.js, in French.
 -   [Social Networks](http://eszter.com/contract.html#socnet) - Reading list of sociological classics about social networks: Bonacich, Borgatti and Everett, Burt, Emirbayer, Freeman, Granovetter, Padgett and Ansell, Simmel, Wellman, etc.
 -   [Tarot Cards for Principles of Complex Systems and Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/tarotcards/) - Part of a course by Peter Sheridan Dodds.
--   Research on the structural position of Paul Revere during the American Revolution:
-  -  [Using Metadata to Find Paul Revere](https://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/)
-  -  [The Other Ride of Paul Revere: The Brokerage Role in the Making of the American Revolution](http://www.sscnet.ucla.edu/polisci/faculty/chwe/ps269/han.pdf)
+-   [Using Metadata to Find Paul Revere](https://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/) and [The Other Ride of Paul Revere: The Brokerage Role in the Making of the American Revolution](http://www.sscnet.ucla.edu/polisci/faculty/chwe/ps269/han.pdf) - Network analysis applied to American revolutionaries.
 
 ### Blog Series
 
@@ -422,23 +416,16 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 > Explorations of fictional character networks.
 
-1.  Networks based on the _Game of Thrones_ book and TV series:
-  - [A Social Network of Fire and Ice](http://www.zengxiaohan.com/data/a-social-network-song-ice-fire) - Ties between characters who know each other in the TV show.
-  - [Events in the Game of Thrones](http://www.jeromecukier.net/projects/agot/events.html) - Networked chronology of all alliances and kills in the books.
-  - [Places in the Game of Thrones](http://www.jeromecukier.net/projects/agot/places.html) - Geographic network of all character travels in the books.
-  - [Network of Thrones](http://www.maa.org/sites/default/files/pdf/Mathhorizons/NetworkofThrones%20%281%29.pdf) - Network-driven search for influential characters in the third book of the series.
+1.  [Events in the _Game of Thrones_](http://www.jeromecukier.net/projects/agot/events.html) and [Places in the _Game of Thrones_](http://www.jeromecukier.net/projects/agot/places.html) - Networked chronologies of character alliances, kills and travels in the book series.
 -   [Lessons on Exponential Random Graph Modeling from _Grey’s Anatomy_ hook-ups](http://badhessian.org/2012/09/lessons-on-exponential-random-graph-modeling-from-greys-anatomy-hook-ups/).
--   [Star Wars Social Networks: The Force Awakens](http://evelinag.com/blog/2016/01-25-social-network-force-awakens/index.html) - Example of a social network analysis written in F#.
+-   [_Star Wars_ Social Networks: The Force Awakens](http://evelinag.com/blog/2016/01-25-social-network-force-awakens/index.html) - Example of a social network analysis written in F#.
 
 ### Network Science
 
 > Discussions of what "netsci" is about and means for other scientific disciplines.
 
-1.  The following blog posts about social networks (listed in chronological order) predate the advent of "network science" as a buzzword, but discuss the same issues as those now being discussed under that heading:
-  -   [Isolated Social Networkers](http://crookedtimber.org/2005/05/19/isolated-social-networkers/).
-  -   [Networks and Netwars](http://bactra.org/weblog/347.html).
-  -   [The inter-disciplinary politics of interdisciplinary research or, "Hey, that was my idea first."](https://www.cs.unm.edu/~aaron/blog/archives/2005/05/the_interdiscip.htm).
--   [The Emergence of Network Science](https://www.cornell.edu/video/emergence-of-network-science) - Video documentary, featuring Steven Strogatz and many others.
+1.  [The Emergence of Network Science](https://www.cornell.edu/video/emergence-of-network-science) - Video documentary, featuring Steven Strogatz and many others.
+-   [Isolated Social Networkers](http://crookedtimber.org/2005/05/19/isolated-social-networkers/), [Networks and Netwars](http://bactra.org/weblog/347.html) and [The inter-disciplinary politics of interdisciplinary research or, "Hey, that was my idea first."](https://www.cs.unm.edu/~aaron/blog/archives/2005/05/the_interdiscip.htm) - Series of blog posts that predate the advent of "network science" as a buzzword, but that touch upon the same issues as those now being discussed under that heading.
 -   [Three Hard Questions about Network Science](http://environmentalpolicy.ucdavis.edu/node/292).
 -   [What is Network Science?](http://journals.cambridge.org/repo_A88Sa8AHdt4SoI) - First editorial of the recent _Network Science_ journal.
 
