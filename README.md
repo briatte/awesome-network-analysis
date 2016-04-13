@@ -19,8 +19,8 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 - __[Datasets](#datasets)__  
 - __[Journals](#journals)__  
 - __[Professional groups](#professional-groups)__  
-  - __[Research Centers](#research-centers)__  
-  - __[Research Groups](#research-groups)__  
+  - __[Research Groups (USA)](#research-groups-usa)__  
+  - __[Research Groups (Other)](#research-groups-other)__  
 - __[Review Articles](#review-articles)__  
 - __[Software](#software)__  
   - __[Algorithms](#algorithms)__  
@@ -44,7 +44,9 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ### Classics
 
-1.  _[Social Network Analysis. Methods and Applications](http://www.cambridge.org/ar/academic/subjects/sociology/sociology-general-interest/social-network-analysis-methods-and-applications)_, by Stanley Wasserman and Katherine Faust (1994).
+1.  _[A Novitiate in a Period of Change: An Experimental and Case Study of Social Relationships](https://www.dropbox.com/s/cwhmfp4qjl09y2k/Sampson%2C%20Samuel%201968.pdf?dl=0)_, by Samuel F. Sampson (unpublished PhD dissertation, 1968).
+-   _[Social Network Analysis. A Handbook](https://uk.sagepub.com/en-gb/eur/social-network-analysis/book237401)_, by John Scott (1991, 3rd ed. 2013).
+-   _[Social Network Analysis. Methods and Applications](http://www.cambridge.org/ar/academic/subjects/sociology/sociology-general-interest/social-network-analysis-methods-and-applications)_, by Stanley Wasserman and Katherine Faust (1994).
 -   _[The Structure and Dynamics of Networks](http://press.princeton.edu/titles/8114.html)_, edited by Mark E.J. Newman, Albert-László Barabási and Duncan J. Watts - 600 pages of classic network analysis articles (2006).
 
 ### Dissemination
@@ -91,6 +93,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 2.  _[Dynamical Processes on Complex Networks](http://www.cambridge.org/catalogue/catalogue.asp?isbn=9780521879507)_, by Alain Barrat, Marc Barthélemy and Alessandro Vespignani (2008).
 -   _[Neighbor Networks. Competitive Advantage Local and Personal](https://global.oup.com/academic/product/neighbor-networks-9780199570690)_, by Ronald S. Burt (2010).
 -   _[Small Worlds: The Dynamics of Networks between Order and Randomness](http://press.princeton.edu/titles/6768.html)_, by Duncan J. Watts (2003).
+-   _[Visualisierung komplexer Strukturen. Grundlagen der Darstellung mehrdimensionaler Netzwerke](http://www.campus.de/buecher-campus-verlag/wissenschaft/soziologie/visualisierung_komplexer_strukturen-2467.html)_, by Lothar Krempel, in German.
 
 ## Conferences
 
@@ -163,9 +166,13 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [NetSci: Network Science Society](http://www.netscisociety.net/).
 -   [APSA Political Networks](http://www.polinetworks.org/) - Organized Section of the American Political Science Association.
 
-### Research Centers
+### Research Groups (USA)
 
-1.  [Center for Network Science, Central European University, Budapest](http://cns.ceu.edu/) - Features a PhD in Network Science program.
+> Network-focused research centers, (reading) groups, institutes, labs – you name it – based in the USA.
+
+1.  [Annenberg Networks Network](http://uscann.tumblr.com/) - Research group studying social networks at the University of Southern California.
+-   [Complex Human Networks Reading Group (CoHN)](http://alumni.media.mit.edu/~tanzeem/cohn/CoHN.htm) - Reading list from a seminar held at MIT in 2001–2.
+-   [Interdependence in Governance and Policy Research Group](https://sites.psu.edu/desmaraisgroup/) - Led by Bruce A. Desmarais at Penn State University.
 -   [Indiana University Network Science Institute (IUNI)](http://iuni.iu.edu/).
 -   [Interdisciplinary Center for Network Science and Applications (iCeNSA) at the University of Notre Dame](http://icensa.com/).
 -   [LINKS Center for Social Network Analysis at the Gatton College of Business and Economics, University of Kentucky](https://sites.google.com/site/uklinkscenter/).
@@ -176,18 +183,21 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Northeastern University Network Science Institute](http://www.networkscienceinstitute.org/) - Features a PhD in Network Science program..
 -   [Northeastern University Center for Complex Network Research](http://www.barabasilab.com/) - Led by Albert-László Barabási.
 -   [Northeastern University MOBS Lab - Laboratory for the Modeling of Biological and Socio-technical Systems](http://www.mobs-lab.org/) - Led by Alessandro Vespignani.
+-   [Peter J. Mucha's Research Group at the University of North Carolina at Chapel Hill](http://mucha.web.unc.edu/networks/).
+-   [Social Network Analysis Group @ Stanford](http://sna.stanford.edu/).
 -   [Warren Center for Network & Data Sciences at the University of Pennsylvania](http://warrencenter.upenn.edu/).
 -   [Yale Institute for Network Science (YINS)](http://yins.yale.edu/).
 
-### Research Groups
+### Research Groups (other)
 
-1.  [Annenberg Networks Network](http://uscann.tumblr.com/) - Research group studying social networks at the University of Southern California.
--   [Complex Human Networks Reading Group (CoHN)](http://alumni.media.mit.edu/~tanzeem/cohn/CoHN.htm) - Reading list from a seminar held at MIT in 2001–2.
+> Network-focused research centers, (reading) groups, institutes, labs – you name it – based outside of the USA.
+
+1.  [Center for Network Science, Central European University, Budapest](http://cns.ceu.edu/) - Features a PhD in Network Science program.
 -   [Cx-Nets](http://www.cxnets.org/) - Virtual collaboration between four complex networks research groups.
--   [Interdependence in Governance and Policy Research Group](https://sites.psu.edu/desmaraisgroup/) - Led by Bruce A. Desmarais at Penn State University.
 -   [Large Graphs and Networks](http://sites.uclouvain.be/networks/) - Research group at the Catholic University of Louvain.
--   [Peter J. Mucha's Research Group at the University of North Carolina at Chapel Hill](http://mucha.web.unc.edu/networks/).
--   [Social Network Analysis Group @ Stanford](http://sna.stanford.edu/).
+-   [NetLab](http://groups.chass.utoronto.ca/netlab/) - Research network at the University of Toronto, led by Barry Wellman.
+-   [ORIO - Observatoire des Réseaux Intra- et Inter-Organisationnels](http://blogs.sciences-po.fr/recherche-network-organization-institution-dynamics-multilevel/) - A research program on networks and regulation.
+  -   [‘Réseaux et Régulation’ Conference Cycle](http://blogs.sciences-po.fr/recherche-network-organization-institution-dynamics-multilevel/sminaire-rseaux-et-rgulation/) - Seminar based at Sciences Po in Paris, France.
 -   [SocioPatterns](http://www.sociopatterns.org/) - Interdisciplinary research group that uses wireless sensors to study social network data.
 
 ## Review Articles
@@ -293,6 +303,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [ContentStructure](https://github.com/matthewjdenny/ContentStructure) -  implements an extension to the [Topic-Partitioned Multinetwork Embeddings (TPME) model](http://dirichlet.net/pdf/krafft12topic-partitioned.pdf).
 -   [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Connects R, RStudio and JavaScript libraries to draw graph diagrams ([blog post](https://blog.rstudio.org/2015/05/01/rstudio-v0-99-preview-graphviz-and-diagrammer/)).
 -   [ergm](https://cran.r-project.org/web/packages/ergm/) - Estimation of Exponential Random Graph Models (ERGM).
+  -   [ERGM: edgecov and dyadcov specifications](http://mjh4.blogspot.fr/2012/09/ergm-edgecov-and-dyadcov-specifications.html).
 -   [GERGM](https://cran.r-project.org/web/packages/GERGM/) - Estimation and diagnosis of the convergence of Generalized Exponential Random Graph Models (GERGM).
 -   [geomnet](https://cran.r-project.org/web/packages/geomnet/) - A single-geometry approach to network visualization with ggplot2.
 -   [ggnetwork](https://cran.r-project.org/web/packages/ggnetwork/) - A multiple-geometries approach to plot network objects with ggplot2.
@@ -312,7 +323,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [sna](https://cran.r-project.org/web/packages/sna/) - Basic network measures and visualization tools.
 -   [spectralGOF](http://people.bu.edu/jccs/spectralGOF.html) - Compute the "spectral goodness of fit" (SGOF), a measure of how well a network model explains the structure of an observed network.
 -   [spnet](http://cran.r-project.org/web/packages/spnet/) - Methods for dealing with spatial social networks.
--   [statnet](http://statnet.org/) - The project behind many R network analysis packages ([mailing-list](https://mailman.u.washington.edu/mailman/listinfo/statnet_help)).
+-   [statnet](http://statnet.org/) - The project behind many R network analysis packages ([mailing-list](https://mailman.u.washington.edu/mailman/listinfo/statnet_help), [wiki](https://statnet.org/trac)).
   -   [Exponential Random Graph Models (ERGMs) Using statnet](https://statnet.org/trac/raw-attachment/wiki/Sunbelt2015/ergm_tutorial.html) (2015).
   -   [Guides for Using the statnet Package](http://www.melissaclarkson.com/resources/R_guides/) (2010).
   -   [Modeling Valued Networks with statnet](https://statnet.org/trac/raw-attachment/wiki/Sunbelt2013/Valued.pdf) (2013).
@@ -357,10 +368,12 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 > Resources that does not fit in other categories.
 
 1.  [A Sociology Citation Network](http://nealcaren.web.unc.edu/a-sociology-citation-network/) and [A Co-citation Network for Philosophy](https://kieranhealy.org/blog/archives/2013/06/18/a-co-citation-network-for-philosophy/) - Examples of scientific co-citation networks.
--   [David Knoke on Network Analysis](https://thesocietypages.org/methods/2015/01/30/david-knoke-on-network-analysis/) - A 20-minute interview that discusses the uses and benefits of network analysis, drawing upon Knoke's research on terrorist networks.
+-   [David Knoke on Network Analysis](https://thesocietypages.org/methods/2015/01/30/david-knoke-on-network-analysis/) - A 20-minute interview that discusses the uses and benefits of network analysis, drawing upon Knoke's research on terrorist networks.\
+-   [Glossary of terms for statistical network models](https://statnet.org/trac/raw-attachment/wiki/Resources/glossary.pdf).
 -   [Network Fact](https://twitter.com/networkfact) -   Twitter account about networks, graph theory, and related topics.
 -   [Tarot Cards for Principles of Complex Systems and Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/tarotcards/) - Part of a course by Peter Sheridan Dodds.
--   [The Performativity of Networks](http://kieranhealy.org/files/papers/performativity.pdf) - A paper that connects network theory to the sociology of science.
+-   [The Performativity of Networks](http://kieranhealy.org/files/papers/performativity.pdf) - Paper that connects network theory to the sociology of science.
+-   [Social Networks](http://eszter.com/contract.html#socnet) - Reading list of sociological classics about social networks: Bonacich, Borgatti and Everett, Burt, Emirbayer, Freeman, Granovetter, Padgett and Ansell, Simmel, Wellman, etc.
 
 ### Blog Series
 
