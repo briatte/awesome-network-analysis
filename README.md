@@ -191,7 +191,8 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ## Review Articles
 
-1.  "[Biological Networks](http://algo.uni-konstanz.de/publications/bbs-bn-13.pdf)" (_Handbook of Graph Drawing and Visualization_, 2013).
+1.  "[Basic Notions for the Analysis of Large Two-mode Networks](http://www.sciencedirect.com/science/article/pii/S0378873307000494)"  ([preprint](https://www-complexnetworks.lip6.fr/~latapy/Publis/socnet07.pdf), [related code](https://www-complexnetworks.lip6.fr/~latapy/Bip/); _Social Networks_, 2008).
+-   "[Biological Networks](http://algo.uni-konstanz.de/publications/bbs-bn-13.pdf)" (_Handbook of Graph Drawing and Visualization_, 2013).
 -   "[Graph Theory and Networks in Biology](http://dx.doi.org/10.1049/iet-syb:20060038)" ([preprint](http://arxiv.org/abs/q-bio/0604006); _IET Systems Biology_, 2007).
 -   "[Network Analysis and Political Science](http://www.annualreviews.org/doi/abs/10.1146/annurev.polisci.12.040907.115949)" (_Annual Review of Political Science_, 2011).
 -   "[Networks and History](http://onlinelibrary.wiley.com/doi/10.1002/cplx.10054/abstract)" (_Complexity_, 2002).
@@ -202,13 +203,14 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ## Software
 
-> Several links in this section come from the [NetWiki Shared Code](http://netwiki.amath.unc.edu/SharedCode/SharedCode) page.  
+> Several links in this section come from the [NetWiki Shared Code](http://netwiki.amath.unc.edu/SharedCode/SharedCode) page. Software-centric tutorials are listed below their program of choice: other tutorials are listed [in the next section](#tutorials).  
 > See also the [Social Network Analysis Project Survey](https://docs.google.com/spreadsheets/d/1Xo-ehJatzmxMek6gPG0h-d7yRSuiO6_flViTQNMAku0/edit#gid=0) ([blog post](http://pudo.org/blog/2013/12/21/sna-survey.html)), an earlier attempt to chart social network analysis tools that links to many commercial platforms not included in this list, such as [Detective.io](http://www.detective.io/).  
 > Also note that the Wikipedia English entry on [Social Network Analysis Software](https://en.wikipedia.org/wiki/Social_network_analysis_software) links to many commercial that are often very expensive, outdated, and far from being awesome by any reasonable standard.
 
 1.  [Cytoscape](http://www.cytoscape.org/) - Cross-platform Java program to build, analyze and visualize networks.
 -   [Discourse Network Analyzer (DNA)](http://www.philipleifeld.com/discourse-network-analyzer/discourse-network-analyzer-dna.html) - Qualitative content analysis tool with network export facilities, written in Java with R integration.
 -   [Gephi](https://gephi.github.io/) - Cross-platform, free and open source tool for network visualization.
+  -   [Practical Social Network Analysis With Gephi](http://derekgreene.com/gephitutorial/) (2014).
 -   [GLEAMviz Simulator](http://www.gleamviz.org/) - Cross-platform tool intended for the prediction of human epidemics.
 -   [Graphviz](http://www.graphviz.org/) - Cross-platform software to draw graphs in the DOT graph drawing language.
 -   [MuxViz](http://muxviz.net/) - Cross-platform, free and open source tool to study multilayer networks, based on R and GNU Octave.
@@ -216,6 +218,8 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [NodeXL](http://nodexl.codeplex.com/) - Free, open-source template to explore network graphs with Microsoft Excel.
 -   [ORA-LITE](http://www.casos.cs.cmu.edu/projects/ora/) - Windows program for dynamic meta-network assessment and analysis.
 -   [Pajek](http://vlado.fmf.uni-lj.si/pub/networks/pajek/) - Windows program for large network analysis, free for noncommercial use.
+  -  [Analyse des réseaux : une introduction à Pajek](http://quanti.hypotheses.org/512/), in French (2011).
+  -   [La détection de communautés avec Pajek 3.6](http://groupefmr.hypotheses.org/544), in French (2012).
 -   [PNet](http://www.swinburne.edu.au/fbl/research/transformative-innovation/our-research/MelNet-social-network-group/PNet-software/index.html) - Simulation and estimation of exponential random graph models (ERGMs), written in Java for Windows.
 -   [Radatools](http://deim.urv.cat/~sergio.gomez/radatools.php) - Set of tools intended for the analysis of complex networks, built on top of [Radalib](http://deim.urv.cat/~sergio.gomez/radalib.php), a library written in Ada.
 -   [Siena](http://www.stats.ox.ac.uk/~snijders/siena/) - Simulation Investigation for Empirical Network Analysis. Formerly a Windows program, now developed as the RSiena R package.
@@ -293,6 +297,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [ggraph](https://github.com/thomasp85/ggraph) - A grammar of graph graphics built in the spirit of ggplot2.
 -   [hergm](https://cran.r-project.org/web/packages/hergm/) - Estimate and simulate hierarchical exponential-family random graph models (HERGM) with local dependence.
 -   [igraph](http://igraph.org/r/) - A collection of network analysis tools.
+  -   [Network Analysis and Visualization with R and igraph](http://kateto.net/networks-r-igraph) (2016).
 -   [influenceR](https://cran.r-project.org/web/packages/influenceR/) - Compute various node centrality network measures by Burt, Borgatti and others.
 -   [latentnet](https://cran.r-project.org/web/packages/latentnet/) - Latent position and cluster models for network objects.
 -   [networkD3](http://christophergandrud.github.io/networkD3/) - D3 JavaScript network graphs from R.
@@ -306,6 +311,9 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [spectralGOF](http://people.bu.edu/jccs/spectralGOF.html) - Compute the "spectral goodness of fit" (SGOF), a measure of how well a network model explains the structure of an observed network.
 -   [spnet](http://cran.r-project.org/web/packages/spnet/) - Methods for dealing with spatial social networks.
 -   [statnet](http://statnet.org/) - The project behind many R network analysis packages ([mailing-list](https://mailman.u.washington.edu/mailman/listinfo/statnet_help)).
+  -   [Exponential Random Graph Models (ERGMs) Using statnet](https://statnet.org/trac/raw-attachment/wiki/Sunbelt2015/ergm_tutorial.html) (2015).
+  -   [Guides for Using the statnet Package](http://www.melissaclarkson.com/resources/R_guides/) (2010).
+  -   [Modeling Valued Networks with statnet](https://statnet.org/trac/raw-attachment/wiki/Sunbelt2013/Valued.pdf) (2013).
 -   [tergm](https://cran.r-project.org/web/packages/tergm/) - Fit, simulate and diagnose models for temporal exponential-family random graph models (TERGM).
 -   [tnet](https://cran.r-project.org/web/packages/tnet/) - Network measures for weighted, two-mode and longitudinal networks.
 -   [tsna](https://cran.r-project.org/web/packages/tsna/) - Tools for temporal social network analysis.
@@ -334,27 +342,20 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ## Tutorials
 
-1.  [Analyse des réseaux : une introduction à Pajek](http://quanti.hypotheses.org/512/), in French (2011).
--   [Basic and Advanced Network Visualization with Gephi and R](http://kateto.net/sunbelt2016) (2016).
--   [Exponential Random Graph Models (ERGMs) Using statnet](https://statnet.org/trac/raw-attachment/wiki/Sunbelt2015/ergm_tutorial.html) (2015).
--   [Guides for Using the statnet Package](http://www.melissaclarkson.com/resources/R_guides/) (2010).
+> Tutorials that are not focused on a single specific software program.
+
+1.  [Basic and Advanced Network Visualization with Gephi and R](http://kateto.net/sunbelt2016) (2016).
 -   [Implementing an ERGM From Scratch in Python](http://davidmasad.com/blog/ergms-from-scratch/) (2014).
 -   [L'analyse des graphes bipartis](https://halshs.archives-ouvertes.fr/FMR/halshs-00794976), in French (2013).
--   [La détection de communautés avec Pajek 3.6](http://groupefmr.hypotheses.org/544), in French (2012).
--   [Modeling Valued Networks with statnet](https://statnet.org/trac/raw-attachment/wiki/Sunbelt2013/Valued.pdf) (2013).
--   [Network Analysis and Visualization with R and igraph](http://kateto.net/networks-r-igraph) (2016).
--   [Practical Social Network Analysis With Gephi](http://derekgreene.com/gephitutorial/) (2014).
--   [Static and Dynamic Network Visualization with R](http://kateto.net/network-visualization) (2015).  
+-   [Static and Dynamic Network Visualization with R](http://kateto.net/network-visualization) - Covers the igraph, network, networkD3 and ndtv packages (2015).  
 -   [Working with Bipartite/Affiliation Network Data in R](https://solomonmessing.wordpress.com/2012/09/30/working-with-bipartiteaffiliation-network-data-in-r/) (2012).
 
 ## Varia
 
-> This section is for blog posts, videos, wikis and everything else that does not fit in other categories.
+> Resources that does not fit in other categories.
 
 1.  [A Sociology Citation Network](http://nealcaren.web.unc.edu/a-sociology-citation-network/) and [A Co-citation Network for Philosophy](https://kieranhealy.org/blog/archives/2013/06/18/a-co-citation-network-for-philosophy/) - Examples of scientific co-citation networks.
--   [Basic Notions for the Analysis of Large Two-mode Networks](https://www-complexnetworks.lip6.fr/~latapy/Publis/socnet07.pdf) - Introduction to bipartite network analysis ([related code](https://www-complexnetworks.lip6.fr/~latapy/Bip/)).
 -   [David Knoke on Network Analysis](https://thesocietypages.org/methods/2015/01/30/david-knoke-on-network-analysis/) - A 20-minute interview that discusses the uses and benefits of network analysis, drawing upon Knoke's research on terrorist networks.
--   [NetWiki](http://netwiki.amath.unc.edu/Main/HomePage) - Wiki of various network analysis resources.
 -   [Network Fact](https://twitter.com/networkfact) -   Twitter account about networks, graph theory, and related topics.
 -   [Tarot Cards for Principles of Complex Systems and Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/tarotcards/) - Part of a course by Peter Sheridan Dodds.
 -   [The Performativity of Networks](http://kieranhealy.org/files/papers/performativity.pdf) - A paper that connects network theory to the sociology of science.
