@@ -368,7 +368,12 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 > Resources that does not fit in other categories.
 
 1.  [A Sociology Citation Network](http://nealcaren.web.unc.edu/a-sociology-citation-network/) and [A Co-citation Network for Philosophy](https://kieranhealy.org/blog/archives/2013/06/18/a-co-citation-network-for-philosophy/) - Examples of scientific co-citation networks.
--   [David Knoke on Network Analysis](https://thesocietypages.org/methods/2015/01/30/david-knoke-on-network-analysis/) - A 20-minute interview that discusses the uses and benefits of network analysis, drawing upon Knoke's research on terrorist networks.\
+-   Attempts to represent Middle Eastern politics as (signed) networks:
+  -   [The Complete Idiot's Chart to Understanding the Middle East - Updated](https://twitter.com/thebigpharaoh/status/372030907806269441) - Relationships as of 2013.
+  -   [The Middle Eastern Mesh](http://www.economist.com/blogs/graphicdetail/2015/04/daily-chart-0) - Alliances only, as of 2015.
+  -   [Picking Sides](https://codeandculture.wordpress.com/2015/04/03/picking-sides/) - Community detection in the alliances network.
+  -   [MENA Alliances Network](https://gist.github.com/briatte/c6df2f855afb4eb142e6) - Slightly updated version of the same network.
+-   [David Knoke on Network Analysis](https://thesocietypages.org/methods/2015/01/30/david-knoke-on-network-analysis/) - A 20-minute interview that discusses the uses and benefits of network analysis, drawing upon Knoke's research on terrorist networks.
 -   [Glossary of terms for statistical network models](https://statnet.org/trac/raw-attachment/wiki/Resources/glossary.pdf).
 -   [Network Fact](https://twitter.com/networkfact) -   Twitter account about networks, graph theory, and related topics.
 -   [The Performativity of Networks](http://kieranhealy.org/files/papers/performativity.pdf) - Paper that connects network theory to the sociology of science.
