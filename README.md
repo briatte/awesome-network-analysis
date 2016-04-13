@@ -371,9 +371,12 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [David Knoke on Network Analysis](https://thesocietypages.org/methods/2015/01/30/david-knoke-on-network-analysis/) - A 20-minute interview that discusses the uses and benefits of network analysis, drawing upon Knoke's research on terrorist networks.\
 -   [Glossary of terms for statistical network models](https://statnet.org/trac/raw-attachment/wiki/Resources/glossary.pdf).
 -   [Network Fact](https://twitter.com/networkfact) -   Twitter account about networks, graph theory, and related topics.
--   [Tarot Cards for Principles of Complex Systems and Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/tarotcards/) - Part of a course by Peter Sheridan Dodds.
 -   [The Performativity of Networks](http://kieranhealy.org/files/papers/performativity.pdf) - Paper that connects network theory to the sociology of science.
 -   [Social Networks](http://eszter.com/contract.html#socnet) - Reading list of sociological classics about social networks: Bonacich, Borgatti and Everett, Burt, Emirbayer, Freeman, Granovetter, Padgett and Ansell, Simmel, Wellman, etc.
+-   [Tarot Cards for Principles of Complex Systems and Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/tarotcards/) - Part of a course by Peter Sheridan Dodds.
+-   Research on the structural position of Paul Revere during the American Revolution:
+  -  [Using Metadata to Find Paul Revere](https://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/)
+  -  [The Other Ride of Paul Revere: The Brokerage Role in the Making of the American Revolution](http://www.sscnet.ucla.edu/polisci/faculty/chwe/ps269/han.pdf)
 
 ### Blog Series
 
