@@ -235,7 +235,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [PNet](http://www.swinburne.edu.au/fbl/research/transformative-innovation/our-research/MelNet-social-network-group/PNet-software/index.html) - Simulation and estimation of exponential random graph models (ERGMs), written in Java for Windows.
 -   [Radatools](http://deim.urv.cat/~sergio.gomez/radatools.php) - Set of tools intended for the analysis of complex networks, built on top of [Radalib](http://deim.urv.cat/~sergio.gomez/radalib.php), a library written in Ada.
 -   [Siena](http://www.stats.ox.ac.uk/~snijders/siena/) - Simulation Investigation for Empirical Network Analysis. Formerly a Windows program, now developed as the RSiena R package.
--   [SoNIA](http://web.stanford.edu/group/sonia/) (Social Network Image Animator) - Tool to visualize dynamic or longitudinal network data. Formerly a [Java program](https://sourceforge.net/projects/sonia/), now developed as the ndtv R package.
+-   [SoNIA](http://web.stanford.edu/group/sonia/) (Social Network Image Animator) - Tool to visualize dynamic or longitudinal network data. Formerly a [Java program](https://sourceforge.net/projects/sonia/) ([example movies](http://www.soc.duke.edu/~jmoody77/NetMovies/index.htm)), now developed as the ndtv R package.
 -   [UCINET](https://sites.google.com/site/ucinetsoftware/) - Windows commercial software package for the analysis of social network data.
 -   [Visone](http://visone.info/) - Cross-platform Java network analysis and visualization program, free for noncommercial use.
 -   [VOSviewer](http://www.vosviewer.com/) - Cross-platform Java tool for constructing and visualizing bibliometric networks.
