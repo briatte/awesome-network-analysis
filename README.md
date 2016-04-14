@@ -206,10 +206,11 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 ## Review Articles
 
 1.  [Basic Notions for the Analysis of Large Two-mode Networks](http://www.sciencedirect.com/science/article/pii/S0378873307000494)  ([preprint](https://www-complexnetworks.lip6.fr/~latapy/Publis/socnet07.pdf), [related code](https://www-complexnetworks.lip6.fr/~latapy/Bip/); _Social Networks_, 2008).
-2.  [Brokerage](http://www.annualreviews.org/doi/abs/10.1146/annurev-soc-081309-150054) (_Annual Review of Sociology_, 2012).
+-   [Brokerage](http://www.annualreviews.org/doi/abs/10.1146/annurev-soc-081309-150054) (_Annual Review of Sociology_, 2012).
 -   [Biological Networks](http://algo.uni-konstanz.de/publications/bbs-bn-13.pdf) (_Handbook of Graph Drawing and Visualization_, 2013).
 -   [Birds of a Feather: Homophily in Social Networks](http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.27.1.415) (_Annual Review of Sociology_, 2001).
 -   [Graph Theory and Networks in Biology](http://dx.doi.org/10.1049/iet-syb:20060038) ([preprint](http://arxiv.org/abs/q-bio/0604006); _IET Systems Biology_, 2007).
+-   [Introduction to Stochastic Actor-Based Models for Network Dynamics](http://www.sciencedirect.com/science/article/pii/S0378873309000069) ([preprint](http://www.stats.ox.ac.uk/~snijders/SnijdersSteglichVdBunt2009.pdf); _Social Networks_, 2010).
 -   [Network Analysis and Political Science](http://www.annualreviews.org/doi/abs/10.1146/annurev.polisci.12.040907.115949) (_Annual Review of Political Science_, 2011).
 -   [Networks and History](http://onlinelibrary.wiley.com/doi/10.1002/cplx.10054/abstract) (_Complexity_, 2002).
 -   [Social Network Algorithms and Software](http://www.sciencedirect.com/science/article/pii/B9780080970868431211) (_International Encyclopedia of Social and Behavioral Sciences_, 2015).
