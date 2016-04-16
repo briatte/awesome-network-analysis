@@ -70,7 +70,10 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ### Graph Theory
 
-1.  _[Graph Theory](http://www.cs.unibo.it/babaoglu/courses/cas00-01/tutorials/GraphTheory.pdf)_, by Reinhard Diestel - Full book online (2000).
+1.  _[Complex Graphs and Networks](http://bookstore.ams.org/cbms-107/)_, by Fan Chung and Linyuan Lu (2006).
+-   _[The Fascinating World of Graph Theory](http://press.princeton.edu/titles/10314.html)_, Arthur Benjamin, Gary Chartrand and Ping Zhang (2015).
+-   _[Graph Theory](http://www.cs.unibo.it/babaoglu/courses/cas00-01/tutorials/GraphTheory.pdf)_, by Reinhard Diestel - Full book online (2000).
+-   _[Random graph Dynamics](https://services.math.duke.edu/~rtd/RGD/RGD.html)_, by Rick Durrett - Full book online (2007).
 
 ### Method-specific
 
