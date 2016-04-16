@@ -309,7 +309,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 > For more awesome R resources, see the [Awesome R](https://github.com/qinwf/awesome-R) and [Awesome R Books](https://github.com/RomanTsegelskyi/rbooks) lists.
 
 1.  [Bergm](https://cran.r-project.org/web/packages/Bergm/) - Tools to analyse Bayesian exponential random graph models (BERGM).
--   [bnlearn](https://cran.r-project.org/web/packages/bnlearn/) - Tools for [Bayesian network learning and inference](http://www.bnlearn.com/).
+-   [bnlearn](https://cran.r-project.org/web/packages/bnlearn/) - Tools for [Bayesian network learning and inference](http://www.bnlearn.com/) ([related Shiny app](https://paulgovan.github.io/RiskNetwork/)).
 -   [CCAS](https://github.com/matthewjdenny/CCAS) - A statistical model for communication networks.
 -   [concoR](https://github.com/aslez/concoR) - A translation of the CONCOR network blockmodeling algorithm ([blog post](http://badhessian.org/2015/05/concor-in-r/)).
 -   [ContentStructure](https://github.com/matthewjdenny/ContentStructure) -  implements an extension to the [Topic-Partitioned Multinetwork Embeddings (TPME) model](http://dirichlet.net/pdf/krafft12topic-partitioned.pdf).
