@@ -77,7 +77,9 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ### Method-specific
 
-1.  _[Exponential Random Graph Models for Social Networks](http://www.cambridge.org/9780521193566)_, edited by Dean Lusher, Johan Koskinen and Garry Robins (2013).
+1.  _[Bayesian Networks in R with Applications in Systems Biology](https://www.springer.com/fr/book/9781461464457)_, by Radhakrishnan Nagarajan, Marco Scutari and Sophie Lèbre ([website](http://www.bnlearn.com/book-useR/); 2013).
+-   _[Bayesian Networks with Examples in R](http://www.crcpress.com/product/isbn/9781482225587)_, by Marco Scutari and Jean-Baptiste Denis ([website](http://www.bnlearn.com/book-crc/); 2014).
+-   _[Exponential Random Graph Models for Social Networks](http://www.cambridge.org/9780521193566)_, edited by Dean Lusher, Johan Koskinen and Garry Robins (2013).
 -   _Inferential Network Analysis_, by Skyler J. Cranmer, Bruce A. Desmarais and Jason Morgan (forthcoming).
 -   _[Multilevel Network Analysis for the Social Sciences](https://www.springer.com/fr/book/9783319245188)_, edited by Emmanuel Lazega and Tom A.B. Snijders (2016).
 -   _[Network Analysis: Methodological Foundations](https://www.springer.com/fr/book/9783540249795)_, edited by Ulrik Brandes and Thomas Erlebach - Covers network centrality, clustering, blockmodels, spatial networks and more (2005).
@@ -88,7 +90,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 1.  _[Analyzing Social Networks](https://sites.google.com/site/analyzingsocialnetworks/)_ (using UCINET), by Stephen P. Borgatti, Martin G. Everett and Jeffrey C. Johnson (2013).
 -   _Network Analysis with R/igraph_, by Gabor Csárdi, Thomas Nepusz and Eduardo M. Airoldi (in preparation).
 -   _Network Analysis with Python/igraph_, by Thomas Nepusz, Gabor Csárdi and Eduardo M. Airoldi (in preparation).
--   _[Statistical Analysis of Network Data with R](http://www.springer.com/us/book/9781493909827)_, by Eric D. Kolaczyk and Gabor Csárdi (2014).
+-   _[Statistical Analysis of Network Data with R](http://www.springer.com/us/book/9781493909827)_, by Eric D. Kolaczyk and Gabor Csárdi ([R package](https://github.com/kolaczyk/sand); 2014).
 
 ### Topic-specific
 
@@ -128,6 +130,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 > See also [Mangal](http://mangal.io/), an online platform and collection of tools to analyze, archive and share ecological network data ([preprint](http://biorxiv.org/content/early/2015/02/24/002634), [Python package](https://github.com/mangal-wg/pymangal), [R package](https://github.com/mangal-wg/rmangal)).
 
 1.  [Barabási and Albert Network Datasets](https://www3.nd.edu/~networks/resources.htm).
+-   [Bayesian Network Repository](http://www.bnlearn.com/bnrepository/).
 -   [Bill Cosponsorship Networks in European Parliaments](https://github.com/briatte/parlnet).
 -   [Connectome](http://openconnecto.me/graph-services/download/) - Comprehensive maps of neural connections.
 -   [Enron Email Dataset](https://www.cs.cmu.edu/~enron/).
@@ -306,6 +309,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 > For more awesome R resources, see the [Awesome R](https://github.com/qinwf/awesome-R) and [Awesome R Books](https://github.com/RomanTsegelskyi/rbooks) lists.
 
 1.  [Bergm](https://cran.r-project.org/web/packages/Bergm/) - Tools to analyse Bayesian exponential random graph models (BERGM).
+-   [bnlearn](https://cran.r-project.org/web/packages/bnlearn/) - Tools for [Bayesian network learning and inference](http://www.bnlearn.com/).
 -   [CCAS](https://github.com/matthewjdenny/CCAS) - A statistical model for communication networks.
 -   [concoR](https://github.com/aslez/concoR) - A translation of the CONCOR network blockmodeling algorithm ([blog post](http://badhessian.org/2015/05/concor-in-r/)).
 -   [ContentStructure](https://github.com/matthewjdenny/ContentStructure) -  implements an extension to the [Topic-Partitioned Multinetwork Embeddings (TPME) model](http://dirichlet.net/pdf/krafft12topic-partitioned.pdf).
@@ -430,6 +434,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 1.  [Events in the _Game of Thrones_](http://www.jeromecukier.net/projects/agot/events.html) and [Places in the _Game of Thrones_](http://www.jeromecukier.net/projects/agot/places.html) - Networked chronologies of character alliances, kills and travels in the book series.
 -   [Lessons on Exponential Random Graph Modeling from _Grey’s Anatomy_ hook-ups](http://badhessian.org/2012/09/lessons-on-exponential-random-graph-modeling-from-greys-anatomy-hook-ups/).
+-   [Analyzing networks of characters in _Love Actually_](http://varianceexplained.org/r/love-actually-network/) - Features a cluster analysis and a [Shiny app](https://dgrtwo.shinyapps.io/love-actually-network/).
 -   [_Star Wars_ Social Networks: The Force Awakens](http://evelinag.com/blog/2016/01-25-social-network-force-awakens/index.html) - Example of a social network analysis written in F#.
 
 ### Network Science
