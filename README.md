@@ -231,12 +231,13 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 > See also the [Social Network Analysis Project Survey](https://docs.google.com/spreadsheets/d/1Xo-ehJatzmxMek6gPG0h-d7yRSuiO6_flViTQNMAku0/edit#gid=0) ([blog post](http://pudo.org/blog/2013/12/21/sna-survey.html)), an earlier attempt to chart social network analysis tools that links to many commercial platforms not included in this list, such as [Detective.io](http://www.detective.io/).  
 > Also note that the Wikipedia English entry on [Social Network Analysis Software](https://en.wikipedia.org/wiki/Social_network_analysis_software) links to many commercial that are often very expensive, outdated, and far from being awesome by any reasonable standard.
 
-1.  [Cytoscape](http://www.cytoscape.org/) - Cross-platform Java program to build, analyze and visualize networks.
+1.  [Cytoscape](http://www.cytoscape.org/) - Cross-platform Java program to build, analyze and visualize networks. Also a JavaScript library.
 -   [Discourse Network Analyzer (DNA)](http://www.philipleifeld.com/discourse-network-analyzer/discourse-network-analyzer-dna.html) - Qualitative content analysis tool with network export facilities, written in Java with R integration.
 -   [Gephi](https://gephi.github.io/) - Cross-platform, free and open source tool for network visualization.
   -   [Practical Social Network Analysis With Gephi](http://derekgreene.com/gephitutorial/) (2014).
 -   [GLEAMviz Simulator](http://www.gleamviz.org/) - Cross-platform tool intended for the prediction of human epidemics.
 -   [Graphviz](http://www.graphviz.org/) - Cross-platform software to draw graphs in the DOT graph drawing language.
+-   [Graphy](https://github.com/bruce/graphy) - Graph theory library written in Ruby.
 -   [MuxViz](http://muxviz.net/) - Cross-platform, free and open source tool to study multilayer networks, based on R and GNU Octave.
 -   [Neo4j](http://neo4j.com/) - Open source, scalable graph database, used by companies like [Linkurious](http://linkurio.us/).
 -   [NodeXL](http://nodexl.codeplex.com/) - Free, open-source template to explore network graphs with Microsoft Excel.
@@ -257,7 +258,8 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 > Network placement and community detection algorithms that do not fit in any of the next subsections.  
 > See also the [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) and [Awesome Algorithm Visualization](https://github.com/enjalot/algovis) lists for more algorithmic awesomess.
 
-1.  [CONGA and CONGO](http://www.cs.bris.ac.uk/~steve/networks/index.html) - Algorithms to detect overlapping communities in networks, written in Java.
+1.  [algo.graph](https://github.com/clojure/algo.graph) - Basic graph theory algorithms written in Clojure.
+-   [CONGA and CONGO](http://www.cs.bris.ac.uk/~steve/networks/index.html) - Algorithms to detect overlapping communities in networks, written in Java.
 -   [ForceAtlas2](https://gephi.wordpress.com/2011/06/06/forceatlas2-the-new-version-of-our-home-brew-layout/) - Force-directed layout included in Gephi ([paper](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0098679)).
 -   [vbmod: Variational Bayesian Inference for Network Modularity](http://vbmod.sourceforge.net/) - MATLAB and Python implementations of a [Bayesian community detection algorithm](http://arxiv.org/abs/0709.3512).
 -   [weighted-modularity-LPAwbPLUS](https://github.com/sjbeckett/weighted-modularity-LPAwbPLUS) - Julia, MATLAB and R implementations of two algorithms to find weighted modularity in bipartite networks.
@@ -279,7 +281,9 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 > For more awesome JavaScript libraries, see the [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) list.
 
-1.  [d3.js](https://d3js.org/) - JavaScript visualization library that can plot [force-directed graphs](http://bl.ocks.org/mbostock/4062045).
+1.  [Cytoscape.js](http://js.cytoscape.org/) - Graph theory (a.k.a. network) library for analysis and visualisation.
+-   [d3.js](https://d3js.org/) - JavaScript visualization library that can plot [force-directed graphs](http://bl.ocks.org/mbostock/4062045).
+-   [greuler](https://maurizzzio.github.io/greuler/) - Visualization library to build and manipulate graphs through a simple API. Powered by d3.js and [WebCola](http://marvl.infotech.monash.edu/webcola/).
 -   [jLouvain](https://github.com/upphiminn/jLouvain) - Louvain community detection for Javascript ([example](http://bl.ocks.org/emeeks/125db75c9b55ddcbdeb5)).
 -   [Sigma](http://sigmajs.org/) - JavaScript library dedicated to graph drawing.
 -   [vis.js](http://visjs.org/) - JavaScript library with network visualization capabilities.
@@ -359,6 +363,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 1.  [DOT](http://www.graphviz.org/doc/info/lang.html) - Graph drawing syntax used by the Graphviz software.
 -   [GEXF](https://gephi.org/gexf/format/) - File format used by the Gephi software.
+-   [JGraphT](http://jgrapht.org/) - Java graph library for graph data structures and algorithms ([example algorithms](https://github.com/agouge/Java-Network-Analyzer)).
 -   [JUNG — Java Universal Network/Graph Framework](http://jung.sourceforge.net/) - Extensible library to represent network objects.
 -   [GraphML](http://graphml.graphdrawing.org/) - Comprehensive and easy-to-use file format for graphs ([handbook chapter](https://www.uni-konstanz.de/mmsp/pubsys/publishedFiles/BrEiLe10.pdf)).
 -   [PGF/TikZ](http://www.ctan.org/tex-archive/graphics/pgf/) - [Tandem](https://en.wikipedia.org/wiki/PGF/TikZ) of vector graphics languages that can be used to draw graphs in the [LaTeX](https://latex-project.org/) typesetting environment.
@@ -402,8 +407,6 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 1.  [Blog Posts About Networks by Aaron Clauset](https://www.cs.unm.edu/~aaron/blog/archives/networks/index.htm).
 -   [Blog Posts About Networks by Baptiste Coulmont](http://coulmont.com/index.php?s=r%C3%A9seaux), in French.
 -   [Blog Posts About Networks by Cosma Shalizi](http://bactra.org/weblog/cat_networks.html).
--   [Blog Posts About Networks by Daniel Little](http://understandingsociety.blogspot.fr/search/label/networks).
--   [Blog Posts About Social Networks by Daniel Little](http://understandingsociety.blogspot.fr/search/label/social%20networks).
 -   [Blog Posts About Networks by François Briatte](http://politbistro.hypotheses.org/tag/reseaux), in French.
 -   [Blog Posts About Networks by Katya Ognyanova](http://kateto.net/networks).
 -   [Blog Posts About Networks by Pierre Mercklé](http://pierremerckle.fr/category/reseaux/), in French.
@@ -428,6 +431,9 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
       -   [Social Contagion, Information Cascades, Diffusion of Innovations, Etc.](http://bactra.org/notebooks/social-contagion.html)
       -   [Social Networks](http://bactra.org/notebooks/social-networks.html).
       -   [Stochastic Block Models](http://bactra.org/notebooks/stochastic-block-models.html).
+-   Daniel Little's blog posts on the philosophy of social science:
+      -   [Networks](http://understandingsociety.blogspot.fr/search/label/networks).
+      -   [Social Networks](http://understandingsociety.blogspot.fr/search/label/social%20networks).
 -   [Networks Demystified](http://scottbot.net/tag/networks-demystified/), a series of blog posts by Scott B. Weingart.
 -   [R / Notes: Networks](http://f.briatte.org/r/category/networks) - Blog posts focused on manipulating networks in R, by François Briatte.
 
