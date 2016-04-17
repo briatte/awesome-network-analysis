@@ -251,6 +251,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Statistical Mechanics of Complex Networks](http://www.barabasilab.com/pubs/CCNR-ALB_Publications/200201-30_RevModernPhys-StatisticalMech/200201-30_RevModernPhys-StatisticalMech.pdf) (_Reviews of Modern Physics_, 2002).
 -   [Statistical Models for Social Networks](http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.012809.102709) (_Annual Review of Sociology_, 2011).
 -   [The Structure and Function of Complex Networks](http://epubs.siam.org/doi/abs/10.1137/S003614450342480) (_SIAM Review_, 2003).
+-   [A Unified View of Generative Models for Networks: Models, Methods, Opportunities, and Challenges](http://arxiv.org/abs/1411.4070) ([video presentation](http://www.birs.ca/events/2015/5-day-workshops/15w5080/videos/watch/201504200944-Jacobs.html); NIPS workshop on “[Networks: From Graphs to Rich Data](https://410f84824e101297359cc81c78f45c7c079eb26c.googledrive.com/host/0Bz6WHrWac3FrWnA5MjZqb3lWa2c/)”, 2014).
 
 ## Software
 
@@ -422,7 +423,8 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Glossary of terms for statistical network models](https://statnet.org/trac/raw-attachment/wiki/Resources/glossary.pdf).
 -   [Mixed-Method Approaches to Social Network Analysis](https://www.youtube.com/playlist?list=PL3zdEY084WkQD79mR00RSt8j5RuyPwMJE) - Videos of a conference at the Middlesex University School of Law (2014).
 -   [Modeling Complex Social Networks: Challenges and Opportunities for Statistical Learning and Inference](https://www.youtube.com/watch?v=1xLjYc7EUEU) - Video of a seminar talk by Jennifer Neville at Purdue University (2011).
--   [Network Fact](https://twitter.com/networkfact) -   Twitter account about networks, graph theory, and related topics.
+-   [Network Fact](https://twitter.com/networkfact) - Twitter account about networks, graph theory, and related topics.
+-   [New Perspectives for Relational Learning](http://www.birs.ca/events/2015/5-day-workshops/15w5080/videos) - Videos (and more) from a workshop at the Banff International Research Station (BIRS) (2015).
 -   [The Performativity of Networks](http://kieranhealy.org/files/papers/performativity.pdf) - Paper that connects network theory to the sociology of science.
 -   [Picking Sides](https://codeandculture.wordpress.com/2015/04/03/picking-sides/) - Community detection in the political network of Middle Eastern alliances between various state and nonstate powers ([updated version](https://gist.github.com/briatte/c6df2f855afb4eb142e6)).
 -   [Plan interactif du métro](http://www.jeromecukier.net/projects/metro/map.html) - Interactive visualization of the Paris metro network, drawn with d3.js, in French.
@@ -469,14 +471,16 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
       -   [Social Networks](http://understandingsociety.blogspot.fr/search/label/social%20networks).
 -   [Networks Demystified](http://scottbot.net/tag/networks-demystified/), a series of blog posts by Scott B. Weingart.
 -   [R / Notes: Networks](http://f.briatte.org/r/category/networks) - Blog posts focused on manipulating networks in R, by François Briatte.
+-   [Under Roquentin's Chestnut Tree](https://mboudour.github.io/) - Moses Boudourides' blog on analyzing (mostly) networks with Python.
 
 ### Fictional Networks
 
 > Explorations of fictional character networks.
 
-1.  [Events in the _Game of Thrones_](http://www.jeromecukier.net/projects/agot/events.html) and [Places in the _Game of Thrones_](http://www.jeromecukier.net/projects/agot/places.html) - Networked chronologies of character alliances, kills and travels in the book series.
+1.  [Analyzing Networks of Characters in _Love Actually_](http://varianceexplained.org/r/love-actually-network/) - Features a cluster analysis and a [Shiny app](https://dgrtwo.shinyapps.io/love-actually-network/).
+-   [Events in the _Game of Thrones_](http://www.jeromecukier.net/projects/agot/events.html) and [Places in the _Game of Thrones_](http://www.jeromecukier.net/projects/agot/places.html) - Networked chronologies of character alliances, kills and travels in the book series.
 -   [Lessons on Exponential Random Graph Modeling from _Grey's Anatomy_ hook-ups](http://badhessian.org/2012/09/lessons-on-exponential-random-graph-modeling-from-greys-anatomy-hook-ups/).
--   [Analyzing Networks of Characters in _Love Actually_](http://varianceexplained.org/r/love-actually-network/) - Features a cluster analysis and a [Shiny app](https://dgrtwo.shinyapps.io/love-actually-network/).
+-   [The Network and Trajectories of Transitions among Sentential Co-Occurrences of Characters of Arthur Conan Doyle's _A Study in Scarlet_](https://mboudour.github.io/2016/04/17/Arthur-Conan-Doyle's-A-Study-in-Scarlet-Network-&-Trajectories.html) (using Python).
 -   [_Star Wars_ Social Networks: The Force Awakens](http://evelinag.com/blog/2016/01-25-social-network-force-awakens/index.html) - Example of a social network analysis written in F#.
 
 ### Network Science
