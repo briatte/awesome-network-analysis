@@ -109,6 +109,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 > Recurring conferences on network analysis.
 
 1.  [ASONAM - IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining](http://asonam.cpsc.ucalgary.ca/).
+  -   [SNAA - Workshop on Social Network Analysis in Applications](http://snaa.pwr.edu.pl/).
 -   [CNDay - Cambridge Networks Day](http://www.cnn.group.cam.ac.uk/cambridge-networks-day) - Convened by the Cambridge Networks Network.
 -   [EUSN - European Conference on Social Networks](http://eusn.org/).
 -   [PolNet - Annual Political Networks Workshops and Conference](http://conference.polinetworks.org/) - Organized by the APSA Organized Section on Political Networks.
