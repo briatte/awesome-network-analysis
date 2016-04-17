@@ -228,19 +228,26 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ## Review Articles
 
-1.  [Basic Notions for the Analysis of Large Two-mode Networks](http://www.sciencedirect.com/science/article/pii/S0378873307000494)  ([preprint](https://www-complexnetworks.lip6.fr/~latapy/Publis/socnet07.pdf), [related code](https://www-complexnetworks.lip6.fr/~latapy/Bip/); _Social Networks_, 2008).
+1.  [The Architecture of Complexity](http://www.barabasilab.com/pubs/CCNR-ALB_Publications/200708-00_IEEEControlSys-ArchofComplex/200708-00_IEEEControlSys-ArchofComplex.pdf) - From network theory to complexity theory (_IEEE Control Systems Magazine_, 2007).
+-   [Basic Notions for the Analysis of Large Two-mode Networks](http://www.sciencedirect.com/science/article/pii/S0378873307000494)  ([preprint](https://www-complexnetworks.lip6.fr/~latapy/Publis/socnet07.pdf), [related code](https://www-complexnetworks.lip6.fr/~latapy/Bip/); _Social Networks_, 2008).
 -   [Brokerage](http://www.annualreviews.org/doi/abs/10.1146/annurev-soc-081309-150054) (_Annual Review of Sociology_, 2012).
 -   [Biological Networks](http://algo.uni-konstanz.de/publications/bbs-bn-13.pdf) (_Handbook of Graph Drawing and Visualization_, 2013).
 -   [Birds of a Feather: Homophily in Social Networks](http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.27.1.415) (_Annual Review of Sociology_, 2001).
+-   [Complex Systems and Networks](http://science.sciencemag.org/content/325/5939) (special issue of _Science_, 2009).
+-   [The Convergence of Social and Technological Networks](https://www.cs.cornell.edu/home/kleinber/cacm08.pdf) (_Communications of the ACM_, 2008).
 -   [Graph Theory and Networks in Biology](http://dx.doi.org/10.1049/iet-syb:20060038) ([preprint](http://arxiv.org/abs/q-bio/0604006); _IET Systems Biology_, 2007).
 -   [Introduction to Stochastic Actor-Based Models for Network Dynamics](http://www.sciencedirect.com/science/article/pii/S0378873309000069) ([preprint](http://www.stats.ox.ac.uk/~snijders/SnijdersSteglichVdBunt2009.pdf); _Social Networks_, 2010).
+-   [Interactome Networks and Human Disease](http://www.barabasilab.com/pubs/CCNR-ALB_Publications/201103-18_CellRev-InteractomeHumDis/201103-18_CellRev-InteractomeHumDis.pdf) (_Cell_, 2011).
 -   [Mixed-Method Approaches to Social Network Analysis](http://eprints.ncrm.ac.uk/842/) (ESRC NCRM Discussion Paper, 2010).
 -   [Network Analysis and Political Science](http://www.annualreviews.org/doi/abs/10.1146/annurev.polisci.12.040907.115949) (_Annual Review of Political Science_, 2011).
 -   [Network Analysis in the Social Sciences](http://science.sciencemag.org/content/323/5916/892) (_Science_, 2009).
+-   [Network Biology: Understanding the Cell's Functional Organization](http://www.barabasilab.com/pubs/CCNR-ALB_Publications/200402-00_NatureRevGen-NetworkBiology/200402-00_NatureRevGen-NetworkBiology.pdf) - Accessible introduction to (cellular) network analysis (_Nature Reviews Genetics_, 2004).
+-   [Network Medicine: A Network-based Approach to Human Disease](http://www.barabasilab.com/pubs/CCNR-ALB_Publications/201012-18_NatureRev-NetMedicine/201012-18_NatureRev-NetMedicine.pdf) (_Nature Review Genetics_, 2011).
 -   [Networks and History](http://onlinelibrary.wiley.com/doi/10.1002/cplx.10054/abstract) (_Complexity_, 2002).
 -   [Networks in the Understanding of Economic Behaviors](https://www.aeaweb.org/articles?id=10.1257/jep.28.4.3) (_Journal of Economic Perspectives_, 2014).
 -   [Social Network Algorithms and Software](http://www.sciencedirect.com/science/article/pii/B9780080970868431211) (_International Encyclopedia of Social and Behavioral Sciences_, 2015).
 -   [Social Network Analysis in the Study of Terrorism and Political Violence](http://journals.cambridge.org/article_S1049096510001848) ([preprint](http://opensiuc.lib.siu.edu/cgi/viewcontent.cgi?article=1048&context=pn_wp); _PS: Political Science and Politics_, 2011).
+-   [Statistical Mechanics of Complex Networks](http://www.barabasilab.com/pubs/CCNR-ALB_Publications/200201-30_RevModernPhys-StatisticalMech/200201-30_RevModernPhys-StatisticalMech.pdf) (_Reviews of Modern Physics_, 2002).
 -   [Statistical Models for Social Networks](http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.012809.102709) (_Annual Review of Sociology_, 2011).
 -   [The Structure and Function of Complex Networks](http://epubs.siam.org/doi/abs/10.1137/S003614450342480) (_SIAM Review_, 2003).
 
@@ -418,6 +425,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [The Performativity of Networks](http://kieranhealy.org/files/papers/performativity.pdf) - Paper that connects network theory to the sociology of science.
 -   [Picking Sides](https://codeandculture.wordpress.com/2015/04/03/picking-sides/) - Community detection in the political network of Middle Eastern alliances between various state and nonstate powers ([updated version](https://gist.github.com/briatte/c6df2f855afb4eb142e6)).
 -   [Plan interactif du métro](http://www.jeromecukier.net/projects/metro/map.html) - Interactive visualization of the Paris metro network, drawn with d3.js, in French.
+-   [Scale-Free Networks](http://www.barabasilab.com/pubs/CCNR-ALB_Publications/200305-01_SciAmer-ScaleFree/200305-01_SciAmer-ScaleFree.pdf) - Early, accessible formulation of the "networks are everywhere" argument.
 -   [Social Networks](http://eszter.com/contract.html#socnet) - Reading list of sociological classics about social networks: Bonacich, Borgatti and Everett, Burt, Emirbayer, Freeman, Granovetter, Padgett and Ansell, Simmel, Wellman, etc.
 -   [Tarot Cards for Principles of Complex Systems and Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/tarotcards/) - Part of a course by Peter Sheridan Dodds.
 -   [The Ties that Divide: A Network Analysis of the International Monetary System, 1890–1910](http://www.stats.ox.ac.uk/~snijders/FlandreauJobst2005.pdf) and [The Empirics of International Currencies: Network Externalities, History and Persistence](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0297.2009.02219.x/abstract) - Network analysis of the foreign exchange system in the late 19th century ([data](http://eh.net/database/international-currencies-1890-1910/)).
@@ -466,7 +474,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 > Explorations of fictional character networks.
 
 1.  [Events in the _Game of Thrones_](http://www.jeromecukier.net/projects/agot/events.html) and [Places in the _Game of Thrones_](http://www.jeromecukier.net/projects/agot/places.html) - Networked chronologies of character alliances, kills and travels in the book series.
--   [Lessons on Exponential Random Graph Modeling from _Grey’s Anatomy_ hook-ups](http://badhessian.org/2012/09/lessons-on-exponential-random-graph-modeling-from-greys-anatomy-hook-ups/).
+-   [Lessons on Exponential Random Graph Modeling from _Grey's Anatomy_ hook-ups](http://badhessian.org/2012/09/lessons-on-exponential-random-graph-modeling-from-greys-anatomy-hook-ups/).
 -   [Analyzing Networks of Characters in _Love Actually_](http://varianceexplained.org/r/love-actually-network/) - Features a cluster analysis and a [Shiny app](https://dgrtwo.shinyapps.io/love-actually-network/).
 -   [_Star Wars_ Social Networks: The Force Awakens](http://evelinag.com/blog/2016/01-25-social-network-force-awakens/index.html) - Example of a social network analysis written in F#.
 
@@ -474,7 +482,10 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 > Discussions of what "netsci" is about and means for other scientific disciplines.
 
-1.  [The Emergence of Network Science](https://www.cornell.edu/video/emergence-of-network-science) - Video documentary, featuring Steven Strogatz and many others.
+1.  [Albert-László Barabási's review articles](http://www.barabasilab.com/pubs-revart.php):
+  -   [Taming Complexity](http://www.barabasilab.com/pubs/CCNR-ALB_Publications/200511-00_TamingComplexity/200511-00_TamingComplexity.pdf).
+  -   [The Network Takeover](http://www.barabasilab.com/pubs/CCNR-ALB_Publications/201112-22_NatPhys-takeover/201112-22_NatPhys-takeover.pdf).
+-   [The Emergence of Network Science](https://www.cornell.edu/video/emergence-of-network-science) - Video documentary, featuring Steven Strogatz and many others.
 -   [Isolated Social Networkers](http://crookedtimber.org/2005/05/19/isolated-social-networkers/), [Networks and Netwars](http://bactra.org/weblog/347.html) and [The inter-disciplinary politics of interdisciplinary research or, "Hey, that was my idea first."](https://www.cs.unm.edu/~aaron/blog/archives/2005/05/the_interdiscip.htm) - Series of blog posts that predate the advent of "network science" as a buzzword, but that touch upon the same issues as those now being discussed under that heading.
 -   [Predicting Highly Cited Papers](http://arxiv.org/abs/1310.8220) - Prediction of the next highly cited papers in network science.
 -   [Social Network and Network Science Co-Citations Across Disciplines in 1996-2013](https://github.com/raffaelevacca/EUSN-co-citation-networks).
