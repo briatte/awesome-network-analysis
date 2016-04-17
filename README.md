@@ -331,6 +331,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [network](https://cran.r-project.org/web/packages/network/) - Basic tools to manipulate relational data in R.
 -   [networkdiffusion](https://github.com/chengjun/networkdiffusion) - Simulate and visualize basic epidemic diffusion in networks.
 -   [networkDynamic](https://cran.r-project.org/web/packages/networkDynamic/) - Support for dynamic, (inter)temporal networks.
+-   [RCy3](https://bioconductor.org/packages/release/bioc/html/RCy3.html) - Interface between R and recent versions of Cytoscape.
 -   [rgexf](https://bitbucket.org/gvegayon/rgexf/wiki/Home) - Export network objects from R to GEXF for manipulation with software like Gephi or Sigma.
 -   [Rgraphviz](https://bioconductor.org/packages/release/bioc/html/Rgraphviz.html) - Support for using the Graphviz library and its DOT graph drawing language from within R.
 -   [RSiena](http://r-forge.r-project.org/R/?group_id=461) - Simulation Investigation for Empirical Network Analysis; fits models to longitudinal network data.
