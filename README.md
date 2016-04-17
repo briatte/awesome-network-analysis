@@ -60,6 +60,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 1.  _[Network Science](http://barabasilab.neu.edu/networksciencebook/downlPDF.html)_, by Albert-László Barabási - Full book online (2016).
 -   _[Network Science](http://www.nap.edu/catalog/11516/network-science)_, by the U.S. National Research Council - Full book online (2005).
+-   _[Network Science: Theory and Practice](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118211014.html)_, by Ted G. Lewis (2011).
 -   _[Networks. An Introduction](http://www-personal.umich.edu/~mejn/networks-an-introduction/)_, by Mark E.J. Newman (2010).
 -   _[Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)_, by David Easley and Jon Kleinberg - Full pre-publication draft (2010).
 -   _[Réseaux sociaux et structures relationnelles](https://www.puf.com/content/R%C3%A9seaux_sociaux_et_structures_relationnelles)_, by Emmanuel Lazega, in French (2014).
@@ -328,6 +329,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [networkD3](http://christophergandrud.github.io/networkD3/) - D3 JavaScript network graphs from R.
 -   [ndtv](https://cran.r-project.org/web/packages/ndtv/) - Tools to construct animated visualizations of dynamic network data in various formats.
 -   [network](https://cran.r-project.org/web/packages/network/) - Basic tools to manipulate relational data in R.
+-   [networkdiffusion](https://github.com/chengjun/networkdiffusion) - Simulate and visualize basic epidemic diffusion in networks.
 -   [networkDynamic](https://cran.r-project.org/web/packages/networkDynamic/) - Support for dynamic, (inter)temporal networks.
 -   [rgexf](https://bitbucket.org/gvegayon/rgexf/wiki/Home) - Export network objects from R to GEXF for manipulation with software like Gephi or Sigma.
 -   [Rgraphviz](https://bioconductor.org/packages/release/bioc/html/Rgraphviz.html) - Support for using the Graphviz library and its DOT graph drawing language from within R.
