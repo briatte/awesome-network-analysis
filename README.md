@@ -105,6 +105,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 ### Software-specific
 
 1.  _[Analyzing Social Networks](https://sites.google.com/site/analyzingsocialnetworks/)_ (using UCINET), by Stephen P. Borgatti, Martin G. Everett and Jeffrey C. Johnson (2013).
+-   _[Graph Drawing Software](http://link.springer.com/book/10.1007/978-3-642-18638-7)_ (covering many programs), edited by Michael Jünger and Petra Mutzel (2004).
 -   _[Introduction to Social Network Methods](http://faculty.ucr.edu/~hanneman/nettext/)_ (using mostly UCINET), by Robert A. Hanneman and Mark Riddle - Full book online (2001).
 -   _Network Analysis with R/igraph_, by Gabor Csárdi, Thomas Nepusz and Eduardo M. Airoldi (in preparation).
 -   _Network Analysis with Python/igraph_, by Thomas Nepusz, Gabor Csárdi and Eduardo M. Airoldi (in preparation).
@@ -195,7 +196,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   _[The Journal of Mathematical Sociology](http://www.tandfonline.com/loi/gmas20)_ (Taylor & Francis, gated).
 -   _[Journal of Social Structure](http://www.cmu.edu/joss)_ (INSNA).
 -   _[Network Science](http://journals.cambridge.org/action/displayJournal?jid=nws)_ (Cambridge, gated).
--   _[REDES](http://revista-redes.rediris.es/)_, in Spanish (INSNA).
+-   _[REDES. Revista hispana para el análisis de redes sociales](http://revista-redes.rediris.es/)_, in Spanish (INSNA).
 -   _[Social Network Analysis and Mining](http://link.springer.com/journal/13278)_ (Springer, gated).
 -   _[Social Networks](http://ees.elsevier.com/son/default.asp)_ (Elsevier, gated).
 
@@ -244,6 +245,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [For­schungs­clus­ter der Uni­ver­si­tä­ten Trier und Mainz "Ge­sell­schaft­li­che Ab­hän­gig­kei­ten und so­zia­le Netz­wer­ke"](http://www.netzwerk-exzellenz.uni-trier.de/), in German.
 -   [Historical Network Research (HNR)](http://historicalnetworkresearch.org/) - Platform for scholars interested in network analysis for historical research.
   -   [HNR Conferences, Workshops and Other Events](http://historicalnetworkresearch.org/hnr-events/).
+  -   [HNR Talks](https://vimeo.com/user11811027) - Videos, in German.
 -   [Large Graphs and Networks](http://sites.uclouvain.be/networks/) - Research group at the Catholic University of Louvain.
 -   [MelNet Social Network Research Group, Swinburne University of Technology](http://www.swinburne.edu.au/fbl/research/transformative-innovation/our-research/MelNet-social-network-group/).
 -   [Mitchell Centre for Social Network Analysis, University of Manchester](http://www.socialsciences.manchester.ac.uk/mitchell-centre/) - Currently studies [covert networks](http://www.socialsciences.manchester.ac.uk/mitchell-centre/research/covert-networks/).
@@ -272,6 +274,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Formale Methoden der Netzwerkanalyse in den Geschichtswissenschaften: Warum und Wie? [Formal Network Methods in History: Why and How?]](http://www.studienverlag.at/data.cfm?vpath=openaccess/oezg-12012-lemercier&download=yes), in German ([preprint in English](http://halshs.archives-ouvertes.fr/halshs-00521527); _Österreichische Zeitschrift für Geschichtswissenschaften_, 2012).
 -   [Graph Theory and Networks in Biology](http://dx.doi.org/10.1049/iet-syb:20060038) ([preprint](http://arxiv.org/abs/q-bio/0604006); _IET Systems Biology_, 2007).
 -   [Introduction à la visualisation de données : l’analyse de réseau en histoire](http://www.martingrandjean.ch/introduction-visualisation-de-donnees-analyse-de-reseau-histoire/), in French (_Geschichte und Informatik_, 2015).
+-   [Introduction : où en est l'analyse de réseaux en histoire ? [Introducción: ¿en qué punto se encuentra el análisis de redes en Historia?]](http://revistes.uab.cat/redes/article/view/v21-bertran-guzziheeb-lemercier/299), in French ([also in Spanish](http://revistes.uab.cat/redes/article/view/v21-bertran-guzziheeb-lemercier/298); _REDES_, 2011).
 -   [Networks and History](http://onlinelibrary.wiley.com/doi/10.1002/cplx.10054/abstract) (_Complexity_, 2002).
 -   [Networks of Power in Archaeology](http://www.annualreviews.org/doi/abs/10.1146/annurev-anthro-102313-025901) (_Annual Review of Anthropology_, 2014).
 -   [Netzwerkanalyse in den Geschichtswissenschaften. Historische Netzwerkanalyse als Methode für die Erforschung von historischen Prozessen](https://www.springer.com/de/book/9783531176604), in German ([preprint](https://www.academia.edu/449150/Netzwerkanalyse_in_den_Geschichtswissenschaften._Historische_Netzwerkanalyse_als_Methode_f%C3%BCr_die_Erforschung_von_historischen_Prozessen); _Prozesse. Formen, Dynamiken, Erklärungen_, 2015).
@@ -301,7 +304,8 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ### Network Visualization
 
-1.  [Graphical Techniques for Exploring Social Network Data](http://moreno.ss.uci.edu/87.pdf) (_Models and Methods in Social Network Analysis_, 2005).
+1.  [Explorations Into the Visualization of Policy Networks](https://www.academia.edu/17565685/Explorations_into_the_Visualization_of_Policy_Networks) (_Journal of Theoretical Politics_, 1999).
+-   [Graphical Techniques for Exploring Social Network Data](http://moreno.ss.uci.edu/87.pdf) (_Models and Methods in Social Network Analysis_, 2005).
 -   [Methods of Social Network Visualization](http://moreno.ss.uci.edu/90.pdf) (_Encyclopedia of Complexity and Systems Science_, 2009; [poster version](http://www.pfeffer.at/data/visposter/)).
 -   [Social Networks](http://moreno.ss.uci.edu/93.pdf) (_Handbook of Graph Drawing and Visualization_, 2013).
 
@@ -534,7 +538,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 > Series of blog posts on network topics.  
 > For more blog posts on manipulating networks with R, try searching for [‘networks’](http://www.r-bloggers.com/?s=networks) or [‘social network analysis’](http://www.r-bloggers.com/?s=social+network+analysis) on the [R-Bloggers](http://www.r-bloggers.com/) R blogs aggregator.
 
-1.  [Archaeological Networks](http://archaeologicalnetworks.wordpress.com/) - Tom Brughmans' blog.
+1.  [Archaeological Networks](http://archaeologicalnetworks.wordpress.com/) - Tom Brughmans’ blog, aimed at archaeologists and historians.
 -   [Blog Posts About Network Analysis by Martin Grandjean](http://www.martingrandjean.ch/tag/analyse-de-reseau/), in English and French (mostly network visualizations; also try the ‘[social networks](http://www.martingrandjean.ch/tag/reseaux-sociaux/)’ tag).
 -   [Blog Posts About Networks by Aaron Clauset](https://www.cs.unm.edu/~aaron/blog/archives/networks/index.htm).
 -   [Blog Posts About Networks by Baptiste Coulmont](http://coulmont.com/index.php?s=r%C3%A9seaux), in French.
