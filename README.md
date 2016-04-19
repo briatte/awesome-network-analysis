@@ -61,7 +61,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 > Accessible introductions aimed at non-technical audiences.
 
 1.  _[Linked: The New Science of Networks](https://www3.nd.edu/~networks/Linked/index.html)_, by Albert-László Barabási - [Selected chapters online](http://barabasi.com/book/linked#linked) (2002).
--   _[Six Degrees: The Science of a Connected Age](http://books.wwnorton.com/books/detail.aspx?ID=7599)_, by Duncan J. Watts (2003). 
+-   _[Six Degrees: The Science of a Connected Age](http://books.wwnorton.com/books/detail.aspx?ID=7599)_, by Duncan J. Watts (2003).
 
 ### General Overviews
 
@@ -423,6 +423,8 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [networkx](http://networkx.github.io/) - Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
   -   [Implementing an ERGM From Scratch in Python](http://davidmasad.com/blog/ergms-from-scratch/), using networkx and numpy (2014).
 -   [python-igraph](http://igraph.org/python/) - Python version of the igraph network analysis package.
+-   [python-louvain](http://perso.crans.org/aynaud/communities/) - A solid implementation of Louvain community detection algorithm
+-   [ipython notebook/jupyter](http://jupyter.org/) - Literate programming applied to scientific computing python. It also can be used to show matlab/octave, R and other mathematical programming languages. Notebooks are also directly published as pages on github. That makes it an absolute tool to communicate works on the web.
 
 ### R
 
@@ -496,6 +498,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
   -   [TikZ & PGF Manual](http://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/graphics/pgf/base/doc/pgfmanual.pdf).
   -   [TKZ](http://altermundus.com/pages/tkz/index.html) - Packages based on TikZ.
 -   [Tulip software graph format (TLP)]() - Graph syntax used by the Tulip software framework.
+-   [Cypher](http://neo4j.com/docs/stable/cypher-query-lang.html) A readable graph query language mostly used by [neo4j](http://neo4j.com/)
 
 ## Tutorials
 
