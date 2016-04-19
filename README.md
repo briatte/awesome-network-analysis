@@ -38,7 +38,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
   - __[R](#r)__  
   - __[Stata](#stata)__  
   - __[Syntaxes](#syntaxes)__  
-- __[Tutorials](#tutorials)__  
+  - __[Tutorials](#tutorials)__  
 - __[Varia](#varia)__  
   - __[Blog Series](#blog-series)__  
   - __[Fictional Networks](#fictional-networks)__  
@@ -518,11 +518,12 @@ Emirbayer, Mustafa and Jeff Goodwin. 1994. "Network Analysis, Culture and the Pr
   -   [TKZ](http://altermundus.com/pages/tkz/index.html) - Packages based on TikZ.
 -   [Tulip software graph format (TLP)]() - Graph syntax used by the Tulip software framework.
 
-## Tutorials
+### Tutorials
 
 > Tutorials that are not focused on a single specific software package or program.
 
 1.  [Basic and Advanced Network Visualization with Gephi and R](http://kateto.net/sunbelt2016) (2016).
+-   [Nodegoat and Palladio: Introductory Workshop](https://www.academia.edu/11450425/Nodegoat_and_Palladio_Introductory_Workshop_by_Emmanuelle_Chaze) - Aimed at humanists (2015).
 -   [Static and Dynamic Network Visualization with R](http://kateto.net/network-visualization) - Covers the igraph, network, networkD3 and ndtv packages (2015).  
 
 ## Varia
