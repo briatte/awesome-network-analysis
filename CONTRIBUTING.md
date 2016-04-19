@@ -8,7 +8,7 @@ Please contribute to it by sending [pull requests](https://github.com/briatte/aw
 
 - __All resources__ are listed alphabetically.
 - __All titles__ are Title Cased, Chicago-style.
-- __Authors__ are required for blog series, books and courses.
+- __Authors__ are required for blog series, classic articles, books and courses.
 - __Dates__ are mentioned for books and tutorials.
 - __Default spelling__ is __U.S. English__.
 - __Do not use__
