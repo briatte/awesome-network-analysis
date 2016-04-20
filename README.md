@@ -99,6 +99,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   _[Knoten und Kanten III. Soziale Netzwerkanalyse in Geschichts- und Politikforschung]()_, edited by Markus Gamper, Linda Reschke and Marten Düring, in German and English (2015).
 -   _Inferential Network Analysis_, by Skyler J. Cranmer, Bruce A. Desmarais and Jason Morgan (forthcoming).
 -   _[Multilevel Network Analysis for the Social Sciences](https://www.springer.com/fr/book/9783319245188)_, edited by Emmanuel Lazega and Tom A.B. Snijders (2016).
+-   _[Multivariate Network Visualization](https://www.springer.com/us/book/9783319067926)_, edited by Andreas Kerren, Helen Purchase and Matthew O. Ward (2014).
 -   _[Network Analysis in Archaeology](https://global.oup.com/academic/product/network-analysis-in-archaeology-9780199697090)_, edited by Carl Knappett (2013; [review in French](http://nda.revues.org/2383)).
 -   _[Network Analysis: Methodological Foundations](https://www.springer.com/fr/book/9783540249795)_, edited by Ulrik Brandes and Thomas Erlebach - Covers network centrality, clustering, blockmodels, spatial networks and more (2005).
 -   _[Political Networks. The Structural Perspective](http://www.cambridge.org/ar/academic/subjects/sociology/political-sociology/political-networks-structural-perspective)_, by David Knoke (1994).
@@ -339,7 +340,9 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Mixed-Method Approaches to Social Network Analysis](http://eprints.ncrm.ac.uk/842/) (ESRC NCRM Discussion Paper, 2010).
 -   [Network Analysis and Political Science](http://www.annualreviews.org/doi/abs/10.1146/annurev.polisci.12.040907.115949) (_Annual Review of Political Science_, 2011).
 -   [Network Analysis in the Social Sciences](http://science.sciencemag.org/content/323/5916/892) (_Science_, 2009).
+-   [Networks in Social Psychology, Beginning with Kurt Lewin](http://link.springer.com/10.1007%2F978-1-4614-6170-8_79) ([preprint](http://patrickdoreian.com/NEW/wp-content/papers_resources/new_papers_4-13/Networks_in_Socia_Psychology_Lewin.docx); _Encyclopedia of Social Network Analysis and Mining_, 2014).
 -   [Networks in the Understanding of Economic Behaviors](https://www.aeaweb.org/articles?id=10.1257/jep.28.4.3) (_Journal of Economic Perspectives_, 2014).
+-   [Positions and Roles](http://patrickdoreian.com/NEW/wp-content/papers_resources/new_papers_4-13/positions_and_roles.pdf) (_The SAGE Handbook of Social Network Analysis_, 2011).
 -   [Social Network Analysis in the Study of Terrorism and Political Violence](http://journals.cambridge.org/article_S1049096510001848) ([preprint](http://opensiuc.lib.siu.edu/cgi/viewcontent.cgi?article=1048&context=pn_wp); _PS: Political Science and Politics_, 2011).
 
 ## Software
@@ -443,7 +446,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ### Python
 
-> Most items below are from [a Google spreadsheet](https://docs.google.com/spreadsheets/d/1vJILk2EW1JnR3YAwTSSqAV5mPkeXaezy45wOoafBpfU/edit#gid=0) by Michał Bojanowski and others.  
+> Many items below are from [a Google spreadsheet](https://docs.google.com/spreadsheets/d/1vJILk2EW1JnR3YAwTSSqAV5mPkeXaezy45wOoafBpfU/edit#gid=0) by Michał Bojanowski and others.  
 > See also [Social Network Analysis with Python](https://www.youtube.com/watch?v=qgGqaBAEy3Q), a 3-hour tutorial by Maksim Tsvetovat and Alex Kouznetsov given at PyCon US 2012 ([code](https://github.com/maksim2042/PyCon2012)).  
 > For more awesome Python packages, see the [Awesome Python](https://github.com/vinta/awesome-python) list.
 
@@ -454,7 +457,6 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
   -   [Implementing an ERGM From Scratch in Python](http://davidmasad.com/blog/ergms-from-scratch/), using networkx and numpy (2014).
 -   [python-igraph](http://igraph.org/python/) - Python version of the igraph network analysis package.
 -   [python-louvain](http://perso.crans.org/aynaud/communities/) - A solid implementation of Louvain community detection algorithm.
--   [ipython notebook/jupyter](http://jupyter.org/) - Literate programming applied to scientific computing python. It also can be used to show matlab/octave, R and other mathematical programming languages. Notebooks are also directly published as pages on github. That makes it an absolute tool to communicate works on the web.
 
 ### R
 
@@ -617,6 +619,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 > Explorations of fictional character networks.
 
 1.  [Analyzing Networks of Characters in _Love Actually_](http://varianceexplained.org/r/love-actually-network/) - Features a cluster analysis and a [Shiny app](https://dgrtwo.shinyapps.io/love-actually-network/) (using R + Shiny).
+-   [Character Co-Occurrences in Victor Hugo's _Les Misérables_](http://bokeh.pydata.org/en/latest/docs/gallery/les_mis.html), plotted as an adjacency matrix, written in Python (+ Javascript).
 -   [Events in the _Game of Thrones_](http://www.jeromecukier.net/projects/agot/events.html) and [Places in the _Game of Thrones_](http://www.jeromecukier.net/projects/agot/places.html) - Networked chronologies of character alliances, kills and travels in the book series, drawn with d3.js.
 -   [Lessons on Exponential Random Graph Modeling from _Grey's Anatomy_ hook-ups](http://badhessian.org/2012/09/lessons-on-exponential-random-graph-modeling-from-greys-anatomy-hook-ups/) (using R).
 -   [Network Analysis of Shakespeare's _Macbeth_](https://mboudour.github.io/2015/10/28/Shakespeare's-Macbeth-Network.html) (using Python).
@@ -628,15 +631,15 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ### Network Science
 
-> Discussions of what "netsci" is about and means for other scientific disciplines.
+> Discussions of what “netsci” is about and means for other scientific disciplines.
 
 1.  [Editing a Normal Science Journal in Social Science](http://bms.revues.org/595) - Reflections on the _Social Networks_ journal by its founding editor.
 -   [The Emergence of Network Science](https://www.cornell.edu/video/emergence-of-network-science) - Video documentary, featuring Steven Strogatz and many others.
 -   From [Albert-László Barabási’s review articles](http://www.barabasilab.com/pubs-revart.php):
   -   [Taming Complexity](http://www.barabasilab.com/pubs/CCNR-ALB_Publications/200511-00_TamingComplexity/200511-00_TamingComplexity.pdf).
   -   [The Network Takeover](http://www.barabasilab.com/pubs/CCNR-ALB_Publications/201112-22_NatPhys-takeover/201112-22_NatPhys-takeover.pdf).
--   [The Invasion of the Physicists](ftp://163.25.117.117/nplu/%B8%EA%B0T%BA%F4%B5%B8%A4%C0%AAR/Readings/16%20The%20Invasion%20of%20the%20Physicists.pdf) - How "network science" actually occurred.
--   [Isolated Social Networkers](http://crookedtimber.org/2005/05/19/isolated-social-networkers/), [Networks and Netwars](http://bactra.org/weblog/347.html) and [The inter-disciplinary politics of interdisciplinary research or, "Hey, that was my idea first."](https://www.cs.unm.edu/~aaron/blog/archives/2005/05/the_interdiscip.htm) - Series of blog posts that predate the advent of "network science" as a buzzword, but that touch upon the same issues as those now being discussed under that heading.
+-   [The Invasion of the Physicists](http://www.sciencedirect.com/science/article/pii/S0378873304000309) - How “network _science_” came up.
+-   [Isolated Social Networkers](http://crookedtimber.org/2005/05/19/isolated-social-networkers/), [Networks and Netwars](http://bactra.org/weblog/347.html) and [The inter-disciplinary politics of interdisciplinary research or, "Hey, that was my idea first."](https://www.cs.unm.edu/~aaron/blog/archives/2005/05/the_interdiscip.htm) - Series of blog posts that predate the advent of “network science” as a buzzword, but that touch upon the same issues as those now being discussed under that heading.
 -   [Predicting Highly Cited Papers](http://arxiv.org/abs/1310.8220) - Prediction of the next highly cited papers in network science.
 -   [Social Network and Network Science Co-Citations Across Disciplines in 1996-2013](https://github.com/raffaelevacca/EUSN-co-citation-networks).
 -   [Three Hard Questions about Network Science](http://environmentalpolicy.ucdavis.edu/node/292).
@@ -658,8 +661,11 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 > Also known as bipartite graphs.
 
-1.  [Basic Notions for the Analysis of Large Two-mode Networks](http://www.sciencedirect.com/science/article/pii/S0378873307000494)  ([preprint](https://www-complexnetworks.lip6.fr/~latapy/Publis/socnet07.pdf), [related code](https://www-complexnetworks.lip6.fr/~latapy/Bip/); _Social Networks_, 2008).
--   [L'analyse des graphes bipartis](https://halshs.archives-ouvertes.fr/FMR/halshs-00794976), in French (2013).
+1.  [L'analyse des graphes bipartis](https://halshs.archives-ouvertes.fr/FMR/halshs-00794976), in French (2013).
+-   [Basic Notions for the Analysis of Large Two-mode Networks](http://www.sciencedirect.com/science/article/pii/S0378873307000494)  ([preprint](https://www-complexnetworks.lip6.fr/~latapy/Publis/socnet07.pdf), [related code](https://www-complexnetworks.lip6.fr/~latapy/Bip/); _Social Networks_, 2008).
+-   [Fitting Large Signed Two-mode Blockmodels: Problems and Prospects](http://patrickdoreian.com/NEW/wp-content/papers_resources/new_papers_4-13/large_signed_2mode_networks_UNGA.pdf).
+-   [Generalized Blockmodeling of Two-mode Network Data](http://www.sciencedirect.com/science/article/pii/S0378873304000036) ([preprint](http://vlado.fmf.uni-lj.si/pub/networks/doc/preprint/TwoMode.pdf)).
+-   [Partitioning Signed Two-Mode Networks](http://patrickdoreian.com/NEW/wp-content/papers_resources/pdf/partitioning_signed_two_mode_networks.pdf).
 -   [Working with Bipartite/Affiliation Network Data in R](https://solomonmessing.wordpress.com/2012/09/30/working-with-bipartiteaffiliation-network-data-in-r/) (2012).
 
 * * *
