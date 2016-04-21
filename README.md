@@ -6,7 +6,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ## Table of Contents
 
-- [Books](#books)
+- __[Books](#books)__
   - [Classics](#classics)
   - [Dissemination](#dissemination)
   - [General Overviews](#general-overviews)
@@ -14,22 +14,22 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
   - [Method-specific](#method-specific)
   - [Software-specific](#software-specific)
   - [Topic-specific](#topic-specific)
-- [Conferences](#conferences)
-- [Courses](#courses)
-- [Datasets](#datasets)
-- [Journals](#journals)
-- [Professional groups](#professional-groups)
+- __[Conferences](#conferences)__
+- __[Courses](#courses)__
+- __[Datasets](#datasets)__
+- __[Journals](#journals)__
+- __[Professional groups](#professional-groups)__
   - [Research Groups (USA)](#research-groups-usa)
   - [Research Groups (Other)](#research-groups-other)
-- [Review Articles](#review-articles)
+- __[Review Articles](#review-articles)__
   - [Archeological and Historical Networks](#archeological-and-historical-networks)
   - [Biological, Ecological and Disease Networks](#biological-ecological-and-disease-networks)
   - [Complex Networks](#complex-networks)
   - [Network Modeling](#network-modeling)
   - [Network Visualization](#network-visualization)
   - [Economic, Political and Social Networks](#economic-political-and-social-networks)
-- [Selected Papers](#selected-papers)
-- [Software](#software)
+- __[Selected Papers](#selected-papers)__
+- __[Software](#software)__
   - [Algorithms](#algorithms)
   - [C / C++](#c--c)
   - [JavaScript](#javascript)
@@ -39,14 +39,14 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
   - [Stata](#stata)
   - [Syntaxes](#syntaxes)
   - [Tutorials](#tutorials)
-- [Varia](#varia)
+- __[Varia](#varia)__
   - [Blog Series](#blog-series)
   - [Fictional Networks](#fictional-networks)
   - [Network Science](#network-science)
   - [Small Worlds](#small-worlds)
   - [Two-Mode Networks](#two-mode-networks)
-- [Contribution Guidelines](CONTRIBUTING.md)
-- [License](#license)
+- __[Contribution Guidelines](CONTRIBUTING.md)__
+- __[License](#license)__
 
 ## Books
 
