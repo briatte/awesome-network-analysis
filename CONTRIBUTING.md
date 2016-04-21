@@ -8,12 +8,13 @@ Please contribute to it by sending [pull requests](https://github.com/briatte/aw
 
 - __All resources__ are listed alphabetically.
 - __All titles__ are Title Cased, Chicago-style.
-- __Authors__ are required for blog series, classic articles, books and courses.
+- __Authors__ are required for blog series, selected papers, books and courses.
 - __Dates__ are mentioned for books and tutorials.
 - __Default spelling__ is __U.S. English__.
 - __Do not use__
-  - __quotes__ around titles
-  - __monospace text__ for software names
+  - __copyright or trademark symbols__.
+  - __quotes__ around titles.
+  - __monospace text__ for software names.
 - __Italics__ are used only for books and journal names.
 - __Journals__ require the name of the publisher.
   - Please mention if the journal is __gated__ or not.
