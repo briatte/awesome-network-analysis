@@ -4,7 +4,9 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources to const
 
 Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning), [Awesome Math](https://github.com/rossant/awesome-math) and others.
 
-[![Adamic and Glance's network of political blogs, 2008.](illustration.png)](http://www.maths.tcd.ie/~mnl/store/AdamicGlance2004a.pdf)
+[![Adamic and Glance's network of political blogs, 2004.](illustration.png)](http://www.maths.tcd.ie/~mnl/store/AdamicGlance2004a.pdf)
+
+> Above picture: network of U.S. political blogs (http://www.maths.tcd.ie/~mnl/store/AdamicGlance2004a.pdf) by [Adamic and Glance (2004)](http://www.maths.tcd.ie/~mnl/store/AdamicGlance2004a.pdf).
 
 ## Table of Contents
 
