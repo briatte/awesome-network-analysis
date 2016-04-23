@@ -280,7 +280,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [SoNAR-C - Social Network Analysis Research Center, University of Italian Switzerland (USi)](http://www.sonarcenter.eco.usi.ch/).
 -   [Topographies of Entanglements. Mapping Medieval Networks](https://oeaw.academia.edu/TopographiesofEntanglements) - Research platform based at the Austrian Academy of Sciences that focuses on applying network theory and visualisation to medieval history.
 -   [UCL Centre for Organisational Network Analysis (CONA)](https://www.ucl.ac.uk/cona).
--   [Virtual Observatory for the Study of Online Networks (VOSON)](http://voson.anu.edu.au/) - Research and software development project located at the Australian National University.
+-   [Virtual Observatory for the Study of Online Networks (VOSON)](http://vosonlab.net/) - Research and software development project located at the Australian National University.
 
 ## Review Articles
 
