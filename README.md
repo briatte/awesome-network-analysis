@@ -260,6 +260,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Large Graphs and Networks](http://sites.uclouvain.be/networks/) - Research group at the Catholic University of Louvain ([official page](https://www.uclouvain.be/en-352442.html)).
 -   [MelNet Social Network Research Group, Swinburne University of Technology](http://www.swinburne.edu.au/fbl/research/transformative-innovation/our-research/MelNet-social-network-group/).
 -   [Mitchell Centre for Social Network Analysis, University of Manchester](http://www.socialsciences.manchester.ac.uk/mitchell-centre/) - Currently studies [covert networks](http://www.socialsciences.manchester.ac.uk/mitchell-centre/research/covert-networks/).
+-   [Murata Laboratory](http://www.ai.cs.titech.ac.jp/) - Tokyo-based research group, studying bi-, tri- and k-partite (hyper)networks.
 -   [NetLab](http://groups.chass.utoronto.ca/netlab/) - Research network at the University of Toronto, led by Barry Wellman.
 -   [Network Science Research Centre, Swansea University](http://www.swansea.ac.uk/som/research-faculty/networkscienceresearchcentre/).
 -   [Netzwerkerei](http://netzwerkerei.org/) - Historical research project on the connections between Jewish intellectuals.
