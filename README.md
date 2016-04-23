@@ -338,7 +338,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ### Economic, Political and Social Networks
 
-> See also the bibliography [by Eszter Hargittai](http://eszter.com/contract.html#socnet) and [by Pierre François](http://pierrefrancois.wifeo.com/documents/Cours-rseau---biblio-gnrale.pdf).
+> See also the bibliographies [by Eszter Hargittai](http://eszter.com/contract.html#socnet), [by Pierre François](http://pierrefrancois.wifeo.com/documents/Cours-rseau---biblio-gnrale.pdf) and [by Pierre Mercklé](http://socio.ens-lyon.fr/merckle/merckle_communications_2008_cargese_reseaux_nuls_biblio.pdf).
 
 1.  [A propos de la notion de rôle dans l'analyse des relations sociales](http://msh.revues.org/11969) (_Mathématiques et sciences humaines_, 2011).
 -   [Brokerage](http://www.annualreviews.org/doi/abs/10.1146/annurev-soc-081309-150054) (_Annual Review of Sociology_, 2012).
@@ -361,6 +361,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Chains of Affection: The Structure of Adolescent Romantic and Sexual Networks](http://www.soc.duke.edu/~jmoody77/chains.pdf), by Peter S. Bearman, James Moody and Katherine Stovel - Classic example of topological network analysis applied to a network of affective and sexual ties (_American Journal of Sociology_, 2004).
 -   [Coauthorship and Citation Patterns in the _Physical Review_](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.88.012814), by Travis Martin _et al._ - Highly typical study of scientific publishing productivity and collaboration through temporal network analysis ([preprint](http://arxiv.org/abs/1304.0473); _Physical Review E_, 2013).
 -   [The Convergence of Social and Technological Networks](https://www.cs.cornell.edu/home/kleinber/cacm08.pdf), by Jon Kleinberg - Discusses small-world effects and social contagion within the context of the Internet and social media (_Communications of the ACM_, 2008).
+-   [Deux traditions d'analyse des reseaux sociaux](http://www.cairn.info/resume.php?ID_ARTICLE=RES_115_0183), by Michael Eve ([English version](https://www.academia.edu/14524365/THE_TWO_TRADITIONS_OF_NETWORK_ANALYSIS); _Réseaux_, 2002).
 -   [Homophily and Contagion Are Generically Confounded in Observational Social Network Studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3328971/), by Cosma R. Shalizi and Andrew C. Thomas - Makes a very important point for the analysis of network diffusion and influence (_Sociological Methods and Research_, 2011).
 -   [Network Analysis, Culture, and the Problem of Agency](http://www.ssc.wisc.edu/~emirbaye/Mustafa_Emirbayer/ARTICLES_files/network%20analysis,%20culture,%20and%20the%20problem%20of%20agency.pdf), by Mustafa Emirbayer and Jeff Goodwin (_American Journal of Sociology_, 1994), and [Manifesto for a Relational Sociology](http://www.ssc.wisc.edu/~emirbaye/Mustafa_Emirbayer/ARTICLES_files/manifesto%20for%20a%20relational%20sociology.pdf), by Mustafa Emirbayer (_American Journal of Sociology_, 1997) - Sociological foundations for a science of social ties.
 -   [Network Theory, Plot Analysis](https://sydney.edu.au/intellectual-history/documents/moretti_network_theory_plot_analysis.pdf), by Franco Moretti - Example applications of (fictional) network analysis in literary studies (_New Left Review_, 2011).
@@ -371,6 +372,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Robust Action and the Rise of the Medici, 1400-1434](http://home.uchicago.edu/~jpadgett/papers/published/robust.pdf), by John F. Padgett and Christopher K. Ansell - Classic analysis of power relations in the Renaissance Florentine state (_American Journal of Sociology_, 1993).
 -   [The Strength of Weak Ties](https://sociology.stanford.edu/sites/default/files/publications/the_strength_of_weak_ties_and_exch_w-gans.pdf), by Mark Granovetter - The arch-classic example of an application of network analysis to a social issue: jobseeking (_American Journal of Sociology_, 1973).
 -   [The Ties that Divide: A Network Analysis of the International Monetary System, 1890–1910](http://www.stats.ox.ac.uk/~snijders/FlandreauJobst2005.pdf) (_The Journal of Economic History_, 2005) and [The Empirics of International Currencies: Network Externalities, History and Persistence](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0297.2009.02219.x/abstract) (_The Economic Journal_, 2009), both by Marc Flandreau and Clemens Jobst - Network analysis of the foreign exchange system in the late 19th century ([data](http://eh.net/database/international-currencies-1890-1910/)).
+-   [Topics in Social Network Analysis and Network Science](http://arxiv.org/abs/1404.0067), by A. James O'Malley and Jukka-Pekka Onnela - 50-page introduction to network analysis, with just the right amount of detail on all aspects of it (_The Handbook of Health Services Research_, forthcoming 2017).
 
 ## Software
 
@@ -396,6 +398,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [GLEAMviz Simulator](http://www.gleamviz.org/) - Cross-platform tool intended for the prediction of human epidemics.
 -   [Graphviz](http://www.graphviz.org/) - Cross-platform software to draw graphs in the DOT graph drawing language.
 -   [Graphy](https://github.com/bruce/graphy) - Graph theory library written in Ruby.
+-   [Lynks](https://lynksoft.com/) - Online tool for simple network analysis and visualization.
 -   [Mathematica](https://www.wolfram.com/mathematica/) - Cross-platform program with graph theory and network analysis functionalities.
 -   [MuxViz](http://muxviz.net/) - Cross-platform, free and open source tool to study multilayer networks, based on R and GNU Octave.
 -   [Neo4j](http://neo4j.com/) - Open source, scalable graph database, used by companies like [Linkurious](http://linkurio.us/).
@@ -412,6 +415,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [PNet](http://www.swinburne.edu.au/fbl/research/transformative-innovation/our-research/MelNet-social-network-group/PNet-software/index.html) - Simulation and estimation of (one-mode and multilevel) exponential random graph models (ERGMs), written in Java for Windows.
 -   [PUCK - Program for the Use and Computation of Kinship data](http://www.kintip.net/content/view/55/21/) - Cross-platform Java program for genealogical network analysis.
 -   [Radatools](http://deim.urv.cat/~sergio.gomez/radatools.php) - Set of tools intended for the analysis of complex networks, built on top of [Radalib](http://deim.urv.cat/~sergio.gomez/radalib.php), a library written in Ada.
+-   [Segrada](http://segrada.org/) - Cross-platform tool to build and visualize semantic graph databases.
 -   [Siena](http://www.stats.ox.ac.uk/~snijders/siena/) - Simulation Investigation for Empirical Network Analysis. Formerly a Windows program, now developed as the RSiena R package.
 -   [SocNetV - Social Network Visualizer](http://socnetv.sourceforge.net/) - Cross-platform program that includes a [simple Web crawler](http://socnetv.sourceforge.net/news/?post=socnetv-v16-released-with-a-working-web-crawler) to construct hyperlink networks.
 -   [SoNIA](http://web.stanford.edu/group/sonia/) (Social Network Image Animator) - Tool to visualize dynamic or longitudinal network data. Formerly a [Java program](https://sourceforge.net/projects/sonia/) ([example movies](http://www.soc.duke.edu/~jmoody77/NetMovies/index.htm)), now developed as the ndtv R package.
@@ -465,6 +469,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [d3.js](https://d3js.org/) - JavaScript visualization library that can plot [force-directed graphs](http://bl.ocks.org/mbostock/4062045).
 -   [greuler](https://maurizzzio.github.io/greuler/) - Visualization library to build and manipulate graphs through a simple API. Powered by d3.js and [WebCola](http://marvl.infotech.monash.edu/webcola/).
 -   [jLouvain](https://github.com/upphiminn/jLouvain) - Louvain community detection for Javascript ([example](http://bl.ocks.org/emeeks/125db75c9b55ddcbdeb5)).
+-   [Popoto.js](http://www.popotojs.com/) - Library based on d3.js that provides a graph based search interface.
 -   [Sigma](http://sigmajs.org/) - JavaScript library dedicated to graph drawing.
 -   [vis.js](http://visjs.org/) - JavaScript library with network visualization capabilities.
 -   [VivaGraphJS](https://github.com/anvaka/VivaGraphJS) - Graph drawing library ([ForceAtlas2 plugin](https://github.com/graphcommons/viva.forceatlas2)).
@@ -583,10 +588,11 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 1.  [Centrality Measures as a Signature of Roles in Rousseau’s _Les Confessions_](http://yro.ch/centrality-measures-signature-roles-rousseaus-les-confessions/) - Analysis of a real-world character network.
 -   [Cheat Sheet: Social Network Analysis for Humanists](https://cvcedhlab.hypotheses.org/106).
+-   [Computer Technologies for the Historical Research of Intellectual Networks](https://www.youtube.com/playlist?list=PLz79Il7EOvUJxdQ9r2IefFtr--BNkfOa7) - Series of videos by historians, featuring Marten Düring and Scott Weingart.
 -   [David Knoke on Network Analysis](https://thesocietypages.org/methods/2015/01/30/david-knoke-on-network-analysis/) - A 20-minute interview that discusses the uses and benefits of network analysis, drawing upon Knoke's research on terrorist networks.
 -   [Glossary of Terms for Statistical Network Models](https://statnet.org/trac/raw-attachment/wiki/Resources/glossary.pdf).
 -   [Linton C. Freeman's Social Network Research Publications](http://moreno.ss.uci.edu/pubs.html), spanning from 1955 to today.
--   [Mapping the Republic of Letters](http://republicofletters.stanford.edu/) - Research project on early-modern scholarship.
+-   [Mapping the Republic of Letters](http://republicofletters.stanford.edu/) - Research project on early-modern scholarship ([underlying software](http://www.densitydesign.org/research/knot/)).
 -   [Mixed-Method Approaches to Social Network Analysis](https://www.youtube.com/playlist?list=PL3zdEY084WkQD79mR00RSt8j5RuyPwMJE) - Videos of a conference at the Middlesex University School of Law (2014).
 -   [Modeling Complex Social Networks: Challenges and Opportunities for Statistical Learning and Inference](https://www.youtube.com/watch?v=1xLjYc7EUEU) - Video of a seminar talk by Jennifer Neville at Purdue University (2011).
 -   [Network Fact](https://twitter.com/networkfact) - Twitter account about networks, graph theory, and related topics.
