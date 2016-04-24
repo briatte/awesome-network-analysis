@@ -99,6 +99,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   _[Bayesian Networks with Examples in R](http://www.crcpress.com/product/isbn/9781482225587)_, by Marco Scutari and Jean-Baptiste Denis ([website](http://www.bnlearn.com/book-crc/); 2014).
 -   _[The Book of Trees. Visualizing Branches of Knowledge](http://www.papress.com/html/book.details.page.tpl?isbn=9781616892180)_, by Manuel Lima - Hundreds of beautiful tree diagrams, from all periods of history (2014).
 -   _[Exponential Random Graph Models for Social Networks](http://www.cambridge.org/9780521193566)_, edited by Dean Lusher, Johan Koskinen and Garry Robins (2013).
+-   _[Generalized Blockmodeling. Structural Analysis in the Social Sciences](http://www.cambridge.org/de/academic/subjects/sociology/sociology-general-interest/generalized-blockmodeling)_, by Patrick Doreian, Vladimir Batagelj and Anuška Ferligoj (2004).
 -   _[Handbook of Graph Drawing and Visualization](https://www.crcpress.com/Handbook-of-Graph-Drawing-and-Visualization/Tamassia/9781584884125)_, edited by Roberto Tamassia (2013).
 -   _[Handbuch Historische Netzwerkforschung. Grundlagen und Anwendungen](http://www.lit-verlag.de/isbn/3-643-11705-2)_, edited by Marten Düring _et al._, in German (2016).
 -   _[An Introduction to Exponential Random Graph Modeling](https://uk.sagepub.com/en-gb/eur/an-introduction-to-exponential-random-graph-modeling/book237737)_, by Jenine K. Harris (2014).
@@ -112,10 +113,12 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   _[Network Analysis: Methodological Foundations](https://www.springer.com/fr/book/9783540249795)_, edited by Ulrik Brandes and Thomas Erlebach - Covers network centrality, clustering, blockmodels, spatial networks and more (2005).
 -   _[Political Networks. The Structural Perspective](http://www.cambridge.org/ar/academic/subjects/sociology/political-sociology/political-networks-structural-perspective)_, by David Knoke (1994).
 -   _[Social Network Analysis for Ego-Nets: Social Network Analysis for Actor-Centred Networks](https://uk.sagepub.com/en-gb/eur/social-network-analysis-for-ego-nets/book240391)_, by Nick Crossley _et al._ (2015).
+-   _[Understanding Large Temporal Networks and Spatial Networks](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0470714522.html)_, by Vladimir Batagelj _et al._ (2014).
 
 ### Software-specific
 
 1.  _[Analyzing Social Networks](https://sites.google.com/site/analyzingsocialnetworks/)_ (using UCINET), by Stephen P. Borgatti, Martin G. Everett and Jeffrey C. Johnson (2013).
+-   _[Exploratory Social Network Analysis with Pajek](http://www.cambridge.org/us/academic/subjects/sociology/research-methods-sociology-and-criminology/exploratory-social-network-analysis-pajek-2nd-edition)_, by Wouter de Nooy, Andrej Mrvar and Vladimir Batagelj (2011; also [in Japanese](http://www.tdupress.jp/books/isbn978-4-501-54710-3.html) and [in Chinese](http://product.dangdang.com/22927985.html)).
 -   _[Gephi Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/gephi-cookbook)_ (2015).
 -   _[Graph Drawing Software](http://link.springer.com/book/10.1007/978-3-642-18638-7)_ (covering many programs), edited by Michael Jünger and Petra Mutzel (2004).
 -   _[Introduction to Social Network Methods](http://faculty.ucr.edu/~hanneman/nettext/)_ (using mostly UCINET), by Robert A. Hanneman and Mark Riddle - Full book online (2001).
@@ -133,9 +136,10 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   _[The Connected Past. Challenges to Network Studies in Archaeology and History](https://global.oup.com/academic/product/the-connected-past-9780198748519)_ edited by Tom Brughmans, Anna Collar and Fiona Coward (2016; [companion website](http://connectedpast.net/)).
 -   _[The Development of Social Network Analysis: A Study in the Sociology of Science](http://moreno.ss.uci.edu/)_, by Linton C. Freeman, in English and several other languages (2004; [follow-up paper, 2011](http://moreno.ss.uci.edu/91.pdf)).
 -   _[Dynamical Processes on Complex Networks](http://www.cambridge.org/catalogue/catalogue.asp?isbn=9780521879507)_, by Alain Barrat, Marc Barthélemy and Alessandro Vespignani (2008).
--   _[The Oxford Handbook of the Economics of Networks](https://global.oup.com/academic/product/the-oxford-handbook-of-the-economics-of-networks-9780199948277)_, edited by Yann Bramoullé, Andrea Galeotti and Brian Rogers (2016).
+-   _[Inside Criminal Networks](https://www.springer.com/us/book/9780387095257)_, by Carlo Morselli (2009).
 -   _[Neighbor Networks. Competitive Advantage Local and Personal](https://global.oup.com/academic/product/neighbor-networks-9780199570690)_, by Ronald S. Burt (2010).
 -   _[Networks in Social Policy Problems](http://www.cambridge.org/mx/academic/subjects/physics/statistical-physics/networks-social-policy-problems)_, edited by Balázs Vedres and Marco Scotti (2012).
+-   _[The Oxford Handbook of the Economics of Networks](https://global.oup.com/academic/product/the-oxford-handbook-of-the-economics-of-networks-9780199948277)_, edited by Yann Bramoullé, Andrea Galeotti and Brian Rogers (2016).
 -   _[Policy Debates as Dynamic Networks: German Pension Politics and Privatization Discourse](http://www.campus.de/buecher-campus-verlag/wissenschaft/politikwissenschaft/policy_debates_as_dynamic_networks-10287.html)_, by Philip Leifeld (2016).
 -   _[Small Worlds: The Dynamics of Networks between Order and Randomness](http://press.princeton.edu/titles/6768.html)_, by Duncan J. Watts (2003).
 -   _[Theories of Communication Networks](https://global.oup.com/academic/product/theories-of-communication-networks-9780195160376)_, by Peter Monge and Nosh Contractor (2003).
@@ -175,6 +179,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Social and Economic Networks: Models and Analysis](https://www.coursera.org/course/networksonline), by Matthew O. Jackson (Stanford University via Coursera, 2015).
 -   [Social Network Analysis](https://www.coursera.org/course/sna), by Lada Adamic (University of Michigan via Coursera, not yet run).
 -   [Social Network Analysis](http://www.mjdenny.com/workshops/SN_Theory_I.pdf) and [Intermediate Social Network Theory](http://www.mjdenny.com/workshops/Relational_Theory_Workshop.pdf), by Matthew J. Denny - Workshop notes and slides (2014–5).
+-   [Social Network Analysis with Pajek](http://mrvar.fdv.uni-lj.si/sola/info4/), by Andrej Mrvar (University of Ljubljana, 2012).
 -   [The Structure of Information Networks](https://www.cs.cornell.edu/Courses/cs6850/2008fa/), by Jon Kleinberg - Links to many diverse readings (Cornell University, 2008).
 
 ## Datasets
@@ -342,6 +347,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 > See also the bibliographies [by Eszter Hargittai](http://eszter.com/contract.html#socnet), [by Pierre François](http://pierrefrancois.wifeo.com/documents/Cours-rseau---biblio-gnrale.pdf) and [by Pierre Mercklé](http://socio.ens-lyon.fr/merckle/merckle_communications_2008_cargese_reseaux_nuls_biblio.pdf).
 
 1.  [A propos de la notion de rôle dans l'analyse des relations sociales](http://msh.revues.org/11969) (_Mathématiques et sciences humaines_, 2011).
+-   [On Bibliographic Networks](http://link.springer.com/article/10.1007%2Fs11192-012-0940-1) (_Scientometrics_, 2013).
 -   [Brokerage](http://www.annualreviews.org/doi/abs/10.1146/annurev-soc-081309-150054) (_Annual Review of Sociology_, 2012).
 -   [Dynamic Scientific Co-Authorship Networks](http://patrickdoreian.com/NEW/wp-content/papers_resources/2015/slovene_science/dynamic_scientific_coauthorship_networks.pdf) (_[Models of Science Dynamics](https://www.springer.com/us/book/9783642230677)_, 2012).
 -   [Birds of a Feather: Homophily in Social Networks](http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.27.1.415) (_Annual Review of Sociology_, 2001).
@@ -407,7 +413,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [NodeXL](http://nodexl.codeplex.com/) - Free, open-source template to explore network graphs with Microsoft Excel.
   -   [The NodeXL Series](https://blogs.k-state.edu/it-news/tag/nodexl/) - Series of blog posts on using NodeXL (2013).
 -   [ORA-LITE](http://www.casos.cs.cmu.edu/projects/ora/) - Windows program for dynamic meta-network assessment and analysis.
--   [Pajek](http://vlado.fmf.uni-lj.si/pub/networks/pajek/) - Windows program for large network analysis, free for noncommercial use.
+-   [Pajek](http://mrvar.fdv.uni-lj.si/pajek/) - Windows program for large network analysis, free for noncommercial use.
   -   [Analyse des réseaux : une introduction à Pajek](http://quanti.hypotheses.org/512/), in French (2011).
   -   [La détection de communautés avec Pajek 3.6](http://groupefmr.hypotheses.org/544), in French (2012).
   -   [txt2pajek: Creating Pajek Files from Text Files](http://www.pfeffer.at/txt2pajek/index.php).
@@ -499,6 +505,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [npartite](https://github.com/ike002jp/npartite) - Python algorithms for community detection in n-partite networks.
 -   [python-igraph](http://igraph.org/python/) - Python version of the igraph network analysis package.
 -   [python-louvain](http://perso.crans.org/aynaud/communities/) - A solid implementation of Louvain community detection algorithm.
+-   [TQ (Temporal Quantities)](http://vladowiki.fmf.uni-lj.si/doku.php?id=tq) - Python 3 library for temporal network analysis.
 
 ### R
 
@@ -717,6 +724,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Basic Notions for the Analysis of Large Two-mode Networks](http://www.sciencedirect.com/science/article/pii/S0378873307000494)  ([preprint](https://www-complexnetworks.lip6.fr/~latapy/Publis/socnet07.pdf), [related code](https://www-complexnetworks.lip6.fr/~latapy/Bip/); _Social Networks_, 2008).
 -   [Fitting Large Signed Two-mode Blockmodels: Problems and Prospects](http://patrickdoreian.com/NEW/wp-content/papers_resources/new_papers_4-13/large_signed_2mode_networks_UNGA.pdf).
 -   [Generalized Blockmodeling of Two-mode Network Data](http://www.sciencedirect.com/science/article/pii/S0378873304000036) ([preprint](http://vlado.fmf.uni-lj.si/pub/networks/doc/preprint/TwoMode.pdf)).
+-   [Generalized Two-Mode Cores](http://www.sciencedirect.com/science/article/pii/S0378873315000271).
 -   [Partitioning Signed Two-Mode Networks](http://patrickdoreian.com/NEW/wp-content/papers_resources/pdf/partitioning_signed_two_mode_networks.pdf).
 -   [Working with Bipartite/Affiliation Network Data in R](https://solomonmessing.wordpress.com/2012/09/30/working-with-bipartiteaffiliation-network-data-in-r/) (2012).
 
@@ -726,6 +734,6 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, the authors of this list – by chronological order: [François Briatte](http://f.briatte.org/), [Ian McCulloh](https://www.linkedin.com/in/mcculloh), [Aditya Khanna](http://home.uchicago.edu/~khanna7), [Manlio De Domenico](http://deim.urv.cat/~manlio.dedomenico/index.php), Patrick Kaminski, [Ericka Menchen-Trevino](http://www.ericka.cc/), [Tam-Kien Duong](https://github.com/taniki), [Jeremy Foote](https://github.com/jdfoote), [Catherine Cramer](http://nysci.org/nysci_people/catherine-cramer/) – have waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, the authors of this list – by chronological order: [François Briatte](http://f.briatte.org/), [Ian McCulloh](https://www.linkedin.com/in/mcculloh), [Aditya Khanna](http://home.uchicago.edu/~khanna7), [Manlio De Domenico](http://deim.urv.cat/~manlio.dedomenico/index.php), Patrick Kaminski, [Ericka Menchen-Trevino](http://www.ericka.cc/), [Tam-Kien Duong](https://github.com/taniki), [Jeremy Foote](https://github.com/jdfoote), [Catherine Cramer](http://nysci.org/nysci_people/catherine-cramer/), [Andrej Mrvar](http://mrvar.fdv.uni-lj.si/), [Patrick Doreian](http://patrickdoreian.com/), [Vladimir Batagelj](http://vladowiki.fmf.uni-lj.si/doku.php?id=vlado) – have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Marc Flandreau](http://graduateinstitute.ch/directory/_/people/flandreau) and [Robert J. Ackland](https://github.com/rjackland) for their help with locating some of the awesome resources featured in this list.
