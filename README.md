@@ -179,7 +179,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Social and Economic Networks: Models and Analysis](https://www.coursera.org/course/networksonline), by Matthew O. Jackson (Stanford University via Coursera, 2015).
 -   [Social Network Analysis](https://www.coursera.org/course/sna), by Lada Adamic (University of Michigan via Coursera, not yet run).
 -   [Social Network Analysis](http://www.mjdenny.com/workshops/SN_Theory_I.pdf) and [Intermediate Social Network Theory](http://www.mjdenny.com/workshops/Relational_Theory_Workshop.pdf), by Matthew J. Denny - Workshop notes and slides (2014–5).
--   [Social Network Analysis with Pajek](http://mrvar.fdv.uni-lj.si/sola/info4/), by Andrej Mrvar (University of Ljubljana, 2012).
+-   [Social Network Analysis with Pajek](http://mrvar.fdv.uni-lj.si/sola/info4/), by Andrej Mrvar (University of Ljubljana, 2016).
 -   [The Structure of Information Networks](https://www.cs.cornell.edu/Courses/cs6850/2008fa/), by Jon Kleinberg - Links to many diverse readings (Cornell University, 2008).
 
 ## Datasets
@@ -449,6 +449,8 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 1.  [algo.graph](https://github.com/clojure/algo.graph) - Basic graph theory algorithms written in Clojure.
 -   [CONGA and CONGO](http://www.cs.bris.ac.uk/~steve/networks/index.html) - Algorithms to detect overlapping communities in networks, written in Java.
 -   [ForceAtlas2](https://gephi.wordpress.com/2011/06/06/forceatlas2-the-new-version-of-our-home-brew-layout/) - Force-directed layout included in Gephi ([paper](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0098679)).
+-   [Linkcomm - Link Communities in Complex Networks](http://barabasilab.neu.edu/projects/linkcommunities/) - Community detection algorithms, available in C++, Python and R.
+-   [MixNet - Erdös-Rényi Mixture Model for Networks](http://ssbgroup.fr/mixnet.html) - Community detection method, available in C++ and R.
 -   [OSLOM2 - Order Statistics Local Optimization Method](http://www.oslom.org/) - Clustering algorithm.
 -   [vbmod: Variational Bayesian Inference for Network Modularity](http://vbmod.sourceforge.net/) - MATLAB and Python implementations of a [Bayesian community detection algorithm](http://arxiv.org/abs/0709.3512).
 -   [weighted-modularity-LPAwbPLUS](https://github.com/sjbeckett/weighted-modularity-LPAwbPLUS) - Julia, MATLAB and R implementations of two algorithms to find weighted modularity in bipartite networks.
@@ -512,8 +514,10 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 > For more awesome R resources, see the [Awesome R](https://github.com/qinwf/awesome-R) and [Awesome R Books](https://github.com/RomanTsegelskyi/rbooks) lists. See also [this Google spreadsheet](https://docs.google.com/spreadsheets/d/1CoFGtrW85D9FsVcAE5-bcXVl6QOTncwXjFBYp4u2WgE/edit?usp=sharing) by Ian McCulloh and others.  
 > To convert many different network model results into tidy data frames, see the [broom](https://cran.r-project.org/web/packages/broom/) package. To convert many different network model results into LaTeX or HTML tables, see the [texreg](https://cran.r-project.org/web/packages/texreg/) package.
 
-1.  [Bergm](https://cran.r-project.org/web/packages/Bergm/) - Tools to analyse Bayesian exponential random graph models (BERGM).
--   [bipartite](https://cran.r-project.org/web/packages/bipartite/) - functions to visualize bipartite networks and compute indices commonly used in ecological research.
+1.  [amen](https://cran.r-project.org/web/packages/amen/) - Additive and multiplicative effects models for relational data.
+-   [Bergm](https://cran.r-project.org/web/packages/Bergm/) - Tools to analyse Bayesian exponential random graph models (BERGM).
+-   [bipartite](https://cran.r-project.org/web/packages/bipartite/) - Functions to visualize bipartite networks and compute indices commonly used in ecological research.
+-   [blockmodeling](https://cran.r-project.org/web/packages/blockmodeling/) - Implementats generalized blockmodeling for valued networks.
 -   [bnlearn](https://cran.r-project.org/web/packages/bnlearn/) - Tools for [Bayesian network learning and inference](http://www.bnlearn.com/) ([related Shiny app](https://paulgovan.github.io/RiskNetwork/)).
 -   [btergm](https://cran.r-project.org/web/packages/btergm/) - Tools to fit temporal ERGMs by bootstrapped pseudolikelihood. Also provides MCMC maximum likelihood estimation, goodness of fit for ERGMs, TERGMs, and stochastic actor-oriented models (SAOMs), and tools for the micro-level interpretation of ERGMs and TERGMs.
 -   [CCAS](https://github.com/matthewjdenny/CCAS) - A statistical model for communication networks.
@@ -534,13 +538,17 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [lpNet](https://www.bioconductor.org/packages/release/bioc/html/lpNet.html) - Linear programming model aimed at infering biological (signalling, gene) networks.
 -   [networkD3](http://christophergandrud.github.io/networkD3/) - D3 JavaScript network graphs from R.
 -   [ndtv](https://cran.r-project.org/web/packages/ndtv/) - Tools to construct animated visualizations of dynamic network data in various formats.
+-   [netdiffuseR](https://cran.r-project.org/web/packages/netdiffuseR/) - Tools to analyze the network diffusion of innovations.
 -   [network](https://cran.r-project.org/web/packages/network/) - Basic tools to manipulate relational data in R.
 -   [networkdiffusion](https://github.com/chengjun/networkdiffusion) - Simulate and visualize basic epidemic diffusion in networks.
 -   [networkDynamic](https://cran.r-project.org/web/packages/networkDynamic/) - Support for dynamic, (inter)temporal networks.
+-   [networksis](https://cran.r-project.org/web/packages/networksis/) - Tools to simulate bipartite networks/graphs with the degrees of the nodes fixed and specified.
+-   [PAFit](https://cran.r-project.org/web/packages/PAFit/) - Nonparametric estimation of preferential attachment and node fitness in temporal complex networks.
+-   [PCIT](https://cran.r-project.org/web/packages/PCIT/) - Implements Partial Correlation with Information Theory in order to identify meaningful correlations in weighted networks, such as gene co-expression networks.
 -   [RCy3](https://bioconductor.org/packages/release/bioc/html/RCy3.html) - Interface between R and recent versions of Cytoscape.
 -   [relevent](https://cran.r-project.org/web/packages/relevent/) - Tools to fit relational event models (REM).
 -   [rem](https://cran.r-project.org/web/packages/rem/) - Estimate endogenous network effects in event sequences and fit relational event models (REM), which measure how networks form and evolve over time.
--   [rgexf](https://bitbucket.org/gvegayon/rgexf/wiki/Home) - Export network objects from R to GEXF for manipulation with software like Gephi or Sigma.
+-   [rgexf](https://cran.r-project.org/web/packages/rgexf/) - Export network objects from R to GEXF for manipulation with software like Gephi or Sigma.
 -   [Rgraphviz](https://bioconductor.org/packages/release/bioc/html/Rgraphviz.html) - Support for using the Graphviz library and its DOT graph drawing language from within R.
 -   [RSiena](http://r-forge.r-project.org/R/?group_id=461) - Simulation Investigation for Empirical Network Analysis; fits models to longitudinal network data.
 -   [sna](https://cran.r-project.org/web/packages/sna/) - Basic network measures and visualization tools.
