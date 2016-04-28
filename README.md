@@ -27,11 +27,13 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
   - [Research Groups (Other)](#research-groups-other)
 - __[Review Articles](#review-articles)__
   - [Archeological and Historical Networks](#archeological-and-historical-networks)
+  - [Bibliographic, Citation and Semantic Networks](#bibliographic-citation-and-semantic-networks)
   - [Biological, Ecological and Disease Networks](#biological-ecological-and-disease-networks)
   - [Complex Networks](#complex-networks)
+  - [Ethics of Network Analysis](#ethics-of-network-analysis)
   - [Network Modeling](#network-modeling)
   - [Network Visualization](#network-visualization)
-  - [Economic, Political and Social Networks](#economic-political-and-social-networks)
+  - [Social, Economic and Political Networks](#social-economic-and-political-networks)
 - __[Selected Papers](#selected-papers)__
 - __[Software](#software)__
   - [Algorithms](#algorithms)
@@ -85,6 +87,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   _[Social Network Analysis with Applications](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118169476.html)_, by Ian McCulloh, Helen Armstrong and Anthony Johnson (2013).
 -   _[Social Networks: An Introduction](https://www.routledge.com/products/9780415458030)_, by Jeroen Bruggeman ([related material](https://sites.google.com/site/introsocnet/); 2008).
 -   _[Studying Social Networks. A Guide to Empirical Research](http://press.uchicago.edu/ucp/books/book/distributed/S/bo15475096.html)_, by Marina Hennig _et al._ (2013).
+-   _[Understanding Social Networks. Theories, Concepts, and Findings](https://global.oup.com/academic/product/understanding-social-networks-9780195379471)_, by Charles Kadushin (2012).
 
 ### Graph Theory
 
@@ -306,12 +309,20 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [The Roots and Shoots of Archaeological Network Analysis: A Citation Analysis and Review of the Archaeological Use of Formal Network Methods](https://www.academia.edu/6925120/Brughmans_T._2014_._The_roots_and_shoots_of_archaeological_network_analysis_A_citation_analysis_and_review_of_the_archaeological_use_of_formal_network_methods._Archaeological_Review_from_Cambridge_29_1_) (_Archaeological Review from Cambridge_, 2014).
 -   [Thinking Through Networks: A Review of Formal Network Methods in Archaeology](http://link.springer.com/article/10.1007/s10816-012-9133-8) (_Journal of Archaeological Method and Theory_, 2013).
 
+### Bibliographic, Citation and Semantic Networks
+
+1.  [On Bibliographic Networks](http://link.springer.com/article/10.1007%2Fs11192-012-0940-1) (_Scientometrics_, 2013).
+-   [Extracting Citation Networks from Publications in Classics](https://zenodo.org/record/46328) (_Digital Humanities Quarterly_, forthcoming).
+-   [Socio-Semantic Frameworks](http://www.worldscientific.com/doi/abs/10.1142/S0219525913500136), by Camille Roth ([preprint](http://camille.roth.free.fr/travaux/roth--sociosemantic-systems-acs-proofs.pdf); _Advances in Complex Systems_, 2013).
+-   [Socio-Semantic Modeling of Epistemic Communities](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2452614), by Camille Roth (APSA, 2014).
+
 ### Biological, Ecological and Disease Networks
 
 1.  [Biological Networks](http://algo.uni-konstanz.de/publications/bbs-bn-13.pdf) (_Handbook of Graph Drawing and Visualization_, 2013).
 -   [Interactome Networks and Human Disease](http://www.barabasilab.com/pubs/CCNR-ALB_Publications/201103-18_CellRev-InteractomeHumDis/201103-18_CellRev-InteractomeHumDis.pdf) (_Cell_, 2011).
 -   [Network Biology: Understanding the Cell’s Functional Organization](http://www.barabasilab.com/pubs/CCNR-ALB_Publications/200402-00_NatureRevGen-NetworkBiology/200402-00_NatureRevGen-NetworkBiology.pdf) - Accessible introduction to (cellular) network analysis (_Nature Reviews Genetics_, 2004).
 -   [Network Medicine: A Network-based Approach to Human Disease](http://www.barabasilab.com/pubs/CCNR-ALB_Publications/201012-18_NatureRev-NetMedicine/201012-18_NatureRev-NetMedicine.pdf) (_Nature Review Genetics_, 2011).
+-   [Social Networks and the Spread of Infectious Diseases: the AIDS Example](http://www.sciencedirect.com/science/article/pii/0277953685902692) (_Social Networks_, 1985).
 -   [Structure and Dynamics of Molecular Networks: A Novel Paradigm of Drug Discovery. A Comprehensive Review](http://www.sciencedirect.com/science/article/pii/S0163725813000284) - Also includes an impressive list of network analysis software (_Pharmacology & Therapeutics_, 2013).
 
 ### Complex Networks
@@ -321,6 +332,14 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Statistical Mechanics of Complex Networks](http://www.barabasilab.com/pubs/CCNR-ALB_Publications/200201-30_RevModernPhys-StatisticalMech/200201-30_RevModernPhys-StatisticalMech.pdf) (_Reviews of Modern Physics_, 2002).
 -   [The Structure and Function of Complex Networks](http://epubs.siam.org/doi/abs/10.1137/S003614450342480) (_SIAM Review_, 2003).
 
+### Ethics of Network Analysis
+
+1.  [A Cautionary Note on Data Inputs and Visual Outputs in Social Network Analysis (SNA)](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8551.2012.00835.x), by Steve Conway ([preprint][conway2014]; _British Journal of Management_, 2014).
+-   [Ethical Dilemmas in Social Network Research](http://www.sciencedirect.com/science/journal/03788733/27/2), edited by Ronald L. Breiger (special issue of _Social Networks_, 2005).
+-   [Ethical and Strategic Issues in Organizational Social Network Analysis](http://www.analytictech.com/borgatti/papers/ethics.pdf), by Stephen P. Borgatti and José Luis Molina (_The Journal of Applied Behavioral Science_, 2003).
+
+[conway2014]: https://lra.le.ac.uk/bitstream/2381/36068/2/Draft%20BJM%20Revised%20(3rd%20iteration)%20Manuscript.pdf
+
 ### Network Modeling
 
 1.  [A Brief History of Statistical Models for Network Analysis and Open Challenges][fienberg2012] (_Journal of Computational and Graphical Statistics_, 2012).
@@ -328,8 +347,6 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   Navigating the Range of Statistical Tools for Inferential Network Analysis (_American Journal of Political Science_, forthcoming 2016).
 -   [Positional Analysis and Blockmodeling](http://link.springer.com/referenceworkentry/10.1007%2F978-1-4614-1800-9_138) ([preprint](http://patrickdoreian.com/NEW/wp-content/papers_resources/chapters/Positional_Analysis_and_Blockmodeling.pdf); _Computational Complexity_, 2012).
 -   [Social Network Evolution and Actor Oriented Models](http://msh.revues.org/2750) (_Mathematics & Social Sciences_, 1997).
--   [Socio-Semantic Frameworks](http://www.worldscientific.com/doi/abs/10.1142/S0219525913500136), by Camille Roth ([preprint](http://camille.roth.free.fr/travaux/roth--sociosemantic-systems-acs-proofs.pdf); _Advances in Complex Systems_, 2013).
--   [Socio-Semantic Modeling of Epistemic Communities](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2452614), by Camille Roth (APSA, 2014).
 -   [Statistical Models for Social Networks](http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.012809.102709) (_Annual Review of Sociology_, 2011).
 -   [A Survey of Statistical Network Models](https://dl.acm.org/citation.cfm?id=1734795) - Book-length review ([preprint](http://arxiv.org/abs/0912.5410); _Foundations and Trends in Machine Learning_, 2010).
 -   [A Unified View of Generative Models for Networks: Models, Methods, Opportunities, and Challenges](http://arxiv.org/abs/1411.4070) ([video presentation](http://www.birs.ca/events/2015/5-day-workshops/15w5080/videos/watch/201504200944-Jacobs.html); [NIPS 2014 workshop](https://nips.cc/Conferences/2014/Schedule?type=Workshop) on “[Networks: From Graphs to Rich Data](https://410f84824e101297359cc81c78f45c7c079eb26c.googledrive.com/host/0Bz6WHrWac3FrWnA5MjZqb3lWa2c/)”).
@@ -343,12 +360,11 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Methods of Social Network Visualization](http://moreno.ss.uci.edu/90.pdf) (_Encyclopedia of Complexity and Systems Science_, 2009; [poster version](http://www.pfeffer.at/data/visposter/)).
 -   [Social Networks](http://moreno.ss.uci.edu/93.pdf) (_Handbook of Graph Drawing and Visualization_, 2013).
 
-### Economic, Political and Social Networks
+### Social, Economic and Political Networks
 
 > See also the bibliographies [by Eszter Hargittai](http://eszter.com/contract.html#socnet), [by Pierre François](http://pierrefrancois.wifeo.com/documents/Cours-rseau---biblio-gnrale.pdf) and [by Pierre Mercklé](http://socio.ens-lyon.fr/merckle/merckle_communications_2008_cargese_reseaux_nuls_biblio.pdf).
 
 1.  [A propos de la notion de rôle dans l'analyse des relations sociales](http://msh.revues.org/11969) (_Mathématiques et sciences humaines_, 2011).
--   [On Bibliographic Networks](http://link.springer.com/article/10.1007%2Fs11192-012-0940-1) (_Scientometrics_, 2013).
 -   [Brokerage](http://www.annualreviews.org/doi/abs/10.1146/annurev-soc-081309-150054) (_Annual Review of Sociology_, 2012).
 -   [Dynamic Scientific Co-Authorship Networks](http://patrickdoreian.com/NEW/wp-content/papers_resources/2015/slovene_science/dynamic_scientific_coauthorship_networks.pdf) (_[Models of Science Dynamics](https://www.springer.com/us/book/9783642230677)_, 2012).
 -   [Birds of a Feather: Homophily in Social Networks](http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.27.1.415) (_Annual Review of Sociology_, 2001).
@@ -359,6 +375,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Networks in the Understanding of Economic Behaviors](https://www.aeaweb.org/articles?id=10.1257/jep.28.4.3) (_Journal of Economic Perspectives_, 2014).
 -   [Positions and Roles](http://patrickdoreian.com/NEW/wp-content/papers_resources/new_papers_4-13/positions_and_roles.pdf) (_[The SAGE Handbook of Social Network Analysis](http://www.sagepub.in/books/Book232753/)_, 2011).
 -   [Social Network Analysis in the Study of Terrorism and Political Violence](http://journals.cambridge.org/article_S1049096510001848) ([preprint](http://opensiuc.lib.siu.edu/cgi/viewcontent.cgi?article=1048&context=pn_wp); _PS: Political Science and Politics_, 2011).
+-   Urban Social Networks: Some Methodological Problems and Possibilities, by Alden S. Klovdahl (_The Small World_, 1989).
 
 ## Selected Papers
 
@@ -396,6 +413,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
   -   [Network Analysis with Cytoscape Tutorial](https://archaeologicalnetworks.wordpress.com/resources/#cytoscape) - Illustrated through an archaeological and geographical case study (2013).
 -   [Discourse Network Analyzer (DNA)](http://www.philipleifeld.com/discourse-network-analyzer/discourse-network-analyzer-dna.html) - Qualitative content analysis tool with network export facilities, written in Java with R integration.
 -   [E-Net](https://sites.google.com/site/enetsoftware1/) - Windows program for ego network analysis.
+-   [EgoNet](https://sourceforge.net/projects/egonet/) - Cross-platform Java program for ego network analysis.
 -   [easyN](http://www.esyn.org/) - Online tool aimed at representing and sharing gene interaction networks as well as Petri net models.
 -   [Gephi](https://gephi.github.io/) - Cross-platform, free and open source tool for network visualization.
   -   [Clément Levallois’ Gephi Tutorials and Plugins](http://www.clementlevallois.net/gephi.html).
@@ -496,7 +514,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 > Many items below are from [a Google spreadsheet](https://docs.google.com/spreadsheets/d/1vJILk2EW1JnR3YAwTSSqAV5mPkeXaezy45wOoafBpfU/edit#gid=0) by Michał Bojanowski and others.  
 > See also [Social Network Analysis with Python](https://www.youtube.com/watch?v=qgGqaBAEy3Q), a 3-hour tutorial by Maksim Tsvetovat and Alex Kouznetsov given at PyCon US 2012 ([code](https://github.com/maksim2042/PyCon2012)).  
-> For more awesome Python packages, see the [Awesome Python](https://github.com/vinta/awesome-python) list.
+> For more awesome Python packages, see the [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome Python Books](https://github.com/Junnplus/awesome-python-books) lists.
 
 1.  [graph-tool](https://graph-tool.skewed.de/) - Python module for network manipulation and analysis, written mostly in C++ for speed.
 -   [graphviz](https://pypi.python.org/pypi/graphviz) - Python renderer for the DOT graph drawing language.
@@ -741,6 +759,6 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, the authors of this list – by chronological order: [François Briatte](http://f.briatte.org/), [Ian McCulloh](https://www.linkedin.com/in/mcculloh), [Aditya Khanna](http://home.uchicago.edu/~khanna7), [Manlio De Domenico](http://deim.urv.cat/~manlio.dedomenico/index.php), Patrick Kaminski, [Ericka Menchen-Trevino](http://www.ericka.cc/), [Tam-Kien Duong](https://github.com/taniki), [Jeremy Foote](https://github.com/jdfoote), [Catherine Cramer](http://nysci.org/nysci_people/catherine-cramer/), [Andrej Mrvar](http://mrvar.fdv.uni-lj.si/), [Patrick Doreian](http://patrickdoreian.com/), [Vladimir Batagelj](http://vladowiki.fmf.uni-lj.si/doku.php?id=vlado) – have waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, the authors of this list – by chronological order: [François Briatte](http://f.briatte.org/), [Ian McCulloh](https://www.linkedin.com/in/mcculloh), [Aditya Khanna](http://home.uchicago.edu/~khanna7), [Manlio De Domenico](http://deim.urv.cat/~manlio.dedomenico/index.php), Patrick Kaminski, [Ericka Menchen-Trevino](http://www.ericka.cc/), [Tam-Kien Duong](https://github.com/taniki), [Jeremy Foote](https://github.com/jdfoote), [Catherine Cramer](http://nysci.org/nysci_people/catherine-cramer/), [Andrej Mrvar](http://mrvar.fdv.uni-lj.si/), [Patrick Doreian](http://patrickdoreian.com/), [Vladimir Batagelj](http://vladowiki.fmf.uni-lj.si/doku.php?id=vlado), Eric C. Jones and Alden S. Klovdahl – have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Robert J. Ackland](https://github.com/rjackland), [Marc Flandreau](http://graduateinstitute.ch/directory/_/people/flandreau) and [Tom A.B. Snijders](https://www.stats.ox.ac.uk/~snijders/), who helped locating some of the awesome resources featured in this list.
