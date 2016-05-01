@@ -504,7 +504,15 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ### Julia
 
--   [LightGraphs.jl](https://github.com/JuliaGraphs/LightGraphs.jl) - Graph Library with a focus on performance and simplicity.
+1.  [EvolvingGraphs](https://github.com/weijianzhang/EvolvingGraphs.jl) - Package to create, manipulate and study time-dependent networks.
+  -   [Dynamic Network Analysis in Julia](http://eprints.ma.man.ac.uk/2376/01/julia_eg_report.pdf).
+-   [Graphs.jl](https://github.com/JuliaLang/Graphs.jl) - Package to manipulate graph objects in Julia.
+  -   [Creating Network Diagrams in Plotly from Julia](http://badhessian.org/2014/05/creating-network-diagrams-in-plotly-from-julia/).
+-   [JuliaGraphs](https://github.com/JuliaGraphs) - Suite of Julia packages for network analysis.
+  -   [GraphVisualize.jl](https://github.com/JuliaGraphs/GraphVisualize.jl) - Graph visualization built on top of [GLVisualize.jl](https://github.com/JuliaGL/GLVisualize.jl).
+  -   [LightGraphs.jl](https://github.com/JuliaGraphs/LightGraphs.jl) - Graph library with a focus on performance and simplicity.
+  -   [Networks.jl](https://github.com/JuliaGraphs/Networks.jl) - Additional graph functions for the LightGraphs.jl package.
+  -   [GraphCentrality.jl](https://github.com/JuliaGraphs/GraphCentrality.jl) - Adds network measures to the Graphs.jl package.
 
 ### MATLAB
 
