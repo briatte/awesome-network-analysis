@@ -39,6 +39,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
   - [Algorithms](#algorithms)
   - [C / C++](#c--c)
   - [JavaScript](#javascript)
+  - [Julia](#julia)
   - [MATLAB](#matlab)
   - [Python](#python)
   - [R](#r)
@@ -500,6 +501,10 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [vis.js](http://visjs.org/) - JavaScript library with network visualization capabilities.
 -   [VivaGraphJS](https://github.com/anvaka/VivaGraphJS) - Graph drawing library ([ForceAtlas2 plugin](https://github.com/graphcommons/viva.forceatlas2)).
 -   [viz.js](https://mdaines.github.io/viz.js/) - Use Graphviz in Web pages.
+
+### Julia
+
+-   [LightGraphs.jl](https://github.com/JuliaGraphs/LightGraphs.jl) - Graph Library with a focus on performance and simplicity.
 
 ### MATLAB
 
