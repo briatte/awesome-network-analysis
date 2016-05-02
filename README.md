@@ -274,6 +274,8 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Historical Network Research (HNR)](http://historicalnetworkresearch.org/) - Platform for scholars interested in network analysis for historical research.
   -   [HNR Conferences, Workshops and Other Events](http://historicalnetworkresearch.org/hnr-events/).
   -   [HNR Talks](https://vimeo.com/user11811027) - Videos, in German.
+-   [ANR-Lab - International Laboratory for Applied Network Research](https://anr.hse.ru/en/) - Russian group based at the National Research University in Moscow.
+  -   [Theory and Methods in Network Analysis (“TMSA”) Summer Schools](https://anr.hse.ru/en/summer).
 -   [Large Graphs and Networks](http://sites.uclouvain.be/networks/) - Research group at the Catholic University of Louvain ([official page](https://www.uclouvain.be/en-352442.html)).
 -   [MelNet Social Network Research Group, Swinburne University of Technology](http://www.swinburne.edu.au/fbl/research/transformative-innovation/our-research/MelNet-social-network-group/).
 -   [Mitchell Centre for Social Network Analysis, University of Manchester](http://www.socialsciences.manchester.ac.uk/mitchell-centre/) - Currently studies [covert networks](http://www.socialsciences.manchester.ac.uk/mitchell-centre/research/covert-networks/).
