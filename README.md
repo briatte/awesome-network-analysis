@@ -568,6 +568,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [igraph](http://igraph.org/r/) - A collection of network analysis tools.
   -   [Network Analysis and Visualization with R and igraph](http://kateto.net/networks-r-igraph) (2016).
 -   [influenceR](https://cran.r-project.org/web/packages/influenceR/) - Compute various node centrality network measures by Burt, Borgatti and others.
+-   [keyplayer](https://cran.r-project.org/web/packages/keyplayer/) - Implements several network centrality measures.
 -   [latentnet](https://cran.r-project.org/web/packages/latentnet/) - Latent position and cluster models for network objects.
 -   [lpNet](https://www.bioconductor.org/packages/release/bioc/html/lpNet.html) - Linear programming model aimed at infering biological (signalling, gene) networks.
 -   [networkD3](http://christophergandrud.github.io/networkD3/) - D3 JavaScript network graphs from R.
