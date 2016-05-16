@@ -270,6 +270,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Center for Network Science, Central European University, Budapest](http://cns.ceu.edu/) - Features a PhD in Network Science program.
 -   [Complex Networks](http://www.complexnetworks.fr/) - Research group based in Paris.
 -   [Cx-Nets](http://www.cxnets.org/) - Virtual collaboration between four complex networks research groups.
+-   [Data Science Group](http://datasciencegroup.pl/) -  Wroclaw-based research group that studies, among many things, complex networks and other network-related topics.
 -   [Forschungscluster der Universitäten Trier und Mainz “Gesellschaftliche Abhängigkeiten und soziale Netzwerke”](http://www.netzwerk-exzellenz.uni-trier.de/), in German.
 -   [Historical Network Research (HNR)](http://historicalnetworkresearch.org/) - Platform for scholars interested in network analysis for historical research.
   -   [HNR Conferences, Workshops and Other Events](http://historicalnetworkresearch.org/hnr-events/).
@@ -293,7 +294,6 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Topographies of Entanglements. Mapping Medieval Networks](https://oeaw.academia.edu/TopographiesofEntanglements) - Research platform based at the Austrian Academy of Sciences that focuses on applying network theory and visualisation to medieval history.
 -   [UCL Centre for Organisational Network Analysis (CONA)](https://www.ucl.ac.uk/cona).
 -   [Virtual Observatory for the Study of Online Networks (VOSON)](http://vosonlab.net/) - Research and software development project located at the Australian National University.
--   [Data Science Group](http://datasciencegroup.pl/) -  Wroclaw (Poland)-based research group, studying complex networks, spread of influence and other network (but not only) topics
 
 ## Review Articles
 
@@ -428,6 +428,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [GLEAMviz Simulator](http://www.gleamviz.org/) - Cross-platform tool intended for the prediction of human epidemics.
 -   [Graphviz](http://www.graphviz.org/) - Cross-platform software to draw graphs in the DOT graph drawing language.
 -   [Graphy](https://github.com/bruce/graphy) - Graph theory library written in Ruby.
+-   [GraphX](https://spark.apache.org/graphx/) - [Apache Spark](https://spark.apache.org/) module to perform graph-related parallel computation.
 -   [Lynks](https://lynksoft.com/) - Web-based tool for simple network analysis and visualization.
 -   [Mathematica](https://www.wolfram.com/mathematica/) - Cross-platform program with graph theory and network analysis functionalities.
 -   [MuxViz](http://muxviz.net/) - Cross-platform, free and open source tool to study multilayer networks, based on R and GNU Octave.
@@ -451,6 +452,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Siena](http://www.stats.ox.ac.uk/~snijders/siena/) - Simulation Investigation for Empirical Network Analysis. Formerly a Windows program, now developed as the RSiena R package.
 -   [SocNetV - Social Network Visualizer](http://socnetv.sourceforge.net/) - Cross-platform program that includes a [simple Web crawler](http://socnetv.sourceforge.net/news/?post=socnetv-v16-released-with-a-working-web-crawler) to construct hyperlink networks.
 -   [SoNIA - Social Network Image Animator](http://web.stanford.edu/group/sonia/) - Tool to visualize dynamic or longitudinal network data. Formerly a [Java program](https://sourceforge.net/projects/sonia/) ([example movies](http://www.soc.duke.edu/~jmoody77/NetMovies/index.htm)), now developed as the ndtv R package.
+-   [SparklingGraph](http://sparkling.ml) - Cross-platform tool to perform large-scale, distributed network computations with Apache Spark's GraphX module; written in Java and Scala.
 -   [SPaTo Visual Explorer](http://www.spato.net/) - Cross-platform program for the visualization and exploration of complex networks.
 -   [StOCNET](http://www.gmw.rug.nl/~stocnet/StOCNET.htm) - Several Windows programs developed by the same team as Siena.
 -   [Tulip](http://www.tulip-software.org/) - Cross-platform network analysis and visualization framework built on top of a C++ library, with plugins dedicated to specific biological and physical networks. Also available through its [Python package](http://tulip.labri.fr/Documentation/current/tulip-python/html/index.html).
@@ -465,7 +467,6 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Visone](http://visone.info/) - Cross-platform Java network analysis and visualization program, free for noncommercial use.
   -   [Network Analysis with Visone Tutorial](http://visone.info/wiki/images/8/8f/VisoneTutorial-archeology.zip) - Illustrated through an archaeological case study (2015).
 -   [VOSviewer](http://www.vosviewer.com/) - Cross-platform Java tool for constructing and visualizing bibliometric networks.
--   [SparklingGraph](http://sparkling.ml) - A cross-platform (Scala, JVM)  tool for network computations based on GraphX (Spark). It lets do large scale and distributed (but also centralized) computations in an easy way. 
 
 ### Algorithms
 
@@ -781,6 +782,6 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, the authors of this list – by chronological order: [François Briatte](http://f.briatte.org/), [Ian McCulloh](https://www.linkedin.com/in/mcculloh), [Aditya Khanna](http://home.uchicago.edu/~khanna7), [Manlio De Domenico](http://deim.urv.cat/~manlio.dedomenico/index.php), Patrick Kaminski, [Ericka Menchen-Trevino](http://www.ericka.cc/), [Tam-Kien Duong](https://github.com/taniki), [Jeremy Foote](https://github.com/jdfoote), [Catherine Cramer](http://nysci.org/nysci_people/catherine-cramer/), [Andrej Mrvar](http://mrvar.fdv.uni-lj.si/), [Patrick Doreian](http://patrickdoreian.com/), [Vladimir Batagelj](http://vladowiki.fmf.uni-lj.si/doku.php?id=vlado), Eric C. Jones, Alden S. Klovdahl, [James Fairbanks](http://www.jpfairbanks.net/), [Danielle Varda](http://www.ucdenver.edu/academics/colleges/SPA/FacultyStaff/Faculty/Pages/DanielleVarda.aspx) and [Andrew Pitts](https://twitter.com/andpitts) – have waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, the authors of this list – by chronological order: [François Briatte](http://f.briatte.org/), [Ian McCulloh](https://www.linkedin.com/in/mcculloh), [Aditya Khanna](http://home.uchicago.edu/~khanna7), [Manlio De Domenico](http://deim.urv.cat/~manlio.dedomenico/index.php), Patrick Kaminski, [Ericka Menchen-Trevino](http://www.ericka.cc/), [Tam-Kien Duong](https://github.com/taniki), [Jeremy Foote](https://github.com/jdfoote), [Catherine Cramer](http://nysci.org/nysci_people/catherine-cramer/), [Andrej Mrvar](http://mrvar.fdv.uni-lj.si/), [Patrick Doreian](http://patrickdoreian.com/), [Vladimir Batagelj](http://vladowiki.fmf.uni-lj.si/doku.php?id=vlado), Eric C. Jones, Alden S. Klovdahl, [James Fairbanks](http://www.jpfairbanks.net/), [Danielle Varda](http://www.ucdenver.edu/academics/colleges/SPA/FacultyStaff/Faculty/Pages/DanielleVarda.aspx) and [Andrew Pitts](https://twitter.com/andpitts), [Roman Bartusiak](http://riomus.ml/) – have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Robert J. Ackland](https://github.com/rjackland), [Marc Flandreau](http://graduateinstitute.ch/directory/_/people/flandreau) and [Tom A.B. Snijders](https://www.stats.ox.ac.uk/~snijders/), who helped locating some of the awesome resources featured in this list.
