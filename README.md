@@ -465,7 +465,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Visone](http://visone.info/) - Cross-platform Java network analysis and visualization program, free for noncommercial use.
   -   [Network Analysis with Visone Tutorial](http://visone.info/wiki/images/8/8f/VisoneTutorial-archeology.zip) - Illustrated through an archaeological case study (2015).
 -   [VOSviewer](http://www.vosviewer.com/) - Cross-platform Java tool for constructing and visualizing bibliometric networks.
--   [SparklingGraph](http://sparkling.ml) - Cross-platform  tool for network computations based on GraphX (Spark). It lets do large scale and distributed (but also centralized) computations in easy way. 
+-   [SparklingGraph](http://sparkling.ml) - A cross-platform (Scala, JVM)  tool for network computations based on GraphX (Spark). It lets do large scale and distributed (but also centralized) computations in an easy way. 
 
 ### Algorithms
 
