@@ -293,6 +293,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Topographies of Entanglements. Mapping Medieval Networks](https://oeaw.academia.edu/TopographiesofEntanglements) - Research platform based at the Austrian Academy of Sciences that focuses on applying network theory and visualisation to medieval history.
 -   [UCL Centre for Organisational Network Analysis (CONA)](https://www.ucl.ac.uk/cona).
 -   [Virtual Observatory for the Study of Online Networks (VOSON)](http://vosonlab.net/) - Research and software development project located at the Australian National University.
+-   [Data Science Group](http://datasciencegroup.pl/) -  Wroclaw (Poland)-based research group, studying complex networks, spread of influence and other network (but not only) topics
 
 ## Review Articles
 
@@ -464,6 +465,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Visone](http://visone.info/) - Cross-platform Java network analysis and visualization program, free for noncommercial use.
   -   [Network Analysis with Visone Tutorial](http://visone.info/wiki/images/8/8f/VisoneTutorial-archeology.zip) - Illustrated through an archaeological case study (2015).
 -   [VOSviewer](http://www.vosviewer.com/) - Cross-platform Java tool for constructing and visualizing bibliometric networks.
+-   [SparklingGraph](http://sparkling.ml) - Cross-platform  tool for network computations based on GraphX (Spark). It lets do large scale and distributed (but also centralized) computations in easy way. 
 
 ### Algorithms
 
