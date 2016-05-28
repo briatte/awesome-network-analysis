@@ -204,12 +204,16 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Mangal](http://mangal.io/) - Online platform to analyze, archive and share ecological network data ([preprint](http://biorxiv.org/content/early/2015/02/24/002634), [Python package](https://github.com/mangal-wg/pymangal), [R package](https://github.com/mangal-wg/rmangal)).
 -   [Manlio De Domenico’s Multilayer Networks](http://deim.urv.cat/~manlio.dedomenico/data.php).
 -   [Mark E.J. Newman’s Network Data](http://www-personal.umich.edu/~mejn/netdata/) ([example visualizations](http://www-personal.umich.edu/~mejn/networks/)).
+-   [Network Repository](http://networkrepository.com/) - Fully searchable database containing hundreds of real-world networks.
+-   [Nexus](http://nexus.igraph.org/) - Repository of network datasets in GraphML and igraph formats.
 -   [Norwegian Interlocking Directorate, 2002-2011](http://www.boardsandgender.com/data.php) - Two-mode and one-mode data on gender representation in Norwegian firms.
 -   [Pajek Datasets](http://vlado.fmf.uni-lj.si/pub/networks/data/).
 -   [Siena Datasets](http://www.stats.ox.ac.uk/~snijders/siena/siena_datasets.htm).
+-   [SocioPatterns Datasets](http://www.sociopatterns.org/datasets/) - Network data obtained through the [SocioPatterns](http://www.sociopatterns.org/) sensing platform.
 -   [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html).
 -   [tnet Datasets](https://toreopsahl.com/datasets/) - Weighted network data.
 -   [UCI Network Data Repository](http://networkdata.ics.uci.edu/).
+-   [UCINET Datasets](https://sites.google.com/site/ucinetsoftware/datasets) - Network data in UCINET format.
 
 ## Journals
 
@@ -784,4 +788,4 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 To the extent possible under law, the authors of this list – by chronological order: [François Briatte](http://f.briatte.org/), [Ian McCulloh](https://www.linkedin.com/in/mcculloh), [Aditya Khanna](http://home.uchicago.edu/~khanna7), [Manlio De Domenico](http://deim.urv.cat/~manlio.dedomenico/index.php), Patrick Kaminski, [Ericka Menchen-Trevino](http://www.ericka.cc/), [Tam-Kien Duong](https://github.com/taniki), [Jeremy Foote](https://github.com/jdfoote), [Catherine Cramer](http://nysci.org/nysci_people/catherine-cramer/), [Andrej Mrvar](http://mrvar.fdv.uni-lj.si/), [Patrick Doreian](http://patrickdoreian.com/), [Vladimir Batagelj](http://vladowiki.fmf.uni-lj.si/doku.php?id=vlado), Eric C. Jones, Alden S. Klovdahl, [James Fairbanks](http://www.jpfairbanks.net/), [Danielle Varda](http://www.ucdenver.edu/academics/colleges/SPA/FacultyStaff/Faculty/Pages/DanielleVarda.aspx), [Andrew Pitts](https://twitter.com/andpitts) and [Roman Bartusiak](http://riomus.ml/) – have waived all copyright and related or neighboring rights to this work.
 
-Thanks to [Robert J. Ackland](https://github.com/rjackland), [Marc Flandreau](http://graduateinstitute.ch/directory/_/people/flandreau) and [Tom A.B. Snijders](https://www.stats.ox.ac.uk/~snijders/), who helped locating some of the awesome resources featured in this list.
+Thanks to [Robert J. Ackland](https://github.com/rjackland), [Marc Flandreau](http://graduateinstitute.ch/directory/_/people/flandreau), [Katya Ognyanova](http://kateto.net/) and [Tom A.B. Snijders](https://www.stats.ox.ac.uk/~snijders/), who helped locating some of the awesome resources featured in this list.
