@@ -69,6 +69,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 > Accessible introductions aimed at non-technical audiences.
 
 1.  _[Linked: The New Science of Networks](https://www3.nd.edu/~networks/Linked/index.html)_, by Albert-László Barabási - [Selected chapters online](http://barabasi.com/book/linked#linked) (2002).
+-   _[Network Literacy: Essential Concepts and Core ideas](https://sites.google.com/a/binghamton.edu/netscied/teaching-learning/network-concepts)_, by the NetSciEd team (c. 2016) - Available in several languages ([paper](http://comnet.oxfordjournals.org/content/4/3/457.short)).
 -   _[Nexus. Small Worlds and the Groundbreaking Theory of Networks](http://books.wwnorton.com/books/Nexus/)_, by Mark Buchanan (2003).
 -   _[Six Degrees: The Science of a Connected Age](http://books.wwnorton.com/books/detail.aspx?ID=7599)_, by Duncan J. Watts (2003).
 
