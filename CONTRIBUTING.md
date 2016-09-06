@@ -26,11 +26,11 @@ See the [list of rejected content](https://github.com/briatte/awesome-network-an
 
 ## Publishing Roadmap
 
--  [v1.0](https://github.com/briatte/awesome-network-analysis/releases/tag/v1.0) - First draft (April 12, 2016).
--  [v1.1](https://github.com/briatte/awesome-network-analysis/milestones/v1.1) - Moar awesomeness (April 30, 2016).
--  [v1.2](https://github.com/briatte/awesome-network-analysis/milestones/v1.2) - Trim down and comment on selected resources (May 15, 2016).
--  [v1.3](https://github.com/briatte/awesome-network-analysis/milestones/v1.3) - Finalize with invited collaborators (May 30, 2016).
--  [v1.4](https://github.com/briatte/awesome-network-analysis/milestones/v1.4) - Publish short companion note with collaborators (June 15, 2016).
+-  [v1.0](https://github.com/briatte/awesome-network-analysis/releases/tag/v1.0) - First draft (~~April 12, 2016~~).
+-  [v1.1](https://github.com/briatte/awesome-network-analysis/milestones/v1.1) - Moar awesomeness (~~April 30, 2016~~).
+-  [v1.2](https://github.com/briatte/awesome-network-analysis/milestones/v1.2) - Add a few more resources (September 15, 2016).
+-  [v1.3](https://github.com/briatte/awesome-network-analysis/milestones/v1.3) - Trim down and comment on selected resources (October 1, 2016).
+-  [v1.4](https://github.com/briatte/awesome-network-analysis/milestones/v1.4) - Publish short companion note with collaborators (January 1, 2017).
 
 Details on how collaborators were recruited appear in the [publishing roadmap](https://github.com/briatte/awesome-network-analysis/wiki/publishing-roadmap).
 
