@@ -290,6 +290,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Murata Laboratory](http://www.ai.cs.titech.ac.jp/) - Tokyo-based research group, studying bi-, tri- and k-partite (hyper)networks.
 -   [NetLab](http://groups.chass.utoronto.ca/netlab/) - Research network at the University of Toronto, led by Barry Wellman.
 -   [Network Science Research Centre, Swansea University](http://www.swansea.ac.uk/som/research-faculty/networkscienceresearchcentre/).
+-   [Network Dynamics](http://networkdynamics.org/) - Research Lab at McGill University, led by [Derek Ruths](http://www.derekruths.com/)
 -   [Netzwerkerei](http://netzwerkerei.org/) - Historical research project on the connections between Jewish intellectuals.
 -   [ORIO - Observatoire des Réseaux Intra- et Inter-Organisationnels](http://blogs.sciences-po.fr/recherche-network-organization-institution-dynamics-multilevel/) - A research program on networks and regulation.
   -   [‘Réseaux et Régulation’ Conference Cycle](http://blogs.sciences-po.fr/recherche-network-organization-institution-dynamics-multilevel/sminaire-rseaux-et-rgulation/) - Seminar based at Sciences Po in Paris, France.
