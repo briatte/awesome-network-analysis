@@ -68,7 +68,8 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 > Accessible introductions aimed at non-technical audiences.
 
-1.  _[Linked: The New Science of Networks](https://www3.nd.edu/~networks/Linked/index.html)_, by Albert-László Barabási - [Selected chapters online](http://barabasi.com/book/linked#linked) (2002).
+1.  _[Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives](http://www.connectedthebook.com/)_, by Nicholas A. Christakis and James H. Fowler (2009).
+-   _[Linked: The New Science of Networks](https://www3.nd.edu/~networks/Linked/index.html)_, by Albert-László Barabási - [Selected chapters online](http://barabasi.com/book/linked#linked) (2002).
 -   _[Network Literacy: Essential Concepts and Core ideas](https://sites.google.com/a/binghamton.edu/netscied/teaching-learning/network-concepts)_, by the NetSciEd team (c. 2016) - Available in several languages ([paper](http://comnet.oxfordjournals.org/content/4/3/457.short)).
 -   _[Nexus. Small Worlds and the Groundbreaking Theory of Networks](http://books.wwnorton.com/books/Nexus/)_, by Mark Buchanan (2003).
 -   _[Six Degrees: The Science of a Connected Age](http://books.wwnorton.com/books/detail.aspx?ID=7599)_, by Duncan J. Watts (2003).
@@ -227,6 +228,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   _[Computational and Mathematical Organization Theory](http://link.springer.com/journal/10588)_ (Springer, gated).
 -   _[Computational Social Networks](http://computationalsocialnetworks.springeropen.com/)_ (Springer Open).
 -   _[Connections](http://www.insna.org/connections.html)_ (INSNA).
+-   _[IEEE Transactions on Network Science and Engineering](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&punumber=6488902)_ (IEEE).
 -   _[Journal of Complex Networks](http://comnet.oxfordjournals.org/)_ (Oxford, gated).
 -   _[The Journal of Mathematical Sociology](http://www.tandfonline.com/loi/gmas20)_ (Taylor & Francis, gated).
 -   _[Journal of Social Structure](http://www.cmu.edu/joss)_ (INSNA).
@@ -796,6 +798,6 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, the authors of this list – by chronological order: [François Briatte](http://f.briatte.org/), [Ian McCulloh](https://www.linkedin.com/in/mcculloh), [Aditya Khanna](http://home.uchicago.edu/~khanna7), [Manlio De Domenico](http://deim.urv.cat/~manlio.dedomenico/index.php), Patrick Kaminski, [Ericka Menchen-Trevino](http://www.ericka.cc/), [Tam-Kien Duong](https://github.com/taniki), [Jeremy Foote](https://github.com/jdfoote), [Catherine Cramer](http://nysci.org/nysci_people/catherine-cramer/), [Andrej Mrvar](http://mrvar.fdv.uni-lj.si/), [Patrick Doreian](http://patrickdoreian.com/), [Vladimir Batagelj](http://vladowiki.fmf.uni-lj.si/doku.php?id=vlado), Eric C. Jones, Alden S. Klovdahl, [James Fairbanks](http://www.jpfairbanks.net/), [Danielle Varda](http://www.ucdenver.edu/academics/colleges/SPA/FacultyStaff/Faculty/Pages/DanielleVarda.aspx), [Andrew Pitts](https://twitter.com/andpitts) and [Roman Bartusiak](http://riomus.ml/), [Koustuv Sinha](http://koustuvsinha.github.io/) – have waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, the authors of this list – by chronological order: [François Briatte](http://f.briatte.org/), [Ian McCulloh](https://www.linkedin.com/in/mcculloh), [Aditya Khanna](http://home.uchicago.edu/~khanna7), [Manlio De Domenico](http://deim.urv.cat/~manlio.dedomenico/index.php), Patrick Kaminski, [Ericka Menchen-Trevino](http://www.ericka.cc/), [Tam-Kien Duong](https://github.com/taniki), [Jeremy Foote](https://github.com/jdfoote), [Catherine Cramer](http://nysci.org/nysci_people/catherine-cramer/), [Andrej Mrvar](http://mrvar.fdv.uni-lj.si/), [Patrick Doreian](http://patrickdoreian.com/), [Vladimir Batagelj](http://vladowiki.fmf.uni-lj.si/doku.php?id=vlado), Eric C. Jones, Alden S. Klovdahl, [James Fairbanks](http://www.jpfairbanks.net/), [Danielle Varda](http://www.ucdenver.edu/academics/colleges/SPA/FacultyStaff/Faculty/Pages/DanielleVarda.aspx), [Andrew Pitts](https://twitter.com/andpitts) and [Roman Bartusiak](http://riomus.ml/), [Koustuv Sinha](http://koustuvsinha.github.io/), [Mohsen Mosleh](http://mohsenmosleh.com/) – have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Robert J. Ackland](https://github.com/rjackland), [Marc Flandreau](http://graduateinstitute.ch/directory/_/people/flandreau), [Wouter de Nooy](https://www.uva.nl/over-de-uva/organisatie/medewerkers/content/n/o/w.denooy/w.denooy.html), [Katya Ognyanova](http://kateto.net/), [Cosma Shalizi](http://www.stat.cmu.edu/~cshalizi/) and [Tom A.B. Snijders](https://www.stats.ox.ac.uk/~snijders/), who helped locating some of the awesome resources featured in this list.
