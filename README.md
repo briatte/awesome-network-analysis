@@ -252,7 +252,8 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 > Network-focused research centers, (reading) groups, institutes, labs – you name it – based in the USA.
 
-1.  [Annenberg Networks Network](http://uscann.tumblr.com/) - Research group studying social networks at the University of Southern California.
+1.  [Annenberg Networks Network (ANN)](http://uscann.tumblr.com/) - Research group studying social networks at the University of Southern California.
+-   [Center for Applied Network Analysis (CANA)](https://usccana.github.io/) - Research group based at the University of Southern California School of Medicine.
 -   [Channing Division of Network Medicine](http://www.brighamandwomens.org/research/depts/medicine/channing/default.aspx) - Research division within the Department of Medicine at Brigham and Women’s Hospital.
 -   [Complex Human Networks Reading Group (CoHN)](http://alumni.media.mit.edu/~tanzeem/cohn/CoHN.htm) - Reading list from a seminar held at MIT in 2001–2.
 -   [Duke Network Analysis Center](https://dnac.ssri.duke.edu/).
