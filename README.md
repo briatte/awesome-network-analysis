@@ -608,6 +608,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [PAFit](https://cran.r-project.org/web/packages/PAFit/) - Nonparametric estimation of preferential attachment and node fitness in temporal complex networks.
 -   [PCIT](https://cran.r-project.org/web/packages/PCIT/) - Implements Partial Correlation with Information Theory in order to identify meaningful correlations in weighted networks, such as gene co-expression networks.
 -   [RCy3](https://bioconductor.org/packages/release/bioc/html/RCy3.html) - Interface between R and recent versions of Cytoscape.
+-   [qgraph](https://cran.r-project.org/web/packages/qgraph/) - Tools to model and visualize psychometric networks; also aimed at weighted graphical models.
 -   [relevent](https://cran.r-project.org/web/packages/relevent/) - Tools to fit relational event models (REM).
 -   [rem](https://cran.r-project.org/web/packages/rem/) - Estimate endogenous network effects in event sequences and fit relational event models (REM), which measure how networks form and evolve over time.
 -   [rgexf](https://cran.r-project.org/web/packages/rgexf/) - Export network objects from R to GEXF for manipulation with software like Gephi or Sigma.
