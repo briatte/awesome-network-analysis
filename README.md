@@ -266,7 +266,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Network Science Center at the U.S. Military Academy (USMA) in West Point](http://www.usma.edu/nsc/) ([blog](http://blog.netsciwestpoint.org/)).
 -   [Network Science IGERT at the University of California at Santa Barbara (UCSB)](http://networkscience.igert.ucsb.edu/) - Features an [NSF-funded](http://www.igert.org/) graduate programme.
 -   [Networks, Computation, and Social Dynamics Lab](http://www.ncasd.org/) - Headed by Carter T. Butts. Part of the [Center for Networks and Relational Analysis](http://relationalanalysis.org/) (CNRA) at the University of California in Irvine.
--   [Northeastern University Network Science Institute](http://www.networkscienceinstitute.org/) - Features a PhD in Network Science program..
+-   [Northeastern University Network Science Institute](http://www.networkscienceinstitute.org/) - Features a PhD in Network Science program.
 -   [Northeastern University Center for Complex Network Research](http://www.barabasilab.com/) - Led by Albert-László Barabási.
 -   [Northeastern University MOBS Lab - Laboratory for the Modeling of Biological and Socio-technical Systems](http://www.mobs-lab.org/) - Led by Alessandro Vespignani.
 -   [Peter J. Mucha’s Research Group at the University of North Carolina at Chapel Hill](http://mucha.web.unc.edu/networks/).
