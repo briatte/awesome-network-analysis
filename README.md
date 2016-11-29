@@ -125,6 +125,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 1.  _[Analyzing Social Networks](https://sites.google.com/site/analyzingsocialnetworks/)_ (using UCINET), by Stephen P. Borgatti, Martin G. Everett and Jeffrey C. Johnson (2013).
 -   _[A User's Guide to Network Analysis in R](https://www.springer.com/us/book/9783319238821)_, by Douglas A. Luke (2015).
+-   _[Data Science and Complex Networks: Real Case Studies with Python](https://global.oup.com/academic/product/data-science-and-complex-networks-9780199639601)_, by Guido Caldarelli and Alessandro Chessa (2016).
 -   _[Exploratory Social Network Analysis with Pajek](http://www.cambridge.org/us/academic/subjects/sociology/research-methods-sociology-and-criminology/exploratory-social-network-analysis-pajek-2nd-edition)_, by Wouter de Nooy, Andrej Mrvar and Vladimir Batagelj (2011; also [in Japanese](http://www.tdupress.jp/books/isbn978-4-501-54710-3.html) and [in Chinese](http://product.dangdang.com/22927985.html)).
 -   _[Gephi Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/gephi-cookbook)_ (2015).
 -   _[Graph Drawing Software](http://link.springer.com/book/10.1007/978-3-642-18638-7)_ (covering many programs), edited by Michael Jünger and Petra Mutzel (2004).
