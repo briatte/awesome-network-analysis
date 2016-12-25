@@ -529,6 +529,8 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 1.  [Cytoscape.js](http://js.cytoscape.org/) - Network analysis and visualization library.
 -   [d3.js](https://d3js.org/) - JavaScript visualization library that can plot [force-directed graphs](http://bl.ocks.org/mbostock/4062045).
+  -   [d3-force: Force-directed graph layout](https://github.com/d3/d3-force) using velocity Verlet integration.
+  -   [d3-vector: Define connections between nodes as directional vectors](https://github.com/thepeoplesbourgeois/d3-vector), consisting of angles and magnitudes.
 -   [GENSI](http://www.tobiasstark.nl/GENSI/GENSI.htm) - JavaScript graphical tool to collect ego-centered network data ([paper](http://www.sciencedirect.com/science/article/pii/S0378873316300284)).
 -   [GoJS](http://gojs.net/) - Visualization library to draw diagrams and several types of network layouts.
 -   [greuler](https://maurizzzio.github.io/greuler/) - Visualization library to build and manipulate graphs through a simple API. Powered by d3.js and [WebCola](http://marvl.infotech.monash.edu/webcola/).
