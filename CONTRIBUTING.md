@@ -24,15 +24,10 @@ The [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awes
 
 See the [list of rejected content](https://github.com/briatte/awesome-network-analysis/wiki/rejected-content) for counter-examples of non-awesome or off-topic stuff _not_ to submit.
 
-## Publishing Roadmap
+## Publishing History
 
--  ~~[v1.0](https://github.com/briatte/awesome-network-analysis/releases/tag/v1.0)~~ - First draft.
--  ~~[v1.1](https://github.com/briatte/awesome-network-analysis/milestones/v1.1)~~ - Moar awesomeness.
--  [v1.2](https://github.com/briatte/awesome-network-analysis/milestones/v1.2) - Add a few more resources.
--  [v1.3](https://github.com/briatte/awesome-network-analysis/milestones/v1.3) - Trim down and comment on selected resources.
--  [v1.4](https://github.com/briatte/awesome-network-analysis/milestones/v1.4) - Publish short companion note with collaborators.
-
-Details on how collaborators were recruited appear in the [publishing roadmap](https://github.com/briatte/awesome-network-analysis/wiki/publishing-roadmap).
+- Details on how the list has developed appear in the [release notes](https://github.com/briatte/awesome-network-analysis/releases).
+- Details on how collaborators were recruited appear in the [publishing roadmap](https://github.com/briatte/awesome-network-analysis/wiki/publishing-roadmap).
 
 ## Style Guide
 
