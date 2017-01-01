@@ -553,7 +553,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [JuliaGraphs](https://github.com/JuliaGraphs) - Suite of Julia packages for network analysis.
   -   [GraphVisualize.jl](https://github.com/JuliaGraphs/GraphVisualize.jl) - Graph visualization built on top of [GLVisualize.jl](https://github.com/JuliaGL/GLVisualize.jl).
   -   [LightGraphs.jl](https://github.com/JuliaGraphs/LightGraphs.jl) - Graph library with a focus on performance and simplicity.
-  -   [LightGraphsExtras.jl](https://github.com/JuliaGraphs/LightGraphsExtras.jl) - Community detection and other extra functionalities for the LightGraphs.jl package.
+  -   [LightGraphsExtras.jl](https://github.com/JuliaGraphs/LightGraphsExtras.jl) - Community detection and other functionalities for the LightGraphs.jl package.
   -   [NetworkLayout.jl](https://github.com/JuliaGraphs/NetworkLayout.jl) - Layout algorithms for graphs and trees.
   -   [Networks.jl](https://github.com/JuliaGraphs/Networks.jl) - Additional graph functions for the LightGraphs.jl package.
   -   [GraphCentrality.jl](https://github.com/JuliaGraphs/GraphCentrality.jl) - Adds network measures to the Graphs.jl package.
