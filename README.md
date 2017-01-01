@@ -60,7 +60,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 ### Classics
 
 1.  _[A Novitiate in a Period of Change: An Experimental and Case Study of Social Relationships](https://www.dropbox.com/s/cwhmfp4qjl09y2k/Sampson%2C%20Samuel%201968.pdf?dl=0)_, by Samuel F. Sampson (unpublished PhD dissertation, 1968).
--   _[Social Network Analysis. A Handbook](https://uk.sagepub.com/en-gb/eur/social-network-analysis/book237401)_, by John Scott (1991, 3rd ed. 2013).
+-   _[Social Network Analysis](https://uk.sagepub.com/en-gb/eur/social-network-analysis/book249668)_, by John Scott (4th ed., 2017).
 -   _[Social Network Analysis. Methods and Applications](http://www.cambridge.org/ar/academic/subjects/sociology/sociology-general-interest/social-network-analysis-methods-and-applications)_, by Stanley Wasserman and Katherine Faust (1994).
 -   _[The Structure and Dynamics of Networks](http://press.princeton.edu/titles/8114.html)_, edited by Mark E.J. Newman, Albert-László Barabási and Duncan J. Watts - 600 pages of classic network analysis articles (2006).
 
@@ -247,8 +247,8 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [ECPR Political Networks SG](https://politicalnetsecpr.wordpress.com/) - Standing Group of the European Consortium for Political Research ([Twitter account](https://twitter.com/politicalnets)).
 -   [GDR ARSHS - GDR Analyse de réseaux en sciences humaines et sociales](http://arshs.hypotheses.org/), in French - Research group based in Paris.
 -   [Groupe FMR - Flux, Matrices, Réseaux](http://groupefmr.hypotheses.org/), in French.
--   [INSNA - International Network for Social Network Analysis](http://www.insna.org/) ([SOCNET mailing-list](http://www.insna.org/pubs/socnet.html)).
--   [Mathematical Sociology Section of the American Sociological Association (ASA)](http://www.asanet.org/sections/mathematical.cfm).
+-   [INSNA - International Network for Social Network Analysis](http://www.insna.org/) ([SOCNET mailing-list](http://insna.org/socnet.html)).
+-   [Mathematical Sociology Section of the American Sociological Association (ASA)](http://www.asanet.org/asa-communities/sections/mathematical-sociology).
 -   [NetSci - Network Science Society](http://www.netscisociety.net/).
 
 ### Research Groups (USA)
@@ -299,7 +299,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Mitchell Centre for Social Network Analysis, University of Manchester](http://www.socialsciences.manchester.ac.uk/mitchell-centre/) - Currently studies [covert networks](http://www.socialsciences.manchester.ac.uk/mitchell-centre/research/covert-networks/).
 -   [Murata Laboratory](http://www.ai.cs.titech.ac.jp/) - Tokyo-based research group, studying bi-, tri- and k-partite (hyper)networks.
 -   [NetLab](http://groups.chass.utoronto.ca/netlab/) - Research network at the University of Toronto, led by Barry Wellman.
--   [Network Science Research Centre, Swansea University](http://www.swansea.ac.uk/som/research-faculty/networkscienceresearchcentre/).
+-   [Network Science Research Centre, Swansea University](http://www.swansea.ac.uk/medicine/enterpriseandinnovation/networkscienceresearchcentre/).
 -   [Network Dynamics](http://networkdynamics.org/) - Research Lab at McGill University, led by [Derek Ruths](http://www.derekruths.com/)
 -   [Netzwerkerei](http://netzwerkerei.org/) - Historical research project on the connections between Jewish intellectuals.
 -   [ORIO - Observatoire des Réseaux Intra- et Inter-Organisationnels](http://blogs.sciences-po.fr/recherche-network-organization-institution-dynamics-multilevel/) - A research program on networks and regulation.
@@ -361,7 +361,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ### Ethics of Network Analysis
 
-1.  [A Cautionary Note on Data Inputs and Visual Outputs in Social Network Analysis (SNA)](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8551.2012.00835.x) ([preprint][conway2014]; _British Journal of Management_, 2014).
+1.  [A Cautionary Note on Data Inputs and Visual Outputs in Social Network Analysis (SNA)](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8551.2012.00835.x/abstract) ([preprint][conway2014]; _British Journal of Management_, 2014).
 -   [Ethical Dilemmas in Social Network Research](http://www.sciencedirect.com/science/journal/03788733/27/2) (special issue of _Social Networks_, 2005).
 -   [Ethical and Strategic Issues in Organizational Social Network Analysis](http://www.analytictech.com/borgatti/papers/ethics.pdf) (_The Journal of Applied Behavioral Science_, 2003).
 
