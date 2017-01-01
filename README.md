@@ -543,15 +543,24 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ### Julia
 
-1.  [EvolvingGraphs](https://github.com/weijianzhang/EvolvingGraphs.jl) - Package to create, manipulate and study time-dependent networks.
+1.  [BayesNets.jl](https://github.com/sisl/BayesNets.jl) - Package to work with Bayesian networks.
+  -   [Smile.jl](https://github.com/sisl/Smile.jl) - Julia wrapper for the [Smile C++ library](https://dslpitt.org/genie/), which covers Bayesian networks and influence diagrams.
+-   [EcologicalNetwork.jl](https://github.com/PoisotLab/EcologicalNetwork.jl) - Package to compute measures of ecological network structures.
+-   [EvolvingGraphs](https://github.com/weijianzhang/EvolvingGraphs.jl) - Package to create, manipulate and study time-dependent networks.
   -   [Dynamic Network Analysis in Julia](http://eprints.ma.man.ac.uk/2376/01/julia_eg_report.pdf).
 -   [Graphs.jl](https://github.com/JuliaLang/Graphs.jl) - Package to manipulate graph objects in Julia.
   -   [Creating Network Diagrams in Plotly from Julia](http://badhessian.org/2014/05/creating-network-diagrams-in-plotly-from-julia/).
 -   [JuliaGraphs](https://github.com/JuliaGraphs) - Suite of Julia packages for network analysis.
   -   [GraphVisualize.jl](https://github.com/JuliaGraphs/GraphVisualize.jl) - Graph visualization built on top of [GLVisualize.jl](https://github.com/JuliaGL/GLVisualize.jl).
   -   [LightGraphs.jl](https://github.com/JuliaGraphs/LightGraphs.jl) - Graph library with a focus on performance and simplicity.
+  -   [LightGraphsExtras.jl](https://github.com/JuliaGraphs/LightGraphsExtras.jl) - Community detection and other extra functionalities for the LightGraphs.jl package.
+  -   [NetworkLayout.jl](https://github.com/JuliaGraphs/NetworkLayout.jl) - Layout algorithms for graphs and trees.
   -   [Networks.jl](https://github.com/JuliaGraphs/Networks.jl) - Additional graph functions for the LightGraphs.jl package.
   -   [GraphCentrality.jl](https://github.com/JuliaGraphs/GraphCentrality.jl) - Adds network measures to the Graphs.jl package.
+-   [MatrixNetworks.jl](https://github.com/nassarhuda/MatrixNetworks.jl) - A method to handle graph/matrix/network structures.
+-   [NetworkFlows.jl](https://github.com/Azzaare/NetworkFlows.jl) - Package of network flows algorithms.
+-   [NetworkViz.jl](https://github.com/abhijithanilkumar/NetworkViz.jl) - Package to visualize graphs produced with LightGraphs.jl, using [ThreeJS.jl](https://github.com/rohitvarkey/ThreeJS.jl).
+-   [PhyloNetworks.jl](https://github.com/crsl4/PhyloNetworks.jl) - Package to manipulate, analyze and visualize phylogenetic networks.
 -   [TikzGraphs](https://github.com/sisl/TikzGraphs.jl) - Package to create graph layouts using the TikZ graphics language.
 
 ### MATLAB
