@@ -477,10 +477,10 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Siena](http://www.stats.ox.ac.uk/~snijders/siena/) - Simulation Investigation for Empirical Network Analysis. Formerly a Windows program, now developed as the RSiena R package.
 -   [SocNetV - Social Network Visualizer](http://socnetv.sourceforge.net/) - Cross-platform program that includes a [simple Web crawler](http://socnetv.sourceforge.net/news/?post=socnetv-v16-released-with-a-working-web-crawler) to construct hyperlink networks.
 -   [SoNIA - Social Network Image Animator](http://web.stanford.edu/group/sonia/) - Tool to visualize dynamic or longitudinal network data. Formerly a [Java program](https://sourceforge.net/projects/sonia/) ([example movies](http://www.soc.duke.edu/~jmoody77/NetMovies/index.htm)), now developed as the ndtv R package.
--   [SparklingGraph](http://sparkling.ml) - Cross-platform tool to perform large-scale, distributed network computations with Apache Spark's GraphX module; written in Java and Scala.
+-   [SparklingGraph](https://sparkling-graph.github.io/) - Cross-platform tool to perform large-scale, distributed network computations with Apache Spark's GraphX module; written in Java and Scala.
 -   [SPaTo Visual Explorer](http://www.spato.net/) - Cross-platform program for the visualization and exploration of complex networks.
 -   [StOCNET](http://www.gmw.rug.nl/~stocnet/StOCNET.htm) - Several Windows programs developed by the same team as Siena.
--   [Tulip](http://www.tulip-software.org/) - Cross-platform network analysis and visualization framework built on top of a C++ library, with plugins dedicated to specific biological and physical networks. Also available through its [Python package](http://tulip.labri.fr/Documentation/current/tulip-python/html/index.html).
+-   [Tulip](http://tulip.labri.fr/) - Cross-platform network analysis and visualization framework built on top of a C++ library, with plugins dedicated to specific biological and physical networks. Also available through its [Python package](http://tulip.labri.fr/Documentation/current/tulip-python/html/index.html).
 -   [UCINET](https://sites.google.com/site/ucinetsoftware/) - Windows commercial software package for the analysis of social network data.
 -   [Uberlink](http://www.uberlink.com/) - Software suite for online (hyperlink) network analysis, by the [VOSON](http://vosonlab.net/) research project.
   -   [VOSON System](http://www.uberlink.com/software#voson) - Web-based software for the collection and analysis of online network data.
@@ -630,6 +630,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [PAFit](https://cran.r-project.org/web/packages/PAFit/) - Nonparametric estimation of preferential attachment and node fitness in temporal complex networks.
 -   [PCIT](https://cran.r-project.org/web/packages/PCIT/) - Implements Partial Correlation with Information Theory in order to identify meaningful correlations in weighted networks, such as gene co-expression networks.
 -   [RCy3](https://bioconductor.org/packages/release/bioc/html/RCy3.html) - Interface between R and recent versions of Cytoscape.
+-   [RCyjs](https://bioconductor.org/packages/release/bioc/html/RCyjs.html) - Interface between R and Cytoscape.js.
 -   [qgraph](https://cran.r-project.org/web/packages/qgraph/) - Tools to model and visualize psychometric networks; also aimed at weighted graphical models).
   -   [Network Model Selection Using qgraph 1.3](http://psychosystems.org/network-model-selection-using-qgraph-1-3-10/) (2014).
   -   [qgraph Examples](http://sachaepskamp.com/qgraph/examples).
