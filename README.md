@@ -486,7 +486,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
   -   [VOSON System](http://www.uberlink.com/software#voson) - Web-based software for the collection and analysis of online network data.
   -   [VOSON Data Provider for NodeXL](http://www.uberlink.com/software#voson-nodexl) ([quick tutorial](https://blogs.k-state.edu/it-news/2013/04/09/the-nodexl-series-using-voson-for-hyperlink-network-analysis-part-9/); to be discontinued in 2016).
   -   [vosonR](http://vosonlab.net/tools) - R client for the VOSON software (in development).
--   [UNISoN](http://unison.sleonard.co.uk/) - Cross-platform program to download and visualize Usenet data. [Developed for a Masters degree](http://unison.sleonard.co.uk/index.php/msc-report-abstract).
+-   [UNISoN](http://unison.sleonard.co.uk/) - Cross-platform program to download and visualize Usenet data. [Developed for a Masters degree](https://github.com/leonarduk/unison/wiki/MSc-Report-Abstract).
 -   [VennMaker: An Actor-Centered Interactive Network Mapping Tool](http://www.vennmaker.com/?lang=en) - Cross-platform Java program for ego network analysis.
   -   [VennMaker for Historians: Sources, Social Networks and Software](http://revistes.uab.cat/redes/article/view/v21-during-bixier-kronenwett-stark) (also available in Spanish; 2011).
 -   [Visone](http://visone.info/) - Cross-platform Java network analysis and visualization program, free for noncommercial use.
@@ -544,7 +544,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 ### Julia
 
 1.  [BayesNets.jl](https://github.com/sisl/BayesNets.jl) - Package to work with Bayesian networks.
-  -   [Smile.jl](https://github.com/sisl/Smile.jl) - Julia wrapper for the [Smile C++ library](https://dslpitt.org/genie/), which covers Bayesian networks and influence diagrams.
+  -   [Smile.jl](https://github.com/sisl/Smile.jl) - Julia wrapper for the [Smile C++ library](http://www.bayesfusion.com/smile-engine), which covers Bayesian networks and influence diagrams.
 -   [EcologicalNetwork.jl](https://github.com/PoisotLab/EcologicalNetwork.jl) - Package to compute measures of ecological network structures.
 -   [EvolvingGraphs](https://github.com/weijianzhang/EvolvingGraphs.jl) - Package to create, manipulate and study time-dependent networks.
   -   [Dynamic Network Analysis in Julia](http://eprints.ma.man.ac.uk/2376/01/julia_eg_report.pdf).
@@ -579,7 +579,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 > See also [Social Network Analysis with Python](https://www.youtube.com/watch?v=qgGqaBAEy3Q), a 3-hour tutorial by Maksim Tsvetovat and Alex Kouznetsov given at PyCon US 2012 ([code](https://github.com/maksim2042/PyCon2012)).  
 > For more awesome Python packages, see the [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome Python Books](https://github.com/Junnplus/awesome-python-books) lists.
 
-1.  [graph-tool](https://graph-tool.skewed.de/) - Python module for network manipulation and analysis, written mostly in C++ for speed.
+1.  [graph-tool](http://graph-tool.skewed.de/) - Python module for network manipulation and analysis, written mostly in C++ for speed.
 -   [graphviz](https://pypi.python.org/pypi/graphviz) - Python renderer for the DOT graph drawing language.
 -   [linkpred](https://github.com/rafguns/linkpred) - Assess the likelihood of potential links in a future snapshot of a network.
 -   [metaknowledge](http://networkslab.org/metaknowledge/) - Python package to turn bibliometrics data into authorship and citation networks.
@@ -629,7 +629,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [networksis](https://cran.r-project.org/web/packages/networksis/) - Tools to simulate bipartite networks/graphs with the degrees of the nodes fixed and specified.
 -   [PAFit](https://cran.r-project.org/web/packages/PAFit/) - Nonparametric estimation of preferential attachment and node fitness in temporal complex networks.
 -   [PCIT](https://cran.r-project.org/web/packages/PCIT/) - Implements Partial Correlation with Information Theory in order to identify meaningful correlations in weighted networks, such as gene co-expression networks.
--   [RCy3](https://bioconductor.org/packages/release/bioc/html/RCy3.html) - Interface between R and recent versions of Cytoscape.
+-   [RCy3](https://bioconductor.org/packages/3.3/bioc/html/RCy3.html) - Interface between R and recent versions of Cytoscape.
 -   [RCyjs](https://bioconductor.org/packages/release/bioc/html/RCyjs.html) - Interface between R and Cytoscape.js.
 -   [qgraph](https://cran.r-project.org/web/packages/qgraph/) - Tools to model and visualize psychometric networks; also aimed at weighted graphical models).
   -   [Network Model Selection Using qgraph 1.3](http://psychosystems.org/network-model-selection-using-qgraph-1-3-10/) (2014).

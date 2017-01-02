@@ -1,8 +1,15 @@
+#
+# Common errors
+# -------------
+# 400 Bad Request
+# 403 Forbidden (e.g. Nature website)
+# 404 Not Found
+# 501 Not Implemented
+#
 library(httr)
 library(stringr)
 
 f <- "check.log"
-a <- "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.95 Safari/537.36"
 
 if (!file.exists(f)) {
   
@@ -60,7 +67,7 @@ sink()
 
 for (i in l) {
   
-  x <- try(GET(i, user_agent(a)) %>%
+  x <- try(GET(i) %>%
              status_code,
            silent = TRUE)
   
@@ -79,7 +86,6 @@ for (i in l) {
     sink(f, append = TRUE)
     cat(i, "\nFailed to access\n\n")
     sink()
-    Sys.sleep(5)
     
   } else {
     
