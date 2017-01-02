@@ -1,42 +1,59 @@
 library(httr)
 library(stringr)
 
-u <- str_c(
-  "https://raw.githubusercontent.com/",
-  "briatte/awesome-network-analysis/",
-  "master/README.md"
-)
+f <- "check.log"
 
-u <- GET(u) %>%
-  content("text") %>%
-  str_split("\\n") %>% # so as to find [foo]: bar links
-  unlist
-
-# total number of links
-t <- str_count(u, "http") %>%
-  sum
-
-cat(t, "URLs, ")
-
-l <- c(
-  # [foo](bar)
-  str_extract_all(u, "\\(http(.*?)\\)") %>%
-    lapply(str_replace_all, "^\\(|\\)$", "") %>%
-    unlist,
-  # [foo]: bar
-  str_extract_all(u, "^\\[(.*)\\]: (.*)") %>% 
-    unlist %>%
-    str_replace("^\\[(.*)\\]: (.*)", "\\2")
-)
-
-stopifnot(length(l) == t)
+if (!file.exists(f)) {
+  
+  u <- str_c(
+    "https://raw.githubusercontent.com/",
+    "briatte/awesome-network-analysis/",
+    "master/README.md"
+  )
+  
+  cat("Source:", u, "\n")
+  
+  u <- GET(u) %>%
+    content("text") %>%
+    str_split("\\n") %>% # so as to find [foo]: bar links
+    unlist
+  
+  # total number of links
+  t <- str_count(u, "http") %>%
+    sum
+  
+  cat(t, "URLs, ")
+  
+  l <- c(
+    # [foo](bar)
+    str_extract_all(u, "\\(http(.*?)\\)") %>%
+      lapply(str_replace_all, "^\\(|\\)$", "") %>%
+      unlist,
+    # [foo]: bar
+    str_extract_all(u, "^\\[(.*)\\]: (.*)") %>% 
+      unlist %>%
+      str_replace("^\\[(.*)\\]: (.*)", "\\2")
+  )
+  
+  stopifnot(length(l) == t)
+  
+} else {
+  
+  cat("Source:", f, "\n")
+  
+  l <- readLines(f) %>%
+    str_subset("^http")
+  
+  cat(length(l), "URLs, ")
+  
+}
 
 l <- unique(l) %>%
   sort
 
 cat(length(l), "unique\n")
 
-sink("check.log", append = FALSE)
+sink(f, append = FALSE)
 cat(as.character(Sys.time()), ": checking", length(l), "URLs\n\n")
 sink()
 
@@ -50,7 +67,7 @@ for (i in l) {
     
     cat("X")
     
-    sink("check.log", append = TRUE)
+    sink(f, append = TRUE)
     cat(i, "\nStatus code:", x, "\n\n")
     sink()
     
@@ -58,9 +75,10 @@ for (i in l) {
     
     cat("?")
     
-    sink("check.log", append = TRUE)
+    sink(f, append = TRUE)
     cat(i, "\nFailed to access\n\n")
     sink()
+    Sys.sleep(5)
     
   } else {
     
@@ -73,11 +91,10 @@ for (i in l) {
   
 }
 
-sink("check.log", append = TRUE)
+sink(f, append = TRUE)
 cat(as.character(Sys.time()), ": done.\n")
 sink()
 
-cat("Found", str_count(readLines("check.log"), "^http:") %>%
+cat("Found", str_count(readLines(f), "^http") %>%
       sum,
     "problems.\n")
-
