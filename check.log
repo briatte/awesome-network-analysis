@@ -1,0 +1,36 @@
+2017-01-02 19:46:05 : checking 11 URLs
+
+http://derekgreene.com/gephitutorial/      
+Status code: 404 
+
+http://nexus.igraph.org/      
+Failed to access
+
+http://www.derekruths.com/      
+Status code: 403 
+
+http://www.nature.com/nature/journal/v445/n7127/full/445489a.html      
+Status code: 401 
+
+http://www.ssc.wisc.edu/~emirbaye/Mustafa_Emirbayer/ARTICLES_files/manifesto%20for%20a%20relational%20sociology.pdf      
+Status code: 404 
+
+http://www.ssc.wisc.edu/~emirbaye/Mustafa_Emirbayer/ARTICLES_files/network%20analysis,%20culture,%20and%20the%20problem%20of%20agency.pdf      
+Status code: 404 
+
+https://410f84824e101297359cc81c78f45c7c079eb26c.googledrive.com/host/0Bz6WHrWac3FrWnA5MjZqb3lWa2c/      
+Status code: 404 
+
+https://dlist.server.uni-frankfurt.de/mailman/listinfo/sna-de      
+Status code: 400 
+
+https://lra.le.ac.uk/bitstream/2381/36068/2/Draft%20BJM%20Revised%20(3rd%20iteration)%20Manuscript.pdf      
+Status code: 501 
+
+https://www.linkedin.com/in/mcculloh      
+Status code: 999 
+
+https://www.puf.com/content/R%C3%A9seaux_sociaux_et_structures_relationnelles      
+Status code: 501 
+
+2017-01-02 19:46:09 : done.

@@ -5,6 +5,7 @@
 # 403 Forbidden (e.g. Nature website)
 # 404 Not Found
 # 501 Not Implemented
+# 999 LinkedIn being defensive
 #
 library(httr)
 library(stringr)
@@ -102,6 +103,6 @@ sink(f, append = TRUE)
 cat(as.character(Sys.time()), ": done.\n")
 sink()
 
-cat("Found", str_count(readLines(f), "^http") %>%
+cat("\nFound", str_count(readLines(f), "^http") %>%
       sum,
     "problems.\n")
