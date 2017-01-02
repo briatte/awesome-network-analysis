@@ -2,6 +2,7 @@ library(httr)
 library(stringr)
 
 f <- "check.log"
+a <- "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.95 Safari/537.36"
 
 if (!file.exists(f)) {
   
@@ -59,7 +60,7 @@ sink()
 
 for (i in l) {
   
-  x <- try(GET(i) %>%
+  x <- try(GET(i, user_agent(a)) %>%
              status_code,
            silent = TRUE)
   
