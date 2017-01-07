@@ -95,7 +95,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 ### Graph Theory
 
 1.  _[Combinatorics and Graph Theory](https://www.springer.com/us/book/9780387797106)_, by John Harris, Jeffry L. Hirst and Michael Mossinghoff (2008).
--   _[The Fascinating World of Graph Theory](http://press.princeton.edu/titles/10314.html)_, Arthur Benjamin, Gary Chartrand and Ping Zhang (2015).
+-   _[The Fascinating World of Graph Theory](http://press.princeton.edu/titles/10314.html)_, by Arthur Benjamin, Gary Chartrand and Ping Zhang (2015).
 -   _[Graph Theory](https://www.springer.com/us/book/9781846289699)_, by John A. Bondy and Uppaluri S.R. Murty (2008).
 -   _[Graph Theory](http://diestel-graph-theory.com/)_, by Reinhard Diestel - Full book online, also in Chinese and German (2016).
 -   _[Graph Theory](http://www.dtic.mil/dtic/tr/fulltext/u2/705364.pdf)_, by Frank Harary - Full book online (1969).
