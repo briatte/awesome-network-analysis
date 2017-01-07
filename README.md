@@ -60,7 +60,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 ### Classics
 
 1.  _[A Novitiate in a Period of Change: An Experimental and Case Study of Social Relationships](https://www.dropbox.com/s/cwhmfp4qjl09y2k/Sampson%2C%20Samuel%201968.pdf?dl=0)_, by Samuel F. Sampson (unpublished PhD dissertation, 1968).
--   _[Social Network Analysis](https://uk.sagepub.com/en-gb/eur/social-network-analysis/book249668)_, by John Scott (4th ed., 2017).
+-   _[Social Network Analysis](https://uk.sagepub.com/en-gb/eur/social-network-analysis/book249668)_, by John Scott (2017).
 -   _[Social Network Analysis. Methods and Applications](http://www.cambridge.org/ar/academic/subjects/sociology/sociology-general-interest/social-network-analysis-methods-and-applications)_, by Stanley Wasserman and Katherine Faust (1994).
 -   _[The Structure and Dynamics of Networks](http://press.princeton.edu/titles/8114.html)_, edited by Mark E.J. Newman, Albert-László Barabási and Duncan J. Watts - 600 pages of classic network analysis articles (2006).
 
@@ -94,10 +94,14 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ### Graph Theory
 
-1.  _[Complex Graphs and Networks](http://bookstore.ams.org/cbms-107/)_, by Fan Chung and Linyuan Lu (2006).
+1.  _[Combinatorics and Graph Theory](https://www.springer.com/us/book/9780387797106)_, by John Harris, Jeffry L. Hirst and Michael Mossinghoff (2008).
 -   _[The Fascinating World of Graph Theory](http://press.princeton.edu/titles/10314.html)_, Arthur Benjamin, Gary Chartrand and Ping Zhang (2015).
--   _[Graph Theory](http://www.cs.unibo.it/babaoglu/courses/cas00-01/tutorials/GraphTheory.pdf)_, by Reinhard Diestel - Full book online (2000).
--   _[Random Graph Dynamics](https://services.math.duke.edu/~rtd/RGD/RGD.html)_, by Rick Durrett - Full book online (2007).
+-   _[Graph Theory](https://www.springer.com/us/book/9781846289699)_, by John A. Bondy and Uppaluri S.R. Murty (2008).
+-   _[Graph Theory](http://diestel-graph-theory.com/)_, by Reinhard Diestel - Full book online, also in Chinese and German (2016).
+-   _[Graph Theory](http://www.dtic.mil/dtic/tr/fulltext/u2/705364.pdf)_, by Frank Harary - Full book online (1969).
+-   _[Graphs & Digraphs](https://www.crcpress.com/Graphs--Digraphs-Sixth-Edition/Chartrand-Lesniak-Zhang/p/book/9781498735766)_, by Gary Chartrand, Linda Lesniak and Ping Zhang (2016).
+-   _[Introduction to Combinatorics and Graph Theory](https://www.whitman.edu/mathematics/cgt_online/cgt.pdf)_, by Daniel Guichard - Full book online (2016).
+-   _[Modern Graph Theory](https://www.springer.com/us/book/9780387984889)_, by Belá Bollobás (1998).
 
 ### Method-specific
 
