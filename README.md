@@ -195,6 +195,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Social Network Analysis](https://www.coursera.org/course/sna), by Lada Adamic (University of Michigan via Coursera, not yet run).
 -   [Social Network Analysis](http://www.mjdenny.com/workshops/SN_Theory_I.pdf) and [Intermediate Social Network Theory](http://www.mjdenny.com/workshops/Relational_Theory_Workshop.pdf), by Matthew J. Denny - Workshop notes and slides (2014–5).
 -   [Social Network Analysis with Pajek](http://mrvar.fdv.uni-lj.si/sola/info4/), by Andrej Mrvar (University of Ljubljana, 2016).
+-   [Social Networks](http://dennisfeehan.org/teaching/201701_demog260.html), by Dennis M. Feehan (University of Berkeley, 2017).
 -   [The Structure of Information Networks](https://www.cs.cornell.edu/Courses/cs6850/2008fa/), by Jon Kleinberg - Links to many diverse readings (Cornell University, 2008).
 
 ## Datasets
@@ -407,6 +408,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Networks in Social Psychology, Beginning with Kurt Lewin](http://link.springer.com/10.1007%2F978-1-4614-6170-8_79) ([preprint](http://patrickdoreian.com/NEW/wp-content/papers_resources/new_papers_4-13/Networks_in_Socia_Psychology_Lewin.docx); _[Encyclopedia of Social Network Analysis and Mining](https://www.springer.com/us/book/9781461461692)_, 2014).
 -   [Networks in the Understanding of Economic Behaviors](https://www.aeaweb.org/articles?id=10.1257/jep.28.4.3) (_Journal of Economic Perspectives_, 2014).
 -   [Positions and Roles](http://patrickdoreian.com/NEW/wp-content/papers_resources/new_papers_4-13/positions_and_roles.pdf) (_[The SAGE Handbook of Social Network Analysis](http://www.sagepub.in/books/Book232753/)_, 2011).
+-   [The Social and the Sexual: Networks in Contemporary Demographic Research](http://repository.upenn.edu/psc_working_papers/41/) (PSC Working Paper Series, 2013).
 -   [Social Network Analysis in the Study of Terrorism and Political Violence](http://journals.cambridge.org/article_S1049096510001848) ([preprint](http://opensiuc.lib.siu.edu/cgi/viewcontent.cgi?article=1048&context=pn_wp); _PS: Political Science and Politics_, 2011).
 -   Urban Social Networks: Some Methodological Problems and Possibilities (_The Small World_, 1989).
 
@@ -428,6 +430,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Scale-Free Networks](http://barabasi.com/f/124.pdf), by Albert-László Barabási and Eric Bonabeau - Early, accessible formulation of the “networks are everywhere” argument (_Scientific American_, 2003).
 -   [Social Networks and Causal Inference](http://link.springer.com/chapter/10.1007/978-94-007-6094-3_17), by Tyler J. VanderWeele and Weihua An - Reviews the different ways in which network analysis can produce meaningful causal statements, as well as the inherent limits of network analysis for doing so (_[Handbook of Causal Analysis for Social Research](http://link.springer.com/book/10.1007/978-94-007-6094-3)_, 2013).
 -   [The Performativity of Networks](http://kieranhealy.org/files/papers/performativity.pdf), by Kieran Healy - Network analysis meets science studies: social networks, like financial markets, are highly subject to performativity, i.e. the possibility that reality might be altered by its theoretical inquiry (_European Journal of Sociology_, 2015).
+-   [Revisiting the Foundations of Network Analysis](http://science.sciencemag.org/content/325/5939/414), by Carter T. Butts - On choosing the right network representation to frame a research problem.
 -   [Robust Action and the Rise of the Medici, 1400-1434](http://home.uchicago.edu/~jpadgett/papers/published/robust.pdf), by John F. Padgett and Christopher K. Ansell - Classic analysis of power relations in the Renaissance Florentine state (_American Journal of Sociology_, 1993).
 -   [The Strength of Weak Ties](https://sociology.stanford.edu/sites/default/files/publications/the_strength_of_weak_ties_and_exch_w-gans.pdf), by Mark Granovetter - Arch-classic example of applying network analysis to a social issue: jobseeking (_American Journal of Sociology_, 1973).
 -   [The Ties that Divide: A Network Analysis of the International Monetary System, 1890–1910](http://www.stats.ox.ac.uk/~snijders/FlandreauJobst2005.pdf) (_The Journal of Economic History_, 2005) and [The Empirics of International Currencies: Network Externalities, History and Persistence](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0297.2009.02219.x/abstract) (_The Economic Journal_, 2009), both by Marc Flandreau and Clemens Jobst - Network analysis of the foreign exchange system in the late 19th century ([data](http://eh.net/database/international-currencies-1890-1910/)).
@@ -801,16 +804,17 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 > Discussions of what “netsci” is about and means for other scientific disciplines.
 
 1.  [Editing a Normal Science Journal in Social Science](http://bms.revues.org/595) - Reflections on the _Social Networks_ journal by its founding editor.
--   [The Emergence of Network Science](https://www.cornell.edu/video/emergence-of-network-science) - Video documentary, featuring Steven Strogatz and many others.
+-   [The Emergence of Network Science](https://www.cornell.edu/video/emergence-of-network-science) - Video documentary, featuring Steven H. Strogatz and many others.
 -   From [Albert-László Barabási’s review articles](http://barabasi.com/publications/1/review-articles):
   -   [Taming Complexity](http://barabasi.com/f/182.pdf).
   -   [The Network Takeover](http://barabasi.com/f/362.pdf).
 -   [The Invasion of the Physicists](http://www.sciencedirect.com/science/article/pii/S0378873304000309) - How “network _science_” came up.
 -   [Isolated Social Networkers](http://crookedtimber.org/2005/05/19/isolated-social-networkers/), [Networks and Netwars](http://bactra.org/weblog/347.html) and [The Inter-Disciplinary Politics of Interdisciplinary Research or, “Hey, That Was My Idea First.”](https://www.cs.unm.edu/~aaron/blog/archives/2005/05/the_interdiscip.htm) - Series of blog posts that predate the advent of “network science” as a buzzword, but that touch upon the same issues as those now being discussed under that heading.
+-   [The ‘New’ Science of Networks](http://www.jstor.org/stable/29737693) - Review of network science books published in 2002-2003.
 -   [Predicting Highly Cited Papers](http://arxiv.org/abs/1310.8220) - Prediction of the next highly cited papers in network science.
 -   [Social Network and Network Science Co-Citations Across Disciplines in 1996-2013](https://github.com/raffaelevacca/EUSN-co-citation-networks).
 -   [Three Hard Questions about Network Science](http://environmentalpolicy.ucdavis.edu/node/292).
--   [A Twenty-First Century Science](http://www.nature.com/nature/journal/v445/n7127/full/445489a.html) - Essay by Duncan Watts.
+-   [A Twenty-First Century Science](http://www.nature.com/nature/journal/v445/n7127/full/445489a.html) - Essay by Duncan J. Watts.
 -   [What is Network Science?](http://journals.cambridge.org/repo_A88Sa8AHdt4SoI) - First editorial of the recent _Network Science_ journal.
 
 ### Small Worlds
@@ -820,7 +824,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 1. [The Erdös Number Project](http://wwwp.oakland.edu/enp/) - Research project on the collaborative ties and network distance between mathematicians.
 -  [How Small is the World, Really?](https://medium.com/@duncanjwatts/how-small-is-the-world-really-736fa21808ba#.kyr90lhyo) - Discussion of “_x_ degrees of separation” small-world experiments.
 -  [The Oracle of Bacon](https://oracleofbacon.org/) - Based on an [online game](https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon) that resulted in a [charity](http://www.sixdegrees.org/).
--  [Panel: Six Degrees of Separation](https://www.cornell.edu/video/six-degrees-of-separation-panel) - Video of a conference at Cornell University, featuring Duncan Watts, Steven Strogatz, Jon Kleinberg and other speakers.
+-  [Panel: Six Degrees of Separation](https://www.cornell.edu/video/six-degrees-of-separation-panel) - Video of a conference at Cornell University, featuring Duncan J. Watts, Steven H. Strogatz, Jon Kleinberg and other speakers.
 -  [Patterns in the Ivy: The Small World of Metal](http://badhessian.org/2013/09/patterns-in-the-ivy-the-small-world-of-metal/) - Example of a two-mode network analysis based on metal artists and bands.
 -  [Six Degrees of Francis Bacon](http://sixdegreesoffrancisbacon.com/) - Interactive visualization of a well-documented early modern historical network.
 -  [Six Degrees of Separation](https://en.wikipedia.org/wiki/Six_degrees_of_separation) - Wikipedia English entry.
