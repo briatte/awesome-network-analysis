@@ -234,6 +234,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 > Journals that are not fully open-access are marked as “gated”. Please also note that some of the publishers listed below are [deeply hurting](https://twitter.com/costofknowledge) scientific publishing.
 
 1.  _[Applied Network Science](http://appliednetsci.springeropen.com/)_ (Springer Open).
+-   _[ARCS – Analyse de réseaux pour les sciences sociales / Network Analysis for the Social Sciences](http://arcs.episciences.org/)_, in English and in French ([GDR ARSHS](https://arshs.hypotheses.org/)).
 -   _[Computational and Mathematical Organization Theory](http://link.springer.com/journal/10588)_ (Springer, gated).
 -   _[Computational Social Networks](http://computationalsocialnetworks.springeropen.com/)_ (Springer Open).
 -   _[Connections](http://www.insna.org/connections.html)_ (INSNA).
@@ -297,6 +298,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Data Science Group](http://datasciencegroup.pl/) -  Wroclaw-based research group that studies, among many things, complex networks and other network-related topics.
 -   [Digital Humanities](http://cmb.huma-num.fr/) - Interdisciplinary group of researchers at the Marc Bloch Centre in Berlin, with many network science projects.
 -   [Forschungscluster der Universitäten Trier und Mainz “Gesellschaftliche Abhängigkeiten und soziale Netzwerke”](http://www.netzwerk-exzellenz.uni-trier.de/), in German.
+-   [GDR Analyse de réseaux en sciences humaines et sociales](https://arshs.hypotheses.org/) – French research group with funds to support training and workshops on network analysis for social scientists.
 -   [Historical Network Research (HNR)](http://historicalnetworkresearch.org/) - Platform for scholars interested in network analysis for historical research.
   -   [HNR Conferences, Workshops and Other Events](http://historicalnetworkresearch.org/hnr-events/).
   -   [HNR Talks](https://vimeo.com/user11811027) - Videos, in German.
@@ -546,7 +548,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
   -   [d3-vector: Define connections between nodes as directional vectors](https://github.com/thepeoplesbourgeois/d3-vector), consisting of angles and magnitudes.
 -   [GENSI](http://www.tobiasstark.nl/GENSI/GENSI.htm) - JavaScript graphical tool to collect ego-centered network data ([paper](http://www.sciencedirect.com/science/article/pii/S0378873316300284)).
 -   [GoJS](http://gojs.net/) - Visualization library to draw diagrams and several types of network layouts.
--   [graphology](https://graphology.github.io/) - Specification and reference implementation for a robust and multipurpose JavaScript `Graph` object.
+-   [Graphology](https://graphology.github.io/) - Specification and reference implementation for a robust and multipurpose JavaScript `Graph` object.
 -   [greuler](https://maurizzzio.github.io/greuler/) - Visualization library to build and manipulate graphs through a simple API. Powered by d3.js and [WebCola](http://marvl.infotech.monash.edu/webcola/).
 -   [jLouvain](https://github.com/upphiminn/jLouvain) - Louvain community detection for Javascript ([example](http://bl.ocks.org/emeeks/125db75c9b55ddcbdeb5)).
 -   [Popoto.js](http://www.popotojs.com/) - Library based on d3.js that provides a graph based search interface.
@@ -705,7 +707,8 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 > Resources that do not fit in other categories.
 
-1.  [Centrality Measures as a Signature of Roles in Rousseau’s _Les Confessions_](http://yro.ch/centrality-measures-signature-roles-rousseaus-les-confessions/) - Analysis of a real-world character network.
+1.  [+100 herramientas para el análisis de redes sociales](http://www.k-government.com/2016/06/28/100-herramientas-analisis-redes-sna-ars/) - Long list of diverse applications of network analysis, with shorts descriptions in Spanish.
+-   [Centrality Measures as a Signature of Roles in Rousseau’s _Les Confessions_](http://yro.ch/centrality-measures-signature-roles-rousseaus-les-confessions/) - Analysis of a real-world character network.
 -   [Cheat Sheet: Social Network Analysis for Humanists](https://cvcedhlab.hypotheses.org/106) - Basic notions to remember when assembling and manipulating network data.
 -   [Computer Technologies for the Historical Research of Intellectual Networks](https://www.youtube.com/playlist?list=PLz79Il7EOvUJxdQ9r2IefFtr--BNkfOa7) - Series of videos by historians, featuring Marten Düring and Scott Weingart.
 -   [Convert Between Graph Formats](http://openconnecto.me/graph-services/convert/) - Online service to convert from/to many different common graph formats.
