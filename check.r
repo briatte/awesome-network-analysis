@@ -28,8 +28,7 @@ if (!file.exists(f)) {
     unlist
   
   # total number of links
-  t <- str_count(u, "http") %>%
-    sum
+  t <- sum(str_count(u, "http"))
   
   cat(t, "URLs, ")
   
@@ -50,15 +49,13 @@ if (!file.exists(f)) {
   
   cat("Source:", f, "\n")
   
-  l <- readLines(f) %>%
-    str_subset("^http")
+  l <- str_subset(readLines(f), "^http")
   
   cat(length(l), "URLs, ")
   
 }
 
-l <- unique(l) %>%
-  sort
+l <- sort(unique(l))
 
 cat(length(l), "unique\n")
 
@@ -68,9 +65,7 @@ sink()
 
 for (i in l) {
   
-  x <- try(GET(i) %>%
-             status_code,
-           silent = TRUE)
+  x <- try(status_code(GET(i)), silent = TRUE)
   
   if (!"try-error" %in% class(x) && x != 200) {
     
@@ -80,7 +75,7 @@ for (i in l) {
     cat(i, "\nStatus code:", x, "\n\n")
     sink()
     
-  } else if("try-error" %in% class(x)) {
+  } else if ("try-error" %in% class(x)) {
     
     cat("?")
     
@@ -94,8 +89,11 @@ for (i in l) {
     
   }
   
-  if (!which(l == i) %% 50)
+  if (!which(l == i) %% 50) {
+    
     cat("", length(l) - which(l == i), "left\n")
+    
+  }
   
 }
 
@@ -103,6 +101,4 @@ sink(f, append = TRUE)
 cat(as.character(Sys.time()), ": done.\n")
 sink()
 
-cat("\nFound", str_count(readLines(f), "^http") %>%
-      sum,
-    "problems.\n")
+cat("\nFound", sum(str_count(readLines(f), "^http")), "problems.\n")
