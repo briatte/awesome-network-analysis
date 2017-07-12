@@ -38,6 +38,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 - __[Software](#software)__
   - [Algorithms](#algorithms)
   - [C / C++](#c--c)
+  - [Java](#java)  
   - [JavaScript](#javascript)
   - [Julia](#julia)
   - [MATLAB](#matlab)
@@ -540,6 +541,10 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [OpenOrd: Large-scale Graph Layout (formerly DrL)](http://www.cs.sandia.gov/~smartin/software.html) - C++ algorithm, also available as a [Gephi plugin](https://marketplace.gephi.org/plugin/openord-layout/).
 -   [Stanford Network Analysis Project](http://snap.stanford.edu/) - C++ general purpose network analysis and graph mining library. Available as a Python library and in Microsoft Excel via NodeXL.
 -   [Walktrap](https://www-complexnetworks.lip6.fr/~latapy/PP/walktrap.html) - C++ program that implements the [WalkTrap community detection algorithm](http://arxiv.org/abs/physics/0512106).
+
+### Java
+
+- [GraphStream](http://graphstream-project.org/) - Java library for the modeling and analysis of dynamic graphs.
 
 ### JavaScript
 
