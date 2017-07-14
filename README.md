@@ -209,7 +209,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Enron Email Dataset](https://www.cs.cmu.edu/~enron/).
 -   [Eric D. Kolaczyk’s Network Datasets](http://math.bu.edu/people/kolaczyk/datasets.html).
 -   [Gephi Datasets](https://github.com/gephi/gephi/wiki/Datasets).
--   [igraphdata](https://cran.r-project.org/web/packages/igraphdata/index.html) - R data-centric package.
+-   [igraphdata](https://CRAN.R-project.org/package=igraphdata) - R data-centric package.
 -   [Interaction Web Database](https://www.nceas.ucsb.edu/interactionweb/resources.html) - Ecological species interactions.
 -   [International Currencies 1890-1910](http://eh.net/database/international-currencies-1890-1910/) - Historical data on the international connections between 45 currencies.
 -   [KONECT - The Koblenz Network Collection](http://konect.uni-koblenz.de/) - Includes, among other things, networks of collaboration in DBpedia and Wikipedia, GitHub ([companion handbook](http://arxiv.org/abs/1402.5500)).
@@ -621,67 +621,67 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 ### R
 
 > For more awesome R resources, see the [Awesome R](https://github.com/qinwf/awesome-R) and [Awesome R Books](https://github.com/RomanTsegelskyi/rbooks) lists. See also [this Google spreadsheet](https://docs.google.com/spreadsheets/d/1CoFGtrW85D9FsVcAE5-bcXVl6QOTncwXjFBYp4u2WgE/edit?usp=sharing) by Ian McCulloh and others.  
-> To convert many different network model results into tidy data frames, see the [broom](https://cran.r-project.org/web/packages/broom/) package. To convert many different network model results into LaTeX or HTML tables, see the [texreg](https://cran.r-project.org/web/packages/texreg/) package.
+> To convert many different network model results into tidy data frames, see the [broom](https://CRAN.R-project.org/package=broom) package. To convert many different network model results into LaTeX or HTML tables, see the [texreg](https://CRAN.R-project.org/package=texreg) package.
 
--   [amen](https://cran.r-project.org/web/packages/amen/) - Additive and multiplicative effects models for relational data.
--   [Bergm](https://cran.r-project.org/web/packages/Bergm/) - Tools to analyse Bayesian exponential random graph models (BERGM).
--   [bipartite](https://cran.r-project.org/web/packages/bipartite/) - Functions to visualize bipartite networks and compute indices commonly used in ecological research.
--   [blockmodeling](https://cran.r-project.org/web/packages/blockmodeling/) - Implementats generalized blockmodeling for valued networks.
--   [bnlearn](https://cran.r-project.org/web/packages/bnlearn/) - Tools for [Bayesian network learning and inference](http://www.bnlearn.com/) ([related Shiny app](https://paulgovan.github.io/RiskNetwork/)).
--   [btergm](https://cran.r-project.org/web/packages/btergm/) - Tools to fit temporal ERGMs by bootstrapped pseudolikelihood. Also provides MCMC maximum likelihood estimation, goodness of fit for ERGMs, TERGMs, and stochastic actor-oriented models (SAOMs), and tools for the micro-level interpretation of ERGMs and TERGMs.
+-   [amen](https://CRAN.R-project.org/package=amen) - Additive and multiplicative effects models for relational data.
+-   [Bergm](https://CRAN.R-project.org/package=Bergm) - Tools to analyse Bayesian exponential random graph models (BERGM).
+-   [bipartite](https://CRAN.R-project.org/package=bipartite) - Functions to visualize bipartite networks and compute indices commonly used in ecological research.
+-   [blockmodeling](https://CRAN.R-project.org/package=blockmodeling) - Implementats generalized blockmodeling for valued networks.
+-   [bnlearn](https://CRAN.R-project.org/package=bnlearn) - Tools for [Bayesian network learning and inference](http://www.bnlearn.com/) ([related Shiny app](https://paulgovan.github.io/RiskNetwork)).
+-   [btergm](https://CRAN.R-project.org/package=btergm) - Tools to fit temporal ERGMs by bootstrapped pseudolikelihood. Also provides MCMC maximum likelihood estimation, goodness of fit for ERGMs, TERGMs, and stochastic actor-oriented models (SAOMs), and tools for the micro-level interpretation of ERGMs and TERGMs.
 -   [CCAS](https://github.com/matthewjdenny/CCAS) - Statistical model for communication networks.
 -   [concoR](https://github.com/aslez/concoR) - Implementation of the CONCOR network blockmodeling algorithm ([blog post](http://badhessian.org/2015/05/concor-in-r/)).
 -   [ContentStructure](https://github.com/matthewjdenny/ContentStructure) - Implements an extension to the [Topic-Partitioned Multinetwork Embeddings (TPME) model](http://dirichlet.net/pdf/krafft12topic-partitioned.pdf).
 -   [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Connects R, RStudio and JavaScript libraries to draw graph diagrams ([blog post](https://blog.rstudio.org/2015/05/01/rstudio-v0-99-preview-graphviz-and-diagrammer/)).
--   [ergm](https://cran.r-project.org/web/packages/ergm/) - Estimation of Exponential Random Graph Models (ERGM).
+-   [ergm](https://CRAN.R-project.org/package=ergm) - Estimation of Exponential Random Graph Models (ERGM).
   -   [ERGM: edgecov and dyadcov Specifications](http://mjh4.blogspot.fr/2012/09/ergm-edgecov-and-dyadcov-specifications.html).
--   [GERGM](https://cran.r-project.org/web/packages/GERGM/) - Estimation and diagnosis of the convergence of Generalized Exponential Random Graph Models (GERGM).
--   [geomnet](https://cran.r-project.org/web/packages/geomnet/) - Single-geometry approach to network visualization with ggplot2.
--   [ggnetwork](https://cran.r-project.org/web/packages/ggnetwork/) - Multiple-geometries approach to plot network objects with ggplot2.
+-   [GERGM](https://CRAN.R-project.org/package=GERGM) - Estimation and diagnosis of the convergence of Generalized Exponential Random Graph Models (GERGM).
+-   [geomnet](https://CRAN.R-project.org/package=geomnet) - Single-geometry approach to network visualization with ggplot2.
+-   [ggnetwork](https://CRAN.R-project.org/package=ggnetwork) - Multiple-geometries approach to plot network objects with ggplot2.
 -   [ggraph](https://github.com/thomasp85/ggraph) - Grammar of graph graphics built in the spirit of ggplot2.
--   [hergm](https://cran.r-project.org/web/packages/hergm/) - Estimate and simulate hierarchical exponential-family random graph models (HERGM) with local dependence.
--   [hierformR](https://cran.r-project.org/package=hierformR) – Determine paths and states that social networks develop over time to form social hierarchies.
+-   [hergm](https://CRAN.R-project.org/package=hergm) - Estimate and simulate hierarchical exponential-family random graph models (HERGM) with local dependence.
+-   [hierformR](https://CRAN.R-project.org/package=hierformR) – Determine paths and states that social networks develop over time to form social hierarchies.
 -   [igraph](http://igraph.org/r/) - A collection of network analysis tools.
   -   [Network Analysis and Visualization with R and igraph](http://kateto.net/networks-r-igraph) (2016).
--   [influenceR](https://cran.r-project.org/web/packages/influenceR/) - Compute various node centrality network measures by Burt, Borgatti and others.
--   [keyplayer](https://cran.r-project.org/web/packages/keyplayer/) - Implements several network centrality measures.
--   [latentnet](https://cran.r-project.org/web/packages/latentnet/) - Latent position and cluster models for network objects.
+-   [influenceR](https://CRAN.R-project.org/package=influenceR) - Compute various node centrality network measures by Burt, Borgatti and others.
+-   [keyplayer](https://CRAN.R-project.org/package=keyplayer) - Implements several network centrality measures.
+-   [latentnet](https://CRAN.R-project.org/package=latentnet) - Latent position and cluster models for network objects.
 -   [lpNet](https://www.bioconductor.org/packages/release/bioc/html/lpNet.html) - Linear programming model aimed at infering biological (signalling, gene) networks.
 -   [networkD3](http://christophergandrud.github.io/networkD3/) - D3 JavaScript network graphs from R.
--   [ndtv](https://cran.r-project.org/web/packages/ndtv/) - Tools to construct animated visualizations of dynamic network data in various formats.
--   [netdiffuseR](https://cran.r-project.org/web/packages/netdiffuseR/) - Tools to analyze the network diffusion of innovations.
+-   [ndtv](https://CRAN.R-project.org/package=ndtv) - Tools to construct animated visualizations of dynamic network data in various formats.
+-   [netdiffuseR](https://CRAN.R-project.org/package=netdiffuseR) - Tools to analyze the network diffusion of innovations.
 -   [NetSim](http://www.christoph-stadtfeld.com/netsim/) - Simulate and combine micro-models to research their impact on the macro-features of social networks.
--   [network](https://cran.r-project.org/web/packages/network/) - Basic tools to manipulate relational data in R.
+-   [network](https://CRAN.R-project.org/package=network) - Basic tools to manipulate relational data in R.
 -   [networkdiffusion](https://github.com/chengjun/networkdiffusion) - Simulate and visualize basic epidemic diffusion in networks.
--   [networkDynamic](https://cran.r-project.org/web/packages/networkDynamic/) - Support for dynamic, (inter)temporal networks.
--   [networksis](https://cran.r-project.org/web/packages/networksis/) - Tools to simulate bipartite networks/graphs with the degrees of the nodes fixed and specified.
--   [PAFit](https://cran.r-project.org/web/packages/PAFit/) - Nonparametric estimation of preferential attachment and node fitness in temporal complex networks.
--   [PCIT](https://cran.r-project.org/web/packages/PCIT/) - Implements Partial Correlation with Information Theory in order to identify meaningful correlations in weighted networks, such as gene co-expression networks.
+-   [networkDynamic](https://CRAN.R-project.org/package=networkDynamic) - Support for dynamic, (inter)temporal networks.
+-   [networksis](https://CRAN.R-project.org/package=networksis) - Tools to simulate bipartite networksgraphs with the degrees of the nodes fixed and specified.
+-   [PAFit](https://CRAN.R-project.org/package=PAFit) - Nonparametric estimation of preferential attachment and node fitness in temporal complex networks.
+-   [PCIT](https://CRAN.R-project.org/package=PCIT) - Implements Partial Correlation with Information Theory in order to identify meaningful correlations in weighted networks, such as gene co-expression networks.
 -   [RCy3](https://bioconductor.org/packages/3.3/bioc/html/RCy3.html) - Interface between R and recent versions of Cytoscape.
 -   [RCyjs](https://bioconductor.org/packages/release/bioc/html/RCyjs.html) - Interface between R and Cytoscape.js.
--   [qgraph](https://cran.r-project.org/web/packages/qgraph/) - Tools to model and visualize psychometric networks; also aimed at weighted graphical models).
+-   [qgraph](https://CRAN.R-project.org/package=qgraph) - Tools to model and visualize psychometric networks; also aimed at weighted graphical models).
   -   [Network Model Selection Using qgraph 1.3](http://psychosystems.org/network-model-selection-using-qgraph-1-3-10/) (2014).
   -   [qgraph Examples](http://sachaepskamp.com/qgraph/examples).
   -   [qgraph: Network Visualizations of Relationships in Psychometric Data](https://www.jstatsoft.org/article/view/v048i04) (2012).
--   [relevent](https://cran.r-project.org/web/packages/relevent/) - Tools to fit relational event models (REM).
--   [rem](https://cran.r-project.org/web/packages/rem/) - Estimate endogenous network effects in event sequences and fit relational event models (REM), which measure how networks form and evolve over time.
--   [rgexf](https://cran.r-project.org/web/packages/rgexf/) - Export network objects from R to GEXF for manipulation with software like Gephi or Sigma.
+-   [relevent](https://CRAN.R-project.org/package=relevent) - Tools to fit relational event models (REM).
+-   [rem](https://CRAN.R-project.org/package=rem) - Estimate endogenous network effects in event sequences and fit relational event models (REM), which measure how networks form and evolve over time.
+-   [rgexf](https://CRAN.R-project.org/package=rgexf) - Export network objects from R to GEXF for manipulation with software like Gephi or Sigma.
 -   [Rgraphviz](https://bioconductor.org/packages/release/bioc/html/Rgraphviz.html) - Support for using the Graphviz library and its DOT graph drawing language from within R.
 -   [RSiena](http://r-forge.r-project.org/R/?group_id=461) - Simulation Investigation for Empirical Network Analysis; fits models to longitudinal network data.
--   [sna](https://cran.r-project.org/web/packages/sna/) - Basic network constructors, measures and visualization tools.
--   [SocialMediaLab](https://cran.r-project.org/web/packages/SocialMediaLab/) - Tools for collecting social media data and generating networks from it ([companion website](http://vosonlab.net/SocialMediaLab), [github repo](https://github.com/voson-lab/SocialMediaLab)).
+-   [sna](https://CRAN.R-project.org/package=sna) - Basic network constructors, measures and visualization tools.
+-   [SocialMediaLab](https://CRAN.R-project.org/package=SocialMediaLab) - Tools for collecting social media data and generating networks from it ([companion website](http://vosonlab.net/SocialMediaLab), [github repo](https://github.com/voson-labSocialMediaLab)).
 -   [spectralGOF](http://people.bu.edu/jccs/spectralGOF.html) - Computes the spectral goodness of fit (SGOF), a measure of how well a network model explains the structure of an observed network.
--   [spnet](http://cran.r-project.org/web/packages/spnet/) - Methods for dealing with spatial social networks.
+-   [spnet](https://CRAN.R-project.org/package=spnet) - Methods for dealing with spatial social networks.
 -   [statnet](http://statnet.org/) - The project behind many R network analysis packages ([mailing-list](https://mailman.u.washington.edu/mailman/listinfo/statnet_help), [wiki](https://statnet.org/trac)).
   -   [Exponential Random Graph Models (ERGMs) Using statnet](https://statnet.org/trac/raw-attachment/wiki/Sunbelt2015/ergm_tutorial.html) (2015).
   -   [Guides for Using the statnet Package](http://www.melissaclarkson.com/resources/R_guides/) (2010).
   -   [Modeling Valued Networks with statnet](https://statnet.org/trac/raw-attachment/wiki/Sunbelt2013/Valued.pdf) (2013).
--   [tergm](https://cran.r-project.org/web/packages/tergm/) - Fit, simulate and diagnose models for temporal exponential-family random graph models (TERGM).
--   [tnam](https://cran.r-project.org/web/packages/tnam/) - Tools to fit temporal and cross-sectional network autocorrelation models (TNAM).
--   [tnet](https://cran.r-project.org/web/packages/tnet/) - Network measures for weighted, two-mode and longitudinal networks.
--   [tsna](https://cran.r-project.org/web/packages/tsna/) - Tools for temporal social network analysis.
+-   [tergm](https://CRAN.R-project.org/package=tergm) - Fit, simulate and diagnose models for temporal exponential-family random graph models (TERGM).
+-   [tnam](https://CRAN.R-project.org/package=tnam) - Tools to fit temporal and cross-sectional network autocorrelation models (TNAM).
+-   [tnet](https://CRAN.R-project.org/package=tnet) - Network measures for weighted, two-mode and longitudinal networks.
+-   [tsna](https://CRAN.R-project.org/package=tsna) - Tools for temporal social network analysis.
 -   [visNetwork](https://github.com/DataKnowledge/visNetwork) - Using vis.js library for network visualization.
--   [xergm](https://cran.r-project.org/web/packages/xergm/) - Extensions of exponential random graph models (ERGM, GERGM, TERGM, TNAM and REM).
+-   [xergm](https://CRAN.R-project.org/package=xergm) - Extensions of exponential random graph models (ERGM, GERGM, TERGM, TNAM and REM).
 
 ### Stata
 
