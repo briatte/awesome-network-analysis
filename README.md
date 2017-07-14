@@ -640,6 +640,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [ggnetwork](https://cran.r-project.org/web/packages/ggnetwork/) - Multiple-geometries approach to plot network objects with ggplot2.
 -   [ggraph](https://github.com/thomasp85/ggraph) - Grammar of graph graphics built in the spirit of ggplot2.
 -   [hergm](https://cran.r-project.org/web/packages/hergm/) - Estimate and simulate hierarchical exponential-family random graph models (HERGM) with local dependence.
+-   [hierformR](https://cran.r-project.org/package=hierformR) – Determine paths and states that social networks develop over time to form social hierarchies.
 -   [igraph](http://igraph.org/r/) - A collection of network analysis tools.
   -   [Network Analysis and Visualization with R and igraph](http://kateto.net/networks-r-igraph) (2016).
 -   [influenceR](https://cran.r-project.org/web/packages/influenceR/) - Compute various node centrality network measures by Burt, Borgatti and others.
