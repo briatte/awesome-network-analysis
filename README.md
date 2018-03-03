@@ -223,6 +223,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Network Repository](http://networkrepository.com/) - Fully searchable database containing hundreds of real-world networks.
 -   [Nexus](http://nexus.igraph.org/) - Repository of network datasets in GraphML and igraph formats.
 -   [Norwegian Interlocking Directorate, 2002-2011](http://www.boardsandgender.com/data.php) - Two-mode and one-mode data on gender representation in Norwegian firms.
+-   [Movie galaxies](http://moviegalaxies.com/) - A databse of movie characters interaction graphs.
 -   [Pajek Datasets](http://vlado.fmf.uni-lj.si/pub/networks/data/).
 -   [Philosophers Networks from Randall Collins's _The Sociology of Philosophies_](https://www.uva.nl/over-de-uva/organisatie/medewerkers/content/n/o/w.denooy/w.denooy.html#tab_1).
 -   [Siena Datasets](http://www.stats.ox.ac.uk/~snijders/siena/siena_datasets.htm).
