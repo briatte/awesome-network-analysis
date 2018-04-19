@@ -410,7 +410,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 -   [A propos de la notion de rôle dans l'analyse des relations sociales](https://journals.openedition.org/msh/11969) (_Mathématiques et sciences humaines_, 2011).
 -   [Brokerage](http://www.annualreviews.org/doi/abs/10.1146/annurev-soc-081309-150054) (_Annual Review of Sociology_, 2012).
--   [Dynamic Scientific Co-Authorship Networks](http://patrickdoreian.com/NEW/wp-content/papers_resources/2015/slovene_science/dynamic_scientific_coauthorship_networks.pdf) (_[Models of Science Dynamics](https://www.springer.com/us/book/9783642230677)_, 2012).
+-   [Dynamic Scientific Co-Authorship Networks](http://patrickdoreian.com/wp-content/uploads/2017/12/dynamic-scientific-coauthorship-networks.pdf) (_[Models of Science Dynamics](https://www.springer.com/us/book/9783642230677)_, 2012).
 -   [Birds of a Feather: Homophily in Social Networks](http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.27.1.415) (_Annual Review of Sociology_, 2001).
 -   [Mixed-Method Approaches to Social Network Analysis](http://eprints.ncrm.ac.uk/842/) (ESRC NCRM Discussion Paper, 2010).
 -   [Network Analysis and Political Science](http://www.annualreviews.org/doi/abs/10.1146/annurev.polisci.12.040907.115949) (_Annual Review of Political Science_, 2011).
@@ -865,10 +865,10 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 -   [L'analyse des graphes bipartis](https://halshs.archives-ouvertes.fr/FMR/halshs-00794976), in French (2013).
 -   [Basic Notions for the Analysis of Large Two-mode Networks](http://www.sciencedirect.com/science/article/pii/S0378873307000494)  ([preprint](https://www-complexnetworks.lip6.fr/~latapy/Publis/socnet07.pdf), [related code](https://www-complexnetworks.lip6.fr/~latapy/Bip/); _Social Networks_, 2008).
--   [Fitting Large Signed Two-mode Blockmodels: Problems and Prospects](http://patrickdoreian.com/NEW/wp-content/papers_resources/new_papers_4-13/large_signed_2mode_networks_UNGA.pdf).
+-   [Fitting Large Signed Two-mode Blockmodels: Problems and Prospects](http://patrickdoreian.com/wp-content/uploads/2017/12/large-signed-2mode-networks_UNGA.pdf).
 -   [Generalized Blockmodeling of Two-mode Network Data](http://www.sciencedirect.com/science/article/pii/S0378873304000036) ([preprint](http://vlado.fmf.uni-lj.si/pub/networks/doc/preprint/TwoMode.pdf)).
 -   [Generalized Two-Mode Cores](http://www.sciencedirect.com/science/article/pii/S0378873315000271).
--   [Partitioning Signed Two-Mode Networks](http://patrickdoreian.com/NEW/wp-content/papers_resources/pdf/partitioning_signed_two_mode_networks.pdf).
+-   [Partitioning Signed Two-Mode Networks](http://patrickdoreian.com/wp-content/uploads/2017/12/partitioning-signed-social-networks.pdf).
 -   [Working with Bipartite/Affiliation Network Data in R](https://solomonmessing.wordpress.com/2012/09/30/working-with-bipartiteaffiliation-network-data-in-r/) (2012).
 
 * * *
