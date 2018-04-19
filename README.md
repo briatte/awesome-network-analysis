@@ -71,7 +71,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 -   _[Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives](http://www.connectedthebook.com/)_, by Nicholas A. Christakis and James H. Fowler (2009).
 -   _[Linked: The New Science of Networks](https://www3.nd.edu/~networks/Linked/index.html)_, by Albert-László Barabási - [Selected chapters online](http://barabasi.com/book/linked#linked) (2002).
--   _[Network Literacy: Essential Concepts and Core ideas](https://sites.google.com/a/binghamton.edu/netscied/teaching-learning/network-concepts)_, by the NetSciEd team (c. 2016) - Available in several languages ([paper](http://comnet.oxfordjournals.org/content/4/3/457.short)).
+-   _[Network Literacy: Essential Concepts and Core ideas](https://sites.google.com/a/binghamton.edu/netscied/teaching-learning/network-concepts)_, by the NetSciEd team (c. 2016) - Available in several languages ([paper](https://academic.oup.com/comnet/article-abstract/4/3/457/1745356)).
 -   _[Nexus. Small Worlds and the Groundbreaking Theory of Networks](http://books.wwnorton.com/books/Nexus/)_, by Mark Buchanan (2003).
 -   _[Six Degrees: The Science of a Connected Age](http://books.wwnorton.com/books/detail.aspx?ID=7599)_, by Duncan J. Watts (2003).
 
@@ -120,7 +120,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   _Inferential Network Analysis_, by Skyler J. Cranmer, Bruce A. Desmarais and Jason Morgan (forthcoming).
 -   _[Multilevel Network Analysis for the Social Sciences](https://www.springer.com/fr/book/9783319245188)_, edited by Emmanuel Lazega and Tom A.B. Snijders (2016).
 -   _[Multivariate Network Visualization](https://www.springer.com/us/book/9783319067926)_, edited by Andreas Kerren, Helen C. Purchase and Matthew O. Ward (2014).
--   _[Network Analysis in Archaeology](https://global.oup.com/academic/product/network-analysis-in-archaeology-9780199697090)_, edited by Carl Knappett (2013; [review in French](http://nda.revues.org/2383)).
+-   _[Network Analysis in Archaeology](https://global.oup.com/academic/product/network-analysis-in-archaeology-9780199697090)_, edited by Carl Knappett (2013; [review in French](https://journals.openedition.org/nda/2383)).
 -   _[Network Analysis: Methodological Foundations](https://www.springer.com/fr/book/9783540249795)_, edited by Ulrik Brandes and Thomas Erlebach - Covers network centrality, clustering, blockmodels, spatial networks and more (2005).
 -   _[Political Networks. The Structural Perspective](http://www.cambridge.org/ar/academic/subjects/sociology/political-sociology/political-networks-structural-perspective)_, by David Knoke (1994).
 -   _[Social Network Analysis for Ego-Nets: Social Network Analysis for Actor-Centred Networks](https://uk.sagepub.com/en-gb/eur/social-network-analysis-for-ego-nets/book240391)_, by Nick Crossley _et al._ (2015).
@@ -246,7 +246,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   _[Journal of Complex Networks](http://comnet.oxfordjournals.org/)_ (Oxford, gated).
 -   _[The Journal of Mathematical Sociology](http://www.tandfonline.com/loi/gmas20)_ (Taylor & Francis, gated).
 -   _[Journal of Social Structure](http://www.cmu.edu/joss)_ (INSNA).
--   _[NETCOM. Networks and Communication Studies](http://netcom.revues.org/)_, in English and in French (Revues.org).
+-   _[NETCOM. Networks and Communication Studies](https://journals.openedition.org/netcom/)_, in English and in French (Revues.org).
 -   _[Network Science](http://journals.cambridge.org/action/displayJournal?jid=nws)_ (Cambridge, gated).
 -   _[REDES. Revista hispana para el análisis de redes sociales](http://revista-redes.rediris.es/)_, in Spanish (INSNA).
 -   _[Social Network Analysis and Mining](http://link.springer.com/journal/13278)_ (Springer, gated).
@@ -334,8 +334,8 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 > See also the bibliographies [by Claire Lemercier and Claire Zalc](http://www.quanti.ihmc.ens.fr/Analyse-de-reseaux-bibliographie.html) (section on ‘_études structurales_’), [by the Historical Network Research Group](http://historicalnetworkresearch.org/resources/bibliography/), and [by Tom Brughmans](https://archaeologicalnetworks.wordpress.com/network-science-bibliography/).
 
--   [Analyse de réseaux et histoire](http://www.cairn.info/resume.php?ID_ARTICLE=RHMC_522_0088), in French (_Revue d'histoire moderne et contemporaine_, 2005).
--   [Analyser les réseaux du passé en archéologie et en histoire](http://nda.revues.org/2300), in French (_Les Nouvelles de l'Archéologie_, 2014).
+-   [Analyse de réseaux et histoire](https://www.cairn.info/revue-d-histoire-moderne-et-contemporaine-2005-2-page-88.htm), in French (_Revue d'histoire moderne et contemporaine_, 2005).
+-   [Analyser les réseaux du passé en archéologie et en histoire](https://journals.openedition.org/nda/2300), in French (_Les Nouvelles de l'Archéologie_, 2014).
 -   [Formale Methoden der Netzwerkanalyse in den Geschichtswissenschaften: Warum und Wie? [Formal Network Methods in History: Why and How?]](http://www.studienverlag.at/data.cfm?vpath=openaccess/oezg-12012-lemercier&download=yes), in German ([preprint in English](http://halshs.archives-ouvertes.fr/halshs-00521527); _Österreichische Zeitschrift für Geschichtswissenschaften_, 2012).
 -   [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources) (_Programming Historian_, 2015).
 -   [Graph Theory and Networks in Biology](http://dx.doi.org/10.1049/iet-syb:20060038) ([preprint](http://arxiv.org/abs/q-bio/0604006); _IET Systems Biology_, 2007).
@@ -390,7 +390,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Introduction to Stochastic Actor-Based Models for Network Dynamics](http://www.sciencedirect.com/science/article/pii/S0378873309000069) ([preprint](http://www.stats.ox.ac.uk/~snijders/SnijdersSteglichVdBunt2009.pdf); _Social Networks_, 2010).
 -   Navigating the Range of Statistical Tools for Inferential Network Analysis (_American Journal of Political Science_, forthcoming 2016).
 -   [Positional Analysis and Blockmodeling](http://link.springer.com/referenceworkentry/10.1007%2F978-1-4614-1800-9_138) ([preprint](http://patrickdoreian.com/NEW/wp-content/papers_resources/chapters/Positional_Analysis_and_Blockmodeling.pdf); _Computational Complexity_, 2012).
--   [Social Network Evolution and Actor Oriented Models](http://msh.revues.org/2750) (_Mathematics & Social Sciences_, 1997).
+-   [Social Network Evolution and Actor Oriented Models](https://journals.openedition.org/msh/2750) (_Mathematics & Social Sciences_, 1997).
 -   [Statistical Models for Social Networks](http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.012809.102709) (_Annual Review of Sociology_, 2011).
 -   [A Survey of Statistical Network Models](https://dl.acm.org/citation.cfm?id=1734795) - Book-length review ([preprint](http://arxiv.org/abs/0912.5410); _Foundations and Trends in Machine Learning_, 2010).
 -   [A Unified View of Generative Models for Networks: Models, Methods, Opportunities, and Challenges](http://arxiv.org/abs/1411.4070) ([video presentation](http://www.birs.ca/events/2015/5-day-workshops/15w5080/videos/watch/201504200944-Jacobs.html); [NIPS 2014 workshop](https://nips.cc/Conferences/2014/Schedule?type=Workshop) on “[Networks: From Graphs to Rich Data](https://410f84824e101297359cc81c78f45c7c079eb26c.googledrive.com/host/0Bz6WHrWac3FrWnA5MjZqb3lWa2c/)”).
@@ -408,7 +408,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 > See also the bibliographies [by Eszter Hargittai](http://eszter.com/contract.html#socnet), [by Pierre François](http://pierrefrancois.wifeo.com/documents/Cours-rseau---biblio-gnrale.pdf) and [by Pierre Mercklé](http://socio.ens-lyon.fr/merckle/merckle_communications_2008_cargese_reseaux_nuls_biblio.pdf).
 
--   [A propos de la notion de rôle dans l'analyse des relations sociales](http://msh.revues.org/11969) (_Mathématiques et sciences humaines_, 2011).
+-   [A propos de la notion de rôle dans l'analyse des relations sociales](https://journals.openedition.org/msh/11969) (_Mathématiques et sciences humaines_, 2011).
 -   [Brokerage](http://www.annualreviews.org/doi/abs/10.1146/annurev-soc-081309-150054) (_Annual Review of Sociology_, 2012).
 -   [Dynamic Scientific Co-Authorship Networks](http://patrickdoreian.com/NEW/wp-content/papers_resources/2015/slovene_science/dynamic_scientific_coauthorship_networks.pdf) (_[Models of Science Dynamics](https://www.springer.com/us/book/9783642230677)_, 2012).
 -   [Birds of a Feather: Homophily in Social Networks](http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.27.1.415) (_Annual Review of Sociology_, 2001).
@@ -427,14 +427,14 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 > A voluntarily short list of applied, epistemological and methodological articles, many of which have become classic readings in network analysis courses. Intended for highly motivated social science students with little to no prior exposure to network analysis.
 
--   [Aux sources des grands réseaux d’interactions. Retour sur quelques propriétés déterminantes des réseaux sociaux issus de corpus documentaires](http://www.cairn.info/revue-reseaux-2008-6-page-21.htm), by Pascal Cristofoli, in French - Reviews the current state of relational sociology and network analysis in light of the large-scale and online data (_Réseaux_, 2008).
+-   [Aux sources des grands réseaux d’interactions. Retour sur quelques propriétés déterminantes des réseaux sociaux issus de corpus documentaires](https://www.cairn.info/revue-reseaux1-2008-6-page-21.htm), by Pascal Cristofoli, in French - Reviews the current state of relational sociology and network analysis in light of the large-scale and online data (_Réseaux_, 2008).
 -   [Birds of a Feather, Or Friend of a Friend? Using Exponential Random Graph Models to Investigate Adolescent Social Networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2831261/), by Steven M. Goodreau, James A. Kitts and Martina Morris - Accessible introduction to the logic and application of exponential random graph modeling (_Demography_, 2001).
 -   [Chains of Affection: The Structure of Adolescent Romantic and Sexual Networks](http://www.soc.duke.edu/~jmoody77/chains.pdf), by Peter S. Bearman, James Moody and Katherine Stovel - Classic example of topological network analysis applied to a network of affective and sexual ties (_American Journal of Sociology_, 2004).
 -   [Coauthorship and Citation Patterns in the _Physical Review_](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.88.012814), by Travis Martin _et al._ - Highly typical study of scientific publishing productivity and collaboration through temporal network analysis ([preprint](http://arxiv.org/abs/1304.0473); _Physical Review E_, 2013).
 -   [The Convergence of Social and Technological Networks](https://www.cs.cornell.edu/home/kleinber/cacm08.pdf), by Jon Kleinberg - Discusses small-world effects and social contagion within the context of the Internet and social media (_Communications of the ACM_, 2008).
--   [Deux traditions d'analyse des reseaux sociaux](http://www.cairn.info/resume.php?ID_ARTICLE=RES_115_0183), by Michael Eve ([English version](https://www.academia.edu/14524365/THE_TWO_TRADITIONS_OF_NETWORK_ANALYSIS); _Réseaux_, 2002).
+-   [Deux traditions d'analyse des reseaux sociaux](https://www.cairn.info/revue-reseaux1-2002-5-page-183.htm), by Michael Eve ([English version](https://www.academia.edu/14524365/THE_TWO_TRADITIONS_OF_NETWORK_ANALYSIS); _Réseaux_, 2002).
 -   [Homophily and Contagion Are Generically Confounded in Observational Social Network Studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3328971/), by Cosma R. Shalizi and Andrew C. Thomas - Makes a very important point for the analysis of network diffusion and influence (_Sociological Methods and Research_, 2011).
--   [La notion de réseau complexe : du réseau comme abstraction et outil à la masse de données des réseaux sociaux en ligne](https://www.cairn.info/resume.php?ID_ARTICLE=COMOR_043_0015), by Alain Barrat, in French - Accessible introduction to the study of complex networks (_Communication & Organisation_, 2013).
+-   [La notion de réseau complexe : du réseau comme abstraction et outil à la masse de données des réseaux sociaux en ligne](https://journals.openedition.org/communicationorganisation/4093), by Alain Barrat, in French - Accessible introduction to the study of complex networks (_Communication & Organisation_, 2013).
 -   [Network Analysis, Culture, and the Problem of Agency](http://www.ssc.wisc.edu/~emirbaye/Mustafa_Emirbayer/ARTICLES_files/network%20analysis,%20culture,%20and%20the%20problem%20of%20agency.pdf), by Mustafa Emirbayer and Jeff Goodwin (_American Journal of Sociology_, 1994), and [Manifesto for a Relational Sociology](http://www.ssc.wisc.edu/~emirbaye/Mustafa_Emirbayer/ARTICLES_files/manifesto%20for%20a%20relational%20sociology.pdf), by Mustafa Emirbayer (_American Journal of Sociology_, 1997) - Sociological foundations for a science of social ties.
 -   [Network Theory, Plot Analysis](https://sydney.edu.au/intellectual-history/documents/moretti_network_theory_plot_analysis.pdf), by Franco Moretti - Example applications of (fictional) network analysis in literary studies (_New Left Review_, 2011).
 -   [Node Centrality in Weighted Networks: Generalizing Degree and Shortest Paths](http://www.sciencedirect.com/science/article/pii/S0378873310000183), by Tore Opsahl, Filip Agneessens and John Skvoretz - Explores the generalization of network centrality and distance measures to (positively) valued graphs (_Social Networks_, 2010; [companion website](https://toreopsahl.com/tnet/)).
@@ -833,7 +833,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 > Discussions of what “netsci” is about and means for other scientific disciplines.
 
--   [Editing a Normal Science Journal in Social Science](http://bms.revues.org/595) - Reflections on the _Social Networks_ journal by its founding editor.
+-   [Editing a Normal Science Journal in Social Science](https://journals.openedition.org/bms/595) - Reflections on the _Social Networks_ journal by its founding editor.
 -   [The Emergence of Network Science](https://www.cornell.edu/video/emergence-of-network-science) - Video documentary, featuring Steven H. Strogatz and many others.
 -   From [Albert-László Barabási’s review articles](http://barabasi.com/publications/1/review-articles):
   -   [Taming Complexity](http://barabasi.com/f/182.pdf).
