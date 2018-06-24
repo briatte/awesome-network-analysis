@@ -482,6 +482,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [MuxViz](http://muxviz.net/) - Cross-platform, free and open source tool to study multilayer networks, based on R and GNU Octave.
 -   [Neo4j](http://neo4j.com/) - Open source, scalable graph database, used by companies like [Linkurious](http://linkurio.us/).
 -   [Network Canvas](http://networkcanvas.com/) - Set of tools to collect personal network data (in early development).
+-   [Node Overlap and Segregation Software](http://nos.alwaysdata.net/) - Web-based tool to compute the node overlap and segregation measures (Ɲ̄) introduced by Strona and Veech (2015).
 -   [Nodegoat](http://nodegoat.net/) - Web-based data management, network analysis and visualisation environment ([blog](http://nodegoat.net/blog)).
 -   [NodeXL](http://nodexl.codeplex.com/) - Free, open-source template to explore network graphs with Microsoft Excel.
   -   [The NodeXL Series](https://blogs.k-state.edu/it-news/tag/nodexl/) - Series of blog posts on using NodeXL (2013).
