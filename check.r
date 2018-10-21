@@ -34,7 +34,8 @@ if (!file.exists(f)) {
   
   l <- c(
     # [foo](bar)
-    str_extract_all(u, "\\(http(.*?)\\)") %>%
+    str_extract_all(u, "\\(http(.*?)\\)") %>% # using regular expression see https://gist.github.com/vitorbritto/9ff58ef998100b8f19a0
+                                              # for more infos
       lapply(str_replace_all, "^\\(|\\)$", "") %>%
       unlist,
     # [foo]: bar
