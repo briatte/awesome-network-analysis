@@ -203,7 +203,6 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ## Datasets
 
--   [Barabási and Albert Network Datasets](https://www3.nd.edu/~networks/resources.htm).
 -   [Bayesian Network Repository](http://www.bnlearn.com/bnrepository/).
 -   [Bill Cosponsorship Networks in European Parliaments](https://github.com/briatte/parlnet) - Legislative cosponsorship networks, in R format.
 -   [Colorado Index of Complex Networks (ICON)](https://icon.colorado.edu/) - Large collection of networks described and indexed by Aaron Clauset's research group.
