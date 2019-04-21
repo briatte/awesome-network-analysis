@@ -635,7 +635,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 -   [amen](https://CRAN.R-project.org/package=amen) - Additive and multiplicative effects models for relational data.
 -   [Bergm](https://CRAN.R-project.org/package=Bergm) - Tools to analyse Bayesian exponential random graph models (BERGM).
--   [bipartite](https://CRAN.R-project.org/package=bipartite) - Functions to visualize bipartite networks and compute indices commonly used in ecological research.
+-   [bipartite](https://CRAN.R-project.org/package=bipartite) - Functions to visualize bipartite (two-mode) networks and compute indices commonly used in ecological research. See also: `levelnet` R package.
 -   [blockmodeling](https://CRAN.R-project.org/package=blockmodeling) - Implementats generalized blockmodeling for valued networks.
 -   [bnlearn](https://CRAN.R-project.org/package=bnlearn) - Tools for [Bayesian network learning and inference](http://www.bnlearn.com/) ([related Shiny app](https://paulgovan.github.io/RiskNetwork)).
 -   [btergm](https://CRAN.R-project.org/package=btergm) - Tools to fit temporal ERGMs by bootstrapped pseudolikelihood. Also provides MCMC maximum likelihood estimation, goodness of fit for ERGMs, TERGMs, and stochastic actor-oriented models (SAOMs), and tools for the micro-level interpretation of ERGMs and TERGMs.
@@ -658,6 +658,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [influenceR](https://CRAN.R-project.org/package=influenceR) - Compute various node centrality network measures by Burt, Borgatti and others.
 -   [keyplayer](https://CRAN.R-project.org/package=keyplayer) - Implements several network centrality measures.
 -   [latentnet](https://CRAN.R-project.org/package=latentnet) - Latent position and cluster models for network objects.
+-   [levelnet](https://github.com/schochastics/levelnet) - Experimental package to analyze one-mode projections of bipartite (two-mode) networks. See also: `bipartite` R package.
 -   [lpNet](https://www.bioconductor.org/packages/release/bioc/html/lpNet.html) - Linear programming model aimed at infering biological (signalling, gene) networks.
 -   [networkD3](http://christophergandrud.github.io/networkD3/) - D3 JavaScript network graphs from R.
 -   [ndtv](https://CRAN.R-project.org/package=ndtv) - Tools to construct animated visualizations of dynamic network data in various formats.
