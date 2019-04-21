@@ -644,7 +644,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [ContentStructure](https://github.com/matthewjdenny/ContentStructure) - Implements an extension to the [Topic-Partitioned Multinetwork Embeddings (TPME) model](http://dirichlet.net/pdf/krafft12topic-partitioned.pdf).
 -   [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Connects R, RStudio and JavaScript libraries to draw graph diagrams ([blog post](https://blog.rstudio.org/2015/05/01/rstudio-v0-99-preview-graphviz-and-diagrammer/)).
 -   [ergm](https://CRAN.R-project.org/package=ergm) - Estimation of Exponential Random Graph Models (ERGM).
-    -   [ERGM: edgecov and dyadcov Specifications](http://mjh4.blogspot.fr/2012/09/ergm-edgecov-and-dyadcov-specifications.html).
+    -   [ERGM: edgecov and dyadcov Specifications](http://mjh4.blogspot.com/2012/09/ergm-edgecov-and-dyadcov-specifications.html).
 -   [GERGM](https://CRAN.R-project.org/package=GERGM) - Estimation and diagnosis of the convergence of Generalized Exponential Random Graph Models (GERGM).
 -   [geomnet](https://CRAN.R-project.org/package=geomnet) - Single-geometry approach to network visualization with ggplot2.
 -   [ggnetwork](https://CRAN.R-project.org/package=ggnetwork) - Multiple-geometries approach to plot network objects with ggplot2.
@@ -810,8 +810,8 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
       -   [Social Networks](http://bactra.org/notebooks/social-networks.html).
       -   [Stochastic Block Models](http://bactra.org/notebooks/stochastic-block-models.html).
 -   Daniel Little’s blog posts on the philosophy of social science:
-      -   [Networks](http://understandingsociety.blogspot.fr/search/label/networks).
-      -   [Social Networks](http://understandingsociety.blogspot.fr/search/label/social%20networks).
+      -   [Networks](http://understandingsociety.blogspot.com/search/label/networks).
+      -   [Social Networks](http://understandingsociety.blogspot.com/search/label/social%20networks).
 -   Martin Grandjean’s blog posts about (mostly) network visualization, in English and French:
       -   [Network Analysis](http://www.martingrandjean.ch/tag/analyse-de-reseau/).
       -   [Social Networks](http://www.martingrandjean.ch/tag/reseaux-sociaux/).
