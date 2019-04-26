@@ -60,7 +60,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ### Classics
 
--   _[A Novitiate in a Period of Change: An Experimental and Case Study of Social Relationships](https://www.dropbox.com/s/cwhmfp4qjl09y2k/Sampson%2C%20Samuel%201968.pdf?dl=0)_, by Samuel F. Sampson (unpublished PhD dissertation, 1968).
+-   _[A Novitiate in a Period of Change: An Experimental and Case Study of Social Relationships](https://f.briatte.org/temp/sampson1968.pdf)_, by Samuel F. Sampson (unpublished PhD dissertation, 1968).
 -   _[Social Network Analysis](https://uk.sagepub.com/en-gb/eur/social-network-analysis/book249668)_, by John Scott (2017).
 -   _[Social Network Analysis. Methods and Applications](http://www.cambridge.org/ar/academic/subjects/sociology/sociology-general-interest/social-network-analysis-methods-and-applications)_, by Stanley Wasserman and Katherine Faust (1994).
 -   _[The Structure and Dynamics of Networks](http://press.princeton.edu/titles/8114.html)_, edited by Mark E.J. Newman, Albert-László Barabási and Duncan J. Watts - 600 pages of classic network analysis articles (2006).
