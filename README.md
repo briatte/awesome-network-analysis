@@ -248,6 +248,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   _[Journal of Social Structure](http://www.cmu.edu/joss)_ (INSNA).
 -   _[NETCOM. Networks and Communication Studies](https://journals.openedition.org/netcom/)_, in English and in French (Revues.org).
 -   _[Network Science](http://journals.cambridge.org/action/displayJournal?jid=nws)_ (Cambridge, gated).
+-   _[Online Social Networks and Media](https://www.journals.elsevier.com/online-social-networks-and-media/)_ (Elsevier, gated).
 -   _[REDES. Revista hispana para el análisis de redes sociales](http://revista-redes.rediris.es/)_, in Spanish (INSNA).
 -   _[Social Network Analysis and Mining](http://link.springer.com/journal/13278)_ (Springer, gated).
 -   _[Social Networks](http://ees.elsevier.com/son/default.asp)_ (Elsevier, gated).
