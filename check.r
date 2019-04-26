@@ -27,15 +27,14 @@ if (!file.exists(f)) {
     str_split("\\n") %>% # so as to find [foo]: bar links
     unlist
   
-  # total number of links
-  t <- sum(str_count(u, "http"))
+  # total number of links (made to match web.archive.org links only once)
+  t <- sum(str_count(u, "(?<!/)http"))
   
   cat(t, "URLs, ")
   
   l <- c(
     # [foo](bar)
-    str_extract_all(u, "\\(http(.*?)\\)") %>% # using regular expression see https://gist.github.com/vitorbritto/9ff58ef998100b8f19a0
-                                              # for more infos
+    str_extract_all(u, "\\(http(.*?)\\)") %>%
       lapply(str_replace_all, "^\\(|\\)$", "") %>%
       unlist,
     # [foo]: bar
@@ -50,7 +49,7 @@ if (!file.exists(f)) {
   
   cat("Source:", f, "\n")
   
-  l <- str_subset(readLines(f), "^http")
+  l <- str_subset(stringi::stri_read_lines(f), "^http")
   
   cat(length(l), "URLs, ")
   
@@ -102,4 +101,4 @@ sink(f, append = TRUE)
 cat(as.character(Sys.time()), ": done.\n")
 sink()
 
-cat("\nFound", sum(str_count(readLines(f), "^http")), "problems.\n")
+cat("\n", sum(str_count(stringi::stri_read_lines(f), "^http")), "problems\n")
