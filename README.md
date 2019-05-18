@@ -204,6 +204,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ## Datasets
 
+-   [Animal Social Network Repository](https://bansallab.github.io/asnr/) - Large "[multi-species repository of social networks](https://doi.org/10.1038/s41597-019-0056-z)".
 -   [Bayesian Network Repository](http://www.bnlearn.com/bnrepository/).
 -   [Bill Cosponsorship Networks in European Parliaments](https://github.com/briatte/parlnet) - Legislative cosponsorship networks, in R format.
 -   [Colorado Index of Complex Networks (ICON)](https://icon.colorado.edu/) - Large collection of networks described and indexed by Aaron Clauset's research group.
@@ -567,7 +568,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [GENSI](http://www.tobiasstark.nl/GENSI/GENSI.htm) - JavaScript graphical tool to collect ego-centered network data ([paper](http://www.sciencedirect.com/science/article/pii/S0378873316300284)).
 -   [GoJS](http://gojs.net/) - Visualization library to draw diagrams and several types of network layouts.
 -   [Graphology](https://graphology.github.io/) - Specification and reference implementation for a robust and multipurpose JavaScript `Graph` object.
--   [greuler](https://maurizzzio.github.io/greuler/) - Visualization library to build and manipulate graphs through a simple API. Powered by d3.js and [WebCola](http://marvl.infotech.monash.edu/webcola/).
+-   [greuler](https://mauriciopoppe.github.io/greuler/) - Visualization library to build and manipulate graphs through a simple API. Powered by d3.js and [WebCola](http://marvl.infotech.monash.edu/webcola/).
 -   [jLouvain](https://github.com/upphiminn/jLouvain) - Louvain community detection for Javascript ([example](http://bl.ocks.org/emeeks/125db75c9b55ddcbdeb5)).
 -   [Popoto.js](http://www.popotojs.com/) - Library based on d3.js that provides a graph based search interface.
 -   [Sigma](http://sigmajs.org/) - JavaScript library dedicated to graph drawing.
