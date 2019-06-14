@@ -179,6 +179,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [PolNet - Annual Political Networks Workshops and Conference](http://conference.polinetworks.org/) - Organized by the APSA Organized Section on Political Networks (PolNet).
     -   [Videos from the Political Networks 2009 Conference](https://vimeo.com/user2690333).
 -   [NetSci - International School and Conference on Social Networks](http://www.netscisociety.net/) - Organized by the Network Science Society (NetSci).
+    -   [Large-scale Structures in Networks: Hidden Communities and Latent Hierarchies](http://danlarremore.com/CommunityDetection_and_Ranking_Larremore_2019.pdf) - Talk by [Dan Larremore](http://danlarremore.com/) at NetSci 2019.
 -   [Sunbelt - Social Networks Conference of the International Network for Social Network Analysis](http://www.insna.org/archives.html) - Organized by the International Network for Social Network Analysis (INSNA).
 
 ## Courses
