@@ -531,7 +531,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [algo.graph](https://github.com/clojure/algo.graph) - Basic graph theory algorithms written in Clojure.
 -   [CONGA and CONGO](http://gregory.org/research/networks/software/conga.html) - Algorithms to detect overlapping communities in networks, written in Java.
 -   [ForceAtlas2](https://gephi.wordpress.com/2011/06/06/forceatlas2-the-new-version-of-our-home-brew-layout/) - Force-directed layout included in Gephi ([paper](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0098679)).
--   [Linkcomm - Link Communities in Complex Networks](http://barabasilab.neu.edu/projects/linkcommunities/) - Community detection algorithms, available in C++, Python and R.
+-   [Linkcomm - Link Communities in Complex Networks](https://github.com/bagrow/linkcomm) - Community detection algorithms, available in C++, Python [and R](https://cran.r-project.org/package=linkcomm).
 -   [MixNet - Erdös-Rényi Mixture Model for Networks](http://ssbgroup.fr/mixnet.html) - Community detection method, available in C++ and R.
 -   [OSLOM2 - Order Statistics Local Optimization Method](http://www.oslom.org/) - Clustering algorithm.
 -   [vbmod: Variational Bayesian Inference for Network Modularity](http://vbmod.sourceforge.net/) - MATLAB and Python implementations of a [Bayesian community detection algorithm](http://arxiv.org/abs/0709.3512).
