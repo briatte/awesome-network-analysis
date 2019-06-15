@@ -8,6 +8,8 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 > Network of U.S. political blogs by [Adamic and Glance (2004)](https://dl.acm.org/citation.cfm?doid=1134271.1134277) ([preprint](http://www.maths.tcd.ie/~mnl/store/AdamicGlance2004a.pdf)).
 
+__Note:__ searching for ‘@’ will return all Twitter accounts listed on this page.
+
 ## Contents
 
 - __[Books](#books)__
@@ -259,8 +261,8 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 ## Professional Groups
 
 -   [AFS RT 26 “Réseaux sociaux”](http://www.test-afs-socio.fr/drupal/RT26) - Thematic Network of the French Sociological Association (AFS), in French ([old website](https://web.archive.org/web/20160421164221/http://www.cmh.pro.ens.fr/reseaux-sociaux/)).
--   [APSA Political Networks](http://www.polinetworks.org/) - Organized Section of the American Political Science Association (APSA).
--   [ECPR Political Networks SG](https://politicalnetsecpr.wordpress.com/) - Standing Group of the European Consortium for Political Research ([Twitter account](https://twitter.com/politicalnets)).
+-   [APSA Political Networks](http://www.polinetworks.org/) - Organized Section of the American Political Science Association (APSA). Twitter: [@PolNetworks](https://twitter.com/PolNetworks).
+-   [ECPR Political Networks SG](https://politicalnetsecpr.wordpress.com/) - Standing Group of the European Consortium for Political Research. Twitter: [@politicalnets](https://twitter.com/politicalnets).
 -   [GDR ARSHS - GDR Analyse de réseaux en sciences humaines et sociales](http://arshs.hypotheses.org/), in French - Research group based in Paris.
 -   [Groupe FMR - Flux, Matrices, Réseaux](http://groupefmr.hypotheses.org/), in French.
 -   [INSNA - International Network for Social Network Analysis](https://www.insna.org/) ([SOCNET mailing-list](https://www.insna.org/socnet)).
@@ -281,7 +283,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Interdisciplinary Center for Network Science and Applications (iCeNSA) at the University of Notre Dame](http://icensa.com/).
 -   [LINKS Center for Social Network Analysis at the Gatton College of Business and Economics, University of Kentucky](https://sites.google.com/site/uklinkscenter/).
 -   [NetSCI Lab at the Rutgers School of Communication and Information](http://netsci.rutgers.edu/).
--   [Network Dynamics Group at the Annenberg School for Communication, University of Pennsylvania](http://ndg.asc.upenn.edu/) (Twitter: [@NDGannenberg](https://twitter.com/NDGannenberg)).
+-   [Network Dynamics Group at the Annenberg School for Communication, University of Pennsylvania](http://ndg.asc.upenn.edu/). Twitter: [@NDGannenberg](https://twitter.com/NDGannenberg).
 -   [Network Interdependence in Social Systems](http://www.skylercranmer.net/niss-lab/) (NISS Lab) - Led by Skyler J. Cranmer at Ohio State University.
 -   [Network Science Center at the U.S. Military Academy (USMA) in West Point](http://www.usma.edu/nsc/) ([blog](http://blog.netsciwestpoint.org/)).
 -   [Network Science IGERT at the University of California at Santa Barbara (UCSB)](http://networkscience.igert.ucsb.edu/) - Features an [NSF-funded](http://www.igert.org/) graduate programme.
@@ -291,7 +293,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Northeastern University MOBS Lab - Laboratory for the Modeling of Biological and Socio-technical Systems](http://www.mobs-lab.org/) - Led by Alessandro Vespignani.
 -   [Pacific Ecoinformatics and Computational Ecology Lab](http://foodwebs.org/) - Non-profit study group of ecological networks ("food webs").
 -   [Peter J. Mucha’s Research Group at the University of North Carolina at Chapel Hill](http://mucha.web.unc.edu/networks/).
--   [Social Network Analysis Group @ Stanford](http://sna.stanford.edu/).
+-   [Social Network Analysis Group at Stanford](http://sna.stanford.edu/).
 -   [Warren Center for Network & Data Sciences at the University of Pennsylvania](http://warrencenter.upenn.edu/).
 -   [Yale Institute for Network Science (YINS)](http://yins.yale.edu/).
 
@@ -760,10 +762,10 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Mixed-Method Approaches to Social Network Analysis](https://www.youtube.com/playlist?list=PL3zdEY084WkQD79mR00RSt8j5RuyPwMJE) - Videos of a conference at the Middlesex University School of Law (2014).
 -   [Modeling Complex Social Networks: Challenges and Opportunities for Statistical Learning and Inference](https://www.youtube.com/watch?v=1xLjYc7EUEU) - Video of a seminar talk by Jennifer Neville at Purdue University (2011).
 -   [NetSciEd - Network Science in Education](https://sites.google.com/a/binghamton.edu/netscied/home) - International initiative aimed at improving network literacy.
--   [Network Fact](https://Twitter.com/networkfact) - Twitter account about networks, graph theory, and related topics.
+-   (@) [Network Fact](https://twitter.com/networkfact) - Twitter account on networks, graph theory, and related topics.
 -   [Network Map of Knowledge and Art](https://paolonegrini.wordpress.com/2012/11/19/network-map-of-knowledge-and-art/) - DBPedia-derived networks of who-was-influenced-by-whom directed ties, using SPARQL and Gephi.
--   [Network Science](https://twitter.com/Ognyanova/lists/network-science/members) - A thematic list of Twitter accounts, curated by [Katherine Ognyanova](https://twitter.com/Ognyanova).
--   [Network Science PhDs](https://twitter.com/NetSciPhDs) - Goal: "broadcast research, opportunities, and insights among grad students studying #networkscience."
+-   (@) [Network Science](https://twitter.com/Ognyanova/lists/network-science/members) - A thematic list of Twitter accounts, curated by [Katherine Ognyanova](https://twitter.com/Ognyanova).
+-   (@) [Network Science PhDs](https://twitter.com/NetSciPhDs) - Twitter account. Goal: "broadcast research, opportunities, and insights among grad students studying #networkscience."
 -   [The Networks Network](https://groups.google.com/forum/?hl=en-GB#!forum/the-networks-network) - Mailing-list (mostly historians from the HNR network).
 -   [New Perspectives for Relational Learning](http://www.birs.ca/events/2015/5-day-workshops/15w5080/videos) - Videos (and more) from a workshop at the Banff International Research Station (BIRS) (2015).
 -   [Open Graph protocol](http://ogp.me/) - A proposed standard to turn any Web page into a “social graph object.”
