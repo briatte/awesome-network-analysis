@@ -359,6 +359,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Assessing Impact and Quality from Local Dynamics of Citation Networks](http://www.sciencedirect.com/science/article/pii/S1751157711000770) (_Journal of Informetrics_, 2012).
 -   [Atypical Combinations and Scientific Impact](http://science.sciencemag.org/content/342/6157/468) (_Science_, 2013).
 -   [On Bibliographic Networks](http://link.springer.com/article/10.1007%2Fs11192-012-0940-1) (_Scientometrics_, 2013).
+-   [Dynamic Scientific Co-Authorship Networks](http://patrickdoreian.com/wp-content/uploads/2017/12/dynamic-scientific-coauthorship-networks.pdf) (_[Models of Science Dynamics](https://www.springer.com/us/book/9783642230677)_, 2012).
 -   [Extracting Citation Networks from Publications in Classics](https://zenodo.org/record/46328) (_Digital Humanities Quarterly_, forthcoming).
 -   [Self-Citations, Co-Authorships and Keywords: A New Approach to Scientists' Field Mobility?](https://link.springer.com/article/10.1007/s11192-007-1680-5) (_Scientometrics_, 2007).
 -   [Socio-Semantic Frameworks](http://www.worldscientific.com/doi/abs/10.1142/S0219525913500136) ([preprint](http://camille.roth.free.fr/travaux/roth--sociosemantic-systems-acs-proofs.pdf); _Advances in Complex Systems_, 2013).
@@ -375,10 +376,11 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Social Networks and the Spread of Infectious Diseases: the AIDS Example](http://www.sciencedirect.com/science/article/pii/0277953685902692) (_Social Networks_, 1985).
 -   [Structure and Dynamics of Molecular Networks: A Novel Paradigm of Drug Discovery. A Comprehensive Review](http://www.sciencedirect.com/science/article/pii/S0163725813000284) - Also includes an impressive list of network analysis software (_Pharmacology & Therapeutics_, 2013).
 
-### Complex Networks
+### Complex and Multilayer Networks
 
 -   [The Architecture of Complexity](http://barabasi.com/f/226.pdf) - From network theory to complexity theory (_IEEE Control Systems Magazine_, 2007).
 -   [Complex Systems and Networks](http://science.sciencemag.org/content/325/5939) (special issue of _Science_, 2009).
+-   [Multilayer Networks in a Nutshell](https://doi.org/10.1146/annurev-conmatphys-031218-013259) (_Annual Review of Condensed Matter Physics_, 2019).
 -   [Statistical Mechanics of Complex Networks](http://barabasi.com/f/103.pdf) (_Reviews of Modern Physics_, 2002).
 -   [The Structure and Function of Complex Networks](http://epubs.siam.org/doi/abs/10.1137/S003614450342480) (_SIAM Review_, 2003).
 
@@ -393,6 +395,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 ### Network Modeling
 
 -   [A Brief History of Statistical Models for Network Analysis and Open Challenges][fienberg2012] (_Journal of Computational and Graphical Statistics_, 2012).
+-   [Basic Models and Questions in Statistical Network Analysis](https://projecteuclid.org/euclid.ssu/1504836152) (_Statistics Surveys_, 2017).
 -   [Introduction to Stochastic Actor-Based Models for Network Dynamics](http://www.sciencedirect.com/science/article/pii/S0378873309000069) ([preprint](http://www.stats.ox.ac.uk/~snijders/SnijdersSteglichVdBunt2009.pdf); _Social Networks_, 2010).
 -   Navigating the Range of Statistical Tools for Inferential Network Analysis (_American Journal of Political Science_, forthcoming 2016).
 -   [Positional Analysis and Blockmodeling](http://link.springer.com/referenceworkentry/10.1007%2F978-1-4614-1800-9_138) (<!-- [preprint](http://patrickdoreian.com/NEW/wp-content/papers_resources/chapters/Positional_Analysis_and_Blockmodeling.pdf);  -->_Computational Complexity_, 2012).
@@ -416,17 +419,18 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 
 -   [A propos de la notion de rôle dans l'analyse des relations sociales](https://journals.openedition.org/msh/11969) (_Mathématiques et sciences humaines_, 2011).
 -   [Brokerage](http://www.annualreviews.org/doi/abs/10.1146/annurev-soc-081309-150054) (_Annual Review of Sociology_, 2012).
--   [Dynamic Scientific Co-Authorship Networks](http://patrickdoreian.com/wp-content/uploads/2017/12/dynamic-scientific-coauthorship-networks.pdf) (_[Models of Science Dynamics](https://www.springer.com/us/book/9783642230677)_, 2012).
 -   [Birds of a Feather: Homophily in Social Networks](http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.27.1.415) (_Annual Review of Sociology_, 2001).
 -   [Mixed-Method Approaches to Social Network Analysis](http://eprints.ncrm.ac.uk/842/) (ESRC NCRM Discussion Paper, 2010).
 -   [Network Analysis and Political Science](http://www.annualreviews.org/doi/abs/10.1146/annurev.polisci.12.040907.115949) (_Annual Review of Political Science_, 2011).
 -   [Network Analysis for International Relations](https://www.cambridge.org/core/journals/international-organization/article/div-classtitlenetwork-analysis-for-international-relationsdiv/DE2910979C1B5C44C4CC13F336C5DE97) (_International Organization_, 2009).
 -   [Network Analysis in the Social Sciences](http://science.sciencemag.org/content/323/5916/892) (_Science_, 2009).
+-   [Networks and Trade](https://doi.org/10.1146/annurev-economics-080217-053506) (_Annual Review of Economics_, 2018).
 -   [Networks in Social Psychology, Beginning with Kurt Lewin](http://link.springer.com/10.1007%2F978-1-4614-6170-8_79) (<!-- [preprint](http://patrickdoreian.com/NEW/wp-content/papers_resources/new_papers_4-13/Networks_in_Socia_Psychology_Lewin.docx);  -->_[Encyclopedia of Social Network Analysis and Mining](https://www.springer.com/us/book/9781461461692)_, 2014).
 -   [Networks in the Understanding of Economic Behaviors](https://www.aeaweb.org/articles?id=10.1257/jep.28.4.3) (_Journal of Economic Perspectives_, 2014).
 -   [Positions and Roles](http://sk.sagepub.com/reference/the-sage-handbook-of-social-network-analysis/n29.xml) (<!-- [preprint](http://patrickdoreian.com/NEW/wp-content/papers_resources/new_papers_4-13/positions_and_roles.pdf);  -->_[The SAGE Handbook of Social Network Analysis](http://www.sagepub.in/books/Book232753/)_, 2011).
 -   [The Social and the Sexual: Networks in Contemporary Demographic Research](http://repository.upenn.edu/psc_working_papers/41/) (PSC Working Paper Series, 2013).
 -   [Social Network Analysis in the Study of Terrorism and Political Violence](http://journals.cambridge.org/article_S1049096510001848) ([preprint](http://opensiuc.lib.siu.edu/cgi/viewcontent.cgi?article=1048&context=pn_wp); _PS: Political Science and Politics_, 2011).
+-   [Social Networks and Crime: Pitfalls and Promises for Advancing the Field](https://doi.org/10.1146/annurev-criminol-011518-024701) (_Annual Review of Criminology_, 2019).
 -   Urban Social Networks: Some Methodological Problems and Possibilities ([_The Small World_](https://www.worldcat.org/title/small-world/oclc/925078340&referer=brief_results), 1989).
 
 ## Selected Papers
