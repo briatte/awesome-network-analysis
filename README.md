@@ -746,7 +746,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Basic and Advanced Network Visualization with Gephi and R](http://kateto.net/sunbelt2016) (2016).
 -   [Interactive and Dynamic Network Visualization in R](http://curleylab.psych.columbia.edu/netviz/) and JavaScript libraries (2016).
 -   [Nodegoat and Palladio: Introductory Workshop](https://www.academia.edu/11450425/Nodegoat_and_Palladio_Introductory_Workshop_by_Emmanuelle_Chaze) - Aimed at humanists (2015).
--   [Static and Dynamic Network Visualization with R](http://kateto.net/network-visualization) - Covers the igraph, network, networkD3 and ndtv packages (2015).
+-   [Static and Dynamic Network Visualization with R](http://kateto.net/network-visualization) - Covers the igraph, network, ggraph, network, networkD3, ndtv, threejs and visNetwork packages (2019).
 
 ## Varia
 
