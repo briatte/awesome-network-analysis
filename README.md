@@ -827,6 +827,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
       -   [Social Contagion, Information Cascades, Diffusion of Innovations, Etc.](http://bactra.org/notebooks/social-contagion.html)
       -   [Social Networks](http://bactra.org/notebooks/social-networks.html).
       -   [Stochastic Block Models](http://bactra.org/notebooks/stochastic-block-models.html).
+            -   See also: [An Annotated Bibliography on Stochastic Blockmodels](https://www.alexpghayes.com/blog/an-annotated-bibliography-on-stochastic-block-models/) (2019).
 -   Daniel Little’s blog posts on the philosophy of social science:
       -   [Networks](http://understandingsociety.blogspot.com/search/label/networks).
       -   [Social Networks](http://understandingsociety.blogspot.com/search/label/social%20networks).
