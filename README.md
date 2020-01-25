@@ -647,6 +647,8 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 > To convert many different network model results into tidy data frames, see the [broom](https://CRAN.R-project.org/package=broom) package. To convert many different network model results into LaTeX or HTML tables, see the [texreg](https://CRAN.R-project.org/package=texreg) package.
 
 -   [amen](https://CRAN.R-project.org/package=amen) - Additive and multiplicative effects models for relational data.
+-   [backbone](https://CRAN.R-project.org/package=backbone) - Provides methods for binarizing a weighted network retaining only significant edges.
+    - [Introduction to the backbone package](https://arxiv.org/abs/1912.12779)
 -   [Bergm](https://CRAN.R-project.org/package=Bergm) - Tools to analyse Bayesian exponential random graph models (BERGM).
 -   [bipartite](https://CRAN.R-project.org/package=bipartite) - Functions to visualize bipartite (two-mode) networks and compute indices commonly used in ecological research. See also: `levelnet` R package.
 -   [blockmodeling](https://CRAN.R-project.org/package=blockmodeling) - Implementats generalized blockmodeling for valued networks.
@@ -683,6 +685,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
     -   [Network Centrality in R: New Ways of Measuring Centrality](http://blog.schochastics.net/post/network-centrality-in-r-new-ways-of-measuring-centrality/) (2018).
 -   [NetSim](http://www.christoph-stadtfeld.com/netsim/) - Simulate and combine micro-models to research their impact on the macro-features of social networks.
 -   [network](https://CRAN.R-project.org/package=network) - Basic tools to manipulate relational data in R.
+-   [networkdata](https://github.com/schochastics/networkdata) - Includes 979 network datasets containing 2135 networks.
 -   [networkdiffusion](https://github.com/chengjun/networkdiffusion) - Simulate and visualize basic epidemic diffusion in networks.
 -   [networkDynamic](https://CRAN.R-project.org/package=networkDynamic) - Support for dynamic, (inter)temporal networks.
 -   [networksis](https://CRAN.R-project.org/package=networksis) - Tools to simulate bipartite networksgraphs with the degrees of the nodes fixed and specified.
@@ -699,7 +702,11 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [rgexf](https://CRAN.R-project.org/package=rgexf) - Export network objects from R to GEXF for manipulation with software like Gephi or Sigma.
 -   [Rgraphviz](https://bioconductor.org/packages/release/bioc/html/Rgraphviz.html) - Support for using the Graphviz library and its DOT graph drawing language from within R.
 -   [RSiena](http://r-forge.r-project.org/R/?group_id=461) - Simulation Investigation for Empirical Network Analysis; fits models to longitudinal network data.
+-   [signnet](https://github.com/schochastics/signnet) Methods to analyse signed networks (structural balance, blockmodeling, centrality, etc.)
 -   [sna](https://CRAN.R-project.org/package=sna) - Basic network constructors, measures and visualization tools.
+-   [snahelper](https://CRAN.R-project.org/package=snahelper) - RStudio addin which provides a GUI to visualize and analyse networks
+    - [Introduction to snahelper (Part 1)](http://blog.schochastics.net/post/an-rstudio-addin-for-network-analysis-and-visualization/)
+    - [Introduction to snahelper (Part 2)](http://blog.schochastics.net/post/new-rstudio-addins-for-network-analysis/)
 -   [SocialMediaLab](https://CRAN.R-project.org/package=SocialMediaLab) - Tools for collecting social media data and generating networks from it ([companion website](http://vosonlab.net/SocialMediaLab), [github repo](https://github.com/voson-labSocialMediaLab)).
 -   [spectralGOF](http://people.bu.edu/jccs/spectralGOF.html) - Computes the spectral goodness of fit (SGOF), a measure of how well a network model explains the structure of an observed network.
 -   [spnet](https://CRAN.R-project.org/package=spnet) - Methods for dealing with spatial social networks.
