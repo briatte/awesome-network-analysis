@@ -626,6 +626,8 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [dash-cytoscape](https://github.com/plotly/dash-cytoscape) - Interactive network visualization library in Python, powered by Cytoscape.js and Dash
 -   [graph-tool](http://graph-tool.skewed.de/) - Python module for network manipulation and analysis, written mostly in C++ for speed.
 -   [graphviz](https://pypi.python.org/pypi/graphviz) - Python renderer for the DOT graph drawing language.
+-   [GraSPy](https://github.com/neurodata/graspy) - Python package for statistical algorithms, models, and visualization for single and multiple networks. 
+    -   [Tutorials on algorithms and models](https://graspy.neurodata.io/tutorial.html).
 -   [hiveplot](https://pypi.python.org/pypi/hiveplot) - Python utility for drawing networks as hive plots on matplotlib, a more comprehensive network visualization.
 -   [linkpred](https://github.com/rafguns/linkpred) - Assess the likelihood of potential links in a future snapshot of a network.
 -   [metaknowledge](http://networkslab.org/metaknowledge/) - Python package to turn bibliometrics data into authorship and citation networks.
