@@ -664,6 +664,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [concoR](https://github.com/aslez/concoR) - Implementation of the CONCOR network blockmodeling algorithm ([blog post](http://badhessian.org/2015/05/concor-in-r/)).
 -   [ContentStructure](https://github.com/matthewjdenny/ContentStructure) - Implements an extension to the [Topic-Partitioned Multinetwork Embeddings (TPME) model](http://dirichlet.net/pdf/krafft12topic-partitioned.pdf).
 -   [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Connects R, RStudio and JavaScript libraries to draw graph diagrams ([blog post](https://blog.rstudio.org/2015/05/01/rstudio-v0-99-preview-graphviz-and-diagrammer/)).
+-   [dodgr](https://cran.r-project.org/package=dodgr) - Computes distances on dual-weighted directed graphs, such as street networks, using priority-queue shortest paths.
 -   [ergm](https://CRAN.R-project.org/package=ergm) - Estimation of Exponential Random Graph Models (ERGM).
     -   [ERGM: edgecov and dyadcov Specifications](http://mjh4.blogspot.com/2012/09/ergm-edgecov-and-dyadcov-specifications.html).
 -   [GERGM](https://CRAN.R-project.org/package=GERGM) - Estimation and diagnosis of the convergence of Generalized Exponential Random Graph Models (GERGM).
