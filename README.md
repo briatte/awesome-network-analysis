@@ -682,8 +682,8 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [latentnet](https://CRAN.R-project.org/package=latentnet) - Latent position and cluster models for network objects.
 -   [levelnet](https://github.com/schochastics/levelnet) - Experimental package to analyze one-mode projections of bipartite (two-mode) networks. See also: `bipartite` R package.
 -   [lpNet](https://www.bioconductor.org/packages/release/bioc/html/lpNet.html) - Linear programming model aimed at infering biological (signalling, gene) networks.
--   [networkD3](http://christophergandrud.github.io/networkD3/) - Create d3.js network graphs from R.
 -   [ndtv](https://CRAN.R-project.org/package=ndtv) - Tools to construct animated visualizations of dynamic network data in various formats.
+-   [networkD3](http://christophergandrud.github.io/networkD3/) - Create d3.js network graphs from R.
 -   [netdiffuseR](https://CRAN.R-project.org/package=netdiffuseR) - Tools to analyze the network diffusion of innovations.
 -   [netrankr](https://cran.r-project.org/package=netrankr) - Up-to-date collection of network centrality indices, with lots of documentation.
     -   [Network Centrality in R: An Introduction](http://blog.schochastics.net/post/network-centrality-in-r-introduction/) - Includes a review of relevant R packages.
