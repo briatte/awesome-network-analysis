@@ -706,6 +706,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
     -   [qgraph Examples](http://sachaepskamp.com/qgraph/examples).
     -   [qgraph: Network Visualizations of Relationships in Psychometric Data](https://www.jstatsoft.org/article/view/v048i04) (2012).
 -   [relevent](https://CRAN.R-project.org/package=relevent) - Tools to fit relational event models (REM).
+    -   [informR](https://cran.r-project.org/package=informR) - Tools to create sequence statistics from event lists to be used in `relevent`.
 -   [rem](https://CRAN.R-project.org/package=rem) - Estimate endogenous network effects in event sequences and fit relational event models (REM), which measure how networks form and evolve over time.
 -   [rgexf](https://CRAN.R-project.org/package=rgexf) - Export network objects from R to GEXF for manipulation with software like Gephi or Sigma.
 -   [Rgraphviz](https://bioconductor.org/packages/release/bioc/html/Rgraphviz.html) - Support for using the Graphviz library and its DOT graph drawing language from within R.
