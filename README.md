@@ -633,6 +633,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [hiveplot](https://pypi.python.org/pypi/hiveplot) - Python utility for drawing networks as hive plots on matplotlib, a more comprehensive network visualization.
 -   [karateclub](https://github.com/benedekrozemberczki/karateclub) - Python package for unsupervised learning on graph structured data with a scikit-learn like API.
 -   [linkpred](https://github.com/rafguns/linkpred) - Assess the likelihood of potential links in a future snapshot of a network.
+-   [littleballoffur](https://github.com/benedekrozemberczki/littleballoffur) - Python package for sampling from graph structured data with a scikit-learn like API.
 -   [metaknowledge](http://networkslab.org/metaknowledge/) - Python package to turn bibliometrics data into authorship and citation networks.
 -   [networkx](http://networkx.github.io/) - Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
     -   [Implementing an ERGM from Scratch in Python](https://gist.github.com/dmasad/8509304), using networkx and numpy (2014).
