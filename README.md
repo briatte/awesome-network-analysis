@@ -110,7 +110,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 
 -   _[Bayesian Networks in R with Applications in Systems Biology](https://www.springer.com/fr/book/9781461464457)_, by Radhakrishnan Nagarajan, Marco Scutari and Sophie Lèbre ([website](http://www.bnlearn.com/book-useR/); 2013).
 -   _[Bayesian Networks with Examples in R](http://www.crcpress.com/product/isbn/9781482225587)_, by Marco Scutari and Jean-Baptiste Denis ([website](http://www.bnlearn.com/book-crc/); 2014).
--   _[The Book of Trees. Visualizing Branches of Knowledge](http://www.papress.com/html/book.details.page.tpl?isbn=9781616892180)_, by Manuel Lima - Hundreds of beautiful tree diagrams, from all periods of history (2014).
+-   _[The Book of Trees. Visualizing Branches of Knowledge](https://papress.com/products/the-book-of-trees-visualizing-branches-of-knowledge)_, by Manuel Lima - Hundreds of beautiful tree diagrams, from all periods of history (2014).
 -   _[Exponential Random Graph Models for Social Networks](http://www.cambridge.org/9780521193566)_, edited by Dean Lusher, Johan Koskinen and Garry Robins (2013).
 -   _[Generalized Blockmodeling. Structural Analysis in the Social Sciences](http://www.cambridge.org/de/academic/subjects/sociology/sociology-general-interest/generalized-blockmodeling)_, by Patrick Doreian, Vladimir Batagelj and Anuška Ferligoj (2004).
 -   _[Handbook of Graph Drawing and Visualization](https://www.crcpress.com/Handbook-of-Graph-Drawing-and-Visualization/Tamassia/9781584884125)_, edited by Roberto Tamassia ([chapter proofs](https://cs.brown.edu/~rt/gdhandbook/); 2013).
