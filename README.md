@@ -103,7 +103,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   _[Graph Theory](http://diestel-graph-theory.com/)_, by Reinhard Diestel - Full book online, also in Chinese and German (2016).
 -   _[Graph Theory](http://www.dtic.mil/dtic/tr/fulltext/u2/705364.pdf)_, by Frank Harary - Full book online (1969).
 -   _[Graphs & Digraphs](https://www.crcpress.com/Graphs--Digraphs-Sixth-Edition/Chartrand-Lesniak-Zhang/p/book/9781498735766)_, by Gary Chartrand, Linda Lesniak and Ping Zhang (2016).
--   _[Introduction to Combinatorics and Graph Theory](https://www.whitman.edu/mathematics/cgt_online/cgt.pdf)_, by Daniel Guichard - Full book online (2016).
+-   _[Introduction to Combinatorics and Graph Theory](https://www.whitman.edu/mathematics/cgt_online/cgt.pdf)_, by David Guichard - Full book online (2016).
 -   _[Modern Graph Theory](https://www.springer.com/us/book/9780387984889)_, by Belá Bollobás (1998).
 
 ### Method-specific
