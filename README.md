@@ -792,7 +792,6 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   (@) [Network Fact](https://twitter.com/networkfact) - Twitter account on networks, graph theory, and related topics.
 -   [Network Map of Knowledge and Art](https://paolonegrini.wordpress.com/2012/11/19/network-map-of-knowledge-and-art/) - DBPedia-derived networks of who-was-influenced-by-whom directed ties, using SPARQL and Gephi.
 -   (@) [Network Science](https://twitter.com/Ognyanova/lists/network-science/members) - A thematic list of Twitter accounts, curated by [Katherine Ognyanova](https://twitter.com/Ognyanova).
--   (@) [Network Science PhDs](https://twitter.com/NetSciPhDs) - Twitter account. Goal: “broadcast research, opportunities, and insights among grad students studying #networkscience.”
 -   [The Networks Network](https://groups.google.com/forum/?hl=en-GB#!forum/the-networks-network) - Mailing-list (mostly historians from the HNR network).
 -   [New Perspectives for Relational Learning](http://www.birs.ca/events/2015/5-day-workshops/15w5080/videos) - Videos (and more) from a workshop at the Banff International Research Station (BIRS) (2015).
 -   [Open Graph protocol](http://ogp.me/) - A proposed standard to turn any Web page into a “social graph object.”
