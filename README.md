@@ -691,6 +691,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [lpNet](https://www.bioconductor.org/packages/release/bioc/html/lpNet.html) - Linear programming model aimed at infering biological (signalling, gene) networks.
 -   [multinet](https://cran.r-project.org/package=multinet) - Tools for multilayer social networks.
     - [Related book and data](http://multilayer.it.uu.se/), and [presentation article](http://multilayer.it.uu.se/papers/jss.pdf). See `uunet` for the Python version.
+-   [migraph](https://cran.r-project.org/web/packages/migraph/) - A set of tools that extend common social network analysis packages for analysing multimodal and multilevel networks.
 -   [ndtv](https://CRAN.R-project.org/package=ndtv) - Tools to construct animated visualizations of dynamic network data in various formats.
 -   [neo4r](https://github.com/neo4j-rstats/neo4r) - Neo4J driver for R.
 -   [networkD3](http://christophergandrud.github.io/networkD3/) - Create d3.js network graphs from R.
