@@ -966,7 +966,8 @@ Alden S. Klovdahl,
 [Jaewon Chung](https://github.com/j1c), 
 [Benedek Rozemberczki](https://github.com/benedekrozemberczki), 
 [Alex Loftus](https://github.com/loftusa) and 
-[Arun](https://github.com/arunppsg) – have waived all copyright and related or neighboring rights to this work.
+[Arun](https://github.com/arunppsg),
+[Bernhard Bieri](https://bernhardbieri.ch/) – have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Robert J. Ackland](https://github.com/rjackland), 
 [Laurent Beauguitte](https://cv.archives-ouvertes.fr/laurent-beauguitte), 
