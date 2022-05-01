@@ -186,7 +186,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Sunbelt - Social Networks Conference of the International Network for Social Network Analysis](http://www.insna.org/archives.html) - Organized by the International Network for Social Network Analysis (INSNA).
 
 ## Courses
-
+- [Complex Networks](http://cazabetremy.fr/Teaching/ComplexNetworks.html), by Rémy Cazabet (University Lyon 1, ENS de Lyon, 2021). Videos, Cheatsheets, python exercises. Complex Systems Master (Computer Science+Physics)
 -   [Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/), by Peter Sheridan Dodds (University of Vermont, 2016; Twitter: [@networksvox](https://twitter.com/networksvox)).
     -   [Tarot Cards for Principles of Complex Systems and Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/tarotcards/).
 -   [Graph Theory and Applications](http://www.hamilton.ie/ollie/Downloads/Graph.pdf), by Paul Van Dooren - Full lecture slides (Hamilton Institute, Dublin, 2009).
@@ -196,6 +196,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Networks, Crowds and Markets](https://www.edx.org/course/networks-crowds-markets-cornellx-info2040x-2), by David Easley, Jon Kleinberg and Eva Tardos ([presentation](https://www.cornell.edu/video/cornellx-networks-crowds-and-markets); Cornell University via edX, 2016).
 -   [Networks (Economics)](https://ocw.mit.edu/courses/economics/14-15j-networks-spring-2018/), by Mardavij Roozbehani and Evan Sadler (MIT, 2018).
     -   [Networks (Economics)](https://hdl.handle.net/1721.1/119628), by Daron Acemoglu and Asu Ozdaglar (MIT, 2009).
+ - [Network Science CheatSheets](https://github.com/Yquetzal/NetworkScience_CheatSheets), by Rémy Cazabet - Open Source (Latex+images) class material  
 -   [Network Science (Computer Science)](http://www.cc.gatech.edu/~dovrolis/Courses/NetSci/), by Constantine Dovrolis - Mostly open access readings (Georgia Tech, 2015).
 -   [Network Science (Physics)](https://www.barabasilab.com/course), by Albert-László Barabási, Sean Cornelius and Roberta Sinatra (Northeastern University, 2015).
 -   [Political Networks: Methods and Applications](http://vanity.dss.ucdavis.edu/~maoz/networks/Spring%202011/pol279-11.htm), by Zeev Maoz (University of California in Davis, 2012).
@@ -625,7 +626,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 > Many items below are from [a Google spreadsheet](https://docs.google.com/spreadsheets/d/1vJILk2EW1JnR3YAwTSSqAV5mPkeXaezy45wOoafBpfU/edit#gid=0) by Michał Bojanowski and others.  
 > See also [Social Network Analysis with Python](https://www.youtube.com/watch?v=qgGqaBAEy3Q), a 3-hour tutorial by Maksim Tsvetovat and Alex Kouznetsov given at PyCon US 2012 ([code](https://github.com/maksim2042/PyCon2012)).  
 > For more awesome Python packages, see the [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome Python Books](https://github.com/Junnplus/awesome-python-books) lists.
-
+-   [cdlib](https://github.com/GiulioRossetti/cdlib) - Community detection library, more than 60 methods available+evaluation, visualization.
 -   [dash-cytoscape](https://github.com/plotly/dash-cytoscape) - Interactive network visualization library in Python, powered by Cytoscape.js and Dash
 -   [graph-tool](http://graph-tool.skewed.de/) - Python module for network manipulation and analysis, written mostly in C++ for speed.
 -   [graphviz](https://pypi.python.org/pypi/graphviz) - Python renderer for the DOT graph drawing language.
@@ -645,6 +646,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [python-louvain](http://perso.crans.org/aynaud/communities/) - A solid implementation of Louvain community detection algorithm.
 -   [Snap.py](http://snap.stanford.edu/snappy/index.html) - A Python interface for SNAP (a general purpose, high performance system for analysis and manipulation of large networks).
 -   [SnapVX](https://github.com/snap-stanford/snapvx) - A convex optimization solver for problems defined on a graph.
+-   [tnetwork](https://github.com/Yquetzal/tnetwork) - Temperal network library, in particular for dynamic community detection
 -   [TQ (Temporal Quantities)](http://vladowiki.fmf.uni-lj.si/doku.php?id=tq) - Python 3 library for temporal network analysis.
 -   [uunet](http://multilayer.it.uu.se/software.html) - Tools for multilayer social networks.
     - [Related book and data](http://multilayer.it.uu.se/). See `multinet` for the R version.
