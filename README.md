@@ -706,6 +706,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [latentnet](https://CRAN.R-project.org/package=latentnet) - Latent position and cluster models for network objects.
 -   [levelnet](https://github.com/schochastics/levelnet) - Experimental package to analyze one-mode projections of bipartite (two-mode) networks. See also: `bipartite` R package.
 -   [lpNet](https://www.bioconductor.org/packages/release/bioc/html/lpNet.html) - Linear programming model aimed at infering biological (signalling, gene) networks.
+-   [multigraphr](https://github.com/termehs/multigraphr) - Random multigraph models, statisticsof multigraph properties, and goodness of fit tests.
 -   [multinet](https://cran.r-project.org/package=multinet) - Tools for multilayer social networks.
     - [Related book and data](http://multilayer.it.uu.se/), and [presentation article](http://multilayer.it.uu.se/papers/jss.pdf). See `uunet` for the Python version.
 -   [migraph](https://cran.r-project.org/web/packages/migraph/) - A set of tools that extend common social network analysis packages for analysing multimodal and multilevel networks.
