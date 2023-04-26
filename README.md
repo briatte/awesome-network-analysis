@@ -196,7 +196,8 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
     -   [Tarot Cards for Principles of Complex Systems and Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/tarotcards/).
 -   [Graph Theory and Applications](http://www.hamilton.ie/ollie/Downloads/Graph.pdf), by Paul Van Dooren - Full lecture slides (Hamilton Institute, Dublin, 2009).
 -   [Graph Theory (Mathematics)](http://www.personal.psu.edu/cxg286/Math485.pdf), by Christopher Griffin - Full lecture notes (Penn State University, 2012).
--   [Network Analysis and Modeling (Computer Science)](http://tuvalu.santafe.edu/~aaronc/courses/5352/), by Aaron Clauset - Full lecture slides and readings (University of Colorado, 2014).
+-   [Graphs and Networks](https://sites.google.com/a/yale.edu/462-562-graphs-and-networks/), by Dan Spielman (Yale University, 2013).
+-   [Network Analysis and Modeling (Computer Science)](https://aaronclauset.github.io/courses/5352/), by Aaron Clauset - Full lecture slides and readings (University of Colorado, 2022).
 -   [Networks, Complexity and Its Applications (Media Arts and Sciences)](http://ocw.mit.edu/courses/media-arts-and-sciences/mas-961-networks-complexity-and-its-applications-spring-2011/), by Cesar Hidalgo (MIT, 2011).
 -   [Networks, Crowds and Markets](https://www.edx.org/course/networks-crowds-markets-cornellx-info2040x-2), by David Easley, Jon Kleinberg and Eva Tardos ([presentation](https://www.cornell.edu/video/cornellx-networks-crowds-and-markets); Cornell University via edX, 2016).
 -   [Networks (Economics)](https://ocw.mit.edu/courses/economics/14-15j-networks-spring-2018/), by Mardavij Roozbehani and Evan Sadler (MIT, 2018).
@@ -1005,6 +1006,7 @@ Thanks to [Robert J. Ackland](https://github.com/rjackland),
 [Christopher Steven Marcum](http://www.chrismarcum.com/), 
 [Wouter de Nooy](https://www.uva.nl/profiel/n/o/w.denooy/w.denooy.html), 
 [Katya Ognyanova](http://kateto.net/), 
+[Rahul Padhy](https://github.com/rahul-38-26-0111-0003), 
 [Camille Roth](http://camille.roth.free.fr/), 
 [Claude S. Fischer](https://sociology.berkeley.edu/faculty/claude-s-fischer), 
 [Cosma Shalizi](http://www.stat.cmu.edu/~cshalizi/), 
