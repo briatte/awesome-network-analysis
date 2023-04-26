@@ -82,6 +82,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   _[A First Course in Network Science](https://www.cambridge.org/us/academic/subjects/physics/statistical-physics/first-course-network-science)_, by Filippo Menczer, Santo Fortunato, and Clayton A. Davis - Tutorials, datasets and other resouces [on GitHub](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience) (2020).
 -   _[Encyclopedia of Social Networks](http://sk.sagepub.com/reference/socialnetworks)_, edited by George A. Barnett - Covers all sorts of network-related themes (many of them not formal) as well as social network analysis (2011).
 -   _[Encyclopedia of Social Network Analysis and Mining](https://www.springer.com/us/book/9781461461692)_, edited by Reda Alhajj and Jon Rokne (2014).
+-   _[L'analyse de réseau en sciences sociales. Petit guide pratique](https://hal.science/hal-04052709)_, by Laurent Beauguitte, in French (2023).
 -   _[Network Science](http://networksciencebook.com)_, by Albert-László Barabási - Full book online (2016).
 -   _[Network Science](http://www.nap.edu/catalog/11516/network-science)_, by the U.S. National Research Council - Full book online (2005).
 -   _[Network Science: Theory and Practice](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118211014.html)_, by Ted G. Lewis (2011).
