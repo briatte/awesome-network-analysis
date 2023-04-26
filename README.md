@@ -189,6 +189,8 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 
 ## Courses
 
+-   [Complex Networks](http://cazabetremy.fr/Teaching/ComplexNetworks.html), by Rémy Cazabet (University Lyon 1 and ENS Lyon, 2022).
+    -   [Network Science CheatSheets](https://github.com/Yquetzal/NetworkScience_CheatSheets).
 -   [Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/), by Peter Sheridan Dodds (University of Vermont, 2016; Twitter: [@networksvox](https://twitter.com/networksvox)).
     -   [Tarot Cards for Principles of Complex Systems and Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/tarotcards/).
 -   [Graph Theory and Applications](http://www.hamilton.ie/ollie/Downloads/Graph.pdf), by Paul Van Dooren - Full lecture slides (Hamilton Institute, Dublin, 2009).
@@ -630,6 +632,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 > For more awesome Python packages, see the [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome Python Books](https://github.com/Junnplus/awesome-python-books) lists.
 
 -   [bokeh](https://bokeh.org/) - Python library for interactive data visualization in the browser, with support for networks.
+-   [cdlib](https://github.com/GiulioRossetti/cdlib) - Python community detection library, with 60+ methods and evaluation/visualization features.
 -   [dash-cytoscape](https://github.com/plotly/dash-cytoscape) - Interactive network visualization library in Python, powered by Cytoscape.js and Dash
 -   [graph-tool](http://graph-tool.skewed.de/) - Python module for network manipulation and analysis, written mostly in C++ for speed.
 -   [graphviz](https://pypi.python.org/pypi/graphviz) - Python renderer for the DOT graph drawing language.
@@ -650,6 +653,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [python-louvain](http://perso.crans.org/aynaud/communities/) - A solid implementation of Louvain community detection algorithm.
 -   [Snap.py](http://snap.stanford.edu/snappy/index.html) - A Python interface for SNAP (a general purpose, high performance system for analysis and manipulation of large networks).
 -   [SnapVX](https://github.com/snap-stanford/snapvx) - A convex optimization solver for problems defined on a graph.
+-   [tnetwork](https://github.com/Yquetzal/tnetwork) - Python library for temporal networks, and dynamic community detection in particular.
 -   [TQ (Temporal Quantities)](http://vladowiki.fmf.uni-lj.si/doku.php?id=tq) - Python 3 library for temporal network analysis.
 -   [uunet](http://multilayer.it.uu.se/software.html) - Tools for multilayer social networks.
     - [Related book and data](http://multilayer.it.uu.se/). See `multinet` for the R version.
@@ -970,8 +974,9 @@ Alden S. Klovdahl,
 [Alex Loftus](https://github.com/loftusa), 
 [Arun](https://github.com/arunppsg), 
 [Filippo Menczer](https://cnets.indiana.edu/fil/), 
-[Marc Schiller](https://github.com/m4rcs) and 
-[Tanguy Fardet](https://tfardet.srht.site/) - 
+[Marc Schiller](https://github.com/m4rcs), 
+[Tanguy Fardet](https://tfardet.srht.site/) and 
+[Rémy Cazabet](https://github.com/Yquetzal) - 
 have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Robert J. Ackland](https://github.com/rjackland), 
