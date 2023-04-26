@@ -228,7 +228,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [James H. Fowler’s Cosponsorship Network Data Page](http://jhfowler.ucsd.edu/cosponsorship.htm).
 -   [Linton Freeman’s Network Data](http://moreno.ss.uci.edu/data.html) - Over 300 datasets of all sorts, in UCINET format.
 -   [Mangal](http://mangal.io/) - Online platform to analyze, archive and share ecological network data ([preprint](http://biorxiv.org/content/early/2015/02/24/002634), [Python package](https://github.com/mangal-wg/pymangal), [R package](https://github.com/mangal-wg/rmangal)).
--   [Manlio De Domenico’s Complex Multilayer Networks](https://comunelab.fbk.eu/data.php).
+-   [Manlio De Domenico’s Complex Multilayer Networks](https://manliodedomenico.com/data.php).
 -   [Mark E.J. Newman’s Network Data](http://www-personal.umich.edu/~mejn/netdata/) ([example visualizations](http://www-personal.umich.edu/~mejn/networks/)).
 -   [Network Repository](http://networkrepository.com/) - Fully searchable database containing hundreds of real-world networks.
 -   [Network Science Book - Network Datasets](http://networksciencebook.com/translations/en/resources/data.html) - Network data sets from Albert-László Barabási’s _Network Science_ book. Includes data on IMDB actors, arXiv scientific collaboration, network of routers, the US power grid, protein-protein interactions, cell phone users, citation networks, metabolic reactions, e-mail networks, and nd.edu Web pages.
@@ -944,7 +944,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 To the extent possible under law, the authors of this list – by chronological order: [François Briatte](https://f.briatte.org/), 
 [Ian McCulloh](https://www.linkedin.com/in/mcculloh), 
 [Aditya Khanna](http://home.uchicago.edu/~khanna7), 
-[Manlio De Domenico](https://comunelab.fbk.eu/manlio/), 
+[Manlio De Domenico](https://manliodedomenico.com/), 
 Patrick Kaminski, 
 [Ericka Menchen-Trevino](http://www.ericka.cc/), 
 [Tam-Kien Duong](https://github.com/taniki), 
