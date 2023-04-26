@@ -689,12 +689,15 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Connects R, RStudio and JavaScript libraries to draw graph diagrams ([blog post](https://blog.rstudio.org/2015/05/01/rstudio-v0-99-preview-graphviz-and-diagrammer/)).
 -   [dodgr](https://CRAN.R-project.org/package=dodgr) - Computes distances on dual-weighted directed graphs, such as street networks, using priority-queue shortest paths.
 -   [EpiModel](https://CRAN.R-project.org/package=EpiModel) - Tools for simulating mathematical models of infectious disease dynamics ([presentation paper](https://doi.org/10.18637%2Fjss.v084.i08)).
--   [ergm](https://CRAN.R-project.org/package=ergm) - Estimation of Exponential Random Graph Models (ERGM).
+-   [ergm](https://CRAN.R-project.org/package=ergm) - Estimation of Exponential Random Graph Models (ERGMs).
     -   [ERGM: edgecov and dyadcov Specifications](http://mjh4.blogspot.com/2012/09/ergm-edgecov-and-dyadcov-specifications.html).
+-   [ergMargins](https://CRAN.R-project.org/package=ergMargins) - Process analysis for ERGMs.
+-   [ergmito](https://CRAN.R-project.org/package=ergmito) - ERGMs for small networks.
+-   [fergm](https://CRAN.R-project.org/package=fergm) - Frailty ERGMs.
 -   [GERGM](https://CRAN.R-project.org/package=GERGM) - Estimation and diagnosis of the convergence of Generalized Exponential Random Graph Models (GERGM).
--   [geomnet](https://CRAN.R-project.org/package=geomnet) - Single-geometry approach to network visualization with ggplot2.
--   [ggnetwork](https://CRAN.R-project.org/package=ggnetwork) - Multiple-geometries approach to plot network objects with ggplot2.
--   [ggraph](https://CRAN.R-project.org/package=ggraph) - Grammar of graph graphics built in the spirit of ggplot2. See also: `tidygraph` R package.
+-   [geomnet](https://CRAN.R-project.org/package=geomnet) - Single-geometry approach to network visualization with `ggplot2`.
+-   [ggnetwork](https://CRAN.R-project.org/package=ggnetwork) - Multiple-geometries approach to plot network objects with `ggplot2`.
+-   [ggraph](https://CRAN.R-project.org/package=ggraph) - Grammar of graph graphics built in the spirit of `ggplot2`. See also: `tidygraph` R package.
 -   [goldfish](https://github.com/snlab-ch/goldfish) - Dynamic Network Actor-Oriented Model (DyNAM) for the statistical analysis of coordination networks through time.
 -   [graphlayouts](https://CRAN.R-project.org/package=graphlayouts) - Layout algorithms based on the concept of [stress majorization](https://doi.org/10.1007/978-3-540-31843-9_25).
     -   [Introducing graphlayouts with Game of Thrones](http://blog.schochastics.net/post/introducing-graphlayouts-with-got/).
@@ -749,14 +752,14 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [spectralGOF](http://people.bu.edu/jccs/spectralGOF.html) - Computes the spectral goodness of fit (SGOF), a measure of how well a network model explains the structure of an observed network.
 -   [spnet](https://CRAN.R-project.org/package=spnet) - Methods for visualizing spatial networks on maps in the `sp` class.
 -   [spNetwork](https://CRAN.R-project.org/package=spNetwork) - Methods for spatial network analysis, including e.g. kernel density estimation, distances and point pattern analysis.
--   [statnet](http://statnet.org/) - The project behind many R network analysis packages ([mailing-list](https://mailman.u.washington.edu/mailman/listinfo/statnet_help), [wiki](https://statnet.org/trac)).
-    -   [Exponential Random Graph Models (ERGMs) Using statnet](https://statnet.org/trac/raw-attachment/wiki/Sunbelt2015/ergm_tutorial.html) (2015).
+-   [statnet](https://statnet.org/) - The project behind many R network analysis packages ([mailing-list](https://mailman13.u.washington.edu/mailman/listinfo/statnet_help), [tutorials/workshops](https://statnet.org/workshops/)).
+    -   [Exponential Random Graph Models (ERGMs) Using statnet](https://statnet.org/workshop-ergm/ergm_tutorial.html) (2022).
     -   [Guides for Using the statnet Package](http://www.melissaclarkson.com/resources/R_guides/) (2010).
-    -   [Modeling Valued Networks with statnet](https://statnet.org/trac/raw-attachment/wiki/Sunbelt2013/Valued.pdf) (2013).
+    -   [Modeling Valued Networks with statnet](https://statnet.org/workshop-valued/valued.html) (2022).
 -   [tergm](https://CRAN.R-project.org/package=tergm) - Fit, simulate and diagnose models for temporal exponential-family random graph models (TERGM).
 -   [tidygraph](https://CRAN.R-project.org/package=tidygraph) - ‘Tidy’ approach to building graph structures. See also: `ggraph` R package.
     -   [Introducing tidygraph](https://www.data-imaginist.com/2017/introducing-tidygraph/)
-    -   [Tidying up your network analysis with tidygraph and ggraph](https://www.rstudio.com/resources/videos/tidying-up-your-network-analysis-with-tidygraph-and-ggraph/)
+    -   [Tidying up your network analysis with tidygraph and ggraph](https://posit.co/resources/videos/tidying-up-your-network-analysis-with-tidygraph-and-ggraph/)
 -   [tnam](https://CRAN.R-project.org/package=tnam) - Tools to fit temporal and cross-sectional network autocorrelation models (TNAM).
 -   [tnet](https://CRAN.R-project.org/package=tnet) - Network measures for weighted, two-mode and longitudinal networks.
 -   [tsna](https://CRAN.R-project.org/package=tsna) - Tools for temporal social network analysis.
