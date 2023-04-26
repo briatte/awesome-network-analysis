@@ -353,7 +353,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 
 -   [Analyse de réseaux et histoire](https://doi.org/10.3917/rhmc.522.0088), in French (_Revue d’histoire moderne et contemporaine_, 2005).
 -   [Analyser les réseaux du passé en archéologie et en histoire](https://doi.org/10.4000/nda.2300), in French (_Les Nouvelles de l’Archéologie_, 2014).
--   [Formale Methoden der Netzwerkanalyse in den Geschichtswissenschaften: Warum und Wie? [Formal Network Methods in History: Why and How?]](http://www.studienverlag.at/data.cfm?vpath=openaccess/oezg-12012-lemercier&download=yes), in German ([preprint in English](http://halshs.archives-ouvertes.fr/halshs-00521527); _Österreichische Zeitschrift für Geschichtswissenschaften_, 2012).
+-   [Formale Methoden der Netzwerkanalyse in den Geschichtswissenschaften: Warum und Wie? [Formal Network Methods in History: Why and How?]](http://www.studienverlag.at/data.cfm?vpath=openaccess/oezg-12012-lemercier&download=yes), in German ([preprint in English](https://shs.hal.science/halshs-00521527); _Österreichische Zeitschrift für Geschichtswissenschaften_, 2012).
 -   [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources) (_Programming Historian_, 2015).
 -   [Graph Theory and Networks in Biology](https://doi.org/10.1049/iet-syb:20060038) ([preprint](https://arxiv.org/abs/q-bio/0604006); _IET Systems Biology_, 2007).
 -   [Introduction à la visualisation de données : l’analyse de réseau en histoire](https://www.martingrandjean.ch/introduction-visualisation-de-donnees-analyse-de-reseau-histoire/), in French (_Geschichte und Informatik_, 2015).
@@ -552,7 +552,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [algo.graph](https://github.com/clojure/algo.graph) - Basic graph theory algorithms written in Clojure.
 -   [CONGA and CONGO](https://gregory.org/research/networks/software/conga.html) - Algorithms to detect overlapping communities in networks, written in Java.
 -   [ForceAtlas2](https://gephi.wordpress.com/2011/06/06/forceatlas2-the-new-version-of-our-home-brew-layout/) - Force-directed layout included in Gephi ([paper](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0098679)).
--   [Linkcomm - Link Communities in Complex Networks](https://github.com/bagrow/linkcomm) - Community detection algorithms, available in C++, Python [and R](https://cran.r-project.org/package=linkcomm).
+-   [Linkcomm - Link Communities in Complex Networks](https://github.com/bagrow/linkcomm) - Community detection algorithms, available in C++, Python [and R](https://CRAN.R-project.org/package=linkcomm).
 -   [MixNet - Erdös-Rényi Mixture Model for Networks](https://ssbgroup.fr/mixnet.html) - Community detection method, available in C++ and R.
 -   [OSLOM2 - Order Statistics Local Optimization Method](http://www.oslom.org/) - Clustering algorithm.
 -   [vbmod: Variational Bayesian Inference for Network Modularity](https://vbmod.sourceforge.net/) - MATLAB and Python implementations of a [Bayesian community detection algorithm](https://arxiv.org/abs/0709.3512).
@@ -681,14 +681,14 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [bipartite](https://CRAN.R-project.org/package=bipartite) - Functions to visualize bipartite (two-mode) networks and compute indices commonly used in ecological research. See also: `levelnet` R package.
 -   [blockmodeling](https://CRAN.R-project.org/package=blockmodeling) - Implementats generalized blockmodeling for valued networks.
 -   [bnlearn](https://CRAN.R-project.org/package=bnlearn) - Tools for [Bayesian network learning and inference](http://www.bnlearn.com/) ([related Shiny app](https://paulgovan.github.io/RiskNetwork)).
--   [brainGraph](https://cran.r-project.org/package=brainGraph) - Tools for performing graph theory analysis of brain MRI data.
+-   [brainGraph](https://CRAN.R-project.org/package=brainGraph) - Tools for performing graph theory analysis of brain MRI data.
 -   [btergm](https://CRAN.R-project.org/package=btergm) - Tools to fit temporal ERGMs by bootstrapped pseudolikelihood. Also provides MCMC maximum likelihood estimation, goodness of fit for ERGMs, TERGMs, and stochastic actor-oriented models (SAOMs), and tools for the micro-level interpretation of ERGMs and TERGMs.
 -   [CCAS](https://github.com/matthewjdenny/CCAS) - Statistical model for communication networks.
 -   [concoR](https://github.com/aslez/concoR) - Implementation of the CONCOR network blockmodeling algorithm ([blog post](http://badhessian.org/2015/05/concor-in-r/)).
 -   [ContentStructure](https://github.com/matthewjdenny/ContentStructure) - Implements an extension to the [Topic-Partitioned Multinetwork Embeddings (TPME) model](http://dirichlet.net/pdf/krafft12topic-partitioned.pdf).
 -   [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Connects R, RStudio and JavaScript libraries to draw graph diagrams ([blog post](https://blog.rstudio.org/2015/05/01/rstudio-v0-99-preview-graphviz-and-diagrammer/)).
--   [dodgr](https://cran.r-project.org/package=dodgr) - Computes distances on dual-weighted directed graphs, such as street networks, using priority-queue shortest paths.
--   [EpiModel](https://cran.r-project.org/package=EpiModel) - Tools for simulating mathematical models of infectious disease dynamics ([presentation paper](https://doi.org/10.18637%2Fjss.v084.i08)).
+-   [dodgr](https://CRAN.R-project.org/package=dodgr) - Computes distances on dual-weighted directed graphs, such as street networks, using priority-queue shortest paths.
+-   [EpiModel](https://CRAN.R-project.org/package=EpiModel) - Tools for simulating mathematical models of infectious disease dynamics ([presentation paper](https://doi.org/10.18637%2Fjss.v084.i08)).
 -   [ergm](https://CRAN.R-project.org/package=ergm) - Estimation of Exponential Random Graph Models (ERGM).
     -   [ERGM: edgecov and dyadcov Specifications](http://mjh4.blogspot.com/2012/09/ergm-edgecov-and-dyadcov-specifications.html).
 -   [GERGM](https://CRAN.R-project.org/package=GERGM) - Estimation and diagnosis of the convergence of Generalized Exponential Random Graph Models (GERGM).
@@ -696,7 +696,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [ggnetwork](https://CRAN.R-project.org/package=ggnetwork) - Multiple-geometries approach to plot network objects with ggplot2.
 -   [ggraph](https://CRAN.R-project.org/package=ggraph) - Grammar of graph graphics built in the spirit of ggplot2. See also: `tidygraph` R package.
 -   [goldfish](https://github.com/snlab-ch/goldfish) - Dynamic Network Actor-Oriented Model (DyNAM) for the statistical analysis of coordination networks through time.
--   [graphlayouts](https://cran.r-project.org/package=graphlayouts) - Layout algorithms based on the concept of [stress majorization](https://doi.org/10.1007/978-3-540-31843-9_25).
+-   [graphlayouts](https://CRAN.R-project.org/package=graphlayouts) - Layout algorithms based on the concept of [stress majorization](https://doi.org/10.1007/978-3-540-31843-9_25).
     -   [Introducing graphlayouts with Game of Thrones](http://blog.schochastics.net/post/introducing-graphlayouts-with-got/).
     -   [Network Visualizations in R using ggraph and graphlayouts](http://mr.schochastics.net/netVizR.html).
 -   [hergm](https://CRAN.R-project.org/package=hergm) - Estimate and simulate hierarchical exponential-family random graph models (HERGM) with local dependence.
@@ -709,14 +709,14 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [levelnet](https://github.com/schochastics/levelnet) - Experimental package to analyze one-mode projections of bipartite (two-mode) networks. See also: `bipartite` R package.
 -   [lpNet](https://www.bioconductor.org/packages/release/bioc/html/lpNet.html) - Linear programming model aimed at infering biological (signalling, gene) networks.
 -   [multigraphr](https://github.com/termehs/multigraphr) - Random multigraph models, statisticsof multigraph properties, and goodness of fit tests.
--   [multinet](https://cran.r-project.org/package=multinet) - Tools for multilayer social networks.
+-   [multinet](https://CRAN.R-project.org/package=multinet) - Tools for multilayer social networks.
     - [Related book and data](http://multilayer.it.uu.se/), and [presentation article](http://multilayer.it.uu.se/papers/jss.pdf). See `uunet` for the Python version.
--   [migraph](https://cran.r-project.org/web/packages/migraph/) - A set of tools that extend common social network analysis packages for analysing multimodal and multilevel networks.
+-   [migraph](https://CRAN.R-project.org/web/packages/migraph/) - A set of tools that extend common social network analysis packages for analysing multimodal and multilevel networks.
 -   [ndtv](https://CRAN.R-project.org/package=ndtv) - Tools to construct animated visualizations of dynamic network data in various formats.
 -   [neo4r](https://github.com/neo4j-rstats/neo4r) - Neo4J driver for R.
 -   [networkD3](http://christophergandrud.github.io/networkD3/) - Create d3.js network graphs from R.
 -   [netdiffuseR](https://CRAN.R-project.org/package=netdiffuseR) - Tools to analyze the network diffusion of innovations.
--   [netrankr](https://cran.r-project.org/package=netrankr) - Up-to-date collection of network centrality indices, with lots of documentation.
+-   [netrankr](https://CRAN.R-project.org/package=netrankr) - Up-to-date collection of network centrality indices, with lots of documentation.
     -   [Network Centrality in R: An Introduction](http://blog.schochastics.net/post/network-centrality-in-r-introduction/) - Includes a review of relevant R packages.
     -   [Network Centrality in R: Neighborhood Inclusion](http://blog.schochastics.net/post/network-centrality-in-r-neighborhood-inclusion/).
     -   [Network Centrality in R: New Ways of Measuring Centrality](http://blog.schochastics.net/post/network-centrality-in-r-new-ways-of-measuring-centrality/) (2018).
@@ -735,7 +735,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
     -   [qgraph Examples](http://sachaepskamp.com/qgraph/examples).
     -   [qgraph: Network Visualizations of Relationships in Psychometric Data](https://www.jstatsoft.org/article/view/v048i04) (2012).
 -   [relevent](https://CRAN.R-project.org/package=relevent) - Tools to fit relational event models (REM).
-    -   [informR](https://cran.r-project.org/package=informR) - Tools to create sequence statistics from event lists to be used in `relevent`.
+    -   [informR](https://CRAN.R-project.org/package=informR) - Tools to create sequence statistics from event lists to be used in `relevent`.
 -   [rem](https://CRAN.R-project.org/package=rem) - Estimate endogenous network effects in event sequences and fit relational event models (REM), which measure how networks form and evolve over time.
 -   [rgexf](https://CRAN.R-project.org/package=rgexf) - Export network objects from R to GEXF for manipulation with software like Gephi or Sigma.
 -   [Rgraphviz](https://bioconductor.org/packages/release/bioc/html/Rgraphviz.html) - Support for using the Graphviz library and its DOT graph drawing language from within R.
@@ -748,7 +748,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [SocialMediaLab](https://CRAN.R-project.org/package=SocialMediaLab) - Tools for collecting social media data and generating networks from it ([companion website](http://vosonlab.net/SocialMediaLab), [github repo](https://github.com/voson-labSocialMediaLab)).
 -   [spectralGOF](http://people.bu.edu/jccs/spectralGOF.html) - Computes the spectral goodness of fit (SGOF), a measure of how well a network model explains the structure of an observed network.
 -   [spnet](https://CRAN.R-project.org/package=spnet) - Methods for visualizing spatial networks on maps in the `sp` class.
--   [spNetwork](https://cran.r-project.org/package=spNetwork) - Methods for spatial network analysis, including e.g. kernel density estimation, distances and point pattern analysis.
+-   [spNetwork](https://CRAN.R-project.org/package=spNetwork) - Methods for spatial network analysis, including e.g. kernel density estimation, distances and point pattern analysis.
 -   [statnet](http://statnet.org/) - The project behind many R network analysis packages ([mailing-list](https://mailman.u.washington.edu/mailman/listinfo/statnet_help), [wiki](https://statnet.org/trac)).
     -   [Exponential Random Graph Models (ERGMs) Using statnet](https://statnet.org/trac/raw-attachment/wiki/Sunbelt2015/ergm_tutorial.html) (2015).
     -   [Guides for Using the statnet Package](http://www.melissaclarkson.com/resources/R_guides/) (2010).
@@ -938,7 +938,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 
 > Also known as bipartite graphs.
 
--   [L’analyse des graphes bipartis](https://halshs.archives-ouvertes.fr/FMR/halshs-00794976), in French (2013).
+-   [L’analyse des graphes bipartis](https://shs.hal.science/halshs-00794976), in French (2013).
 -   [Basic Notions for the Analysis of Large Two-mode Networks](https://doi.org/10.1016/j.socnet.2007.04.006)  ([preprint](https://www-complexnetworks.lip6.fr/~latapy/Publis/socnet07.pdf), [related code](https://www-complexnetworks.lip6.fr/~latapy/Bip/); _Social Networks_, 2008).
 -   [Fitting Large Signed Two-mode Blockmodels: Problems and Prospects](http://patrickdoreian.com/wp-content/uploads/2017/12/large-signed-2mode-networks_UNGA.pdf).
 -   [Generalized Blockmodeling of Two-mode Network Data](https://doi.org/10.1016/j.socnet.2004.01.002) ([preprint](http://vlado.fmf.uni-lj.si/pub/networks/doc/preprint/TwoMode.pdf)).
@@ -982,7 +982,7 @@ Alden S. Klovdahl,
 [Sandra Becker](https://github.com/sandravizmad), 
 [Benedek Rozemberczki](https://github.com/benedekrozemberczki), 
 [Xing Han Lu](https://xinghanlu.com/), 
-[Vincent Labatut](https://cv.archives-ouvertes.fr/vlabatut), 
+[Vincent Labatut](https://cv.hal.science/vlabatut), 
 [David Schoch](http://mr.schochastics.net/), 
 [Jaewon Chung](https://github.com/j1c), 
 [Benedek Rozemberczki](https://github.com/benedekrozemberczki), 
@@ -997,7 +997,7 @@ Alden S. Klovdahl,
 have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Robert J. Ackland](https://github.com/rjackland), 
-[Laurent Beauguitte](https://cv.archives-ouvertes.fr/laurent-beauguitte), 
+[Laurent Beauguitte](https://cv.hal.science/laurent-beauguitte), 
 [Patrick Connolly](http://nodescription.net/), 
 [Michael Dorman](http://geobgu.xyz/), 
 [Colin Fay](https://colinfay.me/), 
