@@ -930,7 +930,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, the authors of this list – by chronological order: [François Briatte](http://f.briatte.org/), 
+To the extent possible under law, the authors of this list – by chronological order: [François Briatte](https://f.briatte.org/), 
 [Ian McCulloh](https://www.linkedin.com/in/mcculloh), 
 [Aditya Khanna](http://home.uchicago.edu/~khanna7), 
 [Manlio De Domenico](https://comunelab.fbk.eu/manlio/), 
