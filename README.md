@@ -627,7 +627,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 > See also [Social Network Analysis with Python](https://www.youtube.com/watch?v=qgGqaBAEy3Q), a 3-hour tutorial by Maksim Tsvetovat and Alex Kouznetsov given at PyCon US 2012 ([code](https://github.com/maksim2042/PyCon2012)).  
 > For more awesome Python packages, see the [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome Python Books](https://github.com/Junnplus/awesome-python-books) lists.
 
--   [Bokeh](https://bokeh.org/) - Interactive Data Visualization in the browser, from Python
+-   [bokeh](https://bokeh.org/) - Python library for interactive data visualization in the browser, with support for networks.
 -   [dash-cytoscape](https://github.com/plotly/dash-cytoscape) - Interactive network visualization library in Python, powered by Cytoscape.js and Dash
 -   [graph-tool](http://graph-tool.skewed.de/) - Python module for network manipulation and analysis, written mostly in C++ for speed.
 -   [graphviz](https://pypi.python.org/pypi/graphviz) - Python renderer for the DOT graph drawing language.
@@ -964,9 +964,10 @@ Alden S. Klovdahl,
 [David Schoch](http://mr.schochastics.net/), 
 [Jaewon Chung](https://github.com/j1c), 
 [Benedek Rozemberczki](https://github.com/benedekrozemberczki), 
-[Alex Loftus](https://github.com/loftusa),
-[Arun](https://github.com/arunppsg) and
-[Filippo Menczer](https://cnets.indiana.edu/fil/) – 
+[Alex Loftus](https://github.com/loftusa), 
+[Arun](https://github.com/arunppsg), 
+[Filippo Menczer](https://cnets.indiana.edu/fil/) and 
+[Marc Schiller](https://github.com/m4rcs) – 
 have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Robert J. Ackland](https://github.com/rjackland), 
