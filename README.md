@@ -736,7 +736,8 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
     - [Introduction to snahelper (Part 2)](http://blog.schochastics.net/post/new-rstudio-addins-for-network-analysis/)
 -   [SocialMediaLab](https://CRAN.R-project.org/package=SocialMediaLab) - Tools for collecting social media data and generating networks from it ([companion website](http://vosonlab.net/SocialMediaLab), [github repo](https://github.com/voson-labSocialMediaLab)).
 -   [spectralGOF](http://people.bu.edu/jccs/spectralGOF.html) - Computes the spectral goodness of fit (SGOF), a measure of how well a network model explains the structure of an observed network.
--   [spnet](https://CRAN.R-project.org/package=spnet) - Methods for dealing with spatial social networks.
+-   [spnet](https://CRAN.R-project.org/package=spnet) - Methods for visualizing spatial networks on maps in the `sp` class.
+-   [spNetwork](https://cran.r-project.org/package=spNetwork) - Methods for spatial network analysis, including e.g. kernel density estimation, distances and point pattern analysis.
 -   [statnet](http://statnet.org/) - The project behind many R network analysis packages ([mailing-list](https://mailman.u.washington.edu/mailman/listinfo/statnet_help), [wiki](https://statnet.org/trac)).
     -   [Exponential Random Graph Models (ERGMs) Using statnet](https://statnet.org/trac/raw-attachment/wiki/Sunbelt2015/ergm_tutorial.html) (2015).
     -   [Guides for Using the statnet Package](http://www.melissaclarkson.com/resources/R_guides/) (2010).
@@ -979,8 +980,9 @@ Alden S. Klovdahl,
 [Filippo Menczer](https://cnets.indiana.edu/fil/), 
 [Marc Schiller](https://github.com/m4rcs), 
 [Tanguy Fardet](https://tfardet.srht.site/), 
-[Bernhard Bieri](https://bernhardbieri.ch/) and 
-[Rémy Cazabet](https://github.com/Yquetzal) - 
+[Bernhard Bieri](https://bernhardbieri.ch/), 
+[Rémy Cazabet](https://github.com/Yquetzal) and 
+[Jeremy Gelb](https://github.com/JeremyGelb) - 
 have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Robert J. Ackland](https://github.com/rjackland), 
