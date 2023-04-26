@@ -252,7 +252,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   _[ARCS – Analyse de réseaux pour les sciences sociales / Network Analysis for the Social Sciences](http://arcs.episciences.org/)_, in English and in French ([GDR ARSHS](https://arshs.hypotheses.org/)).
 -   _[Computational and Mathematical Organization Theory](http://link.springer.com/journal/10588)_ (Springer, gated).
 -   _[Computational Social Networks](http://computationalsocialnetworks.springeropen.com/)_ (Springer Open).
--   _[Connections](http://www.insna.org/connections.html)_ (INSNA).
+-   _[Connections](http://www.insna.org/connections.html)_ (INSNA). Twitter: [@ConnectionsSNA](https://twitter.com/ConnectionsSNA).
 -   _[IEEE Transactions on Network Science and Engineering](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&punumber=6488902)_ (IEEE).
 -   _[Journal of Complex Networks](https://academic.oup.com/comnet)_ (Oxford, gated).
 -   _[The Journal of Mathematical Sociology](http://www.tandfonline.com/loi/gmas20)_ (Taylor & Francis, gated).
@@ -270,10 +270,11 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [APSA Political Networks](http://www.polinetworks.org/) - Organized Section of the American Political Science Association (APSA). Twitter: [@PolNetworks](https://twitter.com/PolNetworks).
 -   [ECPR Political Networks SG](https://politicalnetsecpr.wordpress.com/) - Standing Group of the European Consortium for Political Research. Twitter: [@politicalnets](https://twitter.com/politicalnets).
 -   [GDR ARSHS - GDR Analyse de réseaux en sciences humaines et sociales](http://arshs.hypotheses.org/), in French - Research group based in Paris.
--   [Groupe FMR - Flux, Matrices, Réseaux](http://groupefmr.hypotheses.org/), in French.
--   [INSNA - International Network for Social Network Analysis](https://www.insna.org/) ([SOCNET mailing-list](https://www.insna.org/socnet)).
+-   [Groupe FMR - Flux, Matrices, Réseaux](http://groupefmr.hypotheses.org/), in French. Twitter: [@BaugLaurent](https://twitter.com/BaugLaurent).
+-   [INSNA - International Network for Social Network Analysis](https://www.insna.org/) ([SOCNET mailing-list](https://www.insna.org/socnet)). Twitter: [@SocNetAnalysts](https://twitter.com/SocNetAnalysts).
 -   [Mathematical Sociology Section of the American Sociological Association (ASA)](http://www.asanet.org/asa-communities/sections/mathematical-sociology).
--   [NetSci - Network Science Society](http://www.netscisociety.net/).
+-   [NetSci - Network Science Society](http://www.netscisociety.net/). Twitter: [@netscisociety](https://twitter.com/netscisociety).
+-   [Society of Young Network Scientists (SYNS)](https://society-of-young-network-scientists.github.io/). Supports early-career network scientists. Twitter: [@official_SYNS](https://twitter.com/official_SYNS).
 
 ### Research Groups (USA)
 
@@ -322,8 +323,8 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [ANR-Lab - International Laboratory for Applied Network Research](https://anr.hse.ru/en/) - Russian group based at the National Research University in Moscow.
     -   [Theory and Methods in Network Analysis (“TMSA”) Summer Schools](https://anr.hse.ru/en/summer).
 -   [Large Graphs and Networks](http://sites.uclouvain.be/networks/) - Research group at the Catholic University of Louvain ([official page](https://uclouvain.be/en/research-institutes/icteam/large-graphs-and-networks.html)).
--   [MelNet Social Network Research Group, Swinburne University of Technology](http://www.swinburne.edu.au/fbl/research/transformative-innovation/our-research/MelNet-social-network-group/).
--   [Mitchell Centre for Social Network Analysis, University of Manchester](http://www.socialsciences.manchester.ac.uk/mitchell-centre/) - Currently studies [covert networks](http://www.socialsciences.manchester.ac.uk/mitchell-centre/research/covert-networks/).
+-   [MelNet Social Network Research Group, Swinburne University of Technology](http://www.swinburne.edu.au/fbl/research/transformative-innovation/our-research/MelNet-social-network-group/). Twitter: [@melnetsna](https://twitter.com/melnetsna).
+-   [Mitchell Centre for Social Network Analysis, University of Manchester](http://www.socialsciences.manchester.ac.uk/mitchell-centre/) - Currently studies [covert networks](http://www.socialsciences.manchester.ac.uk/mitchell-centre/research/covert-networks/). Twitter: [@MitchellSNA](https://twitter.com/MitchellSNA).
 -   [Murata Laboratory](http://www.net.c.titech.ac.jp/) - Tokyo-based research group, studying bi-, tri- and k-partite (hyper)networks.
 -   [NetLab](http://www.urbancentre.utoronto.ca/researchgroups/netlab.html) - Research network at the University of Toronto, led by Barry Wellman.
 -   [Network Science Research Centre, Swansea University](http://www.swansea.ac.uk/medicine/enterpriseandinnovation/networkscienceresearchcentre/).
@@ -668,7 +669,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [amen](https://CRAN.R-project.org/package=amen) - Additive and multiplicative effects models for relational data.
 -   [backbone](https://CRAN.R-project.org/package=backbone) - Provides methods for binarizing a weighted network retaining only significant edges.
     - [Introduction to the backbone package](https://arxiv.org/abs/1912.12779)
--   [Bergm](https://CRAN.R-project.org/package=Bergm) - Tools to analyse Bayesian exponential random graph models (BERGM).
+-   [Bergm](https://CRAN.R-project.org/package=Bergm) - Tools to analyse Bayesian exponential random graph models (BERGM). Related Twitter: [@BayesianSNA](https://twitter.com/BayesianSNA).
 -   [bipartite](https://CRAN.R-project.org/package=bipartite) - Functions to visualize bipartite (two-mode) networks and compute indices commonly used in ecological research. See also: `levelnet` R package.
 -   [blockmodeling](https://CRAN.R-project.org/package=blockmodeling) - Implementats generalized blockmodeling for valued networks.
 -   [bnlearn](https://CRAN.R-project.org/package=bnlearn) - Tools for [Bayesian network learning and inference](http://www.bnlearn.com/) ([related Shiny app](https://paulgovan.github.io/RiskNetwork)).
