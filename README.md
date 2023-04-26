@@ -490,6 +490,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
     -   [Practical Social Network Analysis With Gephi](http://derekgreene.com/gephitutorial/) (2014).
 -   [GLEAMviz Simulator](http://www.gleamviz.org/) - Cross-platform tool intended for the prediction of human epidemics.
 -   [Graph Commons](https://graphcommons.com/) - Collaborative platform for mapping, analyzing and publishing data-networks.
+-   [Graphia](https://graphia.app/) - Cross-platform tool to visualize large and complex networks ([announcement](https://www.cnn.group.cam.ac.uk/news/Graphia-April19)).
 -   [Graphviz](http://www.graphviz.org/) - Cross-platform software to draw graphs in the DOT graph drawing language.
 -   [Graphy](https://github.com/bruce/graphy) - Graph theory library written in Ruby.
 -   [GraphX](https://spark.apache.org/graphx/) - [Apache Spark](https://spark.apache.org/) module to perform graph-related parallel computation.
