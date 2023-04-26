@@ -241,6 +241,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [SocioPatterns Datasets](http://www.sociopatterns.org/datasets/) - Network data obtained through the [SocioPatterns](http://www.sociopatterns.org/) sensing platform.
 -   [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html).
 -   [tnet Datasets](https://toreopsahl.com/datasets/) - Weighted network data.
+-   [UC Berkeley Social Networks Study (UCNets)](https://www.icpsr.umich.edu/web/ICPSR/studies/36975) - Ego-centric data (personal networks) from a five-year panel study.
 -   [UCI Network Data Repository](http://networkdata.ics.uci.edu/).
 -   [UCINET Datasets](https://sites.google.com/site/ucinetsoftware/datasets) - Network data in UCINET format.
 
@@ -998,6 +999,7 @@ Thanks to [Robert J. Ackland](https://github.com/rjackland),
 [Wouter de Nooy](https://www.uva.nl/profiel/n/o/w.denooy/w.denooy.html), 
 [Katya Ognyanova](http://kateto.net/), 
 [Camille Roth](http://camille.roth.free.fr/), 
+[Claude S. Fischer](https://sociology.berkeley.edu/faculty/claude-s-fischer), 
 [Cosma Shalizi](http://www.stat.cmu.edu/~cshalizi/), 
 [Tom A.B. Snijders](https://www.stats.ox.ac.uk/~snijders/), 
 [Chris Watson](https://profiles.bu.edu/Christopher.Watson) and [Tim A. Wheeler](https://github.com/tawheeler), who helped locating some of the awesome resources featured in this list.
