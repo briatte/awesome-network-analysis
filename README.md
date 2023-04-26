@@ -257,7 +257,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   _[Computational and Mathematical Organization Theory](http://link.springer.com/journal/10588)_ (Springer, gated).
 -   _[Computational Social Networks](http://computationalsocialnetworks.springeropen.com/)_ (Springer Open).
 -   _[Connections](http://www.insna.org/connections.html)_ (INSNA). Twitter: [@ConnectionsSNA](https://twitter.com/ConnectionsSNA).
--   _[IEEE Transactions on Network Science and Engineering](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&punumber=6488902)_ (IEEE).
+-   _[IEEE Transactions on Network Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902)_ (IEEE).
 -   _[Journal of Complex Networks](https://academic.oup.com/comnet)_ (Oxford, gated).
 -   _[The Journal of Mathematical Sociology](http://www.tandfonline.com/loi/gmas20)_ (Taylor & Francis, gated).
 -   _[Journal of Social Structure](https://www.exeley.com/journal/journal_of_social_structure)_ (INSNA). [Older archives](http://www.cmu.edu/joss).
@@ -393,7 +393,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Complex Systems and Networks](https://www.science.org/toc/science/325/5939) (special issue of _Science_, 2009).
 -   [Multilayer Networks in a Nutshell](https://doi.org/10.1146/annurev-conmatphys-031218-013259) (_Annual Review of Condensed Matter Physics_, 2019).
 -   [Statistical Mechanics of Complex Networks](https://barabasi.com/f/103.pdf) (_Reviews of Modern Physics_, 2002).
--   [The Structure and Function of Complex Networks](http://epubs.siam.org/doi/abs/10.1137/S003614450342480) (_SIAM Review_, 2003).
+-   [The Structure and Function of Complex Networks](https://doi.org/10.1137/S003614450342480) (_SIAM Review_, 2003).
 
 ### Ethics of Network Analysis
 
@@ -483,7 +483,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Discourse Network Analyzer (DNA)](http://www.philipleifeld.com/discourse-network-analyzer/discourse-network-analyzer-dna.html) - Qualitative content analysis tool with network export facilities, written in Java with R integration.
 -   [E-Net](https://sites.google.com/site/enetsoftware1/) - Windows program for ego network analysis.
 -   [EgoNet](https://sourceforge.net/projects/egonet/) - Cross-platform Java program for ego network analysis.
--   [EgoWeb](http://egoweb.wikispaces.com/EgoWeb+2.0+Home) - Server-side software for social network data collection and processing.
+-   [EgoWeb](https://www.qualintitative.com/egoweb/) - Server-side software for social network data collection and processing.
 -   [easyN](http://www.esyn.org/) - Online tool aimed at representing and sharing gene interaction networks as well as Petri net models.
 -   [Gephi](https://gephi.github.io/) - Cross-platform, free and open source tool for network visualization.
     -   [Clément Levallois’ Gephi Tutorials](https://seinecle.github.io/gephi-tutorials/).
@@ -827,7 +827,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Plan interactif du métro](http://www.jeromecukier.net/projects/metro/map.html) - Interactive visualization of the Paris metro network, drawn with d3.js, in French.
 -   [Psych Networks](http://psych-networks.com/) - Website with news, references and [tutorials](https://psych-networks.com/tutorials/) about network modeling for psychological data.
   - [Tutorial Paper on New Methods for Estimating Psychological Networks](http://psych-networks.com/tutorial-paper-new-methods-estimating-psychological-networks/).
--   [(Psychological) Network Analysis Workshops](http://eiko-fried.com/network-workshop/) - 3-day workshop on psychological network analysis using R.
+-   [(Psychological) Network Analysis Workshops](https://osf.io/6axte/) - 3-day workshop on psychological network analysis using R (2019).
 -   [Should I do Social Network Analysis?](https://cvcedhlab.hypotheses.org/125).
 -   [The Small World of Psychopathology](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0027407) - Paper on how psychiatric symptoms connec to each other ([code, data and graphs](https://sites.google.com/site/dsmgraphs/Home/files)).
 -   [Social Network Analysis in DBpedia](http://othes.univie.ac.at/12285/1/2010-10-14_0703857.pdf) - Highly didactic Master’s dissertation, showing how to use SPARQL and Pajek.
@@ -957,7 +957,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 
 To the extent possible under law, the authors of this list – by chronological order: [François Briatte](https://f.briatte.org/), 
 [Ian McCulloh](https://www.linkedin.com/in/mcculloh), 
-[Aditya Khanna](http://home.uchicago.edu/~khanna7), 
+[Aditya Khanna](https://vivo.brown.edu/display/akhann16), 
 [Manlio De Domenico](https://manliodedomenico.com/), 
 Patrick Kaminski, 
 [Ericka Menchen-Trevino](http://www.ericka.cc/), 
@@ -1002,7 +1002,7 @@ have waived all copyright and related or neighboring rights to this work.
 Thanks to [Robert J. Ackland](https://github.com/rjackland), 
 [Laurent Beauguitte](https://cv.hal.science/laurent-beauguitte), 
 [Patrick Connolly](http://nodescription.net/), 
-[Michael Dorman](http://geobgu.xyz/), 
+[Michael Dorman](https://geobgu.xyz/), 
 [Colin Fay](https://colinfay.me/), 
 [Marc Flandreau](https://www.history.upenn.edu/people/faculty/marc-flandreau), 
 [Eiko Fried](https://eiko-fried.com/), 
