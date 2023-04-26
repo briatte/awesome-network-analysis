@@ -124,6 +124,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   _Inferential Network Analysis_, by Skyler J. Cranmer, Bruce A. Desmarais and Jason Morgan (forthcoming).
 -   _[Multilayer Social Networks](http://multilayer.it.uu.se/book.html)_, by Mark E. Dickison, Matteo Magnani and Luca Rossi (2016).
 -   _[Multilevel Network Analysis for the Social Sciences](https://www.springer.com/fr/book/9783319245188)_, edited by Emmanuel Lazega and Tom A.B. Snijders (2016).
+-   _[Multimodal Political Networks](https://www.cambridge.org/core/books/multimodal-political-networks/43EE8C192A1B0DCD65B4D9B9A7842128)_, by David Knoke, Mario Diani, James Hollway and Dimitri Christopulos (2021).
 -   _[Multivariate Network Visualization](https://www.springer.com/us/book/9783319067926)_, edited by Andreas Kerren, Helen C. Purchase and Matthew O. Ward (2014).
 -   _[Network Analysis in Archaeology](https://global.oup.com/academic/product/network-analysis-in-archaeology-9780199697090)_, edited by Carl Knappett (2013; [review in French](https://journals.openedition.org/nda/2383)).
 -   _[Network Analysis: Methodological Foundations](https://www.springer.com/fr/book/9783540249795)_, edited by Ulrik Brandes and Thomas Erlebach - Covers network centrality, clustering, blockmodels, spatial networks and more (2005).
@@ -684,6 +685,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [geomnet](https://CRAN.R-project.org/package=geomnet) - Single-geometry approach to network visualization with ggplot2.
 -   [ggnetwork](https://CRAN.R-project.org/package=ggnetwork) - Multiple-geometries approach to plot network objects with ggplot2.
 -   [ggraph](https://CRAN.R-project.org/package=ggraph) - Grammar of graph graphics built in the spirit of ggplot2. See also: `tidygraph` R package.
+-   [goldfish](https://github.com/snlab-ch/goldfish) - Dynamic Network Actor-Oriented Model (DyNAM) for the statistical analysis of coordination networks through time.
 -   [graphlayouts](https://cran.r-project.org/package=graphlayouts) - Layout algorithms based on the concept of [stress majorization](https://doi.org/10.1007/978-3-540-31843-9_25).
     -   [Introducing graphlayouts with Game of Thrones](http://blog.schochastics.net/post/introducing-graphlayouts-with-got/).
     -   [Network Visualizations in R using ggraph and graphlayouts](http://mr.schochastics.net/netVizR.html).
@@ -698,6 +700,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [lpNet](https://www.bioconductor.org/packages/release/bioc/html/lpNet.html) - Linear programming model aimed at infering biological (signalling, gene) networks.
 -   [multinet](https://cran.r-project.org/package=multinet) - Tools for multilayer social networks.
     - [Related book and data](http://multilayer.it.uu.se/), and [presentation article](http://multilayer.it.uu.se/papers/jss.pdf). See `uunet` for the Python version.
+-   [migraph](https://cran.r-project.org/web/packages/migraph/) - A set of tools that extend common social network analysis packages for analysing multimodal and multilevel networks.
 -   [ndtv](https://CRAN.R-project.org/package=ndtv) - Tools to construct animated visualizations of dynamic network data in various formats.
 -   [neo4r](https://github.com/neo4j-rstats/neo4r) - Neo4J driver for R.
 -   [networkD3](http://christophergandrud.github.io/networkD3/) - Create d3.js network graphs from R.
@@ -975,7 +978,8 @@ Alden S. Klovdahl,
 [Arun](https://github.com/arunppsg), 
 [Filippo Menczer](https://cnets.indiana.edu/fil/), 
 [Marc Schiller](https://github.com/m4rcs), 
-[Tanguy Fardet](https://tfardet.srht.site/) and 
+[Tanguy Fardet](https://tfardet.srht.site/), 
+[Bernhard Bieri](https://bernhardbieri.ch/) and 
 [Rémy Cazabet](https://github.com/Yquetzal) - 
 have waived all copyright and related or neighboring rights to this work.
 
