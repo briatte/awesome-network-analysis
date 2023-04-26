@@ -642,6 +642,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [networkx](http://networkx.github.io/) - Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
     -   [Implementing an ERGM from Scratch in Python](https://gist.github.com/dmasad/8509304), using networkx and numpy (2014).
     -   [nxviz](https://github.com/ericmjl/nxviz/) - Visualization package for NetworkX.
+-   [nngt](https://nngt.readthedocs.io) - Library-agnostic graph generation and analysis that wraps around `networkx`, `igraph` and `graph-tool`). Includes normalized graph measures, advanced visualizations, (geo)spatial tools, and interfaces for neuroscience simulators.
 -   [npartite](https://github.com/ike002jp/npartite) - Python algorithms for community detection in n-partite networks.
 -   [PyGraphistry](https://github.com/graphistry/pygraphistry) - Python library to extract, transform, and visually explore big graphs.
 -   [python-igraph](http://igraph.org/python/) - Python version of the igraph network analysis package.
@@ -967,8 +968,9 @@ Alden S. Klovdahl,
 [Benedek Rozemberczki](https://github.com/benedekrozemberczki), 
 [Alex Loftus](https://github.com/loftusa), 
 [Arun](https://github.com/arunppsg), 
-[Filippo Menczer](https://cnets.indiana.edu/fil/) and 
-[Marc Schiller](https://github.com/m4rcs) – 
+[Filippo Menczer](https://cnets.indiana.edu/fil/), 
+[Marc Schiller](https://github.com/m4rcs) and 
+[Tanguy Fardet](https://tfardet.srht.site/) - 
 have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Robert J. Ackland](https://github.com/rjackland), 
