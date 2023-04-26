@@ -121,7 +121,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   _[Knoten und Kanten. Soziale Netzwerkanalyse in Wirtschafts- und Migrationsforschung](http://www.transcript-verlag.de/978-3-8376-1311-7/knoten-und-kanten)_, edited by Markus Gamper and Linda Reschke, in German (2010).
 -   _[Knoten und Kanten 2.0. Soziale Netzwerkanalyse in Medienforschung und Kulturanthropologie](http://www.transcript-verlag.de/978-3-8376-1927-0/knoten-und-kanten-2.0)_, edited by Markus Gamper, Linda Reschke and Michael Schönhuth, in German (2012).
 -   _[Knoten und Kanten III. Soziale Netzwerkanalyse in Geschichts- und Politikforschung]()_, edited by Markus Gamper, Linda Reschke and Marten Düring, in German and English (2015).
--   _Inferential Network Analysis_, by Skyler J. Cranmer, Bruce A. Desmarais and Jason Morgan (forthcoming).
+-   _[Inferential Network Analysis](https://www.cambridge.org/highereducation/books/inferential-network-analysis/A7797D36A24647AA1F900CE7EF694C7E)_, by Skyler J. Cranmer, Bruce A. Desmarais and Jason Morgan (2020).
 -   _[Multilayer Social Networks](http://multilayer.it.uu.se/book.html)_, by Mark E. Dickison, Matteo Magnani and Luca Rossi (2016).
 -   _[Multilevel Network Analysis for the Social Sciences](https://www.springer.com/fr/book/9783319245188)_, edited by Emmanuel Lazega and Tom A.B. Snijders (2016).
 -   _[Multimodal Political Networks](https://www.cambridge.org/core/books/multimodal-political-networks/43EE8C192A1B0DCD65B4D9B9A7842128)_, by David Knoke, Mario Diani, James Hollway and Dimitri Christopulos (2021).
@@ -366,7 +366,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Atypical Combinations and Scientific Impact](http://science.sciencemag.org/content/342/6157/468) (_Science_, 2013).
 -   [On Bibliographic Networks](http://link.springer.com/article/10.1007%2Fs11192-012-0940-1) (_Scientometrics_, 2013).
 -   [Dynamic Scientific Co-Authorship Networks](http://patrickdoreian.com/wp-content/uploads/2017/12/dynamic-scientific-coauthorship-networks.pdf) (_[Models of Science Dynamics](https://www.springer.com/us/book/9783642230677)_, 2012).
--   [Extracting Citation Networks from Publications in Classics](https://zenodo.org/record/46328) (_Digital Humanities Quarterly_, forthcoming).
+-   [Extracting Citation Networks from Publications in Classics](http://www.digitalhumanities.org/dhq/vol/10/2/000255/000255.html) (_Digital Humanities Quarterly_, 2016).
 -   [Self-Citations, Co-Authorships and Keywords: A New Approach to Scientists’ Field Mobility?](https://link.springer.com/article/10.1007/s11192-007-1680-5) (_Scientometrics_, 2007).
 -   [Socio-Semantic Frameworks](http://www.worldscientific.com/doi/abs/10.1142/S0219525913500136) ([preprint](http://camille.roth.free.fr/travaux/roth--sociosemantic-systems-acs-proofs.pdf); _Advances in Complex Systems_, 2013).
 -   [Socio-Semantic Modeling of Epistemic Communities](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2452614) (APSA, 2014).
@@ -403,7 +403,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [A Brief History of Statistical Models for Network Analysis and Open Challenges][fienberg2012] (_Journal of Computational and Graphical Statistics_, 2012).
 -   [Basic Models and Questions in Statistical Network Analysis](https://projecteuclid.org/euclid.ssu/1504836152) (_Statistics Surveys_, 2017).
 -   [Introduction to Stochastic Actor-Based Models for Network Dynamics](http://www.sciencedirect.com/science/article/pii/S0378873309000069) ([preprint](http://www.stats.ox.ac.uk/~snijders/SnijdersSteglichVdBunt2009.pdf); _Social Networks_, 2010).
--   Navigating the Range of Statistical Tools for Inferential Network Analysis (_American Journal of Political Science_, forthcoming 2016).
+-   [Navigating the Range of Statistical Tools for Inferential Network Analysis](https://doi.org/10.1111/ajps.12263) (_American Journal of Political Science_, 2017).
 -   [Positional Analysis and Blockmodeling](http://link.springer.com/referenceworkentry/10.1007%2F978-1-4614-1800-9_138) (<!-- [preprint](http://patrickdoreian.com/NEW/wp-content/papers_resources/chapters/Positional_Analysis_and_Blockmodeling.pdf);  -->_Computational Complexity_, 2012).
 -   [Social Network Evolution and Actor Oriented Models](https://journals.openedition.org/msh/2750) (_Mathematics & Social Sciences_, 1997).
 -   [Statistical Models for Social Networks](http://www.annualreviews.org/doi/abs/10.1146/annurev.soc.012809.102709) (_Annual Review of Sociology_, 2011).
