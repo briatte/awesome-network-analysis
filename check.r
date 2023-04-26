@@ -55,7 +55,7 @@ if (!file.exists(f)) {
   
 }
 
-l <- sort(unique(l))
+l <- str_squish(sort(unique(l)))
 
 cat(length(l), "unique\n")
 
