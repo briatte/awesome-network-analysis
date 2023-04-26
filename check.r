@@ -59,6 +59,9 @@ l <- str_squish(sort(unique(l)))
 
 cat(length(l), "unique\n")
 
+cat("Ignoring", sum(str_detect(l, "^https://doi.org/")), "DOIs\n")
+l <- str_subset(l, "^https://doi.org/", negate = TRUE)
+
 sink(f, append = FALSE)
 cat(as.character(Sys.time()), ": checking", length(l), "URLs\n\n")
 sink()
