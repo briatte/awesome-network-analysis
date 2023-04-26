@@ -241,6 +241,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Siena Datasets](http://www.stats.ox.ac.uk/~snijders/siena/siena_datasets.htm).
 -   [SocioPatterns Datasets](http://www.sociopatterns.org/datasets/) - Network data obtained through the [SocioPatterns](http://www.sociopatterns.org/) sensing platform.
 -   [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html).
+-   [State Networks](https://ippsr.msu.edu/public-policy/state-networks) - US state-to-state relational variables, including borders, travel, trade and more.
 -   [tnet Datasets](https://toreopsahl.com/datasets/) - Weighted network data.
 -   [UC Berkeley Social Networks Study (UCNets)](https://www.icpsr.umich.edu/web/ICPSR/studies/36975) - Ego-centric data (personal networks) from a five-year panel study.
 -   [UCI Network Data Repository](http://networkdata.ics.uci.edu/).
