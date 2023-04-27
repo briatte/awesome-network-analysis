@@ -27,6 +27,9 @@ if (!file.exists(f)) {
     str_split("\\n") %>% # so as to find [foo]: bar links
     unlist()
 
+  # remove links that have been commented out
+  u <- str_remove_all(u, "<!--.*?-->")
+
   # total number of links (made to match web.archive.org links only once)
   t <- sum(str_count(u, "(?<!/)http"))
 
@@ -101,7 +104,8 @@ for (i in l) {
 }
 
 sink(f, append = TRUE)
-cat(as.character(Sys.time()), ": done.\n")
+f <- sum(str_count(stringi::stri_read_lines(f), "^http"))
+cat(as.character(Sys.time()), ": done,", f, "errors.\n")
 sink()
 
-cat("\n", sum(str_count(stringi::stri_read_lines(f), "^http")), "problems\n")
+cat("\n", f, "errors\n")
