@@ -158,6 +158,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   _[The Development of Social Network Analysis: A Study in the Sociology of Science](http://moreno.ss.uci.edu/)_, by Linton C. Freeman, in English and several other languages (2004; [follow-up paper, 2011](http://moreno.ss.uci.edu/91.pdf)).
 -   _[Dynamical Networks in Psychology: More Than A Pretty Picture?](https://www.researchgate.net/publication/308874807_Dynamical_networks_in_psychology_More_than_a_pretty_picture)_, by Laura Bringmann (2016; PhD dissertation).
 -   _[Dynamical Processes on Complex Networks](http://www.cambridge.org/catalogue/catalogue.asp?isbn=9780521879507)_, by Alain Barrat, Marc Barthélemy and Alessandro Vespignani (2008).
+-   _[Economic Networks: Theory and Computation](https://networks.quantecon.org/)_, by John Stachurski and Thomas J. Sargent (2022).
 -   _[Fundamentals of Brain Network Analysis](https://www.elsevier.com/books/fundamentals-of-brain-network-analysis/fornito/978-0-12-407908-3)_, by Alex Fornito, Andrew Zalesky and Edward Bullmore (2016).
 -   _[Inside Criminal Networks](https://www.springer.com/us/book/9780387095257)_, by Carlo Morselli (2009).
 -   _[Neighbor Networks. Competitive Advantage Local and Personal](https://global.oup.com/academic/product/neighbor-networks-9780199570690)_, by Ronald S. Burt (2010).
