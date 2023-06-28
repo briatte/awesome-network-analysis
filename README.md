@@ -487,7 +487,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [EgoNet](https://sourceforge.net/projects/egonet/) - Cross-platform Java program for ego network analysis.
 -   [EgoWeb](https://www.qualintitative.com/egoweb/) - Server-side software for social network data collection and processing.
 -   [easyN](http://www.esyn.org/) - Online tool aimed at representing and sharing gene interaction networks as well as Petri net models.
--   [Gephi](https://gephi.github.io/) - Cross-platform, free and open source tool for network visualization.
+-   [Gephi](https://gephi.org/) - Cross-platform, free and open source tool for network visualization.
     -   [Clément Levallois’ Gephi Tutorials](https://seinecle.github.io/gephi-tutorials/).
     -   [Geographische Netzwerkvisualisierung mit dem Programm ‘Gephi’](http://www.podcampus.de/nodes/RJVZo), in German (2016).
     -   [Introduction to Network Analysis and Visualization with Gephi](http://www.martingrandjean.ch/gephi-introduction/) (2015).
@@ -577,6 +577,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 
 ### Java
 
+- [GraphStore](https://github.com/gephi/graphstore) - In-memory graph structure implementation, powering Gephi.
 - [GraphStream](https://graphstream-project.org/) - Java library for the modeling and analysis of dynamic graphs.
 - [Mixer](https://github.com/keith-turner/mixer) - Prototype showing how to use [Apache Fluo](https://fluo.apache.org/) to continuously merge multiple large graphs into a single derived one.
 
@@ -589,6 +590,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
     -   [d3-force: Force-directed graph layout](https://github.com/d3/d3-force) using velocity Verlet integration.
     -   [d3-vector: Define connections between nodes as directional vectors](https://github.com/thepeoplesbourgeois/d3-vector), consisting of angles and magnitudes.
 -   [GENSI](http://www.tobiasstark.nl/GENSI/GENSI.htm) - JavaScript graphical tool to collect ego-centered network data ([paper](https://doi.org/10.1016/j.socnet.2016.07.007)).
+-   [Gephi Lite](https://github.com/gephi/gephi-lite) - Web-based, lighter version of Gephi.
 -   [GoJS](https://gojs.net/) - Visualization library to draw diagrams and several types of network layouts.
 -   [Graphology](https://graphology.github.io/) - Specification and reference implementation for a robust and multipurpose JavaScript `Graph` object.
 -   [greuler](https://mauriciopoppe.github.io/greuler/) - Visualization library to build and manipulate graphs through a simple API. Powered by d3.js and [WebCola](https://ialab.it.monash.edu/webcola/).
@@ -780,7 +782,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 > Generic graph syntaxes intended for use by several programs.
 
 -   [DOT](http://www.graphviz.org/doc/info/lang.html) - Graph drawing syntax used by the Graphviz software.
--   [GEXF](https://gephi.org/gexf/format/) - File format used by the Gephi software.
+-   [GEXF](https://gexf.net) - File format used by the Gephi software.
 -   [GraphML](http://graphml.graphdrawing.org/) - Comprehensive and easy-to-use file format for graphs ([handbook chapter](https://www.uni-konstanz.de/mmsp/pubsys/publishedFiles/BrEiLe10.pdf)).
 -   [JGraphT](https://jgrapht.org/) - Java graph library for graph data structures and algorithms ([example algorithms](https://github.com/agouge/Java-Network-Analyzer)).
 -   [JUNG - Java Universal Network/Graph Framework](https://jung.sourceforge.net/) - Extensible library to represent network objects.
@@ -999,8 +1001,9 @@ Alden S. Klovdahl,
 [Marc Schiller](https://github.com/m4rcs), 
 [Tanguy Fardet](https://tfardet.srht.site/), 
 [Bernhard Bieri](https://bernhardbieri.ch/), 
-[Rémy Cazabet](https://github.com/Yquetzal) and 
-[Jeremy Gelb](https://github.com/JeremyGelb) - 
+[Rémy Cazabet](https://github.com/Yquetzal), 
+[Jeremy Gelb](https://github.com/JeremyGelb) and 
+[Mathieu Bastian](https://github.com/mbastian) - 
 have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Robert J. Ackland](https://github.com/rjackland), 
