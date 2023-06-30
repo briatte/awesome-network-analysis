@@ -730,6 +730,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
     -   [Network Centrality in R: Neighborhood Inclusion](http://blog.schochastics.net/post/network-centrality-in-r-neighborhood-inclusion/).
     -   [Network Centrality in R: New Ways of Measuring Centrality](http://blog.schochastics.net/post/network-centrality-in-r-new-ways-of-measuring-centrality/) (2018).
 -   [NetSim](http://www.christoph-stadtfeld.com/netsim/) - Simulate and combine micro-models to research their impact on the macro-features of social networks.
+-   [netUtils](https://github.com/schochastics/netUtils) - Various network functions and methods, e.g. computing the Cartesian product of two graphs or fitting a discrete core periphery model.
 -   [network](https://CRAN.R-project.org/package=network) - Basic tools to manipulate relational data in R.
 -   [networkdata](https://github.com/schochastics/networkdata) - Includes 979 network datasets containing 2135 networks.
 -   [networkdiffusion](https://github.com/chengjun/networkdiffusion) - Simulate and visualize basic epidemic diffusion in networks.
