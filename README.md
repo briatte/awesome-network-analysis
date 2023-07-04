@@ -730,6 +730,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
     -   [Network Centrality in R: An Introduction](http://blog.schochastics.net/post/network-centrality-in-r-introduction/) - Includes a review of relevant R packages.
     -   [Network Centrality in R: Neighborhood Inclusion](http://blog.schochastics.net/post/network-centrality-in-r-neighborhood-inclusion/).
     -   [Network Centrality in R: New Ways of Measuring Centrality](http://blog.schochastics.net/post/network-centrality-in-r-new-ways-of-measuring-centrality/) (2018).
+-   [netseg](https://mbojan.github.io/netseg/) - Various measures of network segregation and homophily.
 -   [NetSim](http://www.christoph-stadtfeld.com/netsim/) - Simulate and combine micro-models to research their impact on the macro-features of social networks.
 -   [netUtils](https://github.com/schochastics/netUtils) - Various network functions and methods, e.g. computing the Cartesian product of two graphs or fitting a discrete core periphery model.
 -   [network](https://CRAN.R-project.org/package=network) - Basic tools to manipulate relational data in R.
