@@ -154,6 +154,8 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 
 -   _[Communities and Networks: Using Social Network Analysis to Rethink Urban and Community Studies](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0745654207.html)_, by Katherine Giuffre (2013).
 -   _[Comparing Policy Networks. Labor Politics in the U.S., Germany, and Japan](http://www.cambridge.org/ar/academic/subjects/politics-international-relations/comparative-politics/comparing-policy-networks-labor-politics-us-germany-and-japan)_, by David Knoke _et al._ (1996).
+-   _[Conducting Personal Network Research: A Practical Guide](https://www.routledge.com/Conducting-Personal-Network-Research-A-Practical-Guide/McCarty-Lubbers-Vacca-Molina/p/book/9781462538386)_, by Christopher McCarty _et al._ (2019).
+    - _[Egocentric Network Analysis with R](https://raffaelevacca.github.io/egocentric-r-book/)_ - An online book/tutorial that covers a lot of similar ground.
 -   _[The Connected Past. Challenges to Network Studies in Archaeology and History](https://global.oup.com/academic/product/the-connected-past-9780198748519)_ edited by Tom Brughmans, Anna Collar and Fiona Coward (2016; [companion website](http://connectedpast.net/)).
 -   _[The Development of Social Network Analysis: A Study in the Sociology of Science](http://moreno.ss.uci.edu/)_, by Linton C. Freeman, in English and several other languages (2004; [follow-up paper, 2011](http://moreno.ss.uci.edu/91.pdf)).
 -   _[Dynamical Networks in Psychology: More Than A Pretty Picture?](https://www.researchgate.net/publication/308874807_Dynamical_networks_in_psychology_More_than_a_pretty_picture)_, by Laura Bringmann (2016; PhD dissertation).
@@ -708,7 +710,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [goldfish](https://github.com/snlab-ch/goldfish) - Dynamic Network Actor-Oriented Model (DyNAM) for the statistical analysis of coordination networks through time.
 -   [graphlayouts](https://CRAN.R-project.org/package=graphlayouts) - Layout algorithms based on the concept of [stress majorization](https://doi.org/10.1007/978-3-540-31843-9_25).
     -   [Introducing graphlayouts with Game of Thrones](http://blog.schochastics.net/post/introducing-graphlayouts-with-got/).
-    -   [Network Visualizations in R using ggraph and graphlayouts](http://mr.schochastics.net/netVizR.html).
+    -   [Network Visualizations in R using ggraph and graphlayouts](https://mr.schochastics.net/material/netVizR/).
 -   [hergm](https://CRAN.R-project.org/package=hergm) - Estimate and simulate hierarchical exponential-family random graph models (HERGM) with local dependence.
 -   [hierformR](https://CRAN.R-project.org/package=hierformR) – Determine paths and states that social networks develop over time to form social hierarchies.
 -   [igraph](http://igraph.org/r/) - A collection of network analysis tools.
@@ -719,9 +721,11 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [levelnet](https://github.com/schochastics/levelnet) - Experimental package to analyze one-mode projections of bipartite (two-mode) networks. See also: `bipartite` R package.
 -   [lpNet](https://www.bioconductor.org/packages/release/bioc/html/lpNet.html) - Linear programming model aimed at infering biological (signalling, gene) networks.
 -   [mlergm](https://cran.r-project.org/package=mlergm) - Multilevel Exponential-Family Random Graph Models, to model nodes nested within known blocks.
--   [multigraphr](https://github.com/termehs/multigraphr) - Random multigraph models, statisticsof multigraph properties, and goodness of fit tests.
+-   [multigraph](https://cran.r-project.org/package=multigraph) - Functions to build and visualize all sorts of multigraphs.
+-   [multigraphr](https://cran.r-project.org/package=multigraphr) - Random multigraph models, statistics of multigraph properties, and goodness of fit tests.
 -   [multinet](https://CRAN.R-project.org/package=multinet) - Tools for multilayer social networks.
     - [Related book and data](http://multilayer.it.uu.se/), and [presentation article](http://multilayer.it.uu.se/papers/jss.pdf). See `uunet` for the Python version.
+-   [multinets](https://cran.r-project.org/package=multinets) - Package to handle multilevel networks in `igraph`.
 -   [migraph](https://CRAN.R-project.org/web/packages/migraph/) - A set of tools that extend common social network analysis packages for analysing multimodal and multilevel networks.
 -   [ndtv](https://CRAN.R-project.org/package=ndtv) - Tools to construct animated visualizations of dynamic network data in various formats.
 -   [neo4r](https://github.com/neo4j-rstats/neo4r) - Neo4J driver for R.
@@ -753,7 +757,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [rgexf](https://CRAN.R-project.org/package=rgexf) - Export network objects from R to GEXF for manipulation with software like Gephi or Sigma.
 -   [Rgraphviz](https://bioconductor.org/packages/release/bioc/html/Rgraphviz.html) - Support for using the Graphviz library and its DOT graph drawing language from within R.
 -   [RSiena](http://r-forge.r-project.org/R/?group_id=461) - Simulation Investigation for Empirical Network Analysis; fits models to longitudinal network data.
--   [signnet](https://github.com/schochastics/signnet) Methods to analyse signed networks (structural balance, blockmodeling, centrality, etc.)
+-   [signnet](http://signnet.schochastics.net/) Methods to analyse signed networks (structural balance, blockmodeling, centrality, etc.).
 -   [sna](https://CRAN.R-project.org/package=sna) - Basic network constructors, measures and visualization tools.
 -   [snahelper](https://CRAN.R-project.org/package=snahelper) - RStudio addin which provides a GUI to visualize and analyse networks
     - [Introduction to snahelper (Part 1)](http://blog.schochastics.net/post/an-rstudio-addin-for-network-analysis-and-visualization/)
@@ -804,6 +808,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 > Tutorials that are not focused on a single specific software package or program.
 
 -   [Basic and Advanced Network Visualization with Gephi and R](http://kateto.net/sunbelt2016) (2016).
+-   [Basic Network Analysis in R using igraph and related packages](https://mr.schochastics.net/material/netAnaR/) (2022).
 -   [Interactive and Dynamic Network Visualization in R](http://curleylab.psych.columbia.edu/netviz/) and JavaScript libraries (2016).
 -   [Nodegoat and Palladio: Introductory Workshop](https://www.academia.edu/11450425/Nodegoat_and_Palladio_Introductory_Workshop_by_Emmanuelle_Chaze) - Aimed at humanists (2015).
 -   [Static and Dynamic Network Visualization with R](http://kateto.net/network-visualization) - Covers the igraph, network, ggraph, network, networkD3, ndtv, threejs and visNetwork packages (2019).
