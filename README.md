@@ -507,7 +507,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Metamaps](https://metamaps.cc/) - Free, open-source platform to draw networks, currently in beta.
 -   [MuxViz](http://muxviz.net/) - Cross-platform, free and open source tool to study multilayer networks, based on R and GNU Octave.
 -   [Neo4j](http://neo4j.com/) - Open source, scalable graph database, used by companies like [Linkurious](http://linkurio.us/).
--   [Network Canvas](http://networkcanvas.com/) - Set of tools to collect personal network data (in early development).
+-   [Network Canvas](http://networkcanvas.com/) - A free and open-source set of survey tools for ego-centric and personal network studies, including [documentation](https://documentation.networkcanvas.com) and a [user community](https://community.networkcanvas.com). 
 -   [Node Overlap and Segregation Software](http://nos.alwaysdata.net/) - Web-based tool to compute [Strona and Veech](https://doi.org/10.1111/2041-210X.12395)’s node overlap and segregation measures.
 -   [Nodegoat](http://nodegoat.net/) - Web-based data management, network analysis and visualisation environment ([blog](http://nodegoat.net/blog)).
 -   [NodeXL](http://nodexl.codeplex.com/) - Free, open-source template to explore network graphs with Microsoft Excel.
