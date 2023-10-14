@@ -240,7 +240,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Network Science Book - Network Datasets](http://networksciencebook.com/translations/en/resources/data.html) - Network data sets from Albert-László Barabási’s _Network Science_ book. Includes data on IMDB actors, arXiv scientific collaboration, network of routers, the US power grid, protein-protein interactions, cell phone users, citation networks, metabolic reactions, e-mail networks, and nd.edu Web pages.
     <!-- -   [Nexus](http://nexus.igraph.org/) - Repository of network datasets in GraphML and igraph formats. -->
 -   [Norwegian Interlocking Directorate, 2002-2011](http://www.boardsandgender.com/data.php) - Two-mode and one-mode data on gender representation in Norwegian firms.
--   [Movie galaxies](http://moviegalaxies.com/) - A databse of movie characters interaction graphs.
+-   [Movie galaxies](http://moviegalaxies.com/) - A database of movie characters interaction graphs.
 -   [Pajek Datasets](http://vlado.fmf.uni-lj.si/pub/networks/data/).
 -   [Philosophers Networks from Randall Collins’s _The Sociology of Philosophies_](https://www.uva.nl/profiel/n/o/w.denooy/w.denooy.html#tab_1).
 -   [Siena Datasets](http://www.stats.ox.ac.uk/~snijders/siena/siena_datasets.htm).
