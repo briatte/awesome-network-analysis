@@ -337,6 +337,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [NetLab](http://www.urbancentre.utoronto.ca/researchgroups/netlab.html) - Research network at the University of Toronto, led by Barry Wellman.
 -   [Network Science Research Centre, Swansea University](http://www.swansea.ac.uk/medicine/enterpriseandinnovation/networkscienceresearchcentre/).
 -   [Network Dynamics](http://networkdynamics.org/) - Research Lab at McGill University, led by [Derek Ruths](http://www.derekruths.com/)
+-   [NEtwoRks, Data, and Society (NERDS)](https://nerds.itu.dk/) - Research group at IT University of Copenhagen.
 -   [Netzwerkerei](http://netzwerkerei.org/) - Historical research project on the connections between Jewish intellectuals.
 -   [ORIO - Observatoire des Réseaux Intra- et Inter-Organisationnels](http://blogs.sciences-po.fr/recherche-network-organization-institution-dynamics-multilevel/) - A research program on networks and regulation.
     -   [‘Réseaux et Régulation’ Conference Cycle](http://blogs.sciences-po.fr/recherche-network-organization-institution-dynamics-multilevel/sminaire-rseaux-et-rgulation/) - Seminar based at Sciences Po in Paris, France.
@@ -1011,8 +1012,9 @@ Alden S. Klovdahl,
 [Tanguy Fardet](https://tfardet.srht.site/), 
 [Bernhard Bieri](https://bernhardbieri.ch/), 
 [Rémy Cazabet](https://github.com/Yquetzal), 
-[Jeremy Gelb](https://github.com/JeremyGelb) and 
-[Mathieu Bastian](https://github.com/mbastian) - 
+[Jeremy Gelb](https://github.com/JeremyGelb), 
+[Mathieu Bastian](https://github.com/mbastian) and
+[Michael Szell](https://github.com/mszell) - 
 have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Robert J. Ackland](https://github.com/rjackland), 
