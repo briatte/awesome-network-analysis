@@ -228,6 +228,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Gephi Datasets](https://github.com/gephi/gephi/wiki/Datasets).
 -   [Hetionet: an integrative network of disease](https://github.com/hetio/hetionet) - A complex biological network, available in multiple formats, including JSON and [Neo4j](https://neo4j.het.io/browser/).
 -   [igraphdata](https://CRAN.R-project.org/package=igraphdata) - R data-centric package.
+-   [igraphwalshdata](https://cran.r-project.org/package=igraphwalshdata) - Another R data-centric package.
 -   [Interaction Web Database](http://www.ecologia.ib.usp.br/iwdb/) - Ecological species interactions.
 -   [International Currencies 1890-1910](http://eh.net/database/international-currencies-1890-1910/) - Historical data on the international connections between 45 currencies.
 -   [KONECT - The Koblenz Network Collection](http://konect.uni-koblenz.de/) - Includes, among other things, networks of collaboration in DBpedia and Wikipedia, GitHub ([companion handbook](https://arxiv.org/abs/1402.5500)).
