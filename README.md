@@ -652,6 +652,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [cdlib](https://github.com/GiulioRossetti/cdlib) - Python community detection library, with 60+ methods and evaluation/visualization features.
 -   [dash-cytoscape](https://github.com/plotly/dash-cytoscape) - Interactive network visualization library in Python, powered by Cytoscape.js and Dash
 -   [graph-tool](http://graph-tool.skewed.de/) - Python module for network manipulation and analysis, written mostly in C++ for speed.
+-   [Graphinate](https://erivlis.github.io/graphinate/) - Python package that aims to simplify the generation of Graph Data Structures from Data Sources.
 -   [graphviz](https://pypi.python.org/pypi/graphviz) - Python renderer for the DOT graph drawing language.
 -   [graspologic](https://github.com/microsoft/graspologic) - Python package for statistical algorithms, models, and visualization for single and multiple networks. 
     -   [Tutorials on algorithms and models](https://graspologic.readthedocs.io/en/latest/).
