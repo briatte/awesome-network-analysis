@@ -247,7 +247,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Philosophers Networks from Randall Collins’s _The Sociology of Philosophies_](https://www.uva.nl/profiel/n/o/w.denooy/w.denooy.html#tab_1).
 -   [Siena Datasets](http://www.stats.ox.ac.uk/~snijders/siena/siena_datasets.htm).
 -   [SocioPatterns Datasets](http://www.sociopatterns.org/datasets/) - Network data obtained through the [SocioPatterns](http://www.sociopatterns.org/) sensing platform.
--   [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html).
+-   [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/index.html).
 -   [State Networks](https://ippsr.msu.edu/public-policy/state-networks) - US state-to-state relational variables, including borders, travel, trade and more.
 -   [tnet Datasets](https://toreopsahl.com/datasets/) - Weighted network data.
 -   [UC Berkeley Social Networks Study (UCNets)](https://www.icpsr.umich.edu/web/ICPSR/studies/36975) - Ego-centric data (personal networks) from a five-year panel study.
@@ -310,7 +310,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Northeastern University MOBS Lab - Laboratory for the Modeling of Biological and Socio-technical Systems](http://www.mobs-lab.org/) - Led by Alessandro Vespignani.
 -   [Pacific Ecoinformatics and Computational Ecology Lab](http://foodwebs.org/) - Non-profit study group of ecological networks (“food webs”).
 -   [Peter J. Mucha’s Research Group at the University of North Carolina at Chapel Hill](http://mucha.web.unc.edu/networks/).
--   [Social Network Analysis Group at Stanford](http://sna.stanford.edu/).
+-   [Stanford Network Analysis Project](https://snap.stanford.edu/), by [Jure Leskovec](https://cs.stanford.edu/~jure/).
 -   [Warren Center for Network & Data Sciences at the University of Pennsylvania](http://warrencenter.upenn.edu/).
 -   [Yale Institute for Network Science (YINS)](http://yins.yale.edu/).
 
@@ -1021,8 +1021,9 @@ Alden S. Klovdahl,
 [Michael Szell](https://github.com/mszell),
 [Eran Rivlis](https://github.com/erivlis),
 [Rohan Dandage](https://github.com/rraadd88), 
-[Benjamin Smith](https://github.com/benyamindsmith) and
-[Beth Duckles](https://github.com/bduckles) - 
+[Benjamin Smith](https://github.com/benyamindsmith), 
+[Beth Duckles](https://github.com/bduckles) and 
+[Lei Cao](https://github.com/cllei12) - 
 have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Robert J. Ackland](https://github.com/rjackland), 
