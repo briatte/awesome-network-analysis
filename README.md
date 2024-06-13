@@ -94,6 +94,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   _[Sociologie des réseaux sociaux](http://pierremerckle.fr/2011/02/sociologie-des-reseaux-sociaux/)_, by Pierre Mercklé, in French (2011).
 -   _[Social and Economic Networks](https://press.princeton.edu/books/paperback/9780691148205/social-and-economic-networks)_, by Matthew O. Jackson (2008).
 -   _[Social Network Analysis with Applications](https://www.wiley.com/en-gb/Social+Network+Analysis+with+Applications-p-9781118169476)_, by Ian McCulloh, Helen Armstrong and Anthony Johnson (2013).
+-   _[Social Networks. An Introduction](https://olizardo.github.io/networks-textbook/)_, by Omar Lizardo and Isaac Jilbert - free to read online (2023).
 -   _[Social Networks: An Introduction](https://www.routledge.com/products/9780415458030)_, by Jeroen Bruggeman ([related material](https://sites.google.com/site/introsocnet/); 2008).
 -   _[Studying Social Networks. A Guide to Empirical Research](http://press.uchicago.edu/ucp/books/book/distributed/S/bo15475096.html)_, by Marina Hennig _et al._ (2013).
 -   _[Understanding Social Networks. Theories, Concepts, and Findings](https://global.oup.com/academic/product/understanding-social-networks-9780195379471)_, by Charles Kadushin (2012).
@@ -1019,8 +1020,9 @@ Alden S. Klovdahl,
 [Mathieu Bastian](https://github.com/mbastian), 
 [Michael Szell](https://github.com/mszell),
 [Eran Rivlis](https://github.com/erivlis),
-[Rohan Dandage](https://github.com/rraadd88) and 
-[Benjamin Smith](https://github.com/benyamindsmith) - 
+[Rohan Dandage](https://github.com/rraadd88), 
+[Benjamin Smith](https://github.com/benyamindsmith) and
+[Beth Duckles](https://github.com/bduckles) - 
 have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Robert J. Ackland](https://github.com/rjackland), 
