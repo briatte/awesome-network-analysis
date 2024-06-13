@@ -577,6 +577,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [networks.tb](https://networks-tb.sourceforge.net/) - C program designed for analyzing socio-semantic networks. Runs on Linux and Mac OS X.
 -   [OGDF - Open Graph Drawing Framework](https://ogdf.uos.de/) - Self-contained C++ class library for diagram, network and tree layouts.
 -   [OpenOrd: Large-scale Graph Layout (formerly DrL)](http://www.cs.sandia.gov/~smartin/software.html) - C++ algorithm, also available as a [Gephi plugin](https://gephi.org/plugins/#/plugin/openord-layout).
+-   [RAPIDS cuGraph](https://github.com/rapidsai/cugraph) - Python packages and C/C++/CUDA libraries focused on GPU-accelerated graph analytics.
 -   [Stanford Network Analysis Project](http://snap.stanford.edu/) - C++ general purpose network analysis and graph mining library. Available as a Python library and in Microsoft Excel via NodeXL.
 -   [Walktrap](https://www-complexnetworks.lip6.fr/~latapy/PP/walktrap.html) - C++ program that implements the [WalkTrap community detection algorithm](https://arxiv.org/abs/physics/0512106).
 
@@ -672,6 +673,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [python-igraph](http://igraph.org/python/) - Python version of the igraph network analysis package.
 -   [python-louvain](https://perso.crans.org/aynaud/communities/) - A solid implementation of Louvain community detection algorithm.
 -   [Raphtory](https://www.raphtory.com/) - A platform for building and analysing temporal networks.
+-   [RAPIDS cuGraph](https://github.com/rapidsai/cugraph) - Python packages and C/C++/CUDA libraries focused on GPU-accelerated graph analytics.
 -   [rustworkx](https://github.com/Qiskit/rustworkx) - A high performance Python graph library implemented in Rust.
 -   [scipy.sparse.csgraph](https://docs.scipy.org/doc/scipy/reference/sparse.csgraph.html#module-scipy.sparse.csgraph) - Fast graph algorithms based on sparse matrix representations.
 -   [Snap.py](http://snap.stanford.edu/snappy/index.html) - A Python interface for SNAP (a general purpose, high performance system for analysis and manipulation of large networks).
