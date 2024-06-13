@@ -672,6 +672,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [python-igraph](http://igraph.org/python/) - Python version of the igraph network analysis package.
 -   [python-louvain](https://perso.crans.org/aynaud/communities/) - A solid implementation of Louvain community detection algorithm.
 -   [Raphtory](https://www.raphtory.com/) - A platform for building and analysing temporal networks.
+-   [rustworkx](https://github.com/Qiskit/rustworkx) - A high performance Python graph library implemented in Rust.
 -   [scipy.sparse.csgraph](https://docs.scipy.org/doc/scipy/reference/sparse.csgraph.html#module-scipy.sparse.csgraph) - Fast graph algorithms based on sparse matrix representations.
 -   [Snap.py](http://snap.stanford.edu/snappy/index.html) - A Python interface for SNAP (a general purpose, high performance system for analysis and manipulation of large networks).
 -   [SnapVX](https://github.com/snap-stanford/snapvx) - A convex optimization solver for problems defined on a graph.
