@@ -97,6 +97,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   _[Social Networks. An Introduction](https://olizardo.github.io/networks-textbook/)_, by Omar Lizardo and Isaac Jilbert - free to read online (2023).
 -   _[Social Networks: An Introduction](https://www.routledge.com/products/9780415458030)_, by Jeroen Bruggeman ([related material](https://sites.google.com/site/introsocnet/); 2008).
 -   _[Studying Social Networks. A Guide to Empirical Research](http://press.uchicago.edu/ucp/books/book/distributed/S/bo15475096.html)_, by Marina Hennig _et al._ (2013).
+-   _[The Atlas for the Aspiring Network Scientist](https://www.networkatlas.eu/)_, by Michele Coscia (2021).
 -   _[Understanding Social Networks. Theories, Concepts, and Findings](https://global.oup.com/academic/product/understanding-social-networks-9780195379471)_, by Charles Kadushin (2012).
 
 ### Graph Theory
