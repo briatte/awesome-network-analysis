@@ -1028,8 +1028,9 @@ Alden S. Klovdahl,
 [Eran Rivlis](https://github.com/erivlis),
 [Rohan Dandage](https://github.com/rraadd88), 
 [Benjamin Smith](https://github.com/benyamindsmith), 
-[Beth Duckles](https://github.com/bduckles) and 
-[Lei Cao](https://github.com/cllei12) - 
+[Beth Duckles](https://github.com/bduckles), 
+[Lei Cao](https://github.com/cllei12) and 
+[Michael Szell](https://github.com/mszell) - 
 have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Robert J. Ackland](https://github.com/rjackland), 
