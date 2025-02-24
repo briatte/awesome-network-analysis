@@ -530,6 +530,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [qgis-edge-bundling](https://github.com/ait-energy/qgis-edge-bundling) - Implementation of force-directed edge bundling for the QGIS Processing toolbox.
 -   [Radatools](https://deim.urv.cat/~sergio.gomez/radatools.php) - Set of tools intended for the analysis of complex networks, built on top of [Radalib](http://deim.urv.cat/~sergio.gomez/radalib.php), a library written in Ada.
 -   [Retina](https://ouestware.gitlab.io/retina) - Web application to share GEXF and GraphML network visualizations.
+-   [Scikit-network](https://github.com/sknetwork-team/scikit-network) - Open-source library for machine learning on graphs.
 -   [SageMath](https://www.sagemath.org/) - Free open-source mathematics software with extensive [graph capabilities](http://doc.sagemath.org/html/en/reference/graphs/index.html).
 -   [Segrada](https://www.segrada.org/) - Cross-platform tool to build and visualize semantic graph databases.
 -   [Siena](https://www.stats.ox.ac.uk/~snijders/siena/) - Simulation Investigation for Empirical Network Analysis. Formerly a Windows program, now developed as the RSiena R package.
