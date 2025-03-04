@@ -486,6 +486,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [ArcGIS Network Analyst](http://www.esri.com/software/arcgis/extensions/networkanalyst) - Network-based spatial analysis software for solving complex routing problems.
 -   [CFinder](http://www.cfinder.org/) - Cross-platform Java program to identify clusters and communities through the Clique Percolation Method (CPM).
 -   [Circos](http://circos.ca/) - Cross-platform program to produce circular layouts of network data, written in Perl.
+-   [Cambridge Intelligence](https://cambridge-intelligence.com/) - JavaScript data visualization tools that build powerful, customised user experiences for complex data.
 -   [Cytoscape](http://www.cytoscape.org/) - Cross-platform Java program to build, analyze and visualize networks. Also a JavaScript library.
     -   [Network Analysis with Cytoscape Tutorial](https://archaeologicalnetworks.wordpress.com/resources/#cytoscape) - Illustrated through an archaeological and geographical case study (2013).
 -   [Discourse Network Analyzer (DNA)](http://www.philipleifeld.com/discourse-network-analyzer/discourse-network-analyzer-dna.html) - Qualitative content analysis tool with network export facilities, written in Java with R integration.
@@ -603,9 +604,12 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Graphology](https://graphology.github.io/) - Specification and reference implementation for a robust and multipurpose JavaScript `Graph` object.
 -   [greuler](https://mauriciopoppe.github.io/greuler/) - Visualization library to build and manipulate graphs through a simple API. Powered by d3.js and [WebCola](https://ialab.it.monash.edu/webcola/).
 -   [jLouvain](https://github.com/upphiminn/jLouvain) - Louvain community detection for Javascript ([example](http://bl.ocks.org/emeeks/125db75c9b55ddcbdeb5)).
+-   [KeyLines](https://cambridge-intelligence.com/keylines/) - the fast track to graph visualization success for JavaScript developers
+-   [KronoGraph](https://cambridge-intelligence.com/kronograph/) - advanced, interactive timeline visualizations that scale
 -   [NetworkCube](https://github.com/networkcube/networkcube) - "Dynamic Network Visualizations [for] Domain Scientists." For demo examples, see [The Vistorian](https://networkcube.github.io/vistorian/).
 -   [Oligrapher](https://github.com/public-accountability/oligrapher) - Library initially developed to visualise ["networks of influence" among U.S. elites](https://littlesis.org/).
 -   [Popoto.js](https://github.com/Nhogs/popoto) - Library based on d3.js that provides a graph based search interface.
+-   [ReGraph](https://cambridge-intelligence.com/regraph/) - hassle-free graph visualization for React developers
 -   [Sigma](https://www.sigmajs.org/) - JavaScript library dedicated to graph drawing.
 -   [vis.js](https://visjs.org/) - JavaScript library with network visualization capabilities.
 -   [VivaGraphJS](https://github.com/anvaka/VivaGraphJS) - Graph drawing library ([ForceAtlas2 plugin](https://github.com/graphcommons/viva.forceatlas2)).
