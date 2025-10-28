@@ -689,10 +689,11 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 
 ### R
 
-> For more awesome R resources, see the [Awesome R](https://github.com/qinwf/awesome-R) and [Awesome R Books](https://github.com/RomanTsegelskyi/rbooks) lists. See also [this Google spreadsheet](https://docs.google.com/spreadsheets/d/1CoFGtrW85D9FsVcAE5-bcXVl6QOTncwXjFBYp4u2WgE/edit?usp=sharing) by Ian McCulloh and others.  
+> For more awesome R resources, see the [Awesome R](https://github.com/qinwf/awesome-R) and [Awesome R Books](https://github.com/RomanTsegelskyi/rbooks) lists. For an official list of R packages for network analysis, see the [CRAN Task View on Network Analysis](https://cran.r-project.org/web/views/NetworkAnalysis.html). See also [this Google spreadsheet](https://docs.google.com/spreadsheets/d/1CoFGtrW85D9FsVcAE5-bcXVl6QOTncwXjFBYp4u2WgE/edit?usp=sharing) by Ian McCulloh and others.  
 > To convert many different network model results into tidy data frames, see the [broom](https://CRAN.R-project.org/package=broom) package. To convert many different network model results into LaTeX or HTML tables, see the [texreg](https://CRAN.R-project.org/package=texreg) package.
 
 -   [amen](https://CRAN.R-project.org/package=amen) - Additive and multiplicative effects models for relational data.
+-   [autograph](https://stocnet.github.io/autograph/) - Automatic plotting of network graphs, measures, and model outputs.
 -   [backbone](https://CRAN.R-project.org/package=backbone) - Provides methods for binarizing a weighted network retaining only significant edges.
     - [Introduction to the backbone package](https://arxiv.org/abs/1912.12779)
 -   [Bergm](https://CRAN.R-project.org/package=Bergm) - Tools to analyse Bayesian exponential random graph models (BERGM). Related Twitter: [@BayesianSNA](https://twitter.com/BayesianSNA).
@@ -732,6 +733,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [latentnet](https://CRAN.R-project.org/package=latentnet) - Latent position and cluster models for network objects.
 -   [levelnet](https://github.com/schochastics/levelnet) - Experimental package to analyze one-mode projections of bipartite (two-mode) networks. See also: `bipartite` R package.
 -   [lpNet](https://www.bioconductor.org/packages/release/bioc/html/lpNet.html) - Linear programming model aimed at infering biological (signalling, gene) networks.
+-   [manynet](https://stocnet.github.io/manynet/) - Many ways to make, modify, mark, and measure myriad network types.
 -   [mlergm](https://cran.r-project.org/package=mlergm) - Multilevel Exponential-Family Random Graph Models, to model nodes nested within known blocks.
 -   [multigraph](https://cran.r-project.org/package=multigraph) - Functions to build and visualize all sorts of multigraphs.
 -   [multigraphr](https://cran.r-project.org/package=multigraphr) - Random multigraph models, statistics of multigraph properties, and goodness of fit tests.
