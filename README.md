@@ -196,7 +196,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 -   [Complex Networks](http://cazabetremy.fr/Teaching/ComplexNetworks.html), by Rémy Cazabet (University Lyon 1 and ENS Lyon, 2022).
     -   [Network Science CheatSheets](https://github.com/Yquetzal/NetworkScience_CheatSheets).
--   [Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/), by Peter Sheridan Dodds (University of Vermont, 2016<!-- ; Twitter: [@networksvox](https://twitter.com/networksvox)) -->.
+-   [Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/), by Peter Sheridan Dodds (University of Vermont, 2016)<!-- ; Twitter: [@networksvox](https://twitter.com/networksvox)) -->.
     -   [Tarot Cards for Principles of Complex Systems and Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/tarotcards/).
 -   [Graph Theory and Applications](http://www.hamilton.ie/ollie/Downloads/Graph.pdf), by Paul Van Dooren - Full lecture slides (Hamilton Institute, Dublin, 2009).
 -   [Graph Theory (Mathematics)](http://www.personal.psu.edu/cxg286/Math485.pdf), by Christopher Griffin - Full lecture notes (Penn State University, 2012).
