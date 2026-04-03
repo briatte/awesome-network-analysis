@@ -340,7 +340,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [NetLab](http://www.urbancentre.utoronto.ca/researchgroups/netlab.html) - Research network at the University of Toronto, led by Barry Wellman.
 -   [Network Science Research Centre, Swansea University](http://www.swansea.ac.uk/medicine/enterpriseandinnovation/networkscienceresearchcentre/).
 -   [Network Dynamics](http://networkdynamics.org/) - Research Lab at McGill University, led by [Derek Ruths](http://www.derekruths.com/)
--   [NEtwoRks, Data, and Society (NERDS)](https://nerds.itu.dk/) - Research group at IT University of Copenhagen.
+-   [Networks, Data, and Society (NERDS)](https://nerds.itu.dk/) - Research group at IT University of Copenhagen.
 -   [Netzwerkerei](http://netzwerkerei.org/) - Historical research project on the connections between Jewish intellectuals.
 -   [ORIO - Observatoire des Réseaux Intra- et Inter-Organisationnels](http://blogs.sciences-po.fr/recherche-network-organization-institution-dynamics-multilevel/) - A research program on networks and regulation.
     -   [‘Réseaux et Régulation’ Conference Cycle](http://blogs.sciences-po.fr/recherche-network-organization-institution-dynamics-multilevel/sminaire-rseaux-et-rgulation/) - Seminar based at Sciences Po in Paris, France.
