@@ -515,7 +515,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [NodeXL](http://nodexl.codeplex.com/) - Free, open-source template to explore network graphs with Microsoft Excel.
     -   [The NodeXL Series](https://blogs.k-state.edu/it-news/tag/nodexl/) - Series of blog posts on using NodeXL (2013).
 -   [ORA-LITE](http://www.casos.cs.cmu.edu/projects/ora/) - Windows program for dynamic meta-network assessment and analysis.
--   [OSoMe](http://osome.iuni.iu.edu/) - Web-based platform to analyze social media data, including through Twitter-based and co-occurrence networks.
+-   [OSoMe](https://osome.iu.edu/) - Observatory on Social Media, an interdisciplinary research center at Indiana University, with tools to browse current and past social media posts.
 -   [Pajek](http://mrvar.fdv.uni-lj.si/pajek/) - Windows program for large network analysis, free for noncommercial use.
     -   [Analyse des réseaux : une introduction à Pajek](https://quanti.hypotheses.org/512/), in French (2011).
     -   [La détection de communautés avec Pajek 3.6](https://groupefmr.hypotheses.org/544), in French (2012).
