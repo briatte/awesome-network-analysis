@@ -9,8 +9,6 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 > Network of U.S. political blogs by [Adamic and Glance (2004)](https://dl.acm.org/citation.cfm?doid=1134271.1134277) ([preprint](http://www.maths.tcd.ie/~mnl/store/AdamicGlance2004a.pdf)).
 
-__Note:__ searching for ‘@’ will return all Twitter accounts listed on this page.
-
 ## Contents
 
 - __[Books](#books)__
@@ -198,7 +196,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 
 -   [Complex Networks](http://cazabetremy.fr/Teaching/ComplexNetworks.html), by Rémy Cazabet (University Lyon 1 and ENS Lyon, 2022).
     -   [Network Science CheatSheets](https://github.com/Yquetzal/NetworkScience_CheatSheets).
--   [Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/), by Peter Sheridan Dodds (University of Vermont, 2016; Twitter: [@networksvox](https://twitter.com/networksvox)).
+-   [Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/), by Peter Sheridan Dodds (University of Vermont, 2016<!-- ; Twitter: [@networksvox](https://twitter.com/networksvox)) -->.
     -   [Tarot Cards for Principles of Complex Systems and Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/tarotcards/).
 -   [Graph Theory and Applications](http://www.hamilton.ie/ollie/Downloads/Graph.pdf), by Paul Van Dooren - Full lecture slides (Hamilton Institute, Dublin, 2009).
 -   [Graph Theory (Mathematics)](http://www.personal.psu.edu/cxg286/Math485.pdf), by Christopher Griffin - Full lecture notes (Penn State University, 2012).
@@ -263,7 +261,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   _[ARCS – Analyse de réseaux pour les sciences sociales / Network Analysis for the Social Sciences](http://arcs.episciences.org/)_, in English and in French ([GDR ARSHS](https://arshs.hypotheses.org/)).
 -   _[Computational and Mathematical Organization Theory](http://link.springer.com/journal/10588)_ (Springer, gated).
 -   _[Computational Social Networks](http://computationalsocialnetworks.springeropen.com/)_ (Springer Open).
--   _[Connections](http://www.insna.org/connections.html)_ (INSNA). Twitter: [@ConnectionsSNA](https://twitter.com/ConnectionsSNA).
+-   _[Connections](http://www.insna.org/connections.html)_ (INSNA).<!-- Twitter: [@ConnectionsSNA](https://twitter.com/ConnectionsSNA). -->
 -   _[IEEE Transactions on Network Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902)_ (IEEE).
 -   _[Journal of Complex Networks](https://academic.oup.com/comnet)_ (Oxford, gated).
 -   _[The Journal of Mathematical Sociology](http://www.tandfonline.com/loi/gmas20)_ (Taylor & Francis, gated).
@@ -278,14 +276,14 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 ## Professional Groups
 
 -   [AFS RT 26 “Réseaux sociaux”](https://afs-socio.fr/rt/rt26/) - Thematic Network of the French Sociological Association (AFS), in French ([old website](https://web.archive.org/web/20160421164221/http://www.cmh.pro.ens.fr/reseaux-sociaux/)).
--   [APSA Political Networks](http://www.polinetworks.org/) - Organized Section of the American Political Science Association (APSA). Twitter: [@PolNetworks](https://twitter.com/PolNetworks).
--   [ECPR Political Networks SG](https://politicalnetsecpr.wordpress.com/) - Standing Group of the European Consortium for Political Research. Twitter: [@politicalnets](https://twitter.com/politicalnets).
+-   [APSA Political Networks](http://www.polinetworks.org/) - Organized Section of the American Political Science Association (APSA).<!-- Twitter: [@PolNetworks](https://twitter.com/PolNetworks). -->
+-   [ECPR Political Networks SG](https://politicalnetsecpr.wordpress.com/) - Standing Group of the European Consortium for Political Research.<!-- Twitter: [@politicalnets](https://twitter.com/politicalnets). -->
 -   [GDR ARSHS - GDR Analyse de réseaux en sciences humaines et sociales](https://arshs.hypotheses.org/), in French - Research group based in Paris.
--   [Groupe FMR - Flux, Matrices, Réseaux](https://groupefmr.hypotheses.org/), in French. Twitter: [@BaugLaurent](https://twitter.com/BaugLaurent).
--   [INSNA - International Network for Social Network Analysis](https://www.insna.org/) ([SOCNET mailing-list](https://www.insna.org/socnet)). Twitter: [@SocNetAnalysts](https://twitter.com/SocNetAnalysts).
--   [Mathematical Sociology Section of the American Sociological Association (ASA)](http://mathematicalsociology.org/). Twitter: [@Math_Sociology](https://twitter.com/Math_Sociology).
--   [NetSci - Network Science Society](http://www.netscisociety.net/). Twitter: [@netscisociety](https://twitter.com/netscisociety).
--   [Society of Young Network Scientists (SYNS)](https://society-of-young-network-scientists.github.io/). Supports early-career network scientists. Twitter: [@official_SYNS](https://twitter.com/official_SYNS).
+-   [Groupe FMR - Flux, Matrices, Réseaux](https://groupefmr.hypotheses.org/), in French.<!-- Twitter: [@BaugLaurent](https://twitter.com/BaugLaurent). -->
+-   [INSNA - International Network for Social Network Analysis](https://www.insna.org/) ([SOCNET mailing-list](https://www.insna.org/socnet)).<!-- Twitter: [@SocNetAnalysts](https://twitter.com/SocNetAnalysts). -->
+-   [Mathematical Sociology Section of the American Sociological Association (ASA)](http://mathematicalsociology.org/).<!-- Twitter: [@Math_Sociology](https://twitter.com/Math_Sociology). -->
+-   [NetSci - Network Science Society](http://www.netscisociety.net/).<!-- Twitter: [@netscisociety](https://twitter.com/netscisociety). -->
+-   [Society of Young Network Scientists (SYNS)](https://society-of-young-network-scientists.github.io/). Supports early-career network scientists.<!-- Twitter: [@official_SYNS](https://twitter.com/official_SYNS). -->
 
 ### Research Groups (USA)
 
@@ -301,7 +299,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Interdisciplinary Center for Network Science and Applications (iCeNSA) at the University of Notre Dame](http://icensa.com/).
 -   [LINKS Center for Social Network Analysis at the Gatton College of Business and Economics, University of Kentucky](https://sites.google.com/site/uklinkscenter/).
 -   [NetSCI Lab at the Rutgers School of Communication and Information](http://netsci.rutgers.edu/).
--   [Network Dynamics Group at the Annenberg School for Communication, University of Pennsylvania](http://ndg.asc.upenn.edu/). Twitter: [@NDGannenberg](https://twitter.com/NDGannenberg).
+-   [Network Dynamics Group at the Annenberg School for Communication, University of Pennsylvania](http://ndg.asc.upenn.edu/).<!-- Twitter: [@NDGannenberg](https://twitter.com/NDGannenberg). -->
 -   [Network Interdependence in Social Systems](http://www.skylercranmer.net/niss-lab/) (NISS Lab) - Led by Skyler J. Cranmer at Ohio State University.
 -   [Network Science Center at the U.S. Military Academy (USMA) in West Point](http://www.usma.edu/nsc/) ([blog](http://blog.netsciwestpoint.org/)).
 -   [Network Science IGERT at the University of California at Santa Barbara (UCSB)](http://networkscience.igert.ucsb.edu/) - Features an [NSF-funded](http://www.igert.org/) graduate programme.
@@ -334,8 +332,8 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [ANR-Lab - International Laboratory for Applied Network Research](https://anr.hse.ru/en/) - Russian group based at the National Research University in Moscow.
     -   [Theory and Methods in Network Analysis (“TMSA”) Summer Schools](https://anr.hse.ru/en/summer).
 -   [Large Graphs and Networks](http://sites.uclouvain.be/networks/) - Research group at the Catholic University of Louvain ([official page](https://uclouvain.be/en/research-institutes/icteam/large-graphs-and-networks.html)).
--   [MelNet Social Network Research Group, Swinburne University of Technology](http://www.swinburne.edu.au/fbl/research/transformative-innovation/our-research/MelNet-social-network-group/). Twitter: [@melnetsna](https://twitter.com/melnetsna).
--   [Mitchell Centre for Social Network Analysis, University of Manchester](http://www.socialsciences.manchester.ac.uk/mitchell-centre/) - Currently studies [covert networks](http://www.socialsciences.manchester.ac.uk/mitchell-centre/research/covert-networks/). Twitter: [@MitchellSNA](https://twitter.com/MitchellSNA).
+-   [MelNet Social Network Research Group, Swinburne University of Technology](http://www.swinburne.edu.au/fbl/research/transformative-innovation/our-research/MelNet-social-network-group/).<!-- Twitter: [@melnetsna](https://twitter.com/melnetsna). -->
+-   [Mitchell Centre for Social Network Analysis, University of Manchester](http://www.socialsciences.manchester.ac.uk/mitchell-centre/) - Currently studies [covert networks](http://www.socialsciences.manchester.ac.uk/mitchell-centre/research/covert-networks/).<!-- Twitter: [@MitchellSNA](https://twitter.com/MitchellSNA). -->
 -   [Murata Laboratory](http://www.net.c.titech.ac.jp/) - Tokyo-based research group, studying bi-, tri- and k-partite (hyper)networks.
 -   [NetLab](http://www.urbancentre.utoronto.ca/researchgroups/netlab.html) - Research network at the University of Toronto, led by Barry Wellman.
 -   [Network Science Research Centre, Swansea University](http://www.swansea.ac.uk/medicine/enterpriseandinnovation/networkscienceresearchcentre/).
@@ -695,7 +693,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [amen](https://CRAN.R-project.org/package=amen) - Additive and multiplicative effects models for relational data.
 -   [backbone](https://CRAN.R-project.org/package=backbone) - Provides methods for binarizing a weighted network retaining only significant edges.
     - [Introduction to the backbone package](https://arxiv.org/abs/1912.12779)
--   [Bergm](https://CRAN.R-project.org/package=Bergm) - Tools to analyse Bayesian exponential random graph models (BERGM). Related Twitter: [@BayesianSNA](https://twitter.com/BayesianSNA).
+-   [Bergm](https://CRAN.R-project.org/package=Bergm) - Tools to analyse Bayesian exponential random graph models (BERGM).<!-- Related Twitter: [@BayesianSNA](https://twitter.com/BayesianSNA). -->
 -   [bipartite](https://CRAN.R-project.org/package=bipartite) - Functions to visualize bipartite (two-mode) networks and compute indices commonly used in ecological research. See also: `levelnet` R package.
 -   [blockmodeling](https://CRAN.R-project.org/package=blockmodeling) - Implementats generalized blockmodeling for valued networks.
 -   [bnlearn](https://CRAN.R-project.org/package=bnlearn) - Tools for [Bayesian network learning and inference](http://www.bnlearn.com/) ([related Shiny app](https://paulgovan.github.io/RiskNetwork)).
@@ -845,9 +843,9 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Mixed-Method Approaches to Social Network Analysis](https://www.youtube.com/playlist?list=PL3zdEY084WkQD79mR00RSt8j5RuyPwMJE) - Videos of a conference at the Middlesex University School of Law (2014).
 -   [Modeling Complex Social Networks: Challenges and Opportunities for Statistical Learning and Inference](https://www.youtube.com/watch?v=1xLjYc7EUEU) - Video of a seminar talk by Jennifer Neville at Purdue University (2011).
 -   [NetSciEd - Network Science in Education](https://sites.google.com/a/binghamton.edu/netscied/home) - International initiative aimed at improving network literacy.
--   (@) [Network Fact](https://twitter.com/networkfact) - Twitter account on networks, graph theory, and related topics.
+    <!-- -   (@) [Network Fact](https://twitter.com/networkfact) - Twitter account on networks, graph theory, and related topics. -->
 -   [Network Map of Knowledge and Art](https://paolonegrini.wordpress.com/2012/11/19/network-map-of-knowledge-and-art/) - DBPedia-derived networks of who-was-influenced-by-whom directed ties, using SPARQL and Gephi.
--   (@) [Network Science](https://twitter.com/Ognyanova/lists/network-science/members) - A thematic list of Twitter accounts, curated by [Katherine Ognyanova](https://twitter.com/Ognyanova).
+    <!-- -   (@) [Network Science](https://twitter.com/Ognyanova/lists/network-science/members) - A thematic list of Twitter accounts, curated by [Katherine Ognyanova](https://twitter.com/Ognyanova). -->
 -   [The Networks Network](https://groups.google.com/forum/?hl=en-GB#!forum/the-networks-network) - Mailing-list (mostly historians from the HNR network).
 -   [New Perspectives for Relational Learning](http://www.birs.ca/events/2015/5-day-workshops/15w5080/videos) - Videos (and more) from a workshop at the Banff International Research Station (BIRS) (2015).
 -   [Open Graph protocol](http://ogp.me/) - A proposed standard to turn any Web page into a “social graph object.”
