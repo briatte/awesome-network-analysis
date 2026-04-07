@@ -653,6 +653,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 -   [bokeh](https://bokeh.org/) - Python library for interactive data visualization in the browser, with support for networks.
 -   [cdlib](https://github.com/GiulioRossetti/cdlib) - Python community detection library, with 60+ methods and evaluation/visualization features.
+-   [city2graph](https://github.com/c2g-dev/city2graph) -  Python package for converting geospatial datasets into (heterogeneous) graphs, with integration for GeoPandas, NetworkX, and PyTorch Geometric for GeoAI with GNNs (Graph Neural Networks).
 -   [dash-cytoscape](https://github.com/plotly/dash-cytoscape) - Interactive network visualization library in Python, powered by Cytoscape.js and Dash
 -   [graph-tool](http://graph-tool.skewed.de/) - Python module for network manipulation and analysis, written mostly in C++ for speed.
 -   [Graphinate](https://erivlis.github.io/graphinate/) - Python package aimed at generating graphs from data sources, built on top of `networkx`.
