@@ -1032,8 +1032,9 @@ Alden S. Klovdahl,
 [Rohan Dandage](https://github.com/rraadd88), 
 [Benjamin Smith](https://github.com/benyamindsmith), 
 [Beth Duckles](https://github.com/bduckles), 
-[Lei Cao](https://github.com/cllei12) and 
-[Simon Delarue](https://www.simondelarue.com/) - 
+[Lei Cao](https://github.com/cllei12), 
+[Simon Delarue](https://www.simondelarue.com/) and 
+[Christian Schulz](https://schulzchristian.github.io/) - 
 have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Robert J. Ackland](https://github.com/rjackland), 
