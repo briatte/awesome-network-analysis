@@ -675,6 +675,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [PyGraphistry](https://github.com/graphistry/pygraphistry) - Python library to extract, transform, and visually explore big graphs.
 -   [python-igraph](http://igraph.org/python/) - Python version of the igraph network analysis package.
 -   [python-louvain](https://perso.crans.org/aynaud/communities/) - A solid implementation of Louvain community detection algorithm.
+-   [pyvis](https://github.com/WestHealth/pyvis) - A Python wrapper for [vis.js](https://visjs.org/) that provides interactive network rendering.
 -   [Raphtory](https://www.raphtory.com/) - A platform for building and analysing temporal networks.
 -   [RAPIDS cuGraph](https://github.com/rapidsai/cugraph) - Python packages and C/C++/CUDA libraries focused on GPU-accelerated graph analytics.
 -   [rustworkx](https://github.com/Qiskit/rustworkx) - A high performance Python graph library implemented in Rust.
