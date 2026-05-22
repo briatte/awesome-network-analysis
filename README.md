@@ -826,7 +826,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Nodegoat and Palladio: Introductory Workshop](https://www.academia.edu/11450425/Nodegoat_and_Palladio_Introductory_Workshop_by_Emmanuelle_Chaze) - Aimed at humanists (2015).
 -   [Static and Dynamic Network Visualization with R](http://kateto.net/network-visualization) - Covers the igraph, network, ggraph, network, networkD3, ndtv, threejs and visNetwork packages (2019).
 -   [Tidy Network Analysis in R using the tidygraph package](https://mr.schochastics.net/material/tidynetAnaR/) (2022).
-- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+- [TutorialSearch](https://tutorialsearch.io/browse/data-science/network-analysis) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ## Varia
 
