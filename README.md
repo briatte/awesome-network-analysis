@@ -508,6 +508,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Mathematica](https://www.wolfram.com/mathematica/) - Cross-platform program with graph theory and network analysis functionalities.
     -   [IGraph/M](https://github.com/szhorvat/IGraphM) - Interface to use the `igraph` library from within Mathematica, using standard Mathematica `Graph` objects.
 -   [Metamaps](https://metamaps.cc/) - Free, open-source platform to draw networks, currently in beta.
+-   [MoonProxy](https://moonproxy.app) - Open-source desktop GUI client for [FRP](https://github.com/fatedier/frp) (fast reverse proxy), for secure remote access and intranet penetration on macOS and Windows ([source code](https://github.com/MoonProxyHQ/moonproxy-desktop)).
 -   [MuxViz](http://muxviz.net/) - Cross-platform, free and open source tool to study multilayer networks, based on R and GNU Octave.
 -   [Neo4j](http://neo4j.com/) - Open source, scalable graph database, used by companies like [Linkurious](http://linkurio.us/).
 -   [Network Canvas](http://networkcanvas.com/) - A free and open-source set of survey tools for ego-centric and personal network studies, including [documentation](https://documentation.networkcanvas.com) and a [user community](https://community.networkcanvas.com). 
@@ -1034,7 +1035,8 @@ Alden S. Klovdahl,
 [Beth Duckles](https://github.com/bduckles), 
 [Lei Cao](https://github.com/cllei12), 
 [Simon Delarue](https://www.simondelarue.com/) and 
-[Christian Schulz](https://schulzchristian.github.io/) - 
+[Christian Schulz](https://schulzchristian.github.io/), 
+[Chen](https://github.com/chenxxpro) - 
 have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Robert J. Ackland](https://github.com/rjackland), 
