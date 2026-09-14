@@ -655,6 +655,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [cdlib](https://github.com/GiulioRossetti/cdlib) - Python community detection library, with 60+ methods and evaluation/visualization features.
 -   [CHSZLabLib](https://github.com/CHSZLab/CHSZLabLib) - Unified Python interface to 20 high-performance C++ libraries for graph partitioning, community detection, cuts, independent sets, and dynamic graph algorithms.
 -   [dash-cytoscape](https://github.com/plotly/dash-cytoscape) - Interactive network visualization library in Python, powered by Cytoscape.js and Dash
+-   [EasyGraph](https://github.com/easy-graph/Easy-Graph) - Python library for graph and hypergraph analysis, providing C++, OpenMP, and CUDA acceleration.
 -   [graph-tool](http://graph-tool.skewed.de/) - Python module for network manipulation and analysis, written mostly in C++ for speed.
 -   [Graphinate](https://erivlis.github.io/graphinate/) - Python package aimed at generating graphs from data sources, built on top of `networkx`.
 -   [graphviz](https://pypi.python.org/pypi/graphviz) - Python renderer for the DOT graph drawing language.
@@ -1035,8 +1036,9 @@ Alden S. Klovdahl,
 [Beth Duckles](https://github.com/bduckles), 
 [Lei Cao](https://github.com/cllei12), 
 [Simon Delarue](https://www.simondelarue.com/), 
-[Christian Schulz](https://schulzchristian.github.io/) and
-[Sebastian Röder](https://github.com/livus) - 
+[Christian Schulz](https://schulzchristian.github.io/),
+[Sebastian Röder](https://github.com/livus) and
+[Su-Su Zhang](https://github.com/Zhang-S-S) -
 have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Robert J. Ackland](https://github.com/rjackland), 
