@@ -1037,8 +1037,7 @@ Alden S. Klovdahl,
 [Lei Cao](https://github.com/cllei12), 
 [Simon Delarue](https://www.simondelarue.com/), 
 [Christian Schulz](https://schulzchristian.github.io/) and
-[Sebastian Röder](https://github.com/livus) and
-[Wu Shuwen](https://github.com/dajiaohuang) -
+[Sebastian Röder](https://github.com/livus) -
 have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Robert J. Ackland](https://github.com/rjackland), 
