@@ -30,7 +30,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
   - [Archeological and Historical Networks](#archeological-and-historical-networks)
   - [Bibliographic, Citation and Semantic Networks](#bibliographic-citation-and-semantic-networks)
   - [Biological, Ecological and Disease Networks](#biological-ecological-and-disease-networks)
-  - [Complex Networks](#complex-networks)
+  - [Complex and Multilayer Networks](#complex-and-multilayer-networks)
   - [Ethics of Network Analysis](#ethics-of-network-analysis)
   - [Network Modeling](#network-modeling)
   - [Network Visualization](#network-visualization)
@@ -82,7 +82,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   _[The Atlas for the Aspiring Network Scientist](https://www.networkatlas.eu/)_, by Michele Coscia (2021).
 -   _[Encyclopedia of Social Networks](http://sk.sagepub.com/reference/socialnetworks)_, edited by George A. Barnett - Covers all sorts of network-related themes (many of them not formal) as well as social network analysis (2011).
 -   _[Encyclopedia of Social Network Analysis and Mining](https://www.springer.com/us/book/9781461461692)_, edited by Reda Alhajj and Jon Rokne (2014).
--   _[A First Course in Network Science](https://www.cambridge.org/us/academic/subjects/physics/statistical-physics/first-course-network-science)_, by Filippo Menczer, Santo Fortunato, and Clayton A. Davis - Tutorials, datasets and other resouces [on GitHub](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience) (2020).
+-   _[A First Course in Network Science](https://www.cambridge.org/us/academic/subjects/physics/statistical-physics/first-course-network-science)_, by Filippo Menczer, Santo Fortunato, and Clayton A. Davis - Tutorials, datasets and other resources [on GitHub](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience) (2020).
 -   _[Network Science](http://networksciencebook.com)_, by Albert-László Barabási - Full book online (2016).
 -   _[Network Science](http://www.nap.edu/catalog/11516/network-science)_, by the U.S. National Research Council - Full book online (2005).
 -   _[Network Science: Theory and Practice](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118211014.html)_, by Ted G. Lewis (2011).
@@ -698,7 +698,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
     - [Introduction to the backbone package](https://arxiv.org/abs/1912.12779)
 -   [Bergm](https://CRAN.R-project.org/package=Bergm) - Tools to analyse Bayesian exponential random graph models (BERGM).<!-- Related Twitter: [@BayesianSNA](https://twitter.com/BayesianSNA). -->
 -   [bipartite](https://CRAN.R-project.org/package=bipartite) - Functions to visualize bipartite (two-mode) networks and compute indices commonly used in ecological research. See also: `levelnet` R package.
--   [blockmodeling](https://CRAN.R-project.org/package=blockmodeling) - Implementats generalized blockmodeling for valued networks.
+-   [blockmodeling](https://CRAN.R-project.org/package=blockmodeling) - Implements generalized blockmodeling for valued networks.
 -   [bnlearn](https://CRAN.R-project.org/package=bnlearn) - Tools for [Bayesian network learning and inference](http://www.bnlearn.com/) ([related Shiny app](https://paulgovan.github.io/RiskNetwork)).
 -   [brainGraph](https://CRAN.R-project.org/package=brainGraph) - Tools for performing graph theory analysis of brain MRI data.
 -   [btergm](https://CRAN.R-project.org/package=btergm) - Tools to fit temporal ERGMs by bootstrapped pseudolikelihood. Also provides MCMC maximum likelihood estimation, goodness of fit for ERGMs, TERGMs, and stochastic actor-oriented models (SAOMs), and tools for the micro-level interpretation of ERGMs and TERGMs.
@@ -755,7 +755,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [networkdata](https://github.com/schochastics/networkdata) - Includes 979 network datasets containing 2135 networks.
 -   [networkdiffusion](https://github.com/chengjun/networkdiffusion) - Simulate and visualize basic epidemic diffusion in networks.
 -   [networkDynamic](https://CRAN.R-project.org/package=networkDynamic) - Support for dynamic, (inter)temporal networks.
--   [networksis](https://CRAN.R-project.org/package=networksis) - Tools to simulate bipartite networksgraphs with the degrees of the nodes fixed and specified.
+-   [networksis](https://CRAN.R-project.org/package=networksis) - Tools to simulate bipartite network graphs with the degrees of the nodes fixed and specified.
 -   [PAFit](https://CRAN.R-project.org/package=PAFit) - Nonparametric estimation of preferential attachment and node fitness in temporal complex networks.
 -   [PCIT](https://CRAN.R-project.org/package=PCIT) - Implements Partial Correlation with Information Theory in order to identify meaningful correlations in weighted networks, such as gene co-expression networks.
 -   [RCy3](https://bioconductor.org/packages/3.3/bioc/html/RCy3.html) - Interface between R and recent versions of Cytoscape.
@@ -832,7 +832,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 > Resources that do not fit in other categories.
 
--   [+100 herramientas para el análisis de redes sociales](http://www.k-government.com/2016/06/28/100-herramientas-analisis-redes-sna-ars/) - Long list of diverse applications of network analysis, with shorts descriptions in Spanish.
+-   [+100 herramientas para el análisis de redes sociales](http://www.k-government.com/2016/06/28/100-herramientas-analisis-redes-sna-ars/) - Long list of diverse applications of network analysis, with short descriptions in Spanish.
 -   [Awesome graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification) - Comprehensive list of graph embedding papers with title, authors, link to the paper and reference implementation.
 -   [Awesome community detection](https://github.com/benedekrozemberczki/awesome-community-detection) - Comprehensive list of community detection papers with title, authors, link to the paper and reference implementation.
 -   [Centrality Measures as a Signature of Roles in Rousseau’s _Les Confessions_](http://yro.ch/centrality-measures-signature-roles-rousseaus-les-confessions/) - Analysis of a real-world character network.
@@ -859,7 +859,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
   - [Tutorial Paper on New Methods for Estimating Psychological Networks](http://psych-networks.com/tutorial-paper-new-methods-estimating-psychological-networks/).
 -   [(Psychological) Network Analysis Workshops](https://osf.io/6axte/) - 3-day workshop on psychological network analysis using R (2019).
 -   [Should I do Social Network Analysis?](https://cvcedhlab.hypotheses.org/125).
--   [The Small World of Psychopathology](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0027407) - Paper on how psychiatric symptoms connec to each other ([code, data and graphs](https://sites.google.com/site/dsmgraphs/Home/files)).
+-   [The Small World of Psychopathology](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0027407) - Paper on how psychiatric symptoms connect to each other ([code, data and graphs](https://sites.google.com/site/dsmgraphs/Home/files)).
 -   [Social Network Analysis in DBpedia](http://othes.univie.ac.at/12285/1/2010-10-14_0703857.pdf) - Highly didactic Master’s dissertation, showing how to use SPARQL and Pajek.
 -   [SNA-DE Mailing-List](https://dlist.server.uni-frankfurt.de/mailman/listinfo/sna-de), in German.
 -   [SPARQL for R Tutorial - Hollywood Social Network Analysis](http://semanticweb.cs.vu.nl/R/sparql_hollywood/sparql_hollywood.html) - Also uses Gephi.
@@ -1035,8 +1035,9 @@ Alden S. Klovdahl,
 [Beth Duckles](https://github.com/bduckles), 
 [Lei Cao](https://github.com/cllei12), 
 [Simon Delarue](https://www.simondelarue.com/), 
-[Christian Schulz](https://schulzchristian.github.io/) and
-[Sebastian Röder](https://github.com/livus) - 
+[Christian Schulz](https://schulzchristian.github.io/),
+[Sebastian Röder](https://github.com/livus) and
+[Wu Shuwen](https://github.com/dajiaohuang) -
 have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Robert J. Ackland](https://github.com/rjackland), 
