@@ -508,7 +508,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Mathematica](https://www.wolfram.com/mathematica/) - Cross-platform program with graph theory and network analysis functionalities.
     -   [IGraph/M](https://github.com/szhorvat/IGraphM) - Interface to use the `igraph` library from within Mathematica, using standard Mathematica `Graph` objects.
 -   [Metamaps](https://metamaps.cc/) - Free, open-source platform to draw networks, currently in beta.
--   [MiRA](https://mira.ecomplab.com/) - Free browser-based tool for interactive visualization of multilayer networks, with applications in ecology and biology ([user manual](https://mira.ecomplab.com/about.html), [source code](https://github.com/Ecological-Complexity-Lab/MiRA)).
+-   [MiRA](https://mira.ecomplab.com/) - Free browser-based tool for interactive visualization of multilayer networks, with applications in ecology and biology ([user manual](https://mira.ecomplab.com/docs/manual.html), [source code](https://github.com/Ecological-Complexity-Lab/MiRA)).
 -   [MuxViz](http://muxviz.net/) - Cross-platform, free and open source tool to study multilayer networks, based on R and GNU Octave.
 -   [Neo4j](http://neo4j.com/) - Open source, scalable graph database, used by companies like [Linkurious](http://linkurio.us/).
 -   [Network Canvas](http://networkcanvas.com/) - A free and open-source set of survey tools for ego-centric and personal network studies, including [documentation](https://documentation.networkcanvas.com) and a [user community](https://community.networkcanvas.com). 
