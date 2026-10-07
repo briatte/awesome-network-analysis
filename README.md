@@ -842,6 +842,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [David Knoke on Network Analysis](https://thesocietypages.org/methods/2015/01/30/david-knoke-on-network-analysis/) - 20-minute interview that discusses the uses and benefits of network analysis, drawing upon Knoke’s research on terrorist networks.
 -   [Glossary of Terms for Statistical Network Models](https://web.archive.org/web/20171215013948/https://statnet.org/trac/raw-attachment/wiki/Resources/glossary.pdf).
 -   [Linton C. Freeman’s Social Network Research Publications](http://moreno.ss.uci.edu/pubs.html), spanning from 1955 to today.
+-   [Mapping Telegram’s Hidden Ad Networks](https://tgscope.io/rnd/telegram-channel-networks) - Network of 462,943 public Telegram channels linked by the advertising contacts listed in their descriptions, with a largest connected component of 5,102 channels ([channel lookup](https://tgscope.io/tools/telegram-channel-network)).
 -   [Mapping the Republic of Letters](http://republicofletters.stanford.edu/) - Research project on early-modern scholarship ([underlying software](http://www.densitydesign.org/research/knot/)).
 -   [Mixed-Method Approaches to Social Network Analysis](https://www.youtube.com/playlist?list=PL3zdEY084WkQD79mR00RSt8j5RuyPwMJE) - Videos of a conference at the Middlesex University School of Law (2014).
 -   [Modeling Complex Social Networks: Challenges and Opportunities for Statistical Learning and Inference](https://www.youtube.com/watch?v=1xLjYc7EUEU) - Video of a seminar talk by Jennifer Neville at Purdue University (2011).
@@ -1035,8 +1036,9 @@ Alden S. Klovdahl,
 [Beth Duckles](https://github.com/bduckles), 
 [Lei Cao](https://github.com/cllei12), 
 [Simon Delarue](https://www.simondelarue.com/), 
-[Christian Schulz](https://schulzchristian.github.io/) and
-[Sebastian Röder](https://github.com/livus) - 
+[Christian Schulz](https://schulzchristian.github.io/), 
+[Sebastian Röder](https://github.com/livus) and
+[Courier-Britva](https://github.com/Courier-Britva) - 
 have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Robert J. Ackland](https://github.com/rjackland), 
