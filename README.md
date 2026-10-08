@@ -30,7 +30,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
   - [Archeological and Historical Networks](#archeological-and-historical-networks)
   - [Bibliographic, Citation and Semantic Networks](#bibliographic-citation-and-semantic-networks)
   - [Biological, Ecological and Disease Networks](#biological-ecological-and-disease-networks)
-  - [Complex Networks](#complex-networks)
+  - [Complex and Multilayer Networks](#complex-and-multilayer-networks)
   - [Ethics of Network Analysis](#ethics-of-network-analysis)
   - [Network Modeling](#network-modeling)
   - [Network Visualization](#network-visualization)
@@ -1035,8 +1035,9 @@ Alden S. Klovdahl,
 [Beth Duckles](https://github.com/bduckles), 
 [Lei Cao](https://github.com/cllei12), 
 [Simon Delarue](https://www.simondelarue.com/), 
-[Christian Schulz](https://schulzchristian.github.io/) and
-[Sebastian Röder](https://github.com/livus) - 
+[Christian Schulz](https://schulzchristian.github.io/),
+[Sebastian Röder](https://github.com/livus) and
+[Wu Shuwen](https://github.com/dajiaohuang) -
 have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Robert J. Ackland](https://github.com/rjackland), 
