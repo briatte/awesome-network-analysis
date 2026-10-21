@@ -224,6 +224,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Bill Cosponsorship Networks in European Parliaments](https://github.com/briatte/parlnet) - Legislative cosponsorship networks, in R format.
 -   [Colorado Index of Complex Networks (ICON)](https://icon.colorado.edu/) - Large collection of networks described and indexed by Aaron Clauset’s research group.
 -   [Connectome](http://awesome.cs.jhu.edu/graph-services/download/) - Comprehensive maps of neural connections.
+-   [EDGAR Supply Chain](https://github.com/GerritPro/edgar-supply-chain) - Customer-supplier network of US-listed companies, built from the major customers they disclose in their annual reports to the SEC, with the share of revenue on each edge (CSV, CC BY 4.0).
 -   [Enron Email Dataset](https://www.cs.cmu.edu/~enron/).
 -   [Eric D. Kolaczyk’s Network Datasets](http://math.bu.edu/people/kolaczyk/datasets.html).
 -   [Gephi Datasets](https://github.com/gephi/gephi/wiki/Datasets).
@@ -1035,8 +1036,9 @@ Alden S. Klovdahl,
 [Beth Duckles](https://github.com/bduckles), 
 [Lei Cao](https://github.com/cllei12), 
 [Simon Delarue](https://www.simondelarue.com/), 
-[Christian Schulz](https://schulzchristian.github.io/) and
-[Sebastian Röder](https://github.com/livus) - 
+[Christian Schulz](https://schulzchristian.github.io/), 
+[Sebastian Röder](https://github.com/livus) and
+[GerritPro](https://github.com/GerritPro) - 
 have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Robert J. Ackland](https://github.com/rjackland), 
