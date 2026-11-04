@@ -228,6 +228,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Eric D. Kolaczyk’s Network Datasets](http://math.bu.edu/people/kolaczyk/datasets.html).
 -   [Gephi Datasets](https://github.com/gephi/gephi/wiki/Datasets).
 -   [Hetionet: an integrative network of disease](https://github.com/hetio/hetionet) - A complex biological network, available in multiple formats, including JSON and [Neo4j](https://neo4j.het.io/browser/).
+-   [Human Lineage Open Genealogical Dataset](https://doi.org/10.5281/zenodo.23284943) - Kinship network of 2.7 million deceased historical people (480k parent-child and 135k couple edges) with dates, places and Wikidata identifiers, in GEDCOM-X JSON; browsable at [humanlineage.org](https://humanlineage.org).
 -   [igraphdata](https://CRAN.R-project.org/package=igraphdata) - R data-centric package.
 -   [igraphwalshdata](https://cran.r-project.org/package=igraphwalshdata) - Another R data-centric package.
 -   [Interaction Web Database](http://www.ecologia.ib.usp.br/iwdb/) - Ecological species interactions.
@@ -1035,8 +1036,9 @@ Alden S. Klovdahl,
 [Beth Duckles](https://github.com/bduckles), 
 [Lei Cao](https://github.com/cllei12), 
 [Simon Delarue](https://www.simondelarue.com/), 
-[Christian Schulz](https://schulzchristian.github.io/) and
-[Sebastian Röder](https://github.com/livus) - 
+[Christian Schulz](https://schulzchristian.github.io/), 
+[Sebastian Röder](https://github.com/livus) and
+[Michał Kurasiński](https://github.com/Zlosliwiec) - 
 have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Robert J. Ackland](https://github.com/rjackland), 
